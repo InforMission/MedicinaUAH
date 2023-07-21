@@ -1,0 +1,46 @@
+- Prehipocrática ⇒ Mágico/religioso
+- Egipcia ⇒ Papiro de Ebers (S. XV a C).- Tumores
+- Griega
+    - Humoral (sangre, flema, bilis amarilla y bilis negra.
+    - Alcmeon de Crotona ⇒ Trastorno humoral global
+    - "Corpus Hipocraticum" ⇒ Escaso interés por la lesión
+- Romana
+    - Celso (30 dC) ⇒ Signos de la inflamación
+    - Galeno (129-201 dC) ⇒ Recopila de Egipto, India, Grecia y su experiencia.- perdura en edad media
+- Renacimiento
+    - Antonio Benivieni ( S.XV)↔Asocia muerte enfermedad-alteración anatómica
+    - Vesalio (S. XVI)→Conocimientos anatómicos
+    - Morgagni↔"De sedibus et causis morborum per anatomem indagatis" (1761). Relaciona lesión orgánica con enfermedad
+    - Bichat (S. XVIII)↔Los síntomas derivan de la alteración de los tejidos “ ⇒ Lesión tisular
+- Virchow (finales del XIX)
+    - Concepto unitario de la célula y teoría general de la patología
+    - La alteración morfológica se elevó a fundamento del saber clínico y se convirtió en la base más objetiva de la ciencia médica
+- Niveles de enfermedad
+    - Etiopatogénico
+    - Estructural
+    - Fisiopatológico
+    - Clínico
+- Concepto actual de la AP
+    - Ciencia que se ocupa del estudio de las alteraciones estructurales de los proceso de enfermedad a nivel orgánico, citotisular, subcelular y molecular.
+- Concepto docente de la AP
+    - Conocimiento de la lesión estructural como elemento esencial para la comprensión científica de la enfermedad”.- Disciplina básica y clínica
+- Concepto clínico de la AP
+    - Conocimiento de la lesión estructural, para el diagnóstico, pronóstico, terapéutica y prevención de los procesos de enfermedad
+- Medios de estudio de la AP
+    - Biopsias
+        - Quirúrgica, Por punción, Endoscópica, Material desprendido o expulsado, Biopsia líquida
+    - Piezas quirúrgicas
+    - Citologías
+        - Exfoliativa, Por punción (PAAF)
+    - Autopsias clínicas o legales
+- Métodos de estudio
+    - Macroscópico
+    - Microscópico
+    - Ultraestructural (ME)
+    - Molecular : Histoquímica, Inmunohistoquímica, Genética (Hibridación, PCR)
+- 5 etapas de la Anatomía Patológica
+    - Anatómica : Fundada por Morgagni
+    - Microscópica : Patología celular de Virchow
+    - Ultraestructural : Patología subcelular
+    - Histoquímica-Inmunohistoquímica
+    - Patología molecular

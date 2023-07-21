@@ -1,0 +1,165 @@
+- Las anemias arregenerativas son aquellas en las que la médula ósea es relativamente **inactiva**. Por lo tanto, no tiene tasa de regeneración (**porcentaje de reticulocitos bajo**)
+- El hierro unido a la transferrina es similar a los mismos sexos
+- Clasificación de anemias (reticulocitos, LDH)
+    - **Anemias hipoproliferativas**
+        - Porcentaje de reticulocitos bajo
+        - Niveles de bilirrubina/LDH normales
+    - **Anemias hemolíticas**
+        - Porcentaje de reticulocitos alto
+        - Niveles de bilirrubina/LDH altos
+    - **Eritropoyesis ineficaz**
+        - Subrupo de anemias arregenerativas en las que se sintetizan hematíes anómalos que no llegan a la sangre periférica ⇒ Muerte ⇒ ↑LDH
+        - Porcentaje de reticulocitos **bajo**
+        - Niveles de bilirrubina/LDH **altos**
+    - **Pérdida de sangre**
+        - Porcentaje de reticulocitos **alto** (inicialmente bajo porque la médula necesita tiempo para generarlos y sacarlos a sangre periférica)
+        - Niveles de bilirrubina/LDH **bajo**
+- Clasificación etiológica de anemias arregenerativas
+    - Falta de nutriente esencial
+        - Hierro por disminución de depósitos (**ferropénica**) ⇒ Sangre, Médula
+        - Fracaso de utilización del Fe++ por enfermedad crónica (**de las enf. crónicas**)
+        - Acúmulo de Fe++ en mitocondrias (**sideroblástica**)
+        - Vitamina B12 o folato (**megaloblástica**)
+    - Falta de tejido medular
+        - Atrofia por sustitución grasa (**aplásica**)
+        - Sustitución por tumor, fibrosis o granulomas (**leucoeritoblástica**)
+    - Función medular alterada
+        - Toxinas : Alcohol (**diseritropoyética**)
+        - Idiopática (diseritropoyética)
+- Anemia aplásica
+    - Etiología
+        - La causa más frecuente es el **TRATAMIENTO QUIMIOTERÁPICO**
+        - **Fármacos**: Antimetabolitos, agentes antimitóticos, el oro, {{3044970766606596::**cloranfenicol**}} (independiente de dosis) , fenilbutazona y sulfonamidas
+        - **Radiación**: por ejemplo al aplicar radioterapia en la columna
+        - **Químicos**: benzenos, solventes, insecticidas
+        - **Virus**: hepatitis (A, B, C, E, G), parvovirus B19 o citomegalovirus
+        - **Hemoglobinuria paroxística nocturna**
+        - Miscelánea: **embarazo,** lupus ES, enfermedad del injerto
+        - **Hereditarias** : **Anemia de Fanconi**, la **diskeratosis congénita** o S. de Shwachman
+        - **Idiopática** (80-85%) causa más frecuente tras la quimioterapia. **Autoinmunidad** mediada CD8 que estimularán la producción de IFN-γ
+    - Clínica
+        - Disminución o la ausencia de CD34+ y CFU, sustuidas por **grasa** ⇒ Pancitopenia (eritroblastopenia aislada es rara)
+        - SÍNDROME ANÉMICO: **taquicardia**, astenia, disnea, **mareos**, cefaleas, palidez
+        - SINDROME GRANULOCITOPÉNICO: mayor predisposición a **infecciones** y **fiebre**
+        - SÍNDROME **TROMBOCITOPÉNICO**: equimosis, púrpura, hematomas, hemorragias.
+        - Pancitopenia severa→Neutrófilos < 500, plaquetas < 20.000/μl, reticulocitos < 20.000/μl
+        - Pancitopenia supersevera→Recuento de neutrófilos es **< 200/μl**
+        - ![[Pasted image 20230619164258.png]]![[Pasted image 20230619164313.png]]  Médula ósea aplásica infiltrada por adipocitos
+- Anemia ferropénica
+    - **Definición**↓
+        - **Eritropoyesis deficiente** por una **disminución de hierro** que impide sintetizar el grupo HEM de la Hb
+        - ↓ Fe ⇒ **↓ síntesis HEM** ⇒ ↓Hemoglobina ⇒ ↓Hematíes ⇒ Anemia
+        - Se trata de una anemia **arregenerativa** (bajo porcentaje de reticulocitos)
+        - Es necesario un aporte de hierro de **1 mg/día** para varones adultos y **1,4 mg/día** para mujeres en edad fértil
+    - **Fisiología del hierro**
+        - Hierro
+            - Hierro ferroso ⇒ Activo
+            - Hierro férrico ⇒ Tóxico ⇒ Acumulado en citoplasma, unido a ferritina
+        - Metabolismo
+            - Intestino ⇒ Transferrina ⇒ MO ⇒ Eritroblastos ⇒ Hematíes ⇒ Bazo ⇒ SRE
+        - Absorción
+            - Hierro ferroso (Fe2+) ⇒ **DMT-1**
+            - Hierro férrico (Fe3+) ⇒ Reductasa **DCYTB** ⇒ Fe2+
+            - Hierro en grupos HEM ⇒ **HCP1**
+            - Enterocito ⇒ **Ferritina** ⇒ **Ferroportina-1** ⇒ **Hefaestina** : oxidación ⇒ Fe3⁺ + Apotransferrina ⇒ **Transferrina** ⇒ Médula ósea
+        - Transporte
+            - Transferrina ⇒ Clatrina ⇒ **Endosoma** ⇒ **DMT-1**
+            - Eritroblastos ⇒ **Hemoglobina**
+            - Células no eritroblásticas ⇒ **Hemosiderina**
+        - SRE (Hígado, Bazo)
+            - Receptores de transferrina, Fagocitosis de eritrocitos senescentes
+            - Exceso de hierro ⇒ Apoferritina ⇒ **Ferritina** ⇒ Tinción de **Perls**
+            - **Ferroportina** ⇒ **Transferrina**
+        - Regulación de la absorción intestinal y liberación por SRE
+            - {{9504279863530896::**Hefaestina**}}→Sensor de complejos transferrina-Fe ⇒ **↓DMT-1 y Ferroportina** ⇒ ↓Absorción intestinal
+            - Mutación de hefaestina→↓Inhibición absorción ⇒ {{9173550704458069::**Hemocromatosis**}}
+            - **Hepcidina**→**Degradación** de Ferroportina-1 en respuesta a IL-1, IL-6, TNF ⇒ ↓Liberación de Hierro
+            - Mutación de **hepcidina**→↑Liberación de Fe+ por SRE ↑Absorción intestinal
+            - **Depósitos** de hierro bajos ⇒ ↓Hepcidina ⇒ ↑Ferroportina
+    - **Etiología**
+        - Alimentos que disminuyen la absorción: el té, los fitatos, el café, el salvado, las fibras vegetales
+        - Alimentos que aumentan la absorción: ácido ascórbico, aminoácidos de carnes y pescados, vino
+        - Fármacos que disminuyen la absorción, como los antiácidos, calcio, bicarbonato, cloranfenicol, tetraciclinas y doxiciclina
+        - Enfermedad gastrointestinal: como la resección gástrica total, la aclorhidia, la alteración de la motilidad gastrointestinal o la enfermedad cardiaca
+        - Una de las causas de anemia puede ser por presencia de un **tumor**, como un tumor de colon, por lo que siempre hay que pedir una sangre oculta en heces
+        - **Síndrome de Lasthenie de Ferjol**
+            - Anemia ferropénica secundaria a hemorragias por automutilaciones
+            - Se da en mujeres jóvenes, de entre 20 y 42 años, con un nivel intelectual medio o alto y profesiones sanitarias
+            - Las caracteriza una marcada hiperactividad laboral e insatisfacción personal y socioafectiva que les lleva a una incapacidad de experimentar emociones
+            - Suele estar asociada a una **conducta anoréxica** en la pubertad
+    - **Clínica**
+        - Hematológicas : Medulares y Periféricas (síndrome anémico)
+        - Uñas deformadas y frágiles (**coliloniquia**), Pelo frágil
+        - **Glositis atrófica** (pérdida de células epiteliales)
+        - Estomatitis angular
+        - **Síndrome de Plumer-Vinson**→Disfagia por afectación epitelio-esofágica
+        - **Síndrome de Paterson-Kelly**→Plumer-Vinson con estenosis esofágica
+    - **Diagnóstico**
+        - Depleción de los depósitos de hierro
+            - ↓Ferritina en monocitos y macrófagos de la MO ⇒ {{37880149083146253::**tinción de Perls** }}{{7011998795141976::**(tinción específica de ferritina) negativa**}}{{7011998795141976:: }}
+            - ↓Ferritina sérica ⇒ ↓Saturación de transferrina ⇒ ↑Capacidad de fijación
+        - Eritropoyesis siderodeficiente
+            - ↑Protoporfirina eritrocitaria (sobra protoporfirina eritrocitaria libre)
+            - Disminuye aún más la saturación de la transferrina
+        - Anemia ferropénica
+            - **Hipocromía** por descenso de Hemoglobina (↓HCM, ↓CHCM)
+            - **Microcitosis** franca (eritrocitos más pequeños): en el hemograma disminuye el VCM (volumen corpuscular medio)
+        - Datos de laboratorio normales
+            - Sideremia: **50-150 mg/dl**
+            - Transferrinemia: **280-360 mg/dl**
+            - Capacidad total de fijación de hierro: **250-350 mg/dl**
+            - % saturación transferrina: **20-50%**
+        - Datos de laboratorio de sideropenia
+            - Celularidad en sangre periférica
+                - Eritrocitos: **hipocrómicos** (por ↓ Hb) y **microcíticos**
+                - Leucocitos: normales
+                - Plaquetas: normales
+            - Hierro en médula ósea
+                - No hay Fe en células reticulares
+                - **Ausencia de sideroblastos** (normoblastos precursores eritrocitarios con gránulos de ferritina)
+            - Hierro en sangre periférica
+                - ↓ Sideremia
+                - **↓ % saturación de transferrina**
+                - ↑ capacidad de fijación total del hierro
+                - **↓ Ferritina sérica**
+- Anemia de las enfermedades crónicas
+    - **Inflamación** ⇒ IL-1, IL-6, TNF ⇒ Activación de **hepcidina** ⇒ ↓Ferroportina-1
+    - Mala utilización del hierro con hematíes **normocíticos** e **hipocrómicos**
+    - **↑Ferritina sérica** ⇒ Almacenamiento c. mieloides (tinción de Perls)
+- Anemia sideroblástica
+    - Mala utilización del hierro (en sideroblastos) ⇒ Acumulación en mitocondrias y formación de **sideroblastos en anillo**
+    - **Normocitosis, Hipocromía**, **↑Ferritinemia** , ↑Sideremia, ↓Capacidad de fijación del hierro
+- Anemia leucoeritroblástica
+    - Anemia asociada a presencia en sangre periférica de precursores leuco o eritrocitarios, debido a que la médula está ocupada por un **tumor**, o por una **tuberculosis**, por una infección bacteriana, etc.
+- Anemia con diseritropoyesis
+    - **Maduración eritroide anormal** (anormalidades en la forma, tamaño o núcleo de precursores eritrocitarios).
+    - Aumento de la eritropoyesis con ↑ bilirrubina, ↓ T 1/2 Fe59 y ↓ incorporación Fe59 a hematíes. La vida media erotrocitaria puede estar ↓
+    - a) Anemia diseritropoyética congénita: ↑ eritropoyesis ineficaz con ↑ celuraridad medular y presencia de precursores eritroides multinucleados. Hiperbilirrubinemia shunt. ↑ absorción de Fe y hemocromatosis secundaria
+    - b) Talasemia, Anemia megaloblástica
+    - c) Síndromes mielodisplásicos
+- Diagnóstico
+    - ↑Ferritina→**Inflamación**
+    - ↓Ferritina→**Anemia ferropénica**
+    - ↑Ferritina sin inflamación→**Sobrecarga de hierro**
+    - ↑↑↑Ferritina→**Linfohistocitosis hemofagocítica**
+    - Anemia sideroblástica
+        - Fe N o ↑
+        - CTFH N o ↑
+        - Ferritina ↑
+        - Fe macrofágico ↑ >15%
+    - Anemia ferropénica
+        - Fe ↓
+        - CTFH ↑
+        - Ferritina ↑
+    - Anemia de enfermedades crónicas
+        - Fe ↓
+        - CTFH N o ↓
+        - Reticulocitos ↓
+        - Ferritina normal
+    - Ferropenia
+        - Fe ↓
+        - Ferritina 15-60 ng/mL
+    - Anemia hemolítica
+        - Reticulocitos ↑
+    - ![[Pasted image 20230619164348.png]]
+    - ![[Pasted image 20230619164355.png]]

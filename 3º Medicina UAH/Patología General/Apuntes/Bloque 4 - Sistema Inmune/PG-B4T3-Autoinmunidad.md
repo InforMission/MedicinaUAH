@@ -1,0 +1,142 @@
+- Generalidades
+    - Autorreactividad ⇒ Reactividad inmune adquirida a antígenos propios, en baja afinidad es **fisiológica**
+    - Autoinmunidad ⇒ Respuestas autoinmunes que llevan a daño tisular
+    - Tolerancia
+        - Ausencia de respuesta inmune ante los antígenos de los tejidos propios de un individuo
+        - Tolerancia central ⇒ Deleción clonal
+            - Linfocitos T ⇒ Selección **doble** positiva (Responde a HLA I y II) y negativa (No es demasiado autorreactivo) en el **Timo**
+            - Linfocitos B ⇒ **Más eficaz**. Selección simple negativa.
+        - Tolerancia periférica ⇒ Anergia (irresponsividad funcional), Regulación, Apoptosis
+            - Mecanismos de anergia
+                - Reconocimiento de Ag por linfocitos maduros en **ausencia de señales coestimuladoras**
+                    - **CD28** ⇒ B71, CD80
+                    - **ICOS**
+                - Reconocimiento de Ag por linfocitos maduros en **presencia de señales inhibidoras**
+                    - **PD1**
+                    - **CTLA4** ⇒ B72, CD86
+                    - BTLA
+                - **Estimulación persistente y repetida** por autoantígenos en tejidos periféricos (sin señal coestimuladora)
+            - Para que exista un proceso apoptótico, el linfocito ha de {{6241435941880054::reconocer al antígeno en presencia de señales inhibidoras}}. El {{023629856507803026::CD152 de la APC}} interacciona con el {{79559762782234::CD28}} del linfocito Th, causando su muerte.
+    - Activadores de linfocitos (autoinmunidad)
+        - CD28
+        - ICOS
+        - LFA3
+    - Inhibidores de linfocitos (cáncer)
+        - PD1
+        - CTLA-4, BTLA
+    - Santuarios anatómicos
+        - SNC, Testículos (orquitis), Ojos (uveitis)
+- Etiología
+    - Multifactorial
+        - Factores genéticos predisponentes (generalmente poligénicos)
+        - Interacciones con el ambiente ⇒ Microbios, Tóxicos, Fármacos
+        - Factores individuales adquiridos ⇒ Psiconeurológicos, Endocrinometabólicos, Enfermedades sufridas/activas
+    - Enfermedades genéticas autoinmunes simples
+        - APS-1 (Autoinmune polyglandular syndrome type 1)
+            - Gen : AIRE
+            - ↓Expresión de autoantígenos en el timo ⇒ **Defecto en la selección negativa**
+        - IPEX (Inmunodysregulation, polyendocrinopathy, enteropathy, X-linked)
+            - Gen : FOXP3
+            - **↓Generación de Tregs**
+        - ALPS (Autoinmune lymphoproliferative syndrome)
+            - Gen : FAS, FASL
+            - **Fallo en la apoptosis** de células T o B autorreactivas
+    - Déficits de complemento
+        - CD59 o CD55
+            - Hemoglobinuria paroxística nocturna
+            - Anemia hemolítica autoinmune
+            - Trombocitopenia autoinmune
+            - Linfopenia por lupus
+        - Factor H
+            - Degeneración macular relacionada con la edad
+            - Glomerulonefritis, Fallo renal
+        - Vía clásica
+            - Lupus eritematoso sistémico
+            - Artritis reumatoide
+    - Genes asociados a autoinmunidad
+        - HLA-B27↔**Espondilitis anquilosante**, Uveitis aguda anterior
+        - HLA-DR2↔Síndrome de **Goodpasture**, Esclerosis múltiple
+        - HLA-DR3↔Enfermedad de **Graves**
+    - Mimetismo molecular entre patógenos y enfermedades autoinmunes
+        - ![[Pasted image 20230625105909.png]]
+        - Cardiomiopatía de Chagas
+        - **Fiebre reumática**
+            - Autoantígenos : Miosina cardíaca, Tropomiosina, Laminina, Vimentina, Actina, Queratina, NAG
+            - Antígenos patógenos : **Proteína M** de _Streptococcus pyogenes_
+        - Miastenia gravis
+        - Esclersis múltiple
+        - Guillain-Barré
+        - DM1
+        - Espondilitis anquilosante
+        - Síndrome antifosfolípido
+        - Lupus eritematoso sistémico
+    - Fármacos y toxinas
+        - Procainamida (Pronestyl) ⇒ Lupus eritematoso sistémico inducido
+        - Síndrome de aceite tóxico ⇒ Patología pulmonar, Eosinofilia, ↑IgE
+    - Hormonas
+        - ![[Pasted image 20230625105917.png]]
+        - Las mujeres tienen mucha mayor probabilidad de desarrollar enfermedades autoinmunes
+        - El aumento de hormonas asociadas con el embarazo pueden incluso causar aborto (RSA)
+        - La **endometriosis** y la **preeclampsia** son consideradas autoinmunes en naturaleza
+        - Hipótesis ⇒ Elementos de Respuesta a Estrógenos (EREs) en varios genes
+- Criterios diagnósticos
+    - **Presencia de autoanticuerpos** o datos de autorreactividad celular
+    - **Infiltrado linfocitario** en la lesión histológica
+    - **Producción de la enfermedad** con los autoanticuerpos o linfocitos autorreactivos
+    - Efecto beneficioso de fármacos **inmunosupresores**
+    - Asociación a otras formas de autoinmunidad, Ausencia de otras causas
+- Clínica
+    - Organoespecífica
+        - Diabetes mellitus tipo I
+            - Autoinmunidad contra células beta pancreáticas
+            - Clasificada como enfermedad de **células T**
+        - Síndrome de Goodpasture
+        - Esclerosis múltiple
+            - Autoanticuerpos y/o linfocitos T autorreactivos contra las vainas de mielina
+        - Enfermedad de Graves
+        - Tiroiditis de Hashimoto
+        - Anemia perniciosa autoinmune
+        - Enfermedad de Addison autoinmune
+        - Vitíligo
+        - Miastenia gravis
+            - Autoanticuerpos contra receptores nicotínicos de acetilcolina
+            - Clasificada como enfermedad de **células B**
+    - Sistémica
+        - Artritis reumatoide
+        - Lupus eritematoso sistémico
+            - Característico ⇒ Rash en alas de mariposa
+            - Derrame pleural
+            - Patología cardíaca
+            - Artritis
+            - Fenómeno de Raynaud
+        - Síndrome de **Sjögren** primario
+            - Característico ⇒ Xerostomia, Xeroftalmia
+        - Escleroderma
+        - Polimiositis
+- Diagnóstico
+    - Tests generales
+        - Proteína C Reactiva
+        - Título de autoanticuerpos (Anti ADN, Antifosfolípidos...)
+        - Presencia de facto reumatoide
+    - Tests específicos
+        - Exploración neurológica ⇒ Esclerosis múltiple
+        - Glucemia en ayunas ⇒ Diabetes
+    - Autoanticuerpos no órganoespecíficos
+        - Anti-dsDNA y Anti-Smith↔Lupus(patognomónicos)
+        - Anti-RO(SS-A), Anti-La (SS-B)↔Síndrome de Sjögren
+        - Anti-histonas↔Lupus inducido por **drogas**
+        - **Factor Reumatoide**↔IgM anti-IgG
+        - {{5957854047421303::Anti-CCP (polipéptido citrulinado)}} : Típico de {{5421756106891067::artritis reumatoide}}
+        - {{9896094779730851::**ANCA (anti-citoplasma de neutrófilos)**}} : Típico de {{5490733808252186::vasculitis}}
+        - {{34735119588606844::ASMA (anti-músculo liso)}} : Típico de {{30193186003871775::hepatitis}}
+        - **Antifosfolípido** ⇒ Anticardiolipina, Anticoagulante lúpico
+- Tratamiento
+    - Antiinflamatorios ⇒ AINEs, Corticoesteroides
+    - Inmunosupresores ⇒ Metotrexato, Ciclosporina
+    - Plasmaféresis
+    - Bloqueantes celulares ⇒ aCD20 (Rituximab), aCD3(Teplizumab)
+    - Bloqueantes de citoquinas
+        - IFNG↔Esclerosis múltiple
+        - IL-4↔Lupus eritematoso sistémico
+        - IL-17↔Artritis reumatoide
+    - Inmunomoduladores

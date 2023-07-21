@@ -1,0 +1,1 @@
+Todos los libros de Zotero tienen que tener su versión dividida por capítulos, para facilitar el trabajo sobre ellos. Lo mismo con los apuntes.

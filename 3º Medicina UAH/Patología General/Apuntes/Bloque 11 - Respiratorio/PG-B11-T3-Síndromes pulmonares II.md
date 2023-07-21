@@ -1,0 +1,76 @@
+- Atelectasia
+    - Una atelectasia es una **expansión pulmonar incompleta**. Se produce una **disminución del volumen** (o colapso) de una parte o de todo el pulmón, como consecuencia de la **desaparición del aire** contenido en los pulmones
+    - Etiopatogenia
+        - Existen 3 mecanismos por los cuáles se puede producir una pérdida de aire en el parénquima pulmonar
+            - Mecanismo **obstructivo**. Es el mecanismo clásico
+            - Mecanismo **compresivo**. El parénquima pulmonar se somete a una presión elevada a través de la pleura, como en un neumotórax o un derrame pleural
+            - Mecanismo **adhesivo**. Se produce el colapso de los alveolos porque estos pierden la sustancia tensoactiva que los mantiene unidos
+        - **Mecanismo obstructivo**
+            - Mecanismo **más frecuente**. Se produce una obstrucción bronquial completa que impide la renovación del aire ⇒ Colapso ⇒ ↓Volumen
+            - **Si la obstrucción no es completa no se puede producir atelectasia**; podrá tener mayor predisposición a infecciones ese alveolo, pero mientras que la obstrucción no sea completa no se colapsará
+            - Sigue un **patrón bronquial**
+            - Existen 3 tipos de causas:
+                - Causas **intraluminares**: No dependen de la pared. Se introduce un cuerpo extraño
+                - Causas **parietales**. Dependen de la pared. Son las más frecuentes y se produce una lesión parietal que crece luego hacia la luz. Están producidas por **tumores** bronquiales
+                - Causas **extraparietales**. La causa está localizada por fuera de la pared. Se produce debido a masas o lesiones que comprimen al bronquio por continuidad. Lo más habitual son **adenopatías** (es muy común una atelectasia del {{7459319654749155::**lóbulo medio derecho**}})
+        - **Mecanismo compresivo**
+            - Se produce por causas **extrapulmonares** que condicionan un **incremento de la presión intrapleural**⇒ la PI positiva comprime el pulmón y lo retrae
+            - Existen dos causas fundamentales→El **neumotórax** y el **derrame pleural**
+            - Respecto a la morfología de esta atelectasia, **no sigue ningún patrón de distribución bronquial**
+            - A diferencia de la atelectasia de origen obstructivo, en este tipo de atelectasia **el volumen no solamente no está disminuido**, sino que está aumentado debido al derrame pleural y al neumotórax.
+            - La semiología por tanto es propia del **neumotórax** y del **derrame pleural**
+        - **Mecanismo adhesivo**
+            - Se produce por una **pérdida del surfactante pulmonar**
+            - El surfactante pulmonar es una sustancia tensoactiva sintetizada por los **neumocitos tipo II**, que mantiene a los alveolos expandidos
+            - Causa más importante ⇒ Administración de **O2 a altas concentraciones en niños prematuros**
+            - La otra posible causa es el **síndrome del distrés respiratorio del adulto**
+            - La morfología de las atelectasias son **imágenes laminares** (tampoco sigue ningún patrón de distribución bronquial)
+    - Morfología de la atelectasia
+        - La morfología sigue un **patrón bronquial**
+        - Dependiendo del tamaño y la localización del bronquio tendremos una atelectasia : Subsegmentaria, Segmentaria, Lobar o Pulmonar (afecta a todo el pulmón)
+    - Fisiopatología
+        - El patrón espirométrico es =={{5917921322098116::**restrictivo**}}== independientemente de la causa de la atelectasia . La fisiopatología depende de la **magnitud de la atelectasia**
+        - Mecanismo obstructivo ⇒ **Ventilación nula** (0) y perfusión mantenida ⇒ **relación V/Q** = 0 ⇒ **Shunt funcional** (derecha-izquierda)
+        - Alteración V/Q ⇒ **Normo-Hipocapnia** (no hipoventilación)
+        - **Hipoxemia no corregible** con ↑ flujo de O2 ⇒ Corregir la atelectasia.
+        - **Gradiente alveolo – arterial de O2 aumentado** ⇒ Hay más presión de O2 en el alveolo que en la sangre ⇒ El O2 llega a los alveolos ventilados, pero no puede pasar a la sangre porque la **hemoglobina se satura**
+        - El gradiente normal no suele superar los **20 mmHg**, y aumenta con la edad
+        - Resumen del intercambio gaseoso en un paciente con atelectasia
+            - **PO2 disminuida** , PCO2 normal o disminuida
+            - Gradiente alveolo-arterial de O2 **aumentado**
+            - La hipoxemia no se corrige con un aumento del flujo de O2
+    - Semiología
+        - Depende de la disminución del volumen pulmonar y la ausencia de ventilación en la zona atelectasiada
+        - **Disnea y semiología derivada de la insuficiencia respiratoria acompañante** (como cianosis) dependiendo de la magnitud de la atelectasia
+        - **↓ Movilidad** del hemitórax
+        - **↓Volumen** del hemitórax afecto (excepto en {{6368814847076512::atelectasia }}{{6368814847076512::**compresiva**}})
+        - Palpación : **Vibraciones vocales abolidas**, desplazamiento de la **punta cardíaca**
+        - Percusión : **Matidez**
+        - Auscultación : Murmullo vesicular **abolido**
+        - Radiología simple
+            - **Aumento de densidad** en la zona del pulmón atelectasiado
+            - **Desplazamiento** de estructuras alrededor de la zona colapsada: Cisuras, Diafragma, Hilios, Mediastino
+            - El desplazamiento de estructuras nos ayuda a localizar la atelectasia
+            - **Disminución del tamaño del hemitórax afectado** ⇒ puede ser el primer signo visible en una placa de tórax
+- Condensación pulmonar
+    - La condensación pulmonar es {{9416464194576157::una }}{{9416464194576157::**sustitución del aire alveolar por contenido líquido**}}{{9416464194576157:: }}
+    - A diferencia de la atelectasia, **el** **volumen es** {{1961967029878935::**normal o incluso aumentado**}}{{1961967029878935:: }}
+    - Etiología
+        - Infección ⇒ Lo más típico es la **neumonía bacteriana**
+        - Neumonitis⇒ Enfermedades del **sistema inmune** (conectivopatías, vasculitis, sarcoidosis), Fármacos como la **amiodarona,** irradiación y traumatismo
+        - Trasudados ⇒ Como **edema agudo de pulmón** (por insuficiencia cardiaca izquierda)
+        - Sangre ⇒ Debido a una **hemorragia pulmonar**
+    - Fisiopatología
+        - La fisiopatología es muy similar a la **atelectasia obstructiva**
+        - **Alteración de la relación V/Q**. Cuando la ocupación por un elemento líquido es completa se produce un **efecto shunt funcional**
+        - Patrón **restrictivo**→**PCO2 normal o disminuida**, y con un **aumento del gradiente alveolo – arterial** ( ↑ O2 alveolo, ↓ O2 sangre)
+        - Se produce una **hipoxemia** porque en la zona bien perfundida se satura la Hemoglobina ⇒ Incapacidad de compensar la hipoventilación
+    - Semiología
+        - **Disnea, tos, expectoración**, y semiología derivada de la insuficiencia respiratoria, dependiendo de la magnitud de la condensación
+        - Inspección ⇒ **↓Movilidad** del hemitórax afecto (no del volumen, que incluso puede estar aumentado como en la Klebsiella)
+        - Palpación ⇒ Vibraciones vocales {{2426156569263025::**aumentadas**}} ( ↑transmisión de sonido por líquidos, no hay obstrucción)
+        - Percusión ⇒ **Matidez**
+        - Auscultación ⇒ **Ausencia de murmullo vesicular** (reemplazado por **crepitantes**), **soplo tubárico**, broncofonía ( ↑ resonancia normal de la voz)
+    - Radiología simple
+        - **Signo del broncograma aéreo**→Estructuras bronquiales que contienen aire dentro de un área de condensación pulmonar. **Patognomónico** de {{09175476421320505::**causa parenquimatosa**}}{{09175476421320505:: }}
+        - **Signo de la silueta** ⇒ La condensación pulmonar al tener la misma densidad que el corazón borra su silueta

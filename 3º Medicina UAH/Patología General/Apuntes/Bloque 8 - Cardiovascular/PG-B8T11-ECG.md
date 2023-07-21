@@ -1,0 +1,548 @@
+- Generalidades
+    - El registro de ECG deriva de los potenciales de acción de las diferentes estructuras cardíacas
+        - Nodo sinusal de Keith-Flack
+        - Aurículas
+        - Nodo AV de Aschoff-Tawara
+        - Haz de His
+        - Fibras de Purkinje
+        - Musculatura de los ventrículos
+    - Potencial de acción
+        - **Despolarización** o fase 0
+        - Fase 1 o **repolarización** inicial
+        - Fase 2 o fase de **meseta**
+        - Fase 3 o **repolarización**
+        - Potencial de **reposo** transmembrana o fase 4
+    - Derivaciones precordiales
+        - 1 : **4º** espacio intercostal **derecho**
+        - 2 : **4º** espacio intercostal **izquierdo**
+        - 3 : Entre V2 y V4
+        - 4 : Línea media clavicular
+        - 5 : Línea axilar anterior
+        - 6 : Línea axilar media
+    - Papel milimetrado
+        - Tiempo ⇒ Líneas verticales
+        - Voltaje ⇒ Líneas horizontales
+        - El papel se mueve a 25mm/s y el volaje es 1mV
+        - 1mm = 0'04 segundos
+        - 5mm = 0'2 segundos
+    - Derivaciones
+        - Derivación ⇒ Dirección de la corriente producida por el corazón
+        - Frontales
+            - Bipolares
+                - I ⇒ Brazo derecho (-) e **izquierdo** (+) ⇒ 0º
+                - II ⇒ Brazo derecho (-) y pierna **izquierda** (+) ⇒ 60º
+                - III ⇒ Brazo izquierdo (-) y pierna **izquierda** (+) ⇒ 120º
+            - Unipolares
+                - Brazo derecho (aVR) ⇒ 90º
+                - Brazo izquierdo (aVL) ⇒ -30º
+                - Pierna izquierda (aVF) ⇒ -210º
+        - Horizontales
+            - V1: 4º espacio intercostal borde esternal derecho
+            - V2: 4º espacio intercostal borde esternal izquierdo
+            - V3: en el punto medio entre V2 y V4
+            - V4: **5º espacio** intercostal línea medio clavicular izquierda
+            - V5: línea axilar anterior a nivel de V4
+            - V6: línea axilar media a nivel de V4
+            - La despolarizacion se mueve de izquierda a derecha
+        - Colocación inadecuada
+            - Electrodos de los miembros
+                - Los electrodos de los miembros se pueden colocar en cualquier parte de la extremidad
+                - Cuando estos electrodos se colocan en el tronco **a menos de 20-30 cm del corazón**, la morfología de las ondas puede variar significativamente
+                - En la mayoría de los casos ⇒ **ondas Q en las derivaciones inferiores**
+                - También puede haber **descenso del ST, inversión de las ondas T y cambios de voltaje**
+            - Electrodos precordiales
+                - La **colocación demasiado alta** puede producir un patrón de **bloqueo incompleto de rama derecha** y cambios en la amplitud de la onda R, con ondas R más pequeñas cuando **V1 y V2** se colocan demasiado altos
+                - En mujeres obesas con mamas grandes es difícil la correcta colocación de los electrodos precordiales. La colocación sobre las mamas produce atenuación el voltaje de la onda R por lo que lo indicado es su colocación debajo de las mamas
+            - Inversión D1
+                - Si invertimos los electrodos de brazo derecho y brazo izquierdo aparecerá una onda P, QRS y onda T **invertidas** en **DI**
+                - En este caso, habría que hacer un **diagnóstico diferencial con la dextrocardia** examinando las derivaciones precordiales que no dependen de la localización correcta de los electrodos de los brazos
+                - Si hay inversión de los electrodos, la onda R progresará normalmente en las precordiales siendo máxima en V6, mientras que en la dextrocardia no habrá progresión de la R con QRS negativo en V6. Si la onda P es positiva y el QRS es negativo NO indica inversión de los electrodos sino un eje anormal resultante de alguna patología que produce desviación extrema del eje a la derecha
+            - Inversión D2
+                - Se producirá una **inversión de I con II y de aVF con aVL**. Esta situación da lugar a un registro de las derivaciones de los miembros desde arriba siendo negativas en I, II, III y aVF, y positiva en aVR con un eje entre 180 y -90, que es típico de esta inversión de derivaciones
+            - Inversión D3
+                - Se producirá una **inversión de I con II y de aVF con aVL**. Este tipo de inversión de los electrodos puede ser difícil de identificar porque el ECG no aparece fuera de la normalidad salvo por un **eje izquierdo** que es un hallazgo bastante frecuente
+                - Una clave para identificarlo es que la amplitud de la onda P sea mayor en I que en II, ya que realmente I es II que es la derivación de los miembros en que la amplitud de la onda P es típicamente mayor.
+            - Brazo derecho-izquierdo y pierna **derecha**
+                - Brazo derecho: potencial 0 en II
+                - Brazo izquierdo: potencial 0 en III
+                - La inversión de los electrodos de las piernas **no altera el ECG** porque los potenciales recogidos en ambas piernas son prácticamente los mismos
+    - Eje del complejo QRS en el plano frontal
+        - Dirección del vector medio del QRS en el plano frontal
+        - Se encuentra entre los 0 y 90 º (-30 y +100 para algunos autores)
+            - Desviado a la izquierda a valores menores de 0º
+            - Desviado a la derecha a valores superiores a 90º
+        - Analizar el valor predominante en las derivaciones I y aVF
+            - I (+) y aVF (+) ⇒ eje entre 0 y 90º (Normal)
+            - I (+) y aVF (-) ⇒ eje entre 0 y - 90º (Eje Izquierdo)
+            - I (-) y aVF (+) ⇒ eje entre 90 y 180º (Eje Derecho)
+            - I (-) y aVF (-) ⇒ eje entre -90 y 180º ( Eje Indet)
+        - Cálculo del eje
+            - Identificamos la derivación en la que se registra el complejo QRS **isodifásico** y de poco voltaje ⇒ eje QRS promedio es **perpendicular** a esa derivación
+            - Identificamos la derivación en la que se registra el complejo QRS más **amplio** y de mayor voltaje ⇒ el eje QRS promedio es **paralelo** a esa derivación
+            - Valoramos la polaridad positiva/negativa de este complejo QRS ⇒ el eje QRS promedio se dirige hacia la parte positiva/negativa de la derivación
+    - Eje del complejo QRS en el plano horizontal
+        - Transición eléctrica normal ⇒ **V3-V4**
+        - Rotación sobre eje longitudinal
+            - **Dextrorrotación** ⇒ Crecimiento de corazón derecho, VD anterior ⇒ **EPOC**
+            - **Levorrotación** ⇒ Crecimiento de VI ⇒ Eao, HVI
+        - Rotación sobre eje **antero-posterior** (corazón **vertical**)
+            - Propio de **asténicos**
+            - QRS próximo a 90º
+            - QRS negativo en aVI
+            - QRS positivo en aVF
+        - Rotación sobre eje **antero-posterior** (corazón **horizontal**)
+            - Propio de **obesos**
+            - QRS próximo a 0º
+            - QRS positivo en aVI
+            - QRS negativo en aVF
+    - Nomenclatura de las deflexiones
+        - Onda P ⇒ Activación del miocardio auricular
+        - Complejo QRS ⇒ Despolarización ventricular
+            - Onda Q ⇒ Primera deflexión negativa seguida de una onda R
+            - Onda R ⇒ Cualquier deflexión positiva
+            - Onda S ⇒ Deflexión negativa precedida por R
+        - Onda T ⇒ Repolarización ventricular
+        - Onda U ⇒ Se registra ocasionalmente después de la onda T
+        - Intervalo PR ⇒ Tiempo desde el inicio de la onda P al inicio del QRS
+        - Intervalo QRS ⇒ Tiempo desde el inicio al final del QRS
+        - Punto J ⇒ Unión del final del QRS con el segmento ST
+        - Segmento ST ⇒ Línea isoeléctrica que va desde el punto J al inicio de la onda T
+        - Intervalo QT ⇒ Tempo desde el inicio del QRS al final de la onda T
+    - Marcapasos
+        - El nodo sinusal rige en condiciones fisiológicas, la frecuencia cardiaca; es en condiciones normales, el marcapasos del corazón
+        - El nodo sinusal, está localizado en la pared posterior de la AD
+        - Tanto la frecuencia como el ritmo dependen de la excitabilidad y por tanto del potencial umbral
+        - El potencial de reposo y el potencial umbral se rigen por el sistema vegetativo simpático y parasimpático, que a su vez, depende de las concentraciones de electrolitos circulantes
+        - Existen otros puntos que pueden ejercer de marcapasos en casos en que falle el marcapasos original; estos marcapasos potenciales reciben el nombre de marcapasos ectópicos
+- Actividad fisiológica
+    - Despolarización auricular
+        - Una onda de despolarización comienza en el nodo sinusal y se disemina hacia ambas aurículas a través de las vías internodales y ambas aurículas se despolarizan
+        - La despolarización auricular está representada por la onda P
+        - Características de la onda P fisiológica
+            - **Delante** del QRS
+            - Plano frontal ⇒ AP : ‒30º y +90º ⇒ **Positiva en D2**
+            - Plano horizontal ⇒ +/- en V1, **+ en 23456**
+            - Duración ⇒ **<0,10 segundos** (<2,5 mm)
+        - La repolarización auricular no tiene representación en el ECG, ya que está enmascarada por la representación de las fuerzas eléctricas de la despolarización ventricular
+    - Activación del nodo AV
+        - Aurículas ⇒ Nodo AV ⇒ Haz de His ⇒ Rama derecha-izquierda ⇒ Ventrículos
+        - Reducción de la velocidad de conducción ⇒ **Segmento PR isoeléctrico**
+    - Despolarización ventricular
+        - La **despolarización** ventricular tiene un sentido de {{5260150396552405::**endocardio**}} **a** {{5260150396552405::**epicardio**}}
+        - **El haz de Hiss es bidireccional** ⇒ Ante un estímulo o extrasístole ventricular, la actividad eléctrica se conduciría desde el ventrículo hacia la aurícula, generando una contracción
+        - La onda de despolarización se disemina hacia el nodo AV, el haz de Hiss, las ramas, las fibras de Purkinje y el miocardio ventricular
+        - Se produce la despolarización ventricular y está representada por el complejo QRS
+        - Activación normal de los ventrículos
+            - Zona **medioseptal** izquierda (onda Q) ⇒ **+140º**
+            - **Paredes libres** ventriculares dcho e izq (onda R) ⇒ **+60º**
+            - Masas paraseptales altas (onda S) ⇒ **-150º**
+        - Características normales del QRS
+            - Duración de QRS ⇒ **<0,11 s**
+            - Eje en plano frontal ⇒ **0º - 90º**
+            - Transición eléctrica ⇒ **V3-V4**
+            - Onda Q ⇒ Duración **<0,04s** y Profundidad **<1/3** del QRS
+            - Onda R ⇒ < 15 mm (derivaciones de miembros) < 25 mm en precordiales > 5 mm en dos derivaciones bipolares
+        - Onda Q normal
+            - **Primera onda negativa** producida por la despolarización ventricular. No precedida de ninguna otra onda del complejo
+            - Duración **<0,04s**
+            - Profundidad **<1/3 del QRS**
+            - Derivaciones que pueden presentar pequeñas ondas Q no patológicas ⇒ **I, II, V5, V6**
+            - Las ondas Q en la derivación III no son patológicas. Cuando el eje apunta a la izquierda, la derivación III presenta ondas Q posicionales
+            - Ondas Q patológicas
+                - Más **anchas**, más de 0.04 s (2 mm)
+                - Mayor **amplitud**, más del 25% de la onda R siguiente
+                - Ensanchamiento de Q en la derivación aVL a 0.02 s
+        - Onda R normal
+            - Es la **primera** deflexión **positiva** producida por la despolarización ventricular
+            - Puede ir o no precedida de onda Q
+            - **< 15 mm** (derivaciones de miembros)
+            - **< 25 mm** en precordiales
+            - **> 5 mm** en dos derivaciones bipolares
+    - Repolarización ventricular
+        - Sentido de {{42923744568919164::**epicardio**}} a {{42923744568919164::**endocardio**}}{{42923744568919164:: (fuera-dentro)}}
+        - La zona {{5082868650395089::**endocárdica**}} tiene una isquemia fisiológica que retrasa la repolarización ⇒ La repolarización es muy sensible a la **isquemia** ⇒ Se inicia en el epicardio
+        - Las ondas de repolarización ventricular son el segmento ST y las ondas T y U
+        - Representada por
+            - ST ⇒ Línea isoeléctrica a partir del punto J
+            - Onda T ⇒ Vector de repolarización ventricular (misma dirección y sentido inverso a QRS)
+        - Onda T
+            - La onda T suele tener un extremo **inicial** {{44515020666894856::**largo**}} y un extremo **terminal** {{44515020666894856::**corto**}}
+            - Es **asimétrica** (rama ascendente lenta y descendente rápida)
+            - Polaridad
+                - Suele tener la misma que la máxima del QRS correspondiente
+                - Positiva en todas las derivaciones excepto en **aVR** y a veces **V1, D3 y aVF**
+                - **Negativa en V1-V4** en el 25 % de las mujeres, en la raza negra y en niños
+        - Onda U
+            - Es cualquier onda que se produce justamente despues de la onda T y antes de la onda P siguiente
+            - Se visualiza mejor en **V2 y V3** (más cerca al corazón) y en **FC baja**
+            - Relacionada con los sucesos de la **repolarización tardía** de los ventrículos
+            - Bajo voltaje (< 1/3 de la T de la misma derivación)
+            - La dirección de la onda U es la misma que la de la onda T normal
+    - Intervalos
+        - Intervalo PR
+            - **Comienzo** P ⇒ Comienzo QRS
+            - Límites→**0,12 – 0,21 s** (adulto)
+            - Representa la despolarización de las aurículas y la diseminación de la onda de despolarización hasta las fibras de Purkinje, y el tiempo que tarda el estímulo en pasar por el **nodo AV**
+        - Segmento PR
+            - **Final** P ⇒ Comienzo QRS
+            - Lo normal es que sea {{1854652478690142::**isoeléctrico**}}
+        - Tiempo de activación ventricular
+            - Comienzo del complejo QRS ⇒ Pico de la onda R
+            - Tiempo necesario para que la onda de despolarización viaje desde el endocardio hasta el epicardio
+        - Segmento ST
+            - Final complejo QRS (**Punto J**) ⇒ **Comienzo** de onda T
+            - Normal ⇒ **Isoeléctrico** +/- 1mm
+            - Indicador sensible de {{2279075191558777::**isquemia**}}{{2279075191558777:: o}}{{2279075191558777:: **lesión del miocardio**}}{{2279075191558777:: }}
+            - El punto J es normalmente isoeléctrico pero puede estar elevado en la **repolarización precoz** ⇒ Deportistas, Jóvenes
+        - Intervalo QT
+            - Comienzo QRS ⇒ **Final** de onda T
+            - Despolarización y repolarización ventricular
+            - Su valor normal depende de la **frecuencia cardiaca**
+            - Fórmula de Bazett : $QT_c = QT/\sqrt{R-R'} $ (en segundos)
+            - QTc normal ⇒ **<0,45s** en hombres y **<0,47s** en mujeres
+- Ritmo sinusal
+    - Las ondas P se originan en el nodo sinusal
+    - Cada onda P va seguida de un complejo QRS
+    - Frecuencia normal ⇒ 60-100 lpm
+    - Onda P
+        - Positiva en **I, II y aVF**
+        - Siempre **negativa en aVR**
+        - Altura {{5546634599729858::**<2'5mm**}} en II
+        - Anchura {{2926169066002635::**<0,11s**}} en II
+    - Intervalo PR→Duración entre **0,12 y 0,20 seg** (3-5 cuadraditos pequeños)
+    - QRS
+        - Duración de QRS ⇒ **<0,11 s**
+        - Eje en plano frontal ⇒ **0º - 90º**
+        - Transición eléctrica ⇒ **V3-V4**
+        - Onda Q ⇒ Duración **<0,04s** y Profundidad **<1/3 del QRS**
+        - Onda R ⇒ **< 15 mm** (derivaciones de miembros) **< 25 mm** en precordiales **> 5 mm** en dos derivaciones bipolares
+    - Segmento ST→**Isoeléctrico** sin elevaciones (repolarización precoz) ni depresiones
+    - Onda T→Eje similar al QRS
+    - "Diagonal" ⇒ **Q y T negativas** en {{3871360788334375::**DIII, aVL y V1**}} son normales
+    - Intervalo QT ⇒ QTc **<0,45s** en hombres y **<0,47s** en mujeres
+    - Tira de ritmo ⇒ {{6215080564218778::**Derivación II**}} (se ve mejor la onda P)
+- Sistemática de interpretación
+    - Onda **P** (morfología, duración, amplitud)
+    - **PR** (duración)
+    - **QRS** (duración, eje, morfología, amplitud, ondas q patológicas ...) ¿QRS ANCHO O ESTRECHO? ¿EJE NORMAL?
+    - **ST** (supra o infra desnivelación)
+    - **Onda T** (positiva-negativa, morfología)
+    - **QT** (duración en función de la frecuencia)
+- Crecimiento
+    - Crecimiento auricular
+        - En el ECG la despolarización de las aurículas está registrada como la onda P, que se origina en el nodo sinusal. La onda P es la suma de dos ondas: tenemos la onda P de la aurícula derecha (que es la primera que aparece) y la onda P de la aurícula izquierda. La suma de las dos ondas P es la que vemos en el electrocardiograma como onda P
+        - En la onda P es importante medir tanto la **amplitud** como la **duración**. Donde mejor se ve es en **D2 y V1**
+        - Generalmente **la onda P se observa isodifásica en V1** ⇒ Onda + AD y Onda - AI
+        - Crecimiento AD
+            - Forma de **pico** ⇒ **Amplitud ≥2,5mm** y duración <0'12s
+            - Ondas P de **alto voltaje** pero no de mayor duración en el plano **frontal**
+            - Aparece en situaciones en las que esta cavidad se ve sometida a sobrecarga por problemas en la {{4087790765303023::**válvula tricúspide**}} (insuficiencia o estenosis) o, con mayor frecuencia, en el {{4087790765303023::ventrículo derecho (}}{{4087790765303023::**cor pulmonale**}}{{4087790765303023::)}}
+        - Crecimiento AI
+            - Forma **mellada** ⇒ Amplitud <2,5mm y **duración >0,12s**
+            - Ondas P de mayor **duración** en el plano frontal
+            - Componente final **negativo** de la onda P ⇒ Acusado en **V1**
+            - Se produce en las afecciones {{01999626549390876::**mitrales**}} y en las enfermedades del {{01999626549390876::**ventrículo**}}{{01999626549390876:: }}{{01999626549390876::**izquierdo**}}, en las que la aurícula izquierda tiene que hacer un sobreesfuerzo
+            - La onda P puede cursar con separación entre los vértices >0,03 sg (onda P mitral)
+            - La deflexión intrinsecoide se mide en la derivación V1 entre el pico del componente inicial positivo y el componente final negativo, y tiene que ser superior a **0,03 sg**
+        - Biauricular
+            - Onda P **mellada** con aumento de **duración**, **voltaje** e importante **componente negativo en V1**
+            - Patologías cardíacas del lado **izquierdo** que cursan con **hipertensión pulmonar** y crecimiento de cavidades derechas de forma secundaria
+    - Crecimiento ventricular
+        - Aumento del voltaje de las ondas del complejo QRS +/- segmento ST en casos severas ⇒ **S en V1-2, R en V5-6** (>30mm)
+        - Crecimiento VI
+            - Desviación del eje del complejo QRS a la {{47910653305887907::**izquierda**}}{{47910653305887907:: ⇒}}{{47910653305887907:: **QRS < -30º**}}{{47910653305887907:: }}
+            - Aumento de **voltaje** de los complejos **QRS** (↑ vector 2)
+            - Plano de transición ⇒ **V1-V2** (derecha)
+            - **Onda R alta** en precordiales **izquierdas**(V5,V6), **DI y aVL**
+            - **Onda S profunda** en precordiales derechas (V1, V2,V3)
+            - Comienzo del QRS ⇒ Pico R **> 45 msg** en precordiales **izquierdas**
+            - Índice de Sokolow → **S**V1 + **R**V6 > **35mm**
+            - Índice de Lewis ⇒ RD3 + SD1 > 17mm
+            - QRS ⇒ **100-110msg** (si es mayor hay trastorno de conducción)
+            - Hipertrofia septal
+                - **Fibrosis septal** (fuerza inicial disminuida) ⇒ ↓ onda R en precordiales **derechas** (V1,V2) y ↓onda Q en precordiales **izquierdas** (V5,V6), **DI, aVL**
+                - **Hipertrofia septal** (fuerza inicial aumentada) ⇒ **Q aumentada** en precordiales **izquierdas**, DI y aVL
+            - Sobrecarga sistólica en VI ⇒ Derivaciones **izquierdas**
+                - Casos ligeros: rectificación del ST y la onda T (simétrica, positiva)
+                - Casos severos: **infradesnivelación del ST** convexa y **onda T negativa asimétricas**
+            - Sobrecarga diastólica: Onda T más alta y picuda
+            - Crecimiento auricular izquierdo asociado (ayuda diagnóstico)
+            - Escala de **Romhilt-Estes** ≥ 5 ⇒ Crecimiento V
+            - Sobrecarga sistólica: cuando, además del aumento de voltaje que hemos visto, hay alteraciones de repolarización en la cara lateral (descenso del segmento ST y onda T). Se ve en cardiopatías que producen sobrecarga de presión en ventrículo izquierdo (HTA, estenosis de la aorta, etc.)
+            - Sobrecarga diastólica: cuando, además del aumento de voltaje que hemos visto, se registra una onda T alta y picuda en la cara lateral del ventrículo izquierdo. Se ve en casos de sobrecarga de volumen (isquemia mitral, aórtica)
+        - Crecimiento VD
+            - Los vectores de **despolarización** del VD se hacen **derechos** y **anteriores** ⇒ R altas en V1-V2
+            - Criterios de **crecimiento auricular derecho**
+            - ↑ deflexión intrinsecoide (>0,035s) en precordiales derechas
+            - Desviación de QRS a la **derecha**
+                - QRS > 100º ⇒ Eje a la derecha
+                - Frontales ⇒ S en DI y **R dominante en D3 y aVF**
+                - Precordiales ⇒ Rotación antihoraria, con **R dominante en V1**
+            - La ondas **T negativas** se extienden de V1 a más precordiales derechas y puede haber cierto **descenso del segmento ST**
+            - Plano de transición a la izquierda ⇒ **V5-V6**
+            - Signos de **sobrecarga sistólica del VD** con **ondas T asimétricas negativas** en precordiales derechas
+            - Aparición del **bloqueo de rama derecha**
+            - TEP
+                - Taquicardia, alteración ST y/o ondas T negativas en precordiale derechas
+                - SI, QIII, TIII poco frecuente, embolismos importantes
+                - Diferenciar del HBPI y de la necrosis inferior
+            - Patologías que cursan con **HTP** importante con sobrecarga de cavidades derechas ⇒ Cardiopatías congénitas y cor pulmonale crónico
+            - Diagnóstico complicado: eje derecho, R (+) de mayor voltaje en precordiales derechas y S(-) terminal en precordiales izquierdas
+            - Casos severos: alteraciones de la **repolarización** en precordiales **derechas**
+            - Patrón A
+                - a. Gran predominio de las fuerzas del **ventrículo derecho**
+                - b. R de gran voltaje en V1 o patrón qR
+                - c. Más frecuente en **cardiopatías congénitas**
+            - Patrón B
+                - a. Fuerzas del ventrículo derecho aumentadas en MENOR grado
+                - b. RS en V1, con R ≥ S o qR en V1
+                - c. **Hipertrofias adquiridas** del ventrículo derecho
+            - Patrón C
+                - a. Complejo **rS en V1-V6**
+                - b. **EPOC**
+        - Crecimiento biventricular
+            - Onda **R (+) alta en V5-V6** con **eje derecho** del QRS en el plano frontal
+            - Onda **R (+) alta** en **V5-V6** con R (+) alta en **V1-V2**
+            - Complejo **QRS** dentro de **límites normales** con **alteraciones de la repolarización** (descenso de ST con T negativa), sobre todo en **FA**
+            - Onda S (-) pequeña en V1 y profunda en V2 y R (+) dominante en V5-V6
+            - **Voltajes grandes en precordiales intermedias** con R alta en precordiales izquierdas y, a veces, morfología Rsr' en V1
+    - Cuando hay un crecimiento hay un {{7631867377357384::**retraso de la repolarización**}} ⇒ Se produce un {{7631867377357384::**descenso del segmento ST e inversión de la onda T**}} en las precordiales {{7631867377357384::**izquierdas**}}. La onda T es de ramas {{8122049130645848::**asimétricas**}} con un descenso {{8122049130645848::**lento**}} y un ascenso {{47345386111142274::**rápido**}}, y suele ser **más negativa en** {{8122049130645848::**V6 que en V4**}}, lo cual ayuda a distinguirla de la inversión isquémica
+- Isquemia
+    - {{9196410613481498::**Subendocardio**}} es la zona que primero sufre la isquemia
+    - Gracias a la “reserva coronaria” es necesario que la luz arterial disminuya hasta el{{793323078985442:: }}{{793323078985442::**70%**}} para que aparezcan los síntomas, que aparecen con el {{793323078985442::**esfuerzo**}}
+    - **Dominancia** coronaria ⇒ Arteria coronaria (derecha-izquierda) que da lugar a la **descendente posterior**
+    - Infarto de ADA ⇒ Septo, cara anterior y ápex
+    - Infarto de CD ⇒ Cara inferior y posterior
+    - Infarto de Cx ⇒ Cara lateral
+    - Ante un paciente con sospecha de SCA, siempre se deber realizar ECG seriados ⇒ naturaleza cambiante del ECG en los episodios
+    - También se deben realizar determinaciones seriadas de marcadores de daño miocárdico: **Troponina** (T o I) y **CPK** con su isoenzima MB
+    - En fases iniciales de la isquemia se produce un retardo en la repolarización
+    - La despolarización de la zona isquémica no se produce completamente, quedado esa zona más + que la zona no isquémica y dando lugar por tanto a un vector que no existe en condiciones normales
+    - Isquemia subendocárdica
+        - Retardo en la repolarización del subendocardio, que comienza en el subepicardio, **como en condiciones normales**
+        - **Onda T + simétrica y picuda**
+    - Isquemia subepicárdica
+        - Retardo en la repolarización del subepicardio, por lo tanto la repolarización **comienza en el subendocardio** ⇒ Vector negativo
+        - **Onda T - simétrica**
+    - Lesión subendocárdica
+        - Vector de subepicardio (-) a subendocardio(+) ⇒ **↓ ST** en las derivaciones de la zona afectada
+        - Se considera significativo un descenso plano o descendente de ST **mayor de 0.5 mm en dos o más derivaciones contiguas**
+    - Lesión subepicárdica
+        - Vector de subendocardio (-) a subepicardio (+) ⇒ **↑ ST**
+        - Significativo cuando aparece elevación de ST en 2 o más derivaciones contiguas mayor de 2 mm en **V1-V3** o de **1 mm** en el resto de derivaciones
+    - Necrosis
+        - El tejido necrótico no transmite los impulsos eléctricos: no se despolariza, no se contrae y no se repolariza
+        - Se traduce en el ECG como **ondas Q**
+        - Pueden existir Q no patológicas en derivaciones izquierdas (I, aVL, V5 y V6) por la despolarización septal
+        - Voltaje Q **> 25% R**
+        - Duración Q **≥ 0,04s**
+        - Onda Q con **muescas** o **empastamientos**
+    - Diagnóstico diferencial de **onda T negativa**
+        - Pericarditis, Miocarditis
+        - Cor pulmonale y TEP
+        - Miocardiopatía hipertrófica
+        - Hipertrofia ventricular y BRI
+        - Memoria eléctrica
+        - ACVA
+        - Variantes de la normalidad (niños, mujeres, repolarización precoz)
+    - Diagnóstico diferencial del **descenso de ST**
+        - Hipertrofia VI y BRI
+        - Cubeta digitálica
+        - Prolapso mitral
+        - Hipopotasemia
+        - Taquicardia SV
+    - Diagnóstico diferencial de la **elevación de ST**
+        - Pericarditis aguda
+        - TEP
+        - Síndrome de Brugada
+        - Hiperpotasemia
+        - Hipertrofia VI y BRI
+        - Aneurisma ventricular
+        - Repolarización precoz
+    - Cambios evolutivos en el IAM
+        - En los primeros minutos se aprecia una imagen de **isquemia subendocárdica** (onda T simétrica, picuda y de mayor amplitud)
+        - Pasados los primeros minutos aparece la imagen de **lesión** **subepicárdica** típica
+        - A las pocas horas comienza a aparecer la **onda Q** que coexiste con la elevación de ST
+        - A las 12-24 horas habitualmente se ha establecido completamente la onda Q, con un S**T que poco a poco retorna a la línea de base** y con la onda **T negativa**
+        - A la semana persisten la **onda Q y T negativa**. El segmento ST ya no está elevado (salvo en los casos de formación de un aneurisma ventricular)
+    - Localización del IAM
+        - IAM anterior
+            - Anterior ⇒ **V3-V4**
+            - Anteroseptal ⇒ V1-V4 ⇒ DAm
+            - Anterolateral ⇒ V3-V6
+        - IAM lateral
+            - Lateral bajo ⇒ **V5-V6**
+            - Lateral alto ⇒ **I y aVL**
+        - IAM inferior
+            - **II, aVF, III** ⇒ CD, CX
+            - Derivaciones derechas para descartar afectación de VD (V3R y V4R)
+            - Derivaciones posteriores si vemos descenso del ST especular de V1 a V3
+        - IAM posterior
+            - **Aumento de R en V1-2** ⇒ Imagen especular o recíproca
+            - Duración de 40ms o mayor
+            - R/S > 1
+            - Paciente mayor de 30 años
+            - Sin signos de hipertrofia de ventrículo derecho
+            - Cuando vemos imagen de descenso del **ST aislado de V1 a V3 que no mejora con tratamiento** debemos sospechar **IAMCEST posterior aislado**, no confundir con SCASEST anterior
+- Bloqueo
+    - Bloqueo de rama derecha
+        - Vector inicial **no afectado**
+        - Onda **S ancha y engrosada en D1**
+        - **Onda R' en V1** ⇒ RsR'
+        - Eje QRS entre 10 y 90º
+        - Puede haber descenso de ST e inversión de onda T
+        - En presencia de un bloqueo de rama derecha no debe diagnosticarse una hipertrofia ventricular derecha
+    - Bloqueo de rama izquierda
+        - **Asincronía** inter e intraventricular
+        - El vector inicial va de derecha a izquierda: **positividad inicial en D1 y V5**
+        - El vector terminal se dirige a la izquierda: **negatividad terminal en V1**
+        - En la primera mitad del QRS se aprecia una **melladura** ⇒ **≥0,12s**
+        - **Ausencia de Q septales en I, aVL, V5-6**
+        - Deflexión intrinsecoide aumentada al menos **70 mseg**
+        - No debe diagnosticarse hipertrofia VI si hay un bloqueo de rama izquierda
+    - Ondas T negativas
+        - ![[Pasted image 20230619163222.png]] Isquémica
+        - ![[Pasted image 20230619163233.png]] Secundaria
+        - ![[Pasted image 20230619163240.png]] Digitálica
+    - Hemibloqueo anterior
+        - PeNeNe DaPeNe (123RLF)
+        - Eje desviado a la **izquierda ≥ -30º**
+        - **rS en II, III y aVF**
+        - **qR en I y aVL**
+        - **S ancha "terminal" en V5-V6**
+        - QRS < 120 mseg
+    - Hemibloqueo posterior
+        - NePePe DaNePe (123RLF)
+        - QRS < 120 mseg
+        - Eje desviado a la **derecha > 100º**
+        - **rS en aVL y I**
+        - **qR en II, III y aVF**
+        - S ancha "terminal" en V5-6
+        - No se puede diagnosticar el hemibloqueo posterior izquierdo en el contexto de hipertrofia ventricular derecha
+    - Bloqueo bifascicular
+        - BRD + HBA
+            - QRS ≥ 0,12s
+            - **Onda R' en V1** ⇒ RsR'
+            - Onda S ancha "terminal" en I
+            - Eje desviado a la **izquierda ≥ -30º**
+            - **qR en I y aVL**
+            - **rS en II, III y aVF**
+        - BRD + HBP
+            - QRS ≥ 0,12s
+            - **Onda R' en V1** ⇒ RsR'
+            - Onda S ancha "terminal" en I
+            - Eje desviado a la **derecha > 100º**
+            - **rS en aVL y I**
+            - **qR en II, III y aVF**
+    - Bloqueo trifascicular
+        - BRD + HBA, HBA +HBP ⇒ Eje izquierdo de -60º con PR largo
+        - BRD + HBP ⇒ BRD + hiperdesviación de QRS a la derecha con PR largo
+- Arritmia
+    - Extrasistolia
+        - Auricular
+            - Ondas P prematuras
+            - Ondas P de morfología distinta (-) en II, III, aVF
+            - Pausa postextrasistólica incompleta
+        - Ventricular
+            - QRS ancho aberrado
+            - No onda P precedente
+            - Suele haber pausa compensadora
+            - Tipos
+                - Monofocales / polifocales
+                - islados / parejas / salvas / TV.
+                - Bigeminados / trigeminados
+                - Interpolados
+    - Bradicardia
+        - Bradicardia sinusal
+            - Frecuencia de descarga: < 60 lpm
+            - Ondas P de morfología normal
+            - Ondas P antes de cada QRS
+            - PR constante
+        - Bloqueo AV 1º → **PR >200 ms** (adultos)
+        - Bloqueo AV 2º
+            - **Mobitz I (Wenckebach)** → El intervalo P-R se va alargando progresivamente hasta que una onda P queda bloqueada (no conduce)
+            - Mobitz II → Un número variable de ondas P no se conducen , pero las conducidas lo hacen con P-R constante.
+            - Avanzado → Bloqueos con relación de conducción 2:1, 3:1, 4:1. Puede deberse a un Mobitz I o Mobitz II sin que pueda realizarse una distinción exacta.
+        - Bloqueo AV 3º
+            - Existe una disociación completa entre la onda P y el QRS 
+            - La frecuencia del ritmo de escape suele ser lenta (< 45 latidos / minuto) y menor que la frecuencia auricular (excepto en algún bloqueo A-V congénito)
+    - Taquiarritmia
+        - Clasificación
+            - Origen ⇒ Supraventricular, Ventricular
+            - Mecanismo ⇒ Reentrada, Automatismo
+            - Presentación ⇒ Paroxística, Incesante, Crónica
+        - Taquicardia sinusal
+            - Frecuencia de descarga: 100 - 180 lpm
+            - Comienzo y final gradual
+            - **Ondas P** antes de cada QRS con morfología craneo-caudal
+            - PR constante
+            - Ondas P pueden volverse picudas
+        - Taquicardia auricular
+            - Frecuencia auricular entre 150-200 lpm
+            - **Onda P diferente** a P sinusal
+            - Tipos ⇒ Asintomática, Reentrada, Caótica
+        - Fibrilación auricular
+            - Despolarizaciones auriculares completamente desorganizadas sin contracción auricular eficaz
+            - Frec. Auricular : **350-600 lpm**
+            - Ondas **“f” finas y rápidas**
+            - Respuesta ventricular irregular (“ Ritmo irregularmente irregular ”)
+            - Tipos ⇒ Paroxística, Persistente, Crónica, Focal, Microreentradas (+3 circuitos)
+        - Flutter auricular
+            - Arritmia fundamentalmente de la A.D
+            - Frecuencia auricular : 300 lpm
+            - Frecuencia ventricular : 150 lpm (**bloqueo 2:1**)
+            - Ondas “F” (“**dientes de sierra**”) sin línea isoeléctrica
+            - Tipos ⇒ Común ( - en II , III y aVF), No común, Atípica (tipo II de Waldo) con FC hasta 400 lpm
+        - Taquicardia ventricular
+            - Clasificación
+                - Duración ⇒ Sostenida (>30s) o No sostenida
+                - Morfología ⇒ Monomorfa, Pleomorfa, Poliforma (TdP, Bidireccional)
+            - Diagnóstico diferencial de taquiarritmias con **QRS ancho**
+                - Taquicardia ventricular
+                - Taquicardia supraventricular + bloqueo de rama
+                - Taquicardia supraventricular antidrómica ⇒ S. WPW
+            - Criterios fisiopatológicos
+                - Disociación AV
+                - Capturas y-o fusiones
+            - Criterios morfológicos
+                - **QRS > 0,14s**
+                - Eje QRS < -30º o > +90º
+                - BRD
+                    - V1: R, qR, QR, Rr', RS
+                    - V6: rS, QS, QR, R (mellada)
+                - BRI
+                    - V1-2: r > 30 mseg, rS > 60 mseg.
+                    - V6: q
+                - Morfología concordante en precordiales.
+                - Inexistencia de complejos RS en precordiales
+                - Intervalo R-S > 100 mseg, en cualquier precordial
+        - Fibrilación ventricular
+- Trastornos electrolíticos
+    - Hipopotasemia
+        - Alteraciones de la **repolarización** (ST y T)
+        - Ondas **T aplanadas**
+        - Onda U (infrecuente)
+    - Hiperpotasemia
+        - Onda T picuda en forma de tienda de campaña (dd isquemia {{07078754089044992::**subendocárdica**}})
+        - La onda T es **asimétrica** (dd con isquemia subendocárdica)
+    - Hipocalcemia
+        - QT alargado
+    - Hipercalcemia
+        - QT acortado
+        - Hiperparatiroidismo primario
+    - Digoxina
+        - Cubeta digitálica ⇒ ST excavado, T negativa-isodifásica
+    - Antiarrítmicos
+        - QT alargado, T negativa
+- Pericarditis aguda
+    - **Elevación del ST difusa**, con forma abanderada y **cóncava** hacia arriba
+    - Convexa hacia arriba (aleta de delfín) ⇒ Cardiopatía isquémica aguda (dd)
+    - {{2300049747928854::Descenso del PR}} ⇒ Patognomónico
+- Repolarización precoz
+    - ST elevado, **cóncavo** hacia arriba en derivaciones **izquierdas**
+- Dextrocardia
+    - ECG al revés ⇒ **AvR todo positivo**
+- ECG pediátrico
+    - En un niño menor de 4 años la **taquicardia sinusal** es típica
+    - Se observa que tiene una **hipertrofia del ventrículo derecho** en V1, V2 y V3 (R altas) y una **R negativa en V4, V5, V6**
+    - Si este mismo ECG se viese en un hombre de 65, con EPOC y fumador severo se diagnosticaría un cor pulmonare crónico (totalmente patológico). Pero si es este ECG se ve en un lactante de 7 meses es totalmente normal

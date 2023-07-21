@@ -1,0 +1,107 @@
+- Organización vascular
+    - Arterias elásticas (de gran calibre)
+    - Musculares (mediano calibre)
+    - Pequeño calibre (sin capa muscular)
+    - Capas
+        - Capa íntima (endotelio)
+        - Lámina elástica interna
+        - Media (músculo/fibras elásticas)
+        - Lámina elástica externa
+        - Adventicia (TC, vasa-vasorum, nervios)
+- Aneurisma → Dilatación anómala localizada de un vaso sanguíneo
+    - Aneurisma de Aorta Abdominal
+        - Ateroesclerosis : Raro en el cayado, nunca en la raíz de la aorta
+        - Cierta asociación familiar
+        - Clínica → Asintomático o masa pulsátil
+        - Localización → Entre las ilíacas y la salida de las renales
+        - Evolución
+            - Rotura (tamaño dependiente)
+            - Oclusión de las ramas (ilíacas, renales, mesentéricas)
+            - Necrosis y embolismo
+        - AAA inflamatorios
+            - Perioaortitis con fibrosis
+            - Causa desconocida
+        - AAA Micóticos
+            - Bacterias (Salmonella) u hongos
+    - Aneurisma sifilítico (luético)
+    - **Disección aórtica** (aneurisma disecante) ↔ Paso de sangre entre los planos laminares de la lámina media, que forma un nuevo conducto sanguíneo en la pared aórtica.
+        - 2 grupos → 40-60 años con HTA (90%) | Jóvenes : Marfan
+        - Diagnóstico → Dilatación escasa (Diagnóstico diferencial con ateroesclerosis y sífilis)
+        - Desgarro intimal
+            - 1-5 cm, irregulares, a <10 cm de la válvula aórtica
+            - Extensión proximal ⇒ distal (HTA)
+            - A veces hay re-entrada (doble luz) y posible re-endotelización (crónica)
+        - AP
+            - Generalmente no hay alteraciones AP previas
+            - Degeneración quística de la media (más en Marfan) : Fragmentación de fibras elásticas y cavidades con matriz extracelular (mucopolisacáridos)
+        - Complicaciones
+            - Muerte por rotura a una cavidad
+            - Retrógrada ⇒ Hemopericardio, Insuficiencia aórtica, IAM
+        - Clasificación de Debakey : Ascendente, Ascendente+ Descendente, Descendente
+- Vasculitis
+    - Sentido anatomopatológico : Inflamación de los vasos
+    - Sentido ampliado : Enfermedad sistémica
+    - Vasculitis asociada con enfermedades sistémicas→Lupus, Artritis reumatoide, Sarcoidosis
+    - Etiología probable : HCV, HBV, Sífilis, ANCA, Cáncer, Inmunocomplejos
+    - Clasificación
+        - Vasos grandes
+            - Arteritis de Células Gigantes (Arteritis de la temporal o de Horton)
+                - Anatomía patológica → Inflamación granulomatosa segmentaria (parcheada) de la pared de arterias musculares. Infiltrado parietal predominante de Th4 y macrófagos, con o sin células gigantes, con destrucción de láminas y fibras elásticas
+                - Localización→Predilección por ramas de la Carótida Externa, sobre todo Arteria Temporal. También en aorta, pero menos (15%)
+                - Complicaciones : Induración, fibrosis, estenosis ⇒ isquemia, trombosis, aneurisma, disección
+                - Clínica
+                    - Sobre todo : **Isquemia** ⇒ Ceguera y alteraciones visuales, Claudicación mandibular, Polimialgia reumática
+                    - Si afecta a ramas aórticas ⇒ **ACVA**(accidente cerebrovascular agudo : Ictus)
+                    - Síntomas generales : MEG, Fiebre
+                - Diagnóstico
+                    - Edad de inicio > 50 años
+                    - Dolor de cabeza localizado
+                    - Exploración (arteritis temporal) y biopsia
+            - Arteritis de Takayasu (Enfermedad sin pulso)
+                - Diagnóstico
+                    - Edad de inicio < 40 años, Más frecuente en mujeres
+                    - Claudicación EESS (extremidades superiores)
+                    - Pulso disminuido
+                    - Arteriografía anormal
+					- ![[Pasted image 20230625104053.png]]
+        - Vasos grandes/medianos
+            - Vasculitis primaria SNC
+        - Vasos medianos
+            - Panarteritis Nodosa clásica
+                - Características
+                    - Arterias pequeñas y medianas (rarísimo en aorta y ramas pulmonares)
+                    - **No tienen glomerulonefritis** , **ANCA negativas**
+                    - Afectación multisistémica grave
+                    - Se puede deber a VHB
+                - Anatomía patológica → Infiltrado inflamatorio transmural pleomórfico de los vasos con **necrosis fibrinoide**, trombosis, microaneurismas y microhemorragias
+            - Enfermedad de Kawasaki
+                - Considerar cuando un niño menor de 5 años tiene miocarditis o coronariopatía
+        - Vasos medianos/pequeños
+            - Granulomatosis de wegener
+            - Síndrome de churg straus
+        - Vasos pequeños
+            - Diferencia con las vasculitis de vaso mediano→**Tienen glomerulonefritis**
+            - ANCA+ pauciinumnes (sin inmunocomplejos)↓
+                - Poliangeitis **microscópica**↕
+                    - **p-ANCA** positiva (antimieloperoxidasa)
+                - Vasculitis **necrotizante** de pequeño vaso →  GMN **proliferativa** necrotizante con semilunas
+                - Poliangeitis **granulomatosa** (Wegener) ↕
+                    - **c-ANCA** positiva (antiproteinasa-3)
+                 - Vasculitis **granulomatosa** de pequeño vaso ⇒ GMN **focal** necrotizante con semilunas
+                    - Granulomas necrotizantes agudos en vía respiratoria
+                - Granulomatosis **eosinofílica** con poliangeitis (Churg-Strauss)↕
+                    - **p-ANCA positiva**
+                    - Asociada a rinitis alérgica, asma bronquial y eosinofilia
+            - ANCA- pauciinmunes
+                - Vasculitis leucocitolástica cutánea primaria
+                    - Infiltrado perivascular e intersticial con predominio de PMN, Extravasación de eritrocitos
+                    - Cariorrexis
+                    - Púrpura, nódulos, placas urticariales
+                - Vasculitis asociada a neoplasia o enfermedad autoinmune
+            - Con inmunocomplejos
+                - **Vasculitis IgA** (Schönlein-Henoch)↕
+                    - Vasculitis de vaso pequeño
+                    - Afecta a piel, tracto GI, glomérulo, artralgias
+                    - IgA, autolimitada, niños
+                - Crioglobulinemia esencial
+                - Enfermedad anti-membrana basal glomerular

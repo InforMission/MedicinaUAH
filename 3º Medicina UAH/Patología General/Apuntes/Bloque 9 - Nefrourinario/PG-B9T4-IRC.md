@@ -1,0 +1,136 @@
+- Insuficiencia renal crónica
+    - Generalidades
+        - Definición → Pérdida lenta e irreversible de la función renal que conduce al **síndrome urémico** y el déficit de producción hormonal renal
+        - El {{síndrome urémico}} es común y aparece {{**siempre**}} en todas las IRC
+        - Criterios analíticos de IRC ↓
+            - Anomalías estructurales o funcionales durante {{**≥ 3 meses**}}, con o sin ↓TFG
+            - TFG{{** <60**}}** **mL/min/1.73m² durante ≥3 meses, con o sin daño renal
+        - **Azotemia**↔BUN >28mg/dL y Creatinina >1.5mg/dL
+        - **Uremia**↔Azotemia con síntomas o signos de fallo renal
+        - **Fallo renal crónico**↔Disfunción renal **irreversible** con **azotemia** durante > 3 meses
+        - Estadiaje de la enfermedad renal crónica ↓
+            - 1 ⇒ Daño renal con TFG normal o ↑TFG ≥ 90
+            - 2 ⇒ Daño renal con ↓TFG leve : 60-89
+            - 3 ⇒ Daño renal con ↓TFG moderado : 30-59
+            - 4 ⇒ Daño renal con ↓TFG severo : 15-29
+            - 5 ⇒  Fallo renal : < 15 (o diálisis)
+    - Etiología
+        - Virtualmente todas las causas de nefropatía pueden producir una disminución crónica del FG y producir IRCT
+        - Episodios combinados de IRA pueden dar lugar a una IRC
+        - Causas comunes ↓
+            - **Diabetes mellitus**
+            - **HTA**, Enfermedades de grandes vasos
+            - Glomerulonefritis
+            - Nefritis intersticial/Pielonefritis crónica
+            - Quísticas/Hereditarias/Congénitas
+            - Enfermedad vascular renal
+        - Nefropatía analgésica ↓
+            - Nefropatía de lenta progresión debido a la ingestión de **AINEs**
+            - El síntoma inicial más común es la {{**poliuria**}}
+            - Semiología→Hematuria macroscópica, Necrosis papilar, Calcificaciones renales, Nefritis intersticial crónica
+        - Teoría de la nefrona íntegra de Brenner ↓
+            - La pérdida de función renal **no es homogénea** entre todas las nefronas
+            - Las nefronas funcionantes tratan de compensar la falta de nefronas** aumentando el FG** (hiperfiltración adaptativa)
+            - ↑Presión capilar glomerular ⇒ **Proteinuria**
+            - Hipertrofia glomerular ⇒ ↑TGFb ⇒ **Glomeruloesclerosis**
+        - Papel de la Angiotensina-II en la esclerosis renal progresiva
+            - ↑FGF, PDGF, HGF, IGF-1 ⇒ Depósito de **matriz extracelular**
+            - ↑TGFb ⇒ ↓**Metaloproteinasas**, ↑Inh. Metaloproteinasas
+            - ↑NF-ĸB ⇒ ↑TNF, MCP-1, RANTES (CCL5) ⇒ **Infiltración celular **en glomérulos e intersticio
+    - Fisiopatología
+        - Balance de Na+ en IRC
+            - Na+ **excretado**→Constante (inicialmente ↑)
+            - Na+ **fitrado**→Disminuye
+            - Fracción de excreción de Na+ (%)→Aumenta
+            - Natremia→Disminuye (fases finales)
+        - Alteraciones hidroelectrolíticas ↓
+            - **Hiperpotasemia**
+            - ↓ **Concentración** ⇒ Poliuria, Nicturia ⇒ Deshidratación
+            - ↓ **Dilución** ⇒ Hiponatremia ⇒ Edemas (estadios finales)
+            - **Isostenuria** (osmolaridad baja y fija de la orina)
+            - FeNa **30%** o TFG **<10-20**mL/min→**Edemas y HTA**
+        - Alteraciones ácido-base ↓
+            - **Acidosis **metabólica (FG < 20 ml/min)
+            - ↓Buffer **fosfato** urinario (FG<30 ml/min)
+            - ↓Excreción de **NH4**+ (FG <40 ml/min)
+            - ↓Producción de **HCO3**⁻
+            - Hipercloremia, Hipersulfatemia
+            - Normalmente **no hay un gran anion gap** si se produce orina
+        - Alteraciones del metabolismo calcio-fósforo ↓
+            - ↓Dihidroxi-vitamina D→**Hipocalcemia**, Osteomalacia
+            - ↓Excreción de Pi→Acidosis ⇒ **Osteoporosis**
+            - ↑PTH→Osteitis fibrosa quística, Hiperplasia paratiroidea
+        - Toxinas urémicas ↓
+            - **Urea**→↓Cotransportador NKCC2 ↓NO macrofágico
+            - Hidrosolubles : Guanidinas, **Fosfatos** orgánicos, Poliaminas
+            - Liposoblubles : Fenoles, Homocisteína
+            - Moléculas intermedias : **Beta2Microglobulina**, PTH, AGEs
+        - Alteraciones endocrinas ↓
+            - ↓Vitamina D3 activa (calcitriol) ⇒ **Hiperparatiroidismo**
+            - ↓EPO ⇒ **Anemia**
+            - ↑Hormonas vasoactivas ⇒ **HTA**
+            - ↑**Resistencia a la insulina**
+            - ↓Catabolismo de hormonas peptídicas en el túbulo proximal
+            - **↓T3** ↑PRL ↑Gastrina ↑Insulina
+    - Clínica
+        - Síndrome urémico ↓
+            - Astenia, Anorexia, Prurito
+            - Encefalopatía
+            - Miocardiopatía, Neumopatía, Derrames, Edema pulmonar
+            - Náuseas, Dolor abdominal, Sangrado digestivo
+            - Coagulopatía, Anemia
+        - Síntomas generales ↓
+            - **Poliuria-Nicturia** : ↓CCr ↓Concentración
+            - **Hiperventilación** : Acidosis
+            - **HTA**, IC, Pericarditis : Hipervolemia
+            - Astenia, Palidez, Náuseas-Vómitos : ↑Urea, Anemia
+            - Dolores óseos
+            - Alteración ECG : Hiperkalemia, Hipocalcemia, Hiperfosfatemia
+        - Cardiovascular ↓
+            - ↑Riesgo cardiovascular
+            - HTA ⇒ Edema periférico
+            - Arritmias
+            - Pericarditis
+        - Neurológica
+            - Prurito, Dolor óseo, Parestesia
+            - Disfunción motora
+            - Calambres
+            - ↓ Memoria
+            - Apatía
+            - Confusión, Convulsiones, Coma, Cambios en EEG
+        - Endocrino ↓
+            - Resistencia a insulina, Hiperlipidemia
+            - ↑Aldosterona
+            - Malnutrición, ↓Crecimiento
+            - Impotencia, Infertilidad, Amenorrea
+        - Hematopoyesis
+            - Anemia
+            - Trombopenia ⇒ Púrpuras, Hemorragias, Equimosis
+        - Gastrointestinal
+            - Estomatitis, Pancreatitis
+            - Úlceras
+            - Fetor urémico
+            - Vómitos
+            - Estreñimiento
+        - Respiratorio
+            - ↑Probabilidad de infección
+            - Edema pulmonar
+            - Disnea : Respiración de Kussmaul
+        - Electrolitos
+            - Hiponatremia
+            - Hiperkalemia
+            - Hipocalcemia, **Hiperfosfatemia**
+            - Hiperuricemia
+        - Musculoesquelético
+            - Osteoporosis
+            - Debilidad y dolor muscular
+            - Calcificaciones vasculares
+    - Diagnóstico
+        - Indicadores de cronicidad ↓
+            - Anemia. Hipocalcemia. Hiperfosfatemia
+            - Isostenuria
+            - Patología ósea
+            - Ecografía renal: Atrofia renal, adelgazamiento de la cortical
+        - Criterios de diálisis ↓
+            - BUN = 70mg/dL
+            - Creatinina sérica = x10 nivel normal

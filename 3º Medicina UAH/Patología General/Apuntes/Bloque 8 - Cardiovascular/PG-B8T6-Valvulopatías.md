@@ -1,0 +1,293 @@
+- Introducción
+    - Las válvulas cardiacas son:
+        - Válvulas **auriculoventriculares** ⇒ Se abren en **diástole** para permitir que la sangre de las aurículas llene el ventrículo
+            - Válvula **mitral**: separa la aurícula **izquierda** del ventrículo izquierdo
+            - Válvula **tricúspide**: separa la aurícula **derecha** del ventrículo derecho
+        - Válvulas **ventrículoarteriales** ⇒ Se abren en **sístole** para permitir la salida de la sangre hacia las arterias cuando los ventrículos se contraen
+            - Válvula **aórtica**: separa el ventrículo **izquierdo** de la **aorta**
+            - Válvula **pulmonar**: separa el ventrículo **derecho** de la **pulmonar**
+    - Alteraciones en la apertura de las válvulas cardiacas: son las **estenosis** valvulares, que se caracterizan por un estrechamiento de la válvula que impide que esta se abra de forma adecuada. Esto se traduce en la dificultad al paso del flujo de sangre a través de la válvula. Las consecuencias serán la insuficiencia del órgano hacia el que iba dirigido la sangre y la generación de grandes gradientes de presión para lograr empujar la sangre a través del orificio estrecho (mecanismo de compensación)
+    - Alteraciones en el cierre de las válvulas cardiacas: son las **insuficiencias** valvulares, que se caracterizan por el cierre inadecuado de la válvula que determina una regurgitación de la sangre. Esto se traduce en un volumen excesivo de sangre remanente en las cámaras cardiacas, que determina la dilatación de las mismas.
+- Estenosis mitral
+    - La estenosis mitral es la **reducción del área valvular mitral** por debajo de 2,5 cm² que produce un aumento de la resistencia al flujo en {{08449771696903019::**diástole**}}
+    - Etiología
+        - **Fiebre reumática** (más frecuente antiguamente)
+        - **Estenosis aórtica** (más frecuente, depende del envejecimiento)
+        - Congénita ⇒ Cor **triatriatum**
+        - Conectivopatías autoinmunes (lupus eritematoso, artritis reumatoide)
+        - Por **tumor carcinoide , mixoma**
+        - Tratamiento con **metisergida**
+        - Por trombos, vegetaciones
+        - Por **calcificación del anillo mitral**
+    - Anatomía patológica
+        - El proceso inflamatorio de la fiebre reumática determina: • Fusión de las comisuras valvulares. • Engrosamiento de los velos valvulares. • Fusión, engrosamiento y acortamiento de las cuerdas tendinosas. • Calcificación de todas las estructuras citadas.
+    - Fisiopatología y clínica
+        - Para que la reducción del área no suponga una reducción del gasto cardiaco es preciso un **aumento del gradiente de presión** a través del orificio (desde la aurícula izquierda)
+        - En los pacientes sanos, como la válvula mitral está abierta en la **diástole**, las presiones de la aurícula y del ventrículo se igualan. En los casos de estenosis mitral, **se mantiene la diferencia de presión**, permitiendo el paso de la sangre a gran velocidad
+        - **Sobrecarga auricular izquierda con dilatación progresiva**
+            - **Dilatación** de la aurícula izquierda ⇒ **Desestructuración** de la transmisión del impulso eléctrico ⇒ **Arritmias auriculares** (Fibrilación auricular, Flutter auricular)
+            - Estasis, Arritmia ⇒ Agregación plaquetaria ⇒ **Trombosis y embolia**
+            - La {{7813454564486235::**hipertensión pulmonar**}}{{7813454564486235:: }}compensa el aumento de la presión en la aurícula izquierda y “enmascara” el cuadro (no hay disnea)
+            - **Tos** debido a que la dilatación de la aurícula empuja a los bronquios y los irrita
+        - **Elevación de la presión venosa y capilar pulmonar**
+            - Aumento **retrógrado** de la presión en todo el lecho capilar que rodea a los alveolos
+            - **Congestión del lecho pulmonar**
+                - En **elevaciones agudas** de la presión ⇒ Estenosis severas, Fibrilación auricular
+                - **Ortopnea**←**Signo cardinal** de la insuficiencia cardiaca izquierda. La superficie de intercambio gaseoso disponible cuando el paciente está tumbado
+                - **Disnea de esfuerzo** ⇒ Signo característico, pero no excluyente, pues la causa más común es la obesidad y el sedentarismo
+                - **Disnea paroxística nocturna − Asma cardial − Tos en decúbito**
+                - **Edema agudo de pulmón** ⇒ Expectoración rosada
+                - **Hemoptisis** ⇒ Dilatación y ruptura de venas bronquiales
+            - **Hipertensión pulmonar**
+                - Elevación de la presión lenta y progresiva
+                - Compensación (para **evitar edema**) ⇒ **Contracción** vascular y remodelamiento ⇒ Reducción irreversible de la luz vascular ⇒ **↑Resistencia** ⇒ **HTP**
+                - ↑Presión en vasos **precapilares** pulmonares ⇒ Transmisión **retrógrada** ⇒ Dilatación de VD ⇒ Insuficiencia cardíaca **derecha**
+                - ↑PVY, Edemas, **varices** en las **piernas** , hepatomegalia, hepatalgia postprandial
+                - La causa más frecuente de insuficiencia cardiaca derecha es la {{27270598555779335::**insuficiencia cardiaca izquierda**}}
+        - **Reducción del gasto cardíaco**
+    - Semiología
+        - Auscultación cardíaca
+            - **Soplo mesodiastólico o soplo diastólico de llenado** ⇒ Retumbo diastólico de baja frecuencia, correspondiente al paso de sangre a través de la válvula mitral estenosada
+            - **Arrastre presistólico** ⇒ Contracción de la aurícula **izquierda** que trata de empujar la sangre a través de la válvula mitral estenosada
+            - **Primer tono fuerte** ⇒ Cierre de las válvulas auriculoventriculares
+            - **Segundo tono** ⇒ Cierre de las válvulas ventriculoarteriales
+            - **Chasquido de apertura mitral**: tras el segundo tono
+            - Fibrilación auricular←Desaparece el **arrastre presistólico**, ya que este se debía a la contracción auricular
+            - Calcificación de la válvula←El **primer tono** se hace débil o inaudible y el **chasquido desaparece**
+        - Auscultación pulmonar
+            - Congestión pulmonar ⇒ **crepitantes pulmonares** {{9930823984431336::**bilaterales**}} que ascienden de base a vértice según la congestión es más grave
+            - Los crepitantes en casos leves pueden afectar sólo a la base {{30941059753713507::**derecha**}} (muy raro)
+            - Edema alveolar ⇒ **crepitantes** {{8300413111281999::**gruesos dispersos**}}{{8300413111281999:: (olla hirviendo)}}
+            - Asma cardial ⇒ **sibilancias, hipoventilación y espiración prolongada**
+        - **Pulso arterial**→**Normal** o **pequeño**. Si hay fibrilación es irregular y rápido
+        - **Presión venosa yugula**r→El aumento de presión pulmonar puede determinar una sobrecarga del ventrículo derecho, con **insuficiencia** **cardiaca** **derecha**, que origina **ondas "a" grandes** y, si hay insuficiencia tricúspide asociada, **ondas "v" grandes**
+        - **Chapetas malares**↔Signo típico de **estenosis mitral en mujeres**
+    - Diagnóstico
+        - Electrocardiograma
+            - Signos de **crecimiento auricular izquierdo**, que se traduce en una onda **P > 0,12 s (bimodal)**
+            - En la **derivación II**, tendrá aspecto de M (con dos cúspides) y en **V1 será bifásica** con una segunda componente (la de la aurícula izquierda) profunda y ancha, de más de 1x1 mm
+            - Cuando existe fibrilación auricular no existen estos signos, porque **no hay onda P**
+        - Radiología
+            - Signos cardíacos ⇒ **Signos de crecimiento auricular izquierdo**. En la radiografía PA, se aprecia doble contorno auricular izquierdo, levantamiento del bronquio principal izquierdo (por apertura de la carina) y se observa la orejuela izquierda debajo del cono de la arteria pulmonar (3ercontorno). No hay crecimiento ventricular izquierdo.
+            - Signos vasculares pulmonares: dependen del grado de elevación de la presión en la aurícula izquierda. En orden de incremento de presión, se aprecia:
+                - 1. Redistribución vascular
+                - 2. Edema intersticial (se manifiesta como líneas A, B y C de Kerley), cisuras visibles, edema peribronquial y desdibujamiento de los hilios
+                - 3. **Infiltrado** alveolar **algodonoso**, en **alas de mariposa** en torno a los hilios, típico de edema de pulmón
+            - Si existe hipertensión pulmonar reactiva, se apreciará aumento de las arterias pulmonares en los hilios y en las formas severas, disminución de la vascularización pulmonar periférica. En esos casos, es frecuente hallar **signos de crecimiento de ventrículo y aurícula derechas**
+        - **Ecocardiografía**←Diagnóstico definitivo
+            - La anatomía de la válvula, medir su área, observar su grado de calcificación, engrosamiento y movilidad
+            - La existencia de {{016731279313616954::**abombamiento diastólico**}} de la válvula es diagnóstico
+            - El gradiente transvalvular, el área funcional y la existencia de insuficiencia asociada
+            - El tamaño de la aurícula izquierda, y de las cavidades derechas
+            - La existencia de insuficiencia tricúspide, habitual cuando hay sobrecarga de cavidades derechas, y permite medir la presión pulmonar
+        - Cateterismo cardíaco ⇒ No es necesario hacerlo hoy día para el diagnóstico de estenosis mitral, sólo se indica para planear la cirugía en pacientes con riesgo de tener lesiones en las arterias coronarias. Permite medir el gradiente de presión y calcular el área valvular, aunque de forma menos fiable que el eco
+- Estenosis aórtica
+    - La estenosis aórtica es la reducción del área valvular aórtica por debajo de 1,5 cm2 que produce un aumento de la resistencia al flujo en **sístole** (estenosis severa < 1 cm2 y estenosis crítica < 0,7 cm2 de área.)
+    - Es la lesión valvular trascendente más frecuente en los países occidentales
+    - Etiología
+        - La estenosis aórtica puede ser **congénita** o **adquirida** en edad adulta
+        - La estenosis del adulto tiene distintas edades de presentación según su etiología
+        - < 60 años ⇒ **estenosis aórtica reumática** (24%). Siempre asociada a estenosis mitral, que es más grave que la estenosis aórtica
+        - 60-75 años ⇒ **degeneración de la válvula aórtica bicúspide** (43%)
+        - 75 años ⇒ **degeneración fibrosa y calcificada de la válvula aórtica** (31%)
+        - Cualquier persona puede padecer estenosis aórtica, pero existe una serie de factores de riesgo que aumentan el estrés sobre la válvula aórtica y dañan al endotelio, como la **HTA** o la **dislipemia** (↑ colesterol)
+        - La **HTA** es la principal causa de insuficiencia cardiaca en occidente, pues como el corazón se tiene que hipertrofiar para bombear a más presión ante el aumento de la tensión arterial, se generará una insuficiencia cardiaca diastólica
+    - Fisiopatología
+        - Reducción del área valvular ⇒ Aumento de la **resistencia a la eyección aórtica**, que provoca un **aumento de la postcarga** ⇒ Mecanismos de **compensación**
+        - ↑SRAA, ↑Catecolaminas ⇒ ↑Contractilidad miocárdica, ↑Volemia
+        - ↑Volumen telediastólico ⇒ Ley de Frank-Starling ⇒ ↑Inotropismo
+        - ↑Presión de eyección ⇒ **Hipertrofia** ventricular izquierda **concéntrica progresiva**
+        - ↓Espacio ventricular ⇒ ↓Volumen diastólico ⇒ ↑Presión de aurícula izquierda ⇒ **Hipertensión pulmonar**
+    - Clínica
+        - Tríada clínica clásica→**Síncope, Angina (isquemia relativa) , Disnea** (IC derecha)
+        - Síncope
+            - Debido a una reducción brusca y transitoria del flujo cerebral, se produce una pérdida abrupta de conocimiento, sin pródromos y con flacidez, seguida de una recuperación completa. El flujo cerebral disminuye como consecuencia de la **reducción del flujo a través de la válvula aórtica estenosada y de alteraciones autonómicas del tono** debidas a la acción de receptores de presión intracardíacos
+            - Como ya sabemos, el ventrículo tiene que aumentar el gradiente de presión para poder vencer la resistencia a la eyección sin disminuir el gasto cardiaco. En los casos de estenosis aórtica es severa, el gradiente de presión entre el ventrículo y la aorta es de, al menos, 64 mmHg. Esto significa que la diferencia de presión entre la aorta y el ventrículo es de ≥ 64 mmHg. Si sabemos que la tensión arterial normal es de 120 mmHg (presión de la aorta) y que el gradiente de presión es de, por ejemplo, 65 mmHg, la presión dentro del ventrículo será de 185 mmHg (185 mmHg - 120 mmHg = 64 mmHg). Si el paciente hace un esfuerzo que aumente la presión arterial, la presión a la que el ventrículo tiene que bombear tendrá aumentar todavía más. Aquí es cuando los barorreceptores intraventriculares detectan una presión brutal dentro del ventrículo y ponen en marcha un mecanismo de defensa que consiste en una vasodilatación generalizada para disminuir de forma brusca la tensión arterial. La vasodilatación hace que llegue menos sangre al cerebro y, en consecuencia, se produce el síncope
+            - El objetivo de este mecanismo de defensa es proteger al cerebro, pues se trata de un tejido blandito y gelatinoso cuyos vasos podrían reventar y dar lugar a una hemorragia cerebral ante un aumento grande de la tensión arterial. *La principal causa de hemorragias intracraneales es la HTA no controlada. El problema es que, como los barorreceptores son intraventriculares, no detectan la presión arterial, sino la presión dentro del ventrículo. Entonces, ante un aumento de presión dentro del ventrículo, los barorreceptores “deducen” que se debe a un aumento de la presión sistémica y ponen en marcha el mecanismo de defensa para proteger al cerebro. Sin embargo, la presión arterial no era tan alta. Los barorreceptores carotídeos son los que detectan realmente los cambios en la presión arterial
+            - En resumen, como el aumento de la presión se ha producido en el interior del ventrículo, y no en la circulación sistémica, la vasodilatación generalizada provoca un síncope porque la presión real en el cerebro no era la misma que en el ventrículo
+            - La hipertrofia ventricular favorece la desestructuración de la transmisión del impulso eléctrico a través del ventrículo, lo que provoca la aparición de **arritmias ventriculares rápidas**, que también pueden desencadenar síncope
+        - Angina
+            - **Dolor** anginoso típicamente al hacer **esfuerzo**
+            - Aumento de la presión intraventricular ⇒ Aumento del consumo de oxígeno
+            - Aumento de la masa ventricular sin aumento del número de vaso ⇒ **isquemia relativa**
+            - No hay un aporte de energía suficiente para la cantidad de músculo y la carga de trabajo que se está realizando
+        - Disnea de esfuerzo e insuficiencia cardíaca izquierda
+            - Disminución de la complianza ventricular y de su capacidad de relajación ⇒ al recibir un mismo volumen de sangre en la diástole lo ha de hacer a mayor presión. Ese aumento de la presión telediastólica se transmite hacia la aurícula y hacia las venas pulmonares, causando congestión pulmonar y clínica de insuficiencia cardiaca izquierda
+            - Disminución del gasto anterógrada ⇒ determina fatigabilidad e hipoperfusión periférica
+        - Mas raramente, se puede producir clínica de fracaso derecho: **edemas, hepatomegalia, aumento de la presión venosa**... Esto se debe al engrosamiento del septo interventricular, que produce una reducción de la distensibilidad del ventrículo derecho, y al aumento de la presión pulmonar por el propio fallo izquierdo
+        - La **aparición de síntomas es tardía** en la evolución de la enfermedad y determina un muy mal pronóstico. Los pacientes con estenosis aórtica que presentan insuficiencia cardiaca tienen una mortalidad del 50% a 2 años; mientras que, los pacientes con estenosis aórtica que presentan angina o síncope tienen una mortalidad del 50% a 3 años
+    - Semiología
+        - Auscultación cardiaca
+            - **Soplo** durante la **eyección** de carácter creciente, rugoso, en foco aórtico y en la punta
+            - Segundo tono con **desdoblamiento paradójico** por prolongación de la eyección
+            - Estenosis severa ⇒ ↑Longitud e intensidad del soplo ⇒ **Segundo tono borrado**
+            - **Cuarto** tono ⇒ Contracción fuerte de la aurícula izquierda
+        - **Auscultación pulmonar**→Estertores gruesos y crepitantes pulmonares solo cuando se asocie insuficiencia cardíaca izquierda
+        - **Pulso arterial**→Pequeño y tardío (parvus et tardus). Tensión de pulso baja (la **HTA** puede excluir estenosis aórtica severa)
+        - Pulso venoso→ **Onda "a" elevada** (contracción auricular) debido a la mala relajación del septo, que afecta al **ventrículo derecho**
+        - El latido de la punta del corazón es enérgico, sostenido y desplazado hacia abajo y hacia la izquierda. En estenosis severas, podemos palpar un temblor o frémito en el corazón y en las carótidas
+    - Diagnóstico
+        - Radiología
+            - Existe **crecimiento de ventrículo izquierdo** (silueta desplazada hacia abajo y hacia la izquierda), y frecuentemente elongación de la aorta y crecimiento auricular izquierdo
+        - Electrocardiografía
+            - Signos de **hipertrofia ventricular** como los descritos en la **insuficiencia mitral**
+            - Habitualmente con **alteraciones de la repolarización** en derivaciones **izquierdas** (I, aVL, V5 y V6), consistentes en **descenso del ST** e **inversión de la onda T**
+            - R enormes en las derivaciones izquierdas y S profundas en las derivaciones derechas
+            - Criteros de **Sokolow-Lyon** y **Cornell**
+        - Ecocardiografía
+            - Permite el diagnóstico a partir de la detección de la hipertrofia, la medida de la función ventricular y el registro del gradiente de presión de ventrículo izquierdo a aorta. En la ecografía transesofágica podemos medir el área de apertura valvular. La Eco-Doppler mide la velocidad del flujo y nos permite gradientes de presión en función de la velocidad del flujo (a mayor velocidad, mayor gradiente de presión)
+- Insuficiencia mitral
+    - La insuficiencia mitral es la **existencia de flujo desde el ventrículo hacia la aurícula izquierda** durante toda o parte de la sístole
+    - Etiología
+        - Causas generales
+            - **Reumática**: La válvula se engruesa, se calcifica, y esto provoca que no se cierren bien los bordes de la válvula, y por tanto insuficiencia
+            - **Isquémica**
+            - **Degenerativa**: Por calcificación a medida que envejecemos
+            - **Prolapso mitral**: Los velos son blandos y se desplazan inadecuadamente hacia atrás.
+            - **Traumatismos**: Por ejemplo, el golpe del volante en el tórax. Este traumatismo comprime el corazón bruscamente y puede romper tanto el corazón como sus válvulas; provocando insuficiencias valvulares agudas
+        - Anomalías del anillo mitral
+            - Toda aquella causa de **dilatación del ventrículo izquierdo** supone una dilatación del anillo mitral, y puede producir por ello insuficiencia
+            - La **calcificación** del anillo por **envejecimiento**, en **hiperparatiroidismo** y pacientes de diálisis también es causa de insuficiencia mitral
+        - Anomalías de las valvas
+            - Las válvulas se pueden afectar por la fiebre reumática, como causa muy frecuente en nuestro medio, y también por endocarditis infecciosa y los traumatismos torácicos, penetrantes o no
+            - En el prolapso mitral, una causa muy frecuente de insuficiencia mitral, se combina la existencia de unas valvas redundantes y laxas con unas cuerdas tendinosas elongadas, lo que permite la inversión de las valvas hacia la aurícula, impidiendo un cierre correcto de la válvula
+        - Anomalías de las cuerdas tendinosas
+            - La ruptura de las cuerdas tendinosas puede ser espontánea, sobre todo en pacientes hipertensos, o tras traumatismos, endocarditis o fiebre reumática
+        - Anomalías de los músculos papilares
+            - Pueden ser tanto congénitas como por isquemia del músculo, que provoca una mala función transitoria o definitiva, especialmente en el infarto de miocardio.
+            - Dado que el músculo papilar {{8620208157798852::**posterior**}} está irrigado por la **coronaria derecha** de forma exclusiva, y el anterior por las arterias circunfleja y descendente anterior, **la disfunción del músculo** {{8620208157798852::**posterior**}} **es más frecuente** (tiene una única fuente de alimentación)
+            - En los infartos {{1540985000663706::**inferiores**}}, producidos por oclusión de la coronaria {{1540985000663706::**derecha**}}, es más frecuente la **insuficiencia mitral**
+    - Fisiopatología y clínica
+        - Forma aguda
+            - **Reflujo** de sangre desde el VI hacia la aurícula izquierda durante la **sístole** ⇒ Sobrecarga de volumen y ↑presión en aurícula izquierda ⇒ **Edema agudo pulmonar**
+            - Las roturas de la válvula mitral **no tienen mecanismos compensatorios** y causan la **muerte** en pocos minutos
+            - La desviación del flujo hacia la aurícula, puede provocar disminución del gasto y síntomas de **fallo anterógrado** ⇒ Debilidad, palidez, frialdad y ↓nivel de conciencia
+        - Forma crónica
+            - La causa más común en occidente es el **prolapso mitral** (válvula muy distendida)
+            - Adaptación de la aurícula izquierda ⇒ Hipertrofia, Dilatación ⇒ **Fibrilación auricular**
+            - **Dilatación exagerada** de corazón izquierdo ⇒ ↓Capacidad de contracción ⇒ Descompensación ⇒ **IC izquierda tardía**
+    - Semiología
+        - Auscultación
+            - **Soplo** {{05084978832672826::**holosistólico**}} de intensidad constante y alta frecuencia, que va desde el **1º al 2º tono** ⇐ Paso de la sangre desde el ventrículo izquierdo a la aurícula izquierda
+            - Es un soplo más **largo**, **menos rugoso**, debido a que la sangre pasa hacia atrás a poca presión y durante toda la sístole (a diferencia del soplo de la estenosis aórtica)
+        - Palpación
+            - A la hora de palpar el corazón, es habitual notar el **corazón grande** ⇒ Punta hacia la izquierda y más hacia la axila
+            - Latido lento y anormal (dos golpes) ⇒ El segundo latido es el **tercer tono**
+            - Diferencia con la estenosis mitral, en la que solo crece la **aurícula**
+        - Pulso
+            - Pulso **pequeño** y **rápido**, característico de la insuficiencia mitral
+        - Presión venosa yugular
+            - La presión venosa yugular **no se altera hasta fases avanzada**s de la enfermedad
+            - Cuando se afecta, puede estar elevada de forma global, con la **onda A** aumentada y la **onda V** prominente si existe insuficiencia tricúspide asociada
+    - Diagnóstico
+        - ECG
+            - Muestra **crecimiento** auricular y ventricular **izquierdo**
+            - 1. **↑R** en derivaciones **izquierdas** y **↑S** en desviaciones **derechas**
+            - 2. **Ensanchamiento del QRS**
+            - 3. Desviación del eje eléctrico hacia la **izquierda**
+            - 4. Alteraciones de la repolarización ⇒ menos frecuentes que cuando hay sobrecarga de presión
+            - También se puede producir fibrilación auricular, aunque es menos frecuente
+        - Radiología
+            - **Crecimiento auricular izquierdo**, salvo el crecimiento de la **orejuela**
+            - Signos de **crecimiento del ventrículo izquierdo**: aumento de la silueta cardiaca hacia abajo y hacia la izquierda en la Rx PA
+            - En situaciones avanzadas aparecen los signos de **congestión venosa pulmonar**
+        - Ecocardiografía
+            - Es importantísimo el **diagnóstico precoz** en esta patología, porque si se diagnostica cuando ya es sintomático, el corazón está en un cambio irreversible
+            - Si en una Rx vemos el corazón grande y escuchamos el soplo holosistólico, es imprescindible realizar la ecografía
+            - Cuando se produce una endocarditis (que cada vez son más frecuentes), si las bacterias llegan a las válvulas, va a ser un problema grave. Esto es debido a que las válvulas no tienen vasos, por lo cual no va a haber ningún monocito que pueda fagocitarlas. Así, las bacterias producirán insuficiencia de la válvula y el único tratamiento posibles es la prótesis valvular
+            - La cuantificación de la insuficiencia mitral es menos fiable por ecografía que para la evaluación de la estenosis mitral, y muchos autores consideran que el patrón para el diagnóstico es mejor hacerlo con cateterismo cardíaco. Sin embargo, con técnicas ecográficas más finas, entre ellas la ecografía transesofágica, el diagnóstico es mucho más fiable, y el hecho de que pueda repetirse sin daño durante el seguimiento hace que sea la técnica de elección. De hecho, es la técnica que lleva a la indicación de cirugía de reemplazo valvular. El cateterismo cardíaco se hará sólo en casos de duda diagnóstica y para el estudio de lesiones coronarias
+- Insuficiencia aórtica
+    - La insuficiencia aórtica es un defecto patológico en el cierre de la válvula aórtica, que provoca el **regreso de sangre desde la aorta hacia el VI** durante la diástole
+    - Etiología
+        - **Endocarditis aguda, traumatismo, causas degenerativas**
+        - **Disección aórtica**
+        - Fiebre reumática (aunque suele asociarse a lesiones en la mitral o a estenosis aortica)
+        - Causas congénitas (en válvulas malformadas, sobre todo bicúspides),
+        - Hipertensión asociada a necrosis quística de la capa media, a veces en el seno de un síndrome de Marfán
+        - Aortitis sifilítica (muy rara hoy en día)
+        - Conectivopatías autoinmunes (artritis psoriásica y reumatoidea, espondilitis anquilopoyética y otras)
+    - Fisiopatología y clínica
+        - Forma aguda
+            - Mecanismo fisiopatológico igual que en las **insuficiencias mitrales agudas**
+            - La sangre **regresa** hacia el VI ⇒ Aumento brusco de la presión en el VI durante la **diástole** ⇒ **Edema agudo de pulmón instantáneo**
+        - Forma crónica
+            - **Insuficiencia** de la válvula **progresiva**
+            - **Dilatación** progresiva del **ventrículo izquierdo** ⇒ Agotamiento de Fran-Starling y complianza ⇒ Facaso izquierdo, Síncope, Angina
+            - ↑Volumen de eyección (**↑Presión sistólica)** y Reflujo diastólico (**↓Presión diastólica)** ⇒ **Tensión diferencial alta**
+    - Semiología
+        - Auscultación cardíaca
+            - Soplo **diastólico muy suave** tras 2º tono (por regurgitación desde la aorta al VI)
+            - Cuanto más {{7890934937459382::**corto**}} es el soplo, más grave es la insuficiencia aórtica (agujero grande)
+            - **Es más fácil oír una insuficiencia aórtica** {{6003660207071313::**leve**}} (dado que el soplo es más largo) que una grave
+        - Pulso
+            - Pulso muy **rápido** y **alto**, que luego desaparece
+            - Signo típico ⇒ **Hipertensión sistólica aislada**, con una presión diferencial elevadísima (**190/3 mmHg**)
+            - Este pulso también es característico de otras situaciones como cuando hay mucha dilatación (por la **fiebre**), o en el **hipertiroidismo**
+            - La hipertensión sistólica aislada provoca **signo de Corrigan**→Cuando el paciente cruza las piernas, las arterias le impulsan la pierna al ritmo del latido del corazón
+        - Latido de la punta ⇒ Rápido, amplio y desplazado hacia la izquierda y abajo cuando existe crecimiento cardiaco (por dilatación del ventrículo izquierdo)
+    - Diagnóstico
+        - Radiografía simple de tórax. La radiografía suele mostrar un **ventrículo izquierdo dilatado** (por tanto, el corazón es muy grande), mayor que en la estenosis aortica y una dilatación de la aorta ascendente debido al gran volumen de sangre que recibe. Son frecuentes el crecimiento auricular izquierdo, y la dilatación de la aorta.
+        - Electrocardiograma. Hay dato de **voltaje alto por crecimiento ventricular**, con alteraciones de la repolarización. El ecocardiograma y la ecografía son de nuevo la clave del diagnóstico, puesto que permiten detectar y medir el grado de insuficiencia y su repercusión sobre el ventrículo. De hecho, el criterio que indica la cirugía en pacientes asintomáticos es el diámetro ventricular tele sistólico medido con ecografía
+- Lesiones de las válvulas derechas
+    - Etiopatogenia
+        - El corazón derecho es un sistema de baja presión (presión auricular derecha de 0-3 mmHg y presión ventricular derecha de 35 mmHg), y trabaja fundamentalmente como bomba de volumen. Eso implica un escaso desgaste mecánico de las válvulas, por lo que no existe enfermedad valvular por degeneración ni por calcificación
+        - La enfermedad reumática, otra causa muy frecuente de valvulopatías del corazón izquierdo, afecta **muy raramente** a las válvulas derechas. Fundamentalmente puede producir estenosis e insuficiencia tricúspide, y rarísimas veces enfermedad de la válvula pulmonar. En cualquier caso, si afecta a válvulas derechas lo hace conjuntamente con afección de la mitral y la aórtica, y no suele ser el problema fundamental. Por tanto, **las valvulopatías derechas clínicamente tienen poca relevancia**
+        - El **aumento de la presión en las cavidades derechas** produce dilatación de las cavidades derechas, no preparadas para soportar aumentos de presión. Esa dilatación estira los anillos de las válvulas tricúspide y pulmonar, y origina insuficiencia de ambas válvulas. La causa más frecuente de insuficiencia tricúspide y pulmonar es el aumento de presión en cavidades derechas por insuficiencia cardiaca izquierda (que hace que se acumule sangre en el lado derecho)
+        - Por todo lo anterior, las **valvulopatías derechas puras primarias son muy raras**, y son debidas a causas poco habituales: malformaciones congénitas (estenosis tricúspide y pulmonar congénitas, insuficiencia tricúspide por malformación de Ebstein), tumores cardíacos (mixomas, angiosarcomas), enfermedades sistémicas (síndrome carcinoide, lupus) y endocarditis infecciosa o marasmática
+    - Fisiopatología y clínica
+        - Las cavidades derechas toleran **bien** las {{6403404003234399::**insuficiencias**}} y toleran **mal** las {{6403404003234399::**estenosis**}}
+        - Las cavidades derechas son cámaras de volumen, por lo que **toleran muy bien las insuficiencias** (que son sobrecargas de volumen). En ausencia de hipertensión pulmonar o fallo derecho, las insuficiencias tricúspide y pulmonar no dan síntomas. De hecho, se puede vivir sin problemas sin esas válvulas, lo cual permite la extirpación de la tricúspide en drogadictos con endocarditis derecha de repetición
+        - Pero, es más, también se puede vivir sin ventrículo derecho. En los niños que nacen con malformaciones congénitas graves (como atresia de la tricúspide que significa que la tricúspide está cerrada y no puede pasar la sangre, y si se cierra el foramen oval, el niño se muere), se introduce un catéter en la aurícula derecha, y se perfora el tabique interauricular para que la sangre pueda pasar de las cavidades derechas. También, se realiza una conexión directa de las cavas a la pulmonar y se excluye por tanto al corazón derecho. La sangre puede seguir llegando de vuelta al corazón por dos razones: la presión negativa del tórax al inspirar y el movimiento de las piernas por la compresión que realizan los músculos sobre las venas
+        - Por el contrario, el corazón derecho **tolera mal las sobrecargas de presión** (es decir, las estenosis), por lo que la estenosis tricúspide y pulmonar tienen una repercusión mayor. Las estenosis del corazón derecho principalmente van a ser congénitas. Las estenosis tricúspide o pulmonar provocan una falta de flujo sanguíneo a lo pulmones; por lo que van a ser pacientes que tendrán un **soplo** como el de la estenosis aórtica, pero en el lado izquierdo (aunque suene raro, dado que la pulmonar se ausculta en el lado izquierdo); y el paciente tendrá en el electrocardiograma crecimiento de ventrículo derecho y el resto de las características que tenía la estenosis aórtica, pero llevadas al lado derecho
+        - El principal problema se va a dar cuando las insuficiencias tricúspide o pulmonar sean en pacientes con hipertensión pulmonar; porque se produce un aumento de la resistencia que el ventrículo derecho no puede tolerar. Sin embargo, como hemos dicho, esto suele ser secundario a patología del corazón izquierdo
+        - La clínica que van a tener los pacientes con lesiones valvulares derechas (en los que se produce un aumento de la presión en las cámaras derechas) es la clínica típica de **insuficiencia cardiaca derecha**: edemas, congestión hepática y esplácnica, y reducción del gasto derecho, que causa hipoperfusión pulmonar y fatigabilidad.
+    - Semiología y diagnóstico
+        - Una estenosis **tricúspide** suena exactamente igual que una estenosis **mitral**, y el de una estenosis **pulmonar** suena exactamente igual que el de una estenosis **aórtica**. Sin embargo, los podemos diferenciar debido a que todas aquellas circunstancias que hacen que aumente el flujo del lado derecho del corazón, hacen que esos soplos aumenten
+        - » Rivero-Carvallo. Aumento con la inspiración
+        - » Maniobra de **Müller**. Aumento al elevar las piernas
+        - » Maniobra de **Valsalva**. Aumento al apretar el vientre
+        - La prueba diagnóstica por excelencia es la ecocardiografía (como en el resto de las valvulopatías). En el electro, podemos observar crecimiento de cámaras derechas. En la placa de tórax también se puede observar crecimiento de cavidades derechas
+    - Estenosis tricuspídea
+        - Etiología
+            - La más frecuente, **reumática**, que sólo afecta al 15% de los casos, siempre asociada a **estenosis** **mitral** y con repercusión clínica sólo en un 5% de los casos
+            - Las demás, raras: **estenosis** y **atresia** **congénitas**, tumores cardíacos (**mixoma** y **angiosarcoma**) y síndrome carcinoide, con **fibrosis valvular** debida a sustancias liberadas por algunos tumores a la sangre
+        - Fisiopatología
+            - **Restricción** del **llenado** del **ventrículo derecho**
+            - Compensación ⇒ ↑Presión en aurícula derecha ⇒ Insuficiencia **derecha**
+            - **Se reduce el flujo hacia el pulmón** ⇒ Si existe insuficiencia cardiaca izquierda o enfermedad valvular izquierda, los signos de **congestión** pulmonar se **reducen**
+        - Semiología
+            - Presión venosa→**onda "a" gigante** por la contracción vigorosa de la aurícula, que desaparece en fibrilación auricular , y un **seno "y" pequeño**
+            - Existe {{8621637311833203::**hepatomegalia**}} con **pulsación presistólica**, equivalente a la onda "a", que desaparece en FA
+            - Soplo igual a la estenosis mitral→**Arrastre presistólico**, chasquido de apertura y retumbo diastólico, que aumenta en inspiración y al alzar las piernas, y se oye mas en foco paresternal derecho bajo
+            - Si hay estenosis mitral asociada→↓Signos de congestión pulmonar
+            - ECG→Si hay ritmo sinusal, se ve **crecimiento de aurícula derecha**: onda P **alta** en II, y primera deflexión de la P en V1 alta y **ancha**
+            - Rx. Crecimiento de la aurícula derecha (aumento del contorno cardiaco derecho en la radiografía posteroanterior) y de la vena ácigos.
+    - Insuficiencia tricuspídea
+        - Etiología
+            - Lo más frecuente es que suceda por aumento de la presión en **ventrículo derecho** y dilatación del anillo, bien por **HTP** o por **fallo ventricular derecho** (o ambos)
+            - Eso sucede ante todo en **insuficiencia cardiaca izquierda** y en enfermedades pulmonares crónicas. Sucede más raramente en el infarto del ventrículo derecho
+            - Es frecuente también la insuficiencia tricúspide por **endocarditis**, sobre todo en adictos a drogas por vía intravenosa (**ADVP**)
+            - Causas más raras son la reumática, carcinoide y endocarditis marasmática (inflamación valvular en enfermedades tumorales consuntivas) y en el LES
+        - Fisiopatología
+            - Sólo origina clínica de insuficiencia cardíaca cuando se asocia a **hipertensión pulmonar**
+        - Semiología
+            - Presión venosa→**Onda "v" gigante** con seno "y" profundo y seno "x" pequeño
+            - Auscultación→Soplo **holosistólico** que aumenta con inspiración y al elevar las piernas y se oye más en foco tricúspide
+            - Palpación ⇒ Ventrículo derecho hiperdinámico en los espacio intercostales paraesternales izquierdos
+            - ECG→Si está en ritmo sinusal, crecimiento de AD, y posible crecimiento de VD : Eje derecho, **bloqueo de rama derecha** (QRS ancho de más de 120 ms y R al final del QRS en V1), onda S en I, aVL, V5 y V6. Onda R en V1 y V2, y en aVR
+            - RX ⇒ Crecimiento de AD, de VD y de la arteria pulmonar. El crecimiento del VD se aprecia con elevación de la punta del corazón y, en la lateral, mayor contacto del corazón con el esternón, más arriba del tercio inferior del esternón
+    - Enfermedad de Ebstein
+        - Malformación congénita que cursa con insuficiencia tricúspide y se produce por implantación de la tricúspide en el interior del ventrículo (atrialización del ventrículo derecho)
+    - Estenosis pulmonar
+        - ETIOLOGÍA→Fundamentalmente **congénita**, sola o asociada en malformaciones complejas, como la tetralogía de Fallot o la CIA, en el síndrome de Down. Son rarísimas otras causas, por afección reumática, carcinoide o tumores
+        - FISIOPATOLOGÍA→Se reduce el gasto pulmonar, lo que causa fatigabilidad al esfuerzo. Se origina una **hipertrofia de VD**, que fracasa relativamente pronto, con cuadro de **insuficiencia cardiaca derecha**
+        - SEMIOLOGÍA
+            - **Soplo** **eyectivo** pulmonar con {{6967146200678607::**2º**}} **tono desdoblado** fijo o ausente, que aumenta en inspiración o al elevar las piernas
+            - Aumento de la presión venosa con **onda "a" alta** y **onda "v" alta** si se asocia a insuficiencia tricúspide
+            - ECG: **crecimiento de VD**
+            - RX: Crecimiento de VD con aumento de pulmonar y escasa vascularización pulmonar
+    - Insuficiencia pulmonar
+        - Tiene **poca trascendencia clínica** real. Suele ser 2º a aumentos de presión pulmonar. Sólo cuando hay elevación severa de la presión pulmonar la insuficiencia pulmonar favorece la **insuficiencia cardiaca derecha**
+        - Auscultación: **Soplo diastólico** similar al de la insuficiencia aórtica, decreciente, en foco pulmonar, que aumenta con inspiración y elevación de piernas. En ocasiones, 3º tono y **soplo de Austin-Flint** derecho, similar a una estenosis tricúspide, por la caída de sangre desde la pulmonar hacia la tricúspide, cerrándola y originando estenosis funcional
+        - Palpación: ventrículo derecho hiperdinámico
+        - ECG y Rx: signos de CVD, con perfusión pulmonar aumentada o normal

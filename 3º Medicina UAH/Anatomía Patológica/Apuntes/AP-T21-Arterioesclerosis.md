@@ -1,0 +1,48 @@
+- Grupo de alteraciones patológicas caracterizadas por el engrosamiento fibros de la pared arterial y pérdia de elasticidad de causa inflamatoria o
+- Aterosclerosis
+    - Proceso crónico y progresivo, segmentario e irregular de la pared arteria
+    - Lesión→Placa de ateroma (patognomónico)
+    - Casi fisiológica en edades superiores a los 50 años
+    - Proceso evolutivo
+    - Lesiones iniciales→Estrías grasas
+        - Niños, jóvenes, adultos
+        - La única relacionada con aterosclerosis es la {{30498264404595754::de jóvenes}}
+        - Estrías amarillas en las paredes, células
+- Ateromatosis
+    - Engrosamiento de la íntima y aclaramiento de lípidos
+    - Placa sobreelevada con núcleo lipídico y cubierta fibrosa
+    - Placa de ateroma
+        - Centro necrótico con colesterol, ácidos grasos y calcio
+        - Macrófagos espumosos
+        - Angiogénesis y fibrosis (inflamación)
+        - Células mioíntimas (proliferación de m. liso desde la íntima a la placa de ateroma)
+    - Patogenia
+        - Respuesta inflamatoria crónica de la pared arterial ante una lesión endotelial
+        - Lesión endotelial ⇒ Acumulación de lipoproteínas (LDL) oxidadas ⇒ Fagocitosis ⇒ C. Espumosas
+        - Aumento de permeabilidad ⇒ Plaquetas, monocitos ⇒ Citoquinas ⇒ Inflamación ⇒ Proliferación de células mioíntimas y colágeno ⇒ Aterosclerosis
+        - Penetración de LDL ⇒ Enzimas lisosomales ⇒ Inflamosoma ⇒ IL-1, IL-18
+    - Complicaciones
+        - Trombosis : La más importante
+        - Estenosis
+        - Calcificación distrófica (necrosis)
+        - Ulceración
+        - Hemorragia
+        - Debilidad de pared ⇒ Aneurisma
+    - Clínica
+        - Isquemia
+        - Infarto
+        - Embolia
+        - Aneurisma ⇒ Anemia (sangre coagulada), Hemorragias (coagulopatía de consumo)
+- Hiperplasia fibromuscular de la íntima↕
+    - Arterosclerosis sin ateromatosis
+- Esclerosis por calcificación de la media (enfermedad de Monckeberg)↓
+    - En arterias musculares
+    - Calcificación en anilo
+- Arteriolosclerosis
+    - Mayor repercusión→Arteriola aferente y eferente renal
+    - Hialina
+        - Hialinización de la capa íntima
+        - Estechamiento menor que la hiperplásica
+        - Hipertensión sistólica (hipertensión **benigna**)
+    - Hiperplásica
+        - Hipertensión sistólica y diastólica (**maligna**)

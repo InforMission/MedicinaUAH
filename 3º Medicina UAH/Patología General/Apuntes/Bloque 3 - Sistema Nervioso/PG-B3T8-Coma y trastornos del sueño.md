@@ -1,0 +1,243 @@
+- Introducción
+    - Entre el 3 y el 5% de los pacientes que son llevados a urgencias sufrirán una disminución del nivel de conciencia.
+    - Componentes de la conciencia
+        - **Continente** (activación) : Sistema reticular activador ascendente y sus conexiones polisinápticas (abrir los ojos y parpadear)
+        - Alteración del **continente** ⇒ Coma
+        - **Contenidos** : Contenidos que son cambiantes en cada momento (la mnesis, la praxis, las gnosias)
+        - Alteración de los **contenidos** ⇒ Demencia
+        - Fases de sueño-despertar
+    - Estados de conciencia alterada
+        - Trastornos globales de los contenidos: **Demencias**
+        - Trastornos parciales de los contenidos: **Lesiones focales corticales**
+        - Estados con disminución del mecanismo de activación: Según su intensidad no se podrá evaluar el contenido de la conciencia
+    - 3 estados de consciencia
+        - **Despierto** (Consciencia)
+            - Mecanismo de apagado y encendido : **Sistema reticular activador ascendente (SRAA)**
+                - Neuronas polisinápticas cuyo inicio está en el {{9935592118954832::**tegmento (parte superior) del tercio medio de la protuberancia**}}, justo a la salida del V par.
+                - Asciende por el tegmento del mesencéfalo y atraviesa los {{33572421140291686::**núcleos intralaminares talámicos**}} para distribuirse de forma difusa
+                - Las lesiones que inducen **coma** son aquellas que provocan una **lesión en el SRAA** (lesión en los tálamos, tercio medio de la protuberancia, corteza cerebral...)
+            - Síndrome **afaso-apraxo-amnésico** (Demencia)
+                - En la demencia hay un adecuado nivel de conciencia, el problema es el contenido, no el continente (SRAA)
+        - Sueño No REM
+            - Hay actividad muscular, 3-4 movimientos por hora, sobre todo en fases I y II
+            - Sueños estáticos, pesadillas
+        - Sueño REM
+            - No hay tono muscular : Actividad motora antigravitatoria anulada, movimientos oculares agrupados y periódicos.
+            - Solamente 2 áreas mantienen el tono : Los ojos y la respiración
+            - Componente onírico, actividad mental abundante
+- Parasomnias
+    - Sueño
+        - Ausencia o disminución de los movimientos voluntarios
+        - Escasa respuesta a los estímulos de baja intensidad que en vigilia pueden percibirse normalmente
+        - Duración limitada y reversibilidad del sueño, lo que le distingue del coma
+    - Definición de parasomnia→Componentes habituales de un estado de conciencia que aparecen en otro en el cual no debe de aparecer (todas son patológicas)
+    - 4 grupos de parasomnia según el periodo del sueño cuando aparecen
+        - Trastornos del despertar
+            - Sonambulismo
+            - Despertar confusional
+            - Terrores nocturnos
+        - Trastornos en la transición vigilia-sueño
+            - Movimientos rítmicos durante el sueño
+            - Somniloquia
+            - Sobresaltos nocturno
+            - Calambres nocturnos en las piernas
+        - Parasomnias asociadas al sueño REM
+            - Pesadillas
+            - Parálisis del sueño
+            - Afectación de las erecciones fisiológicas
+            - Asistolia
+            - Trastorno del comportamiento
+            - Actividad muscular durante el sueño REM ⇒ Preámbulo de enfermedades neurodegenerativas
+        - Otras parasomnias
+            - Bruxismo
+            - Apnea del sueño
+            - Síndrome de muerte súbita del lactante
+    - Síndrome narcoléptico catapléjico
+        - **Cataplejia**↔Atonía en estado despierto. Está implicado el núcleo basal de Meinert
+        - **Narcolepsia**↔Somnolencia diurna excesiva acompañada de episodios incontrolables de sueño
+        - Alucinaciones **hipnagógicas** (visiones fugaces en la transición vigilia-sueño) o **hipnopómpicas** (transición sueño-vigilia)
+        - **No varía el tiempo total del sueño**
+        - Se inicia en la adolescencia y **no remite**
+- Trastornos de la conciencia
+    - Obnubilación
+        - Estado de hipersomnolencia, el paciente **se queda dormido si no se le estimula** (se despierta con facilidad con un estímulo verbal)
+        - Inversión del ciclo vigilia-sueño
+        - Se produce desorientación, inicialmente **temporal** y después **espacial**
+        - No mantiene la atención
+        - Lenguaje incoherente y mal articulado
+        - Alucinaciones e ilusiones, El elemento onírico varía constantemente
+        - Puede haber periodos de agitación secundarios a **desinhibición límbica** por afectación cortical, debido al terror provocado por el elemento onírico
+    - Delirium (estado confusional)
+        - Característica→**Variabilidad del nivel de conciencia** (de hipervigilante a completamente inconsciente)
+        - Alucinaciones : Importante el **componente onírico**
+        - Grado más avanzado que la obnubilación : Las alteraciones de los contenidos son más llamativas
+        - Si el elemento onírico y trastorno afectivo son más intensos, se tratará de un {{5532931022773033::delirio orgánico o síndrome confusional agudo}}
+        - Paradigma : **Delirium tremens**→Alucinaciones zoomórficas de animales pequeños producidas por el síndrome de abstinencia del alcohol
+        - Operación de cataratas de un anciano
+    - Estupor
+        - El paciente está permanentemente dormido y requiere estímulos nociceptivos (intensos) para despertarle
+        - Cuando se despierta solo responde con "gruñidos" aislados o sonidos incoherentes, no adaptados a la situación
+        - Cuando se deja de estimular se vuelve a dormir.
+    - Coma
+        - No se puede despertar en ningún momento, falta de respuesta ante estímulos externos o internos
+        - **Estado reversible** que puede evolucionar a un estado vegetativo persistente
+        - **Conservación de los reflejos del tronco cerebral**
+        - Etiología
+            - **Alteraciones difusas** de los hemisferios cerebrales
+            - Alteraciones de los **dos tálamos (núcleos intralaminares)**
+            - Alteración del **SRAA** en el tronco cerebral a partir del **tercio rostral de la protuberancia** (entrada del par craneal V)
+            - Lesión en el tegmento mesencefálico (no el tectum)
+    - Hipersomnia
+        - Estado de somnolencia excesiva, con un **sueño fisiológico**
+        - Alteración de los ciclos sueño-vigilia
+    - Síndrome del "cautiverio" (Lock in)
+        - No hay disminución del nivel de conciencia
+        - El paciente solo conserva los movimientos oculares, se puede comunicar con los parpadeos
+        - Para el parpadeo y el componente rápido del nistagmo (fisiológico) hace falta {{0010426123075830684::una indemnidad del SRAA}} : **No hay coma**
+    - Mutismo aquinético
+        - El paciente está alerta, parpadea pero está inmóvil
+        - **No hay contenidos mentales**
+        - Si se le enseña un **espejo produce una respuesta** : Se mira a sí mismo
+        - Mudo, Sin emociones, Alguna respuesta motora (o aquinético), Hay **tracking ocular**
+    - Mínima consciencia
+        - Hay ciclos vigilia-sueño
+        - Es **reversible**
+        - Aumento del tono muscular
+        - Intermitentemente consciente, **Localizan estímulos nociceptivos**, Hay tracking ocular
+    - Estado vegetativo persistente
+        - Estado **irreversible**
+        - **Conservados los reflejos del tronco cerebral** : Respiración espontánea, Actividad vasomotora normal, Reflejos corneales presentes
+        - Incapacidad de responder a ningún estímulo externo (amenaza, nocicepción). **No hay actividad mental**
+        - Hay ciclos vigilia-sueño
+        - Midriasis arreactiva durante >2 días ⇒ Pronóstico malísimo (el coma ya no revierte)
+    - Muerte cerebral
+        - Coma arreactivo **irreversible**
+        - **No hay reflejos de tronco cerebral**
+        - Movimiento en apnea tras hipercarbia inducida ({{9014460539816793::**Lázaro positivo**}})
+        - Necesita un respirador, drogas vasoactivas para mantener el latido cardíaco...
+        - EEG, PEATC, doppler transcraneal: sin respesta o con signos característicos
+        - Lesión estructural cerebral que explique los síntomas
+        - Jurídicamente muerto
+- Exploración del coma
+    - Tratamiento inmediato
+        - **Retener** a las personas que traigan al paciente
+        - Valoración **respiratoria** : FR<6/min⇒ Ventilación mecánica
+        - Valoración **hemodinámica** : FC, TA (40mmHg ⇒ No llega perfusión al cerebro)
+        - Colocar un **guedel** y **oxígeno** a alto flujo (10 litros/min)
+    - Tratamiento posterior
+        - 2 vías endovenosas
+        - 100 mg de **Tiamina** + 50 cc de **Glucosmón** al 50% + **Naloxona** (2 ampollas IV más una IM) (sospecha de opiáceos) + **Flumazenil** (sospecha benzodiacepinas)
+        - Hemograma, glucemia, Na, K, Ca, Mg, creatinina, urea, Ph. **Sangre arterial** para PO2, PCO2, HCO3. 10 ml. para toxicología
+        - **Sonda urinaria** ⇒ 50 ml de orina para toxicología
+        - Si hay convulsiones: como en el estado de mal epiléptico
+    - Nivel de conciencia
+        - Siempre se mide por la **escala de Glasgow**
+        - Se considera **coma** con una puntuación en la escala de Glasgow {{3155093257923134::**igual o menor de 8**}}{{3155093257923134:: }}
+        - Mejor respuesta a la apertura palpebral
+            - 4 : Abre los ojos espontáneamente
+            - 3 : Abre los ojos al estímulo sonoro
+            - 2 : Abre los ojos al estímulo nociceptivo
+            - 1 : No abre los ojos
+        - Mejor respuesta verbal
+            - 5 : Lenguaje coherente y coordinado
+            - 4 : Lenguaje incoordinado y sin sentido
+            - 3 : Solo emite palabras sueltas
+            - 2 : Gruñidos
+            - 1 : No responde
+        - **Mejor respuesta motora** (lo más importante)
+            - 6 : Obedece a órdenes verbales
+            - 5 : Se retira y localiza el estímulo doloroso
+            - 4 : Se retira pero no localiza
+            - 3 : Postura estereotipada en {{7349142355997718::**flexión**}} (Rigidez de {{7349142355997718::decorticación}})
+                - ![](local:///home/yan/remnote/remnote-6360f76b0ae23204999e2647/files/-IZ4aY0MG49ZKW0xGjhBWu5woENRhLN2rOvLqg1owgbBsgZCO3Uc787mEw2DKQk1IbtnVeRRmmAtlvGhXtnZGA9Sy_OcVTN3KrfpLpqvcyJMKXt2UeeAilASWEAWR6ul.png)
+                - Flexión y aducción del brazo con extensión de la extremidad inferior (opistótonos)
+            - 2 : Postura estereotipada en {{10459969552050086::**extensión**}} (Rigidez de {{10459969552050086::descerebración}})
+                - ![](local:///home/yan/remnote/remnote-6360f76b0ae23204999e2647/files/ndq4dZYkx172x0KwRBeIS_c4-0QUY2WOydgR47qrjHlF_NQMaTcdfpx_v3KwUuEI9Ey3ez3ZmWLonvwt6dDDw5RnQqQtqWrdRKRSos7Q6s_McR7djNmi8WxxpCgI1x9m.png)
+                - Extensión de piernas, flexión plantar de los pies, puños cerrados, brazos extendidos y rotación interna
+            - 1 : No hay respuesta motora
+    - Patrón respiratorio
+        - Respiración de Kussmaul
+            - Respiración **profunda** **hiperpneica**
+            - Típica del **coma diabético cetoacidótico**
+            - La intoxicación por ácido acetilsalicílico tiene también un patrón hiperpneico
+        - Respiración de Cheyne-Stokes
+            - Falta de conexión entre centros de respiración volitivos (corticales) y automáticos (del tronco)
+            - La falta de control superior produce respuestas contra acidosis : Apnea y disparo intermitente del centro respiratorio (taquipnea, aumento de profundidad)
+            - Lesiones bilaterales o difusas y trastornos metabólicos ⇒ Cetoacidosis en diabéticos, Uremia
+            - **No tiene valor localizador**
+        - Hiperventilación neurógena central
+            - **Hiperpnea profunda** que se suele ver, rara vez, en lesiones del {{6560193345137486::**mesencéfalo**}}
+        - Respiración apnéusica
+            - **Calambre inspiratorio** : Inspiración profunda que se mantiene durante un rato en apnea. Localización→Lesiones de la **protuberancia**
+        - Respiración atáxica de Biot
+            - Anarquía de los movimientos respiratorios, que anuncia parada respiratoria. Localización→Lesión en el **bulbo raquídeo**
+    - Pupilas
+        - **Miosis**↔Pérdida de la inhibición supranuclear sobre el complejo pretectal
+        - Pupilas medias y arreactivas. Irregulares (discóricas). Ovoides. Excéntricas↔Lesión del **mesencéfalo rostral**
+        - Midriasis arreactiva, exoforia y ptosis↔Lesión del **III par**
+        - **Midriasis** **arreactiva** de una sola pupila↔**Hernia uncal**
+        - Miosis **arreactiva** (pupilas puntiformes )↔Lesión de la **protuberancia**
+        - Pupilas **anóxicas**↔Midriasis arreactivas, que se recuperan rápidamente, salvo si el daño encefálico es irreversible
+        - **Miosis** lentamente reactiva↔Intoxicación por opiáceos
+        - **Midriasis** lentamente y poco reactiva↔Intoxicación por dopamina
+    - Movimientos oculares
+        - Anatomía
+            - Reflejos óculo-cefálicos
+                - Al girar la cabeza bruscamente hacia una lado, los ojos giran de manera conjugada al **lado contrario** ("ojos de muñeca")
+            - Reflejos óculo-vestibulares
+                - En estado de vigilia aparece un nistagmo contralateral como respuesta correctora cortical
+                - **Agua fría en el CAE** : El componente **rápido huye** y el componente lento va hacia el estímulo
+        - Etiología del coma según movimientos oculares
+            - Ojos centrados y reflejos oculovestibulares preservados↔Causa **tóxico metabólica**
+            - Desviación o divergencia de los ojos, abolición de los reflejos oculovestibulares↔**Lesión del tronco**
+            - Desviación de la mirada conjugada hacia el mismo lado de la hemiparesia↔**Lesión estructural infratentorial**
+            - Desviación de la mirada conjugada hacia el lado contralateral de la hemiparesia↔**Lesión estructural supratentorial**
+            - Endoforia bilateral↔**Encefalopatía de Wernicke**
+            - Exoforia unilateral con midriasis↔**Lesión del III par**
+            - Movimientos conjugados lentos hacia un lado y otro (roving)↔**Coma metabólico**
+            - Desviación tónica (nistagmo lento sin componente rápido) hacia la dirección de la instilación de agua fría→**Coma**
+            - **Nistagmo con componente rápido** hacia el lado contrario de la instilación de agua fría→**Coma psicógeno**
+    - Respuestas motoras
+        - Reflejo corneomandibular→Lesión del tronco cerebral
+        - Signo de Lázaro : Test de apnea
+            - En **muerte cerebral** se le quita el respirador al paciente y sube la PCO2. Llega un momento en el que es muy irritante para las neuronas, y se produce una flexión de los brazos.
+    - Exploración cutánea
+        - Lesiones de venopunción
+        - Lesiones ampollosas (antipsicóticos, barbitúricos)
+        - Telangiectasias (hepatopatía)
+        - Hematomas perioculares o retroauriculares
+        - Olor a alcohol, paja mojada (cetoacidosis), orina (IR), fruta (hepatopatía)
+        - Signos de redistribución vascular, vasculitis
+        - Hipotermia (barbitúricos)
+    - Causas del coma
+        - Coma sin signos neurológicos focales, sin fiebre y sin rigidez de nuca↔**Causas toxicometabólicas**
+        - Coma sin signos neurológicos focales **con fiebre y rigidez de nuca** : **Meningoencefalitis**
+        - Coma sin signos neurológicos focales **sin fiebre y con rigidez de nuca**↔**Hemorragia subaracnoidea**
+        - Coma **con signos neurológicos focales**↔Lesiones ocupantes de espacio (infarto, hemorragia, tumor, absceso)
+        - Coma hipoglucémico e insuficiencia hepática←Únicas causas toximetabólicas que producen **signos neurológicos focales**
+        - Causa más frecuente de coma en nuestro medio→Coma diabético
+        - Encefalopatía de Wernicke
+    - Diagnóstico topográfico del coma
+        - Diencéfalo
+            - Respiración de Cheyne-Stokes
+            - Pupilas medias poco reactivas
+            - Con reflejos oculocefálicos y corneal
+            - Respuesta de {{41605694119880443::decorticación}} a estímulo doloroso
+        - Mesencéfalo
+            - Taquipnea
+            - **Midriasis** arreactiva
+            - Sin reflejos oculocefálicos, Con reflejo corneal
+            - Respuesta de descerebración a estímulo doloroso
+        - Puente
+            - Apnea
+            - Miosis (pupilas puntiformes)
+            - Sin reflejos oculocefálicos, Sin reflejo corneal
+            - Respuesta de descerebración a estímulo doloroso
+        - Bulbo
+            - Respiración atáxica
+            - Sin reflejos oculocefálicos, Sin reflejo corneal
+            - Respuesta flácida a estímulo doloroso
+- Casos clínicos
+    - Varón de 42 a. que es encontrado en su domicilio con pérdida de conciencia y es traído por el 112 al S. de Urgencias. En la anamnesis recogida a sus acompañantes comenta que es camarero, divorciado. No se le conocen adición a drogas. Tras su divorcio estaba siguiendo un tratamiento con un antidepresivo IRRS y alprazolán. En la exploración la TA es de 100/60, FC: 90/to, rítmica. Temperatura 36ºC. No rigidez de nuca. No soplos. No respuestas al estímulo doloroso. Pupilas a 5 mm reactivas. Globos oculares aducidos bilateralmente
+    - Varón de 46 a. director de una empresa, que desde hace 24 horas le han notado con dificultad para la concentración y más irritable, llegando a discutir con sus compañeros de trabajo por cosas banales. Desde hace 12 horas le han notado más somnoliento y desorientado, repitiendo constantemente las mismas preguntas. Dos horas antes de acudir a urgencias ha sufrido una pérdida de conciencia con sacudidas de las 4 extremidades, sialorrea, mordedura de lengua y relajación esfinteriana sin recuperar la conciencia desde entonces. Durante su traslado al hospital ha tenido otro episodio similar. Cuando llega a Urgencias el paciente está en coma, con fiebre de 38,5ºC, sin rigidez de nuca y responde al estímulo doloroso localizando y retirando el estímulo con ambas extremidades superiores
+    - Varón de 68 a. que acude a urgencias y mientras está dando sus datos nota sensación de inestabilidad y caída al suelo con pérdida de conciencia sin realización de movimientos anormales. Su familia comenta que habían acudido por dolor abdominal desde hacía una semana con empeoramiento progresivo sobre todo después de las comidas. Es hipertenso mal controlado y diabético insulindependiente. En la exploración el paciente no responde a estímulos dolorosos. TA sistólica de 45 con la diastólica indetectable, FC 145/to. rítmica. Temp.: 36ºC. Palidez cutánea

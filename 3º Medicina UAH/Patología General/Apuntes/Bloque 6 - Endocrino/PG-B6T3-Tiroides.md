@@ -1,0 +1,456 @@
+- Fisiología
+    - Conceptos generales
+        - Requerimientos de yodo en un adulto→100-200 µg/día
+        - Requerimientos de yodo en embarazo ⇒ 200 µg/día
+        - Exceso de yodo→**2** mg/día
+        - Efecto **Wolff-Chaikoff**→Estado transitorio de↓ Proteólisis y ↓ Hormonas tiroideas inducido por una ingestión excesiva de yodo (2mg/día)
+        - La primera causa de hipotiroidismo mundial es la **deficiencia de yodo** . En España es la enfermedad tiroidea
+        - Almacenamiento ⇒ Tiroides, Glándulas salivales, Estómago
+        - Eliminación ⇒ **Renal** : Aumento de aclaramiento en menarquia
+    - Biosíntesis de hormonas tiroideas
+        - **Captación** del yodo plasmático ⇐ Bomba de yoduro basolateral
+        - **Organificación** del yodo ⇐ Peroxidasas
+        - **Yodación** de los componentes tirosílicos de la tiroglobulina, elaboración de monoyodotirosina (MIT) y diyodotirosina (DIT)
+        - **Acoplamiento** de las yodotirosinas para formar triyodotironina (T3) y tetrayodotironina o tiroxina (T4) ⇐ Peroxidasas
+        - **Pinocitosis** o endocitosis de coloide
+        - **Proteólisis** de enlaces tiroglobulina-tiroxina, **liberación** a la sangre.
+    - Circulación sanguínea de T3 y T4
+        - El metabolismo de las hormonas tiroideas depende de ⇒ Proteínas transportadoras + Estado metabólico de las células periféricas que trasforman la T4 en T3
+        - Distribución de las hormonas tiroideas
+            - Secreción diaria de tiroxina (T4) ⇒ **80μg**
+            - 35% de la T4 ⇒ Transformación en T3 en los tejidos
+            - 35% de la T4 ⇒ T3 inversa (rT3, forma inactiva)
+            - 80% de la T3 circulante ⇒ T4 transformada a nivel periférico
+        - Comparación entre T3 y T4
+            - El porcentaje de T4 **libre** es 0,03% y el de T3 es 0,3% (x10)
+            - El metabolismo de T3 es más rápido (recambio 5 veces >T4) y la afinidad a los receptores es 10 veces >T4
+        - Transporte de T4
+            - **TBG** (Thyroxine Binding Globulin) ⇒ 70-75%
+            - **TBPA** (Thyroxine Binding Pre-Albumin) ⇒ 15-20%
+            - **Albúmina** ⇒ 5-10%
+        - Transporte de T3
+            - **TBG** y en pequeño grado por la albúmina
+            - La **prealbúmina no** transporta T3
+    - Regulación hormonal del tiroides
+        - Hipotálamo ⇒ ↑TRH ⇒ ↑TSH ⇒ Activación y proliferación de células foliculares ⇒ ↑T4 ↑T3
+        - T3 y T4 ⇒ ↓TRH ↓TSH
+- Anamnesis
+    - Factores a explorar en la patología tiroidea
+        - Existencia de nerviosismo
+        - Cambios en los hábitos de sueño
+        - Ritmo de las deposiciones
+        - Tolerancia al frío y al calor
+        - Variaciones en el peso
+        - Grado de apetito y sed
+    - Exploración física del tiroides
+        - Tamaño : Pequeño, Moderado o Grande
+        - Forma : Nodular (uninodular, multinodular) o Difuso
+        - Consistencia : Blanda, Firme, Dura, Pétrea
+            - Blanda→Bocio con predominio de transformación coloide
+            - Firme→Tiroides normal, Tiroidopatías como la tiroiditis de Hashimoto
+            - Dura→Nódulos benignos o malignos
+            - Pétrea→Carcinomas, Calcificaciones de bocio multinodular, Tiroiditis de Riedel
+        - Superficie : Lisa o rugosa
+        - Movimiento : Fija, móvil o que se desplace con la deglución
+        - Sensibilidad : Dolorosa o no a la palpación
+            - Normalmente no es dolorosa
+            - El dolor puede orientar hacia una {{27114599884728463::**tiroiditis subaguda de De Quervain**}}{{27114599884728463:: o una }}{{27114599884728463::**hemorragia intraquítisca**}}{{27114599884728463:: }}
+        - Signo de Marañón : Frémito sistólico palpable en el área tiroidea, sobre todo en la enfermedad de Graves-Basedow
+    - Pruebas complementarias
+        - Analítica
+            - Concentraciones séricas de T4 y T3 libres y totales
+            - Concentración sérica de TSH
+            - Concentración sérica de TBG
+                - ↑TBG : Alteraciones familiares, Embarazo, Hepatopatías, Estrógenos, Tamoxifeno, Perfenazina
+                - ↓TBG : Enfermedades generalizadas graves, Síndrome nefrótico, Andrógenos, Glucocorticoides
+            - Concentración sérica de rT3
+            - Concentración sérica de tiroglobulina
+                - Útil para el seguimiento de carcinomas diferenciados de tiroides : Niveles >0 tras tiroidectomía ⇒ Sospecha metástasis
+            - Prueba de estimulación con TRH
+                - Inyección IV de 200-400 μg TRH ⇒ Pico máximo de estimulación de TSH a los 20-30 min ⇒ ↑ valor basal de hasta **16 μU/mL** o **6-8 veces el valor inicial**
+                - Respuesta disminuida en >65 años de forma fisiológica
+            - Anticuerpos antimicrosomales de peroxidasas (TPOAb)→**Folículo**
+            - Anticuerpos antitiroglobulina (TgAb)→**Coloide**
+            - Anticuerpos antirreceptor de TSH
+                - Útil en el estudio de la enfermedad de Graves-Basedow
+                - TSI ⇒ Inmunoglobulinas estimulantes de la función tiroidea
+                - TGI ⇒ Inmunoglobulinas estimulantes del crecimiento celular
+            - Excreción urinaria de yodo
+            - Captación tiroidea de radioyodo
+            - Descarga de I¹³¹ con perclorato
+        - Morfología
+            - Gammagrafía tiroidea
+                - ![[Pasted image 20230619131352.png]]→Hipertiroidismo en enfermedad de Graves
+                - ![[Pasted image 20230619131403.png]]→Adenoma folicular
+                - ![[Pasted image 20230619131413.png]]→Bocio multinodular
+                - ![[Pasted image 20230619131423.png]]→Tiroiditis subaguda
+                - ![[Pasted image 20230619131439.png]]→Nódulo frío hiposecretor
+                - ![[Pasted image 20230619131454.png]]→Nódulo caliente hipersecretor
+                - ![[Pasted image 20230619131502.png]]→ Bocio multinodular (2 nódulos)
+                - ![[Pasted image 20230619131518.png]]→ Hipertiroidismo
+                - ![[Pasted image 20230619131534.png]]→ Hipotiroidismo
+                - ![[Pasted image 20230619131547.png]]→Nódulo frío
+                - ![[Pasted image 20230619131555.png]]→Nódulo caliente
+                - ![[Pasted image 20230619131607.png]]→Bocio multinodular
+            - Ecografía cervical
+                - ↑Tamaño, ↑Consistencia, Vascularización (Doppler)
+            - Citología por PAF
+                - Nódulos fríos a partir de 1,5/2 cm ⇒ Descartar carcinoma
+            - TC cervical
+    - Enfermedad de Graves
+        - ↑ T3 ↑ T4
+        - ↓ TSH ↓TRH
+        - Gammagrafía : ↑ Captación homogénea de yodo
+    - Bocio multinodular
+        - ↑ T3 ↑ T4
+        - ↓ TSH ↓TRH
+        - Gammagrafía : ↑ Captación heterogénea de yodo
+    - Adenoma de tiroides
+        - ↑ T3 ↑ T4
+        - ↓ TSH ↓TRH
+        - Gammagrafía : ↑ Captación nodular de yodo
+    - Hipotiroidismo hipofisario
+        - ↓ T3 ↓ T4
+        - ↓ TSH ↓TRH
+    - Hipertiroidismo hipofisario, Resistencia hipofisaria a hormonas tiroideas
+        - ↑ T3 ↑ T4
+        - ↑ TSH ↑TRH
+    - Ingesta exógena de T3-T4, Struma ovarii, Tiroiditis aguda
+        - ↑ T3 ↑ T4
+        - ↓ TSH ↓TRH
+        - Gammagrafía : ↓ Captación de yodo tiroidea
+- Hipotiroidismo
+    - Definición
+        - Cuadro clínico debido a una disminución de la acción de T3/T4 sobre el organismo
+    - Epidemiología
+        - Más prevalente en **mujeres >60 años**, especialmente en deprimidas (las mujeres tienen mayor aclaramiento de yodo)
+        - Cuadros genéticos : Down, Turner
+        - Enfermedades autoinmunes : Diabetes, Atrofia gástrica autoinmune, Celiaquismo
+    - Semiología
+        - La clínica hipotiroidea se basa en la {{004134004402871483::**↓ producción ATP**}}{{004134004402871483:: }}
+        - General
+            - Intolerancia al frío ⇒ **Hipotermia** ⇒ Vasoconstricción
+            - Astenia
+            - Aumento de peso
+        - Piel
+            - Áspera, fría, seca (**vasoconstricción**)
+            - Pérdida del **tercio** {{17523677608876764::**distal**}} **de la ceja** (también en la lepra)
+            - **Mixedema** ⇒ Edema sin fóvea ⇐ ↑ ácido hialurónico
+            - Caída del vello y cabello, cara hinchada y blanda
+            - Uñas quebradizas, Axilas secas (hipodiaforesis)
+        - Sistema nervioso
+            - **Somnolencia, Depresión**
+            - Pérdida de memoria (pseudodemencia), Bradilalia
+            - {{8283735611855034::Aumento}} de la libido (**Hipomanía**)
+            - Reducción de audición y sentido del gusto
+            - Hiporreflexia, Calambres
+            - **Síndrome de túnel carpiano** por mixedema
+        - Músculo
+            - **Miopatía simétrica proximal** ⇒ Rigidez y dolores
+            - ↑CPK (creatina fosfoquinasa) ⇒ Rabdomiólisis
+        - Aparato respiratorio
+            - **Voz grave** (infiltración mixoide de cuerdas vocales)
+            - Síndrome de **hipoventilación** ⇒ Apnea del sueño
+            - Atelectasia, Derrame pleural, Retención de CO2
+        - Aparato digestivo
+            - **Macroglosia** (niños)
+            - Ageusia, Anorexia
+            - **Estreñimiento**
+            - Gastritis crónica atrófica ⇒ Anemia perniciosa
+            - **Ascitis** ⇒ Derrame pleural, Derrame pericárdico
+        - Aparato cardiovascular
+            - **Hipertensión**
+            - **↓ TAM** (HTA + ↓GC) ⇒ **Pulso** {{7741988096111954::**débil**}}
+                - Vasoconstricción ⇒ Disminución de TAD
+                - Bradicardia ⇒ Disminución de GC ⇒ Disminución de TAS
+            - Prolongación de QRS y QT
+        - Sangre
+            - **Anemia megaloblástica** (↓absorción B12)
+            - Defectos en factores VIII y IX
+            - Anemia normocítica y normocrómica
+        - Metabolismo
+            - Ganancia de peso
+            - ↓ aclaramiento de agua libre ⇒ {{25908118681922265::**Hiponatremia**}}
+            - ↓ aclaramiento de lípidos ⇒ **HCT** (↑LDL ↓HDL)
+            - ↑PTH y 1-25 hidroxivitamina-D ⇒ **Hipercalcemia**
+        - Sistema reproductor
+            - **↑TRH ⇒ Hiperprolactinemia** ⇒ Hipogonadismo hipogonadotrópico
+            - Amenorrea
+    - Diagnóstico
+        - ![[Pasted image 20230619131626.png]]
+    - Hipotiroidismo subclínico
+        - Aumento de TSH a 10 unidades/mL con T4 normal
+    - Hipotiroidismo primario
+        - ↓T3/T4 con TSH alta y TRH alta
+        - Etiología
+            - **Déficit de yodo** en la dieta (primera a nivel mundial)
+            - **Tiroiditis autoinmune de Hashimoto** (primera en España)
+            - Hipotiroidismo transitorio por **efecto Wolff-Chaikoff**
+            - **Iatrogénico** : Tiroidectomía, Yodo radiactivo, Radiación de cuello
+            - **Tiroiditis** : Infecciosa, De Quervain, Fibrosa de Reidel
+            - Congénito : Disgenesia, Dishormogénesis
+        - **Tiroiditis de Hashimoto** (crónica autoinmune)
+            - Fisiopatología
+                - Característica{{4642957817554967:: }}{{4642957817554967::**infiltración linfocítica**}}{{4642957817554967:: }}
+                - Puede formar parte de un **síndrome de fallo poliglandular** (IR autoinmune, DM1, Hipogonadismo, Anemia perniciosa, Vitíligo)
+                - Inicio ⇒ Destrucción de tiroides ⇒ Ac estimulantes de TSH ⇒ **Hashitoxicosis**
+                - Posteriormente ⇒ Hipotiroidismo (60% pacientes)
+            - Diagnóstico
+                - ↓T3 ↓T4 ↑TRH ↑TSH ⇒ Clínica de **hipotiroidismo**
+                - **TPOAb** (90% pacientes), TgAb, Anticuerpos **bloqueantes** de TSH
+                - **Infiltración linfocitaria**
+                - Bocio **variable**
+        - **Hipotiroidismo congénito**
+            - Etiología
+                - Agenesia de tiroides
+                - Defectos enzimáticos (Peroxidasas, THr, Transportador de yodo)
+            - Clínica
+                - ↓ Coeficiente intelectual (cretinismo mixedematoso)
+                - Mixedema : Acúmulo de mucopolisacáridos en tejido subcutáneo que **no deja fóvea**
+    - Hipotiroidismo secundario
+        - ↓ T3/T4 (<primario) con TSH baja-normal y TRH alta
+        - Etiología
+            - Lesión hipofisaria
+            - Síndrome de Sheehan, Apoplejía hipofisaria, **Adenoma hipofisario**
+    - Hipotiroidismo terciario
+        - ↓ T3/T4 con TSH baja-normal (detectable pero inactiva) y TRH baja
+    - Hipotiroidismo por resistencia a T3/T4 o TSH
+        - ↑TSH con hipotiroidismo o eutiroidismo
+    - Coma mixedematoso
+        - Estupor marcado, confusión o coma
+        - Hipotermia
+        - ↑TSH , ↓↓T3/T4
+        - Anemia, Hiponatremia, HCT, ↑CPK
+        - Hipoxemia, Hipercapnia, Acidosis
+    - Medicamentos que afectan la función tiroidea
+        - Inhibición de síntesis de T3/T4
+            - Propiltiouracilo
+            - Metimazol
+        - Inhibición de secreción de T3/T4
+            - **Amiodarona**
+                - **Alto contenido en yodo**
+                - Enfermedad tiroidea autoinmune→Efecto Wolff-Chaikoff ⇒ **Hipotiroidismo** (más frecuentemente)
+                - Bocio multinodular, Graves→**Hipertiroidismo** (↑sustrato)
+                - Tirotoxicosis tipo I inducida por amiodarona ⇒ ↑T3/T4 por incremento del yodo
+                - Tirotoxicosis tipo II inducida por amiodarona ⇒ Liberación de T3/T4 por tiroiditis destructiva
+            - **Litio**
+            - Yodo
+            - Aminoglutamida
+        - Tiroiditis
+            - **Amiodarona**
+            - Interferón
+            - IL-2
+            - Sunitib
+        - Hipertiroidismo de Jod-Basedow
+            - Hipertiroidismo inducido por una exposición excesiva a yodo ⇒ Yodo exógeno, Amiodarona
+        - Supresión de TSH
+            - **Glucocorticoides**
+            - Agonistas de **dopamina**
+            - Análogos de **somatostatina**
+            - Carbamazepina
+            - Metformina
+        - Elevación de TSH
+            - Hipoadrenalismo
+            - Bloqueantes dopaminérgicos : **Metoclopramida**
+- Tirotoxicosis
+    - Definición
+        - Exceso de función de T3 y T4 en tejidos
+    - Etiología↓
+        - **Ingesta exógena** de hormonas tiroideas (principal)
+        - Hiperfunción de la glándula (Hipertiroidismo)
+        - Destrucción de glándula tiroidea (**Tiroiditis**) ⇒ Liberación de tiroglobulina ⇒ Fase transitoria de tirotoxicosis
+        - Producción ectópica (tumor, teratoma)
+    - Clínica
+        - Piel
+            - **Caliente y húmeda** : Vasodilatación y sudoración (hiperdiaforesis), a veces eritema palmar, prurito
+            - **Hiperpigmentación** por secreción de ACTH asociada (↑cortisol). Cabello frágil y débil.
+            - **Uñas de Plummer**→Separación de la pared distal de las uñas
+            - Vitíligo (muerte melanocitos) ⇒ Asociado a Graves-Basedow
+            - **Mixedema pretibial**↔Graves Basedow
+        - Cardiovascular
+            - **Taquicardia**, ↑PS y ↓PD ⇒ ↑**TAM** (pulso saltón)
+            - **Fibrilación auricular** más frecuente
+            - ↑ GC ⇒ Cardiopatía isquémica : Crisis anginosa
+            - Prolapso de la válvula mitral↔**Graves-Basedow**
+        - Digestivo
+            - **Diarrea**
+            - Pérdida de ponderal de peso, astenia con **apetito conservado**
+            - Hepatopatía con ↑ transaminasas
+        - SNC
+            - Parálisis periódica con **hipopotasemia** (varones asiáticos)
+            - **Hiperreflexia**, Tremor sobre todo en manos extendidas
+            - Miopatía proximal (asociación entre Graves y Miastenia)
+            - Hiperactividad, Irritabilidad, Insomnio
+            - Depresión ⇒ Hipertiroidismo apático
+        - Endocrino
+            - Oligomenorrea, pérdida de libido, ↓fertilidad, ginecomastia
+            - Aumento de **cortisol**
+            - ↑ insulina ⇒ Insulinorresistencia⇒ **Hiperglucemia**
+        - Metabolismo
+            - ↑ Insulina
+            - ↑Metabolismo proteico ⇒ Hipoalbuminemia
+            - Resorción ósea ⇒ Hipercalcemia, Osteoporosis
+            - ↑ ácidos grasos libres
+        - Sangre
+            - Anemia normocítica
+            - Anemia perniciosa (patogenia autoinmunitaria)
+            - Esplenomegalia, Adenopatías
+        - Renal
+            - Poliuria y polidipsia frecuente
+    - Signos
+        - **Soplo sistólico cervical** anterior y frémito ⇒ Graves
+        - **Acropraquias** ⇒ Graves
+        - **Mixedema pretibial** (dermopatía infiltrativa) ⇒ Graves
+        - **Uñas de Plummer** ⇒ Tirotoxicosis
+        - Bocio
+            - Difuso ⇒ Graves
+            - Nodular ⇒ Multinodular
+        - Oftalmopatía
+            - Infiltrativa (**Orbitopatía tiroidea**)
+                - Exclusiva de la enfermedad de Graves-Basedow
+                - Patogenia **inmunológica** ⇒ **Asimétrica**, no paralela al grado de hipertiroidismo
+                - Estrabismo, Diplopía, Alteraciones oculomotoras
+                - **Signo de Moebius** positivo
+            - No infiltrativa (**Retracción parpebral**)
+                - Todos los cuadros de tirotoxicosis
+                - Patogenia **tiroidea** ⇒ Simétrica, paralela al grado de hipertiroidismo, sin exoftalmos
+                - **Signo de Graefe** positivo
+            - Signo de Graefe
+                - Valoración de la **retracción parpebral** (oftalmopatía no infiltrativa)
+                - Al dirigir la mirada hacia abajo falla el movimiento correlativo del párpado superior, y entre su borde inferior y el superior de la córnea queda visible una zona blanca de esclerótica
+            - Signo de Moebius
+                - Valoración de oftalmopatía infiltrativa tiroidea
+                - Insuficiencia de convergencia que se pone en evidencia al acercar un objeto cualquiera a los ojos del paciente
+        - Forma apática de Lahey
+            - Sobre todo en **mujeres >40 años**
+            - Bocio **pequeño**
+            - Apatía e indiferencia (en contraste a nerviosismo característico)
+            - Manifestaciones circulatorias **escasas**
+            - ↓ peso y la afección muscular **muy evidentes**
+    - Diagnóstico
+        - ![[Pasted image 20230619131647.png]]
+- Hipertiroidismo
+    - Definición→Síndrome debido a **aumento de función** de la **glándula** tiroidea (subconjunto de tirotoxicosis)
+    - Hipertiroidismo primario
+        - **Definición**
+            - Aumento de T3 y T4 y Disminución de TSH (interrupción de feedback negativo)
+        - **Clasificación etiológica**↓
+            - Enfermedad de Graves-Basedow
+                - Definición→Hipertiroidismo primario por **hipersensibilidad tipo II** de autoanticuerpos estimulantes de R-TSH : **TSI** (Tiroid stimulating inmunoglobulins)
+                - Etiología
+                    - Respuesta **policlonal** de células B ⇒ IgG agonistas del receptor TSH (TSI)
+                - Epidemiología
+                    - Predisposición genética→**HLA-DR3** , concordancia entre gemelos 30%
+                    - Causa más frecuente de hipertiroidismo
+                    - Frecuencia 10 veces mayor en mujeres (es autoinmune)
+                    - Tras los **45 años** la relación es **3:1 a favor de la mujer**
+                - Clínica
+                    - **Bocio** difuso con hiperfunción
+                    - **Exoftalmos**↔ **Oftalmopatía** infiltrativa **asimétrica** (linfocitos y monocitos en grasa/músculo periocular)
+                    - **Mixedema** pretibial
+                    - **Prolapso de la válvula mitral**
+                - Anatomía patológica
+                    - Hipertrofia e hiperplasia del epitelio folicular
+                    - Frecuente **infiltración linfoide**
+                    - Hiperplasia linfoide (adenopatías), Esplenomegalia
+                - Diagnóstico
+                    - **Acropraquias** (dedos hipocráticos) ⇒ También en Crohn y EPOC
+                    - ↑ T3/T4 y ↓ TSH
+                    - Anticuerpos IgG dirigidos al receptor de TSH
+                    - ![[Pasted image 20230619131659.png]]
+            - Bocio multinodular (Enfermedad de Plummer)
+                - Definición
+                    - Aumento de tamaño de la glándula tiroidea progresivo que hace que algunas partes de la tiroides se hagan autónomas (producción de T3/T4 sin estímulo TSH)
+                - Fisiopatología
+                    - Hiperplasia nodular de la glándula tiroidea
+                - Diagnóstico
+                    - Captación **irregular** de inmunotrazador (zonas calientes y frías)
+                    - ![[Pasted image 20230619131708.png]]
+            - Adenoma tóxico
+                - Definición
+                    - Tumor tiroideo productor de hormona tiroidea
+                - Diagnóstico
+                    - Zona de captación de radiocoloide inhibida excepto en la zona del adenoma (Focal)
+                    - ![[Pasted image 20230619131716.png]]
+            - Glándula ectópica tiroidea (struma ovarii)
+                - Definición
+                    - Glándula tiroidea suprarrenal
+    - Hipertiroidismo secundario
+        - **Definición**
+            - Aumento de TSH
+        - **Clasificación etiológica**
+            - Adenoma de hipófisis
+            - Secreción ectópica de TSH
+            - Tumor trofoblástico secretor de gonadotropina coriónica humana
+                - Definición
+                    - Cantidades excesivas de gonadotropina coriónica humana ⇒ Activación de receptor de TSH
+                - Diagnóstico
+                    - Patrón difuso de gammagrafía
+            - Resistencia hipofisaria a T3 y T4
+    - Hipertiroidismo terciario
+        - **Definición**↓
+            - Aumento de **TRH**
+- Bocio
+    - Definición ⇒ Cualquier aumento de tamaño de la glándula tiroides
+    - Bocio simple ⇒ Bocio sin tiroiditis, autoinmunidad o neoplasia
+        - Clasificación morfológica
+            - Difuso
+            - Nodular
+                - Uninodular o multinodular
+                - Funcionante o no funcionante
+            - Coloide (folículos de gran tamaño)
+        - Clasificación epidemiológica
+            - Endémico
+                - **Afecta a más del 10% de la población general de una zona**
+                - **Déficit de yodo**, Sustancias bociógenas
+            - Esporádico
+                - **Defectos congénitos** en la biosíntesis de hormonas tiroideas (muy raros, herencia autosómica recesiva)
+                - Deficiencia de yodo
+                - Sustancias bociógenas
+                - Sexo femenino : **Embarazo** (↑ aclaramiento renal de yodo)
+        - Epidemiología
+            - Enfermedad más común de la tiroides
+            - Predominio en la mujer (15-50% mujeres >50 años)
+            - La nodularidad y el peso de la tiroides aumentan con la edad ⇒ A los 80 años todos tienen varios nódulos tiroideos
+        - Etiología
+            - ↓Disponibilidad de yodo ⇒ Ingesta menor de **150-300 µg/día**
+            - Ingesta de bociógenos
+            - Defectos congénitos de la hormonosíntesis tiroidea y de la acción de las hormonas tiroideas
+            - ↑ Aclaramiento de yodo renal : Pubertad, Embarazo, Lactancia, Climaterio
+        - Fisiopatología
+            - ↓ T3/T4 ⇒ ↑ TSH ⇒ Hipertrofia/Hiperplasia de c. Foliculares ⇒ Secreción suficiente T3-4 ⇒ Bocio eutiroideo
+            - ↑ Tamaño difuso inicial ⇒ Ciclos de Hiperplasia/Involución ⇒ Nódulos tiroideos
+            - Pérdida de dependencia a TSH ⇒ Hipertiroidismo ⇒ Clínica
+        - Clínica
+            - **Efecto masa** ⇒ Disfonía, Disfagia (esófago), Disnea
+            - Dolor secundario a hemorragia local e hipertiroidismo transitorio acompañante
+            - ↓TSH en 25% de bocios multinodulares ⇒ **Hipertiroidismo subclínico**
+        - Diagnóstico
+            - Yoduria
+                - Leve : 50-99 µg/L
+                - Moderada : 20-49 µg/L
+                - Grave : <20 µg/L
+            - Ecografía cervical : Tamaño, Sólido/Quístico
+            - Gammagrafía cervical : Nodular/difuso, Prolongación endotorácica
+            - ![[Pasted image 20230619131730.png]]
+    - Sustancias bociógenas : Sustancias capaces de producir bocio por interferir en alguna fase del metabolismo de las hormonas tiroideas
+        - Goitrina
+            - Plantas crucíferas y en especial sus semillas
+            - **Nabo**, col, mostaza, coliflor, repollo, brocoli
+            - Cocción ⇒ Reduce riesgo de bocio
+        - Tiocianatos, Perclorato
+            - Disminuyen la captación tiroidea del yodo
+            - **Soja**, nueces, piñones, cacahuetes
+        - Agua
+            - Contaminada con E. Coli
+            - Sulfuro, Carbonatos de Ca y Mg, Piritas
+        - Fármacos con potencial bociógeno
+            - Sulfonilureas, Isoniazidas, Salicilatos, PAS, Dimetidilditiohidantoína, Resorcinol, Fenilbutazona
+        - Fármacos antitiroideos
+            - Metimazol, Carbimazol
+            - ↓ Organificación intratiroidea de yodo
+        - Fármacos que interfieren en la liberación de hormonas tiroideas
+            - Yodo consumido en exceso, Litio
+            - Vinblastina, Colchicina
+        - Fármacos que aumentan la excreción fecal de tiroxina
+            - Colestiramina, Colestipol, Aceite de girasol, Nueces, Cacahuetes, Soja

@@ -1,0 +1,6 @@
+[[B2T1-Ambiente gaseoso]]
+[[B2T2-Ambiente cinético]]
+[[B2T3-Ambiente radiactivo]]
+[[B2T4-Termorregulación]]
+[[B2T5-Agentes químicos]]
+[[B2T6-Fiebre]]

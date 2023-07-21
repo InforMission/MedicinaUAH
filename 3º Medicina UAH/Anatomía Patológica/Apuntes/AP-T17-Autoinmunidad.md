@@ -1,0 +1,68 @@
+- Autoinmunidad : Fallo en la tolerancia inmunitaria
+- Tolerancia inmunitaria
+    - Falta de respuesta inmunitaria frente antígenos propios que se adquiere en los primeros momentos de la vida
+    - Tolerancia central : Órganos centrales generadores
+- Patogenia
+    - Fallo de la tolerancia inmunológica
+    - Herencia de genes de predisposición (HLA)
+    - Desencadenantes ambientales
+- Enfermedades autoinmunitarias sistémicas
+    - Crónicas, con recaídas y remisiones. Daño progresivo
+    - La mayoría de las enfermedades inflamatorias crónicas son causadas por respuestas anormales y excesivas de linfocitos Th1 y Th17
+    - Lupus eritematoso sistémico
+        - Características
+            - Enfermedad autoinmune que involucra múltiples órganos, generalmente la piel, las articulaciones, los riñones y las membranas serosas.
+            - Afecta sobre todo a las mujeres
+            - Amplia gama de autoanticuerpos, particularmente Anticuerpos Antinucleares (ANA) o frente al antigeno Smith
+            - Lesión : Hipersensibilidad II y **III**
+        - Patogenia
+            - Predisposición genética
+            - Estímulos provocadores: Rayos UV, Fármacos, Hormonas sexuales (mujeres)
+            - Producción elevada y persistente de anticuerpos IgG antinucleares
+        - Clínica
+            - Vasos→Inflamación aguda necrosante que afecta a capilares, arteriolas y arterias de pequeño calibre (necrosis fibrinoide) ⇒ Fibrosis y estenosis
+            - Riñones→Glomerulonefritis con depósito de inmunocomplejos en MB y mesangio, Nefritis intersticial
+            - Piel→Exantema en mariposa, Vasculitis, Degeneración de interfase
+    - Artritis reumatoide
+        - **Sinovitis proliferativa (pannus de CD4 y plasmocitos) e inflamatoria no supurativa**
+        - Puede afectar a piel, pulmón, corazón, vasos
+        - Patogenia : Respuesta inmunitaria iniciada por linfocitos CD4 que activan macrófagos e inducen inflamación. También participan plasmocitos que liberan autoanticuerpos
+        - Anquilosis fibrosa y ósea
+        - AP
+            - Tejido subcutáneo→Nódulos reumatoides : Granulomas con necrosis fibrinoide central rodeados de macrófagos, linfocitos y plasmocitos
+            - Pulmón, pleura y pericardio→Vasculitis con necrosis fibrinoide en arterias pequeñas y grandes, granulomas necrotizantes
+            - Piel→Vasculitis leucocitoclástica
+    - Síndrome de Sjögren
+        - Destrucción inmunológica de glándulas lagrimales y salivales : Queraroconjuntivitis sicca y xerostomia
+        - Lesión linfoepitelial : Inflamación linfocitaria CD4 y B
+        - Factor desencadenante : Infección vírica, Destrucción celular, Liberación de antígenos tisulares propios, Reacción autoinmune mediada por T y B, Lesión epitelial, Atrofia
+    - Síndrome de Mikulicz
+        - Xerostomía + ensanchamiento bilateral parotídeo y submandibular
+        - Afectación de glándulas lacrimales y salivales sin evidencia de colagenopatía (síndrome de "sicca")
+        - Lesión linfoproliferativa benigna lifoepitelial
+    - Esclerosis sistémica (Esclerodermia)
+        - Daño generalizado a vasos sanguíneos pequeños
+        - Fibrosis intersticial y perivascular progresiva en la piel y múltiples órganos
+    - Miopatías inflamatorias
+        - Dermatomiositis
+            - Inflamación mononuclear (CD4) perivascular y perimisial
+            - Depósitos de C5b-9 en capilares y piel
+            - Linfocitos B ⇒Anticuerpos circulantes
+            - Atrofia perifascicular
+        - Miositis por cuerpos de inclusión
+        - Polimiositis
+            - Enfermedad autoinmune mediada por células T que afecta los músculos esqueléticos y que carece de las características de la dermatomiositis o la miositis por cuerpos de inclusión.
+            - Infiltrado mononucleares (CD8) en endomisio que pueden invadir miofibrillas y producir necrosis
+    - Enfermedad de rechazo contra injerto
+        - Proceso en el que los linfocitos T y los anticuerpos producidos contra los antígenos del injerto reaccionan contra los injertos de tejido y los destruyen
+        - Se clasifica en : Hiperagudo, Agudo, Crónico
+        - Rechazo hiperagudo
+            - Mediado por **anticuerpos** para antígenos en las **células endoteliales** del injerto
+            - **Necrosis fibrinoide aguda** en arteriolas y arterias, estenosis u oclusión por trombos
+            - Acumulación de neutrófilos en arteriolas, glomérulos y capilares peritubulares
+        - Rechazo agudo
+            - Mediado por **células T** y anticuerpos que son activados por aloantígenos en el injerto
+            - Inflamación intersticial con CD4 y CD8 activados, Vasculitis (endotelitis y arteritis de la intima), Depósitos de productos del complemento
+        - Rechazo crónico
+            - Reacción de **células T** contra **aloantígenos** del injerto ⇒ Secreción de citocinas ⇒ Proliferación y activación de fibroblastos
+            - Fibrosis intersticial y estrechamiento gradual de los vasos sanguíneos del injerto (arteriosclerosis del injerto).

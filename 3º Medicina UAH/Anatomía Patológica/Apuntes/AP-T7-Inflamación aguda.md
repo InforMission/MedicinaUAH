@@ -1,0 +1,54 @@
+- Reacción defensiva inespecífica del tejido vivo vascularizado que persigue la reparación tisular
+
+- Historia
+    - Los griegos.- Flogosis o flegmasia
+    - Medicina romana.(Celso) describe los signos cardinales de la inflamación
+    - Virchow estudia la proliferación celular
+    - Conhein descubre la diapédesis y los fenómenos vasculares
+    - Metchnicoff la fagocitosis
+    - Sir Thomas Lewis descubre los primeros mediadores químicos de la inflamación
+- Clínica general
+    - Dolor, Rubor, Tumor, Calor, Función alterada
+- Características
+    - Comienzo brusco
+    - Intensa sintomatología clínica
+    - Corta duración
+    - Histológicamente predominan los fenómenos alterativos o exudativos con polinucleares, plaquetas y mastocitos
+- Reacción vascular
+    - Vasodilatación
+    - Exudación, Trasudación
+        - Histamina, Bradicinina, Leucotrienos ⇒ Contracción endotelial↔**Vasodilatación inmediata**
+        - TNF, IFNG ⇒ Lesión endotelial↔**Vasodilatación retardada**
+        - Aumento de permeabilidad
+    - Infiltración celular del foco
+- Reacción celular
+- Tipos de inflamación según predominio de respuesta
+    - Lesión tisular (alterativo)↓
+        - Lesiones intensas (infecciones virulentas, escasa defensa, septicemia) ⇒ Intenso edema, escasa respuesta orgánica
+        - Por acción de agentes citotóxicos ⇒ Inflamación de tipo {{27075035364370703::parenquimatoso de Ashoff }}(Hepatitis fulminante)
+        - Gangrena ⇒ Predomina la necrosis isquémica
+    - Reacción vascular
+        - Hiperhemia activa ⇒ Vasodilatación intensa ⇒ Congestión vascular ⇒ Zona afecta eritematosa
+        - Discreto edema e infiltrado inflamatorio
+    - Exudación
+        - Intensa congestión vascular y abundante edema (tisular + vascular)
+        - Clasificación↓
+            - Serosa
+            - Fibrinosa
+            - Serofibrinosa
+            - Purulenta
+                - Intensos fenómenos de quimiotaxis leucocitaria ⇒ Acúmulo de PMN en el foco
+                - Acción de enzimas proteolíticas
+                - Pus : Polinucleares vivos y muertos (piocitos), tejido necrótico, microbios vivos o muertos, leucocitos, hematíes, proteínas, agua y fibrina
+                - **S. Aureus, Estreptococo no hemolítico, Gonococo, Meningococo, Colibacilo** , Trementina
+                - Cavitaria
+                    - Empiema ⇒ Piosalpinx, Piartros, Piotorax
+                - Mucosa
+                    - Bronquitis purulenta, Traqueitis, Gonococia
+                - Intersticial
+                    - **Flemón**→Forma difusa de inflamación purulenta en tejidos blandos
+                    - **Absceso**→Forma circunscrita de inflamación purulenta constituida por una cavidad central con pus, tejido necrótico y polinucleares, tejido de granulación con marcada reacción vascular y tejido fibroso
+            - Hemorrágica
+                - Variante de las demás a las que se suma la extravasación sanguínea
+                - Infecciones agudas graves, procesos inmunitarios o tóxicos
+                - **Carbunco, Peste, Neumonía hemorrágica, Pancreatitis aguda hemorágica, Herpes**

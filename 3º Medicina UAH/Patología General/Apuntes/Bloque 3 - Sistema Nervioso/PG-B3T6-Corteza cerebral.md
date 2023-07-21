@@ -1,0 +1,166 @@
+- ## Anatomía
+    - Alteraciones **difusas** ⇒ Demencia, **Encefalopatía**
+    - Alteraciones **focales** ⇒ Cuadros vasculares, epilepsia...
+    - Hemisferio dominante
+        - **El que domina el lenguaje**
+        - Suele ser el **izquierdo** (90% de diestros, 60% de zurdos)
+        - Los lóbulos más importantes para la dominancia son el **parietal** y el **frontal**
+    - Cualquier lesión **bilateral** en la corteza prefrontal u orbitofrontal produce
+        - Defectos de la **volición**
+        - **Moria** ⇒ Risa patológica, humor plano
+        - Labilidad emocional, ↓Control de impulsos
+    - Área motora suplementaria
+        - Inhibición→Síntomas Parkinsonianos
+        - La principal manifestación es cuando se estimula
+    - Corteza motora primaria
+        - Lesión de **predominio faciobraquial**
+        - Parálisis facial central
+    - Centro de la mirada **supratentorial**
+        - Afectado en la **epilepsia**
+        - Los ojos no son capaces de centrarse en el medio ⇒ La mirada se dirige hacia el lado de la lesión (**paresia contralateral**) ⇐ (Lesión pierde el pulso)
+        - Hemiparesia derecha y mirada hacia la izquierda ⇒ Lesión en la {{25037247666877316::izquierda}}
+        - Hemiparesia izquierda y mirada hacia la derecha ⇒ Lesión en la {{2940574565047318::derecha}}
+    - Centro de la mirada del **tronco cerebral**
+        - Lesión izquierda ⇒ Afectación del abducens izquierdo ⇒ Mirada a la derecha (contralateral)
+        - Hemiparesia derecha y mirada hacia la derecha ⇒ Lesión en la {{060883432529110326::izquierda}}
+        - Hemiparesia izquierda y mirada hacia la izquierda ⇒ Lesión en la {{3991072426447737::derecha}}
+    - Afasias
+        - Afasia **motora** de Broca
+        - Afasia **sensitiva** de Wernicke
+        - Afasia **global**
+        - Disfasia de conducción
+            - Lesión del **fascículo arcuato**
+            - Habla fluida, neologismos, parafasias
+            - **Comprensión del lenguaje**, introprospección conservada
+            - Repetición muy alterada
+        - Afasia nominal
+            - Alteración para nombrar los objetos
+            - Lesión del córtex **parieto-temporal dominante**
+- ## Lóbulo frontal
+    - Anatomía
+        - **Corteza motora primaria**
+            - Función motora **contralateral**. Vía piramidal. Distribución somatotópica
+        - **Corteza motora suplementaria**
+            - Movimientos **contralaterales** de los ojos y de la cabeza
+        - **Área de Broca** (hemisferio dominante)
+            - Articulación y emisión del lenguaje
+        - **Corteza prefrontal**
+            - Expresión emocional, personalidad, iniciativa, planificación
+        - **Centro cortical de la micción**
+            - Inhibición cortical (volitiva) de la urgencia miccional
+        - Perfusión→Arteria **cerebral anterior** (mesial) y **media** (convexidad)
+    - Lesiones
+        - Afasia **motora** de Broca
+            - El paciente entiende lo que se le dice pero no es capaz de articular el lenguaje
+            - En muchas ocasiones hay una {{06053940446882744::**debilidad de la mano**}} (por contigüidad anatómica de la lesión)
+            - Parálisis facial **central** (inferior contralateral)
+        - **Apraxia de la marcha** (parquinsonismo vascular)
+        - **Incontinencia esfinteriana**
+        - Parálisis **contralateral** del giro cefálico y la lateroversión ocular
+        - **Reflejos primitivos**
+            - Hociqueo, Grasping, Succión (originados en parietal)
+        - Arteria cerebral **media**→Hemiparesia contralateral de **predominio facio-braquial** (área de la convexidad)
+        - Arteria cerebral **anterior**→**Hemiparesia crural** contralateral (cara interna)
+        - **Alteración de la conducta** (afectación bilateral) ⇒ Desinhibición, apatía, moria, incapacidad para resolver problemas, inatención
+        - **Foco irritativo : Crisis versivas**↓
+            - Lesión irritativa del **área motora suplementaria**
+            - Elevación del brazo y de la pierna, giro de la cabeza
+            - Desplazamiento hacia {{6687995648171334::el lado contrario del foco irritativo}}
+- ## Lóbulo parietal
+    - Anatomía
+        - **Corteza somatosensorial**
+            - Proyecciones aferentes a través del tálamo, desde las vías somatosensoriales, distribución somatotópica
+        - Hemisferio dominante
+            - **Área de Wernicke** : Lenguaje (hemisferio dominante). Conexión con Área de Broca (fascículo arcuato en región parietal inferior)
+            - Capacidad de cálculo (hemisferio dominante)
+        - Hemisferio no dominante
+            - Integración de la información somatosensorial y auditiva (orientación en el medio)
+            - Vías visuales (áreas subcorticales) : Cuadrantes inferiores de los campos visuales
+        - Perfusión→**Arteria cerebral media**
+    - Lesiones
+        - Lesiones de hemisferio dominante o no dominante
+            - **Astereognosia** o agnosia táctil
+            - **Agrafoestesia**
+            - Extinción sensitiva
+            - Discriminación entre dos puntos disminuida
+            - **Alteraciones visuales**→**Cuadrantonopsia homónima inferior** (porción profunda cortical), Trastorno del seguimiento ocular, Pérdida de nistagmo optocinético
+        - Lesiones del hemisferio **dominante**
+            - Afasia **sensitiva** de Wernicke
+                - El paciente no entiende lo que le dice y no puede reconocer las grafías
+                - Lenguaje fluido y completamente incomprensible ⇒ **Neologismos**
+            - **Síndrome de Gerstmann**↕
+                - Área posterior **parieto-occipital** (giro angular y supramarginal)
+                - **Desorientación derecha-izquierda**
+                - **Discalculia**
+                - **Disgrafia/Agrafia**
+                - **Agnosia digital**
+                - Afasia sensorial, Dislexia
+            - Apraxia ideomotora o ideacional bilateral
+                - Incapacidad para realizar tareas a petición o imitación, con compresión normal y sin trastornos motores ni sensitivos
+                - Pérdida del concepto de tridimensionalidad (orientación en el espacio)
+        - Lesiones del hemisferio **no dominante**↕
+            - **Apraxia constructiva/visuoespacial** : Dificultad para dibujar objetos (disfunción visuoespacial)
+            - **Apraxia del vestido**
+            - **Asomatognosia** : Inatención sensorial del hemicuerpo contralateral
+            - **Anosognosia** : Incapacidad de entender el propio estado de enfermedad
+        - Foco irritativo
+            - Síntomas sensoriales : Hormigueo (parestesia)
+            - Dedos de la mano ⇒ Brazo ⇒ Cara ⇒ Miembros inferiores
+- ## Lóbulo temporal
+    - Anatomía
+        - Área de Wernicke
+            - Porción superior parieto-temporal
+        - Área de Heschl : Córtex auditivo y vestibular
+            - Discriminación de las frecuencias de los sonidos. Proyección bilateral en ambos oidos.
+            - Hemisferio dominante↔Comprensión de las palabras.
+            - Hemisferio NO dominante↔Comprensión de los sonidos y la música
+            - Perfusión de la **cerebral media** (convexidad) y de la **posterior** (cara interna)
+        - Sistema límbico
+            - Cara mesial profunda : Hipocampo, Amígdalas, Uncus
+            - Circunvolución parahipocampal
+        - Perfusión→Arteria cerebral **media** (convexidad) y posterior (**mesial**)
+    - Lesiones
+        - Sordera cortical
+            - Lesión {{22597393647701192::**bilateral**}} de los lóbulos temporales
+        - Agnosia auditiva
+            - Hemisferio {{04789819902796055::NO dominante}}
+            - **Amusia** : Incapacidad para reconocer los sonidos y la música
+        - Dificultad para el aprendizaje
+            - Información {{6249953404034025::**auditiva**}} (hemisferio dominante)
+            - Información {{8253163578735585::**visual**}} (hemisferio NO dominante)
+        - Alteración de la memoria a corto plazo
+            - Circunvolución del hipocampo y parahipocampal
+            - Retención de nueva información
+        - Alteraciones emocionales
+            - Furia, agresividad, hipersexualidad. Apatía
+        - Síndrome de Klüver-Buçy
+            - Lesión **bilateral** de las amígdalas
+            - Hiperfagia, Estado anímico plácido, Hipersexualidad
+        - **Alteraciones visuales**→Cuadrantanopsia homónima superior
+        - Foco irritativo en uncus↔Crisis uncinadas : Alucinaciones olfativas y gustativas
+        - Foco irritativo en amígdalas temporales↔Crisis parciales complejas con manifestación agresiva
+        - Foco irritativo en hipocampo↔Crisis parciales complejas de déjà-vu y de jamais-vu
+- ## Lóbulo occipital
+    - Anatomía
+        - **Corteza estriada**
+            - Percepción de la visión ⇒ **Hemicampo visual contralateral**
+        - **Corteza paracalcarina**↓
+            - **Reconocimiento** de lo que se ve
+            - Prosopoagnosia ⇒ Falta de reconocimiento de las caras
+        - Perfusión→Arteria cerebral **media** ⇒ Fibras de la **fóvea** , Arteria cerebral **posterior** ⇒ Resto de las fibras
+    - Lesiones
+        - Hemianopsia **homónima** **contralateral**
+            - Lesión de arteria cerebral {{3285346358053569::**posterior**}}→**Área macular** conservada
+        - Ceguera cortical o hemianopsia doble
+            - Reflejos pupilares conservados
+            - El paciente niega la ceguera (**síndrome de Anton**)
+            - El paciente ve pero no reconoce lo que ve
+            - Oclusión de la {{7864592446397889::arteria basilar}}
+        - Prosopoagnosia
+            - Incapacidad para reconocer caras
+        - Ilusiones visuales
+            - Macropsia
+            - Micropsia
+            - Metamorfopsia
+        - Foco irritativo en la corteza visual primaria↔Escotoma centellante o espectro de fortificación (destellos, dibujos geométricos)
+        - Foco irritativo en la corteza de asociación visual temporo-occipital↔Ilusiones ópticas de personas u objetos

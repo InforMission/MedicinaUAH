@@ -1,0 +1,39 @@
+- **Vértigo** ⇒ Alucinación que produce la sensación subjetiva de movimiento (giratorio, horizontal o vertical)
+- Cupulolitiasis
+    - **Vértigo posicional paroxístico benigno** (no hay alteración SNC, autolimitado) por cupulolitiasis del conducto semicircular (normalmente {{4462593073072538::**posterior**}})
+    - Sensación de giro {{8587033615337669::**más intensa**}} al girar la cabeza {{32785470182945753::**hacia la cupulolitiasis**}} (deslaceración de las otoconias)
+    - Nistagmo rápido hacia la irritación, **Nistagmo lento (patológico)** {{8779192495242198::**huye** }}{{8779192495242198::(la hiperestimulación genera huida del nistagmo patológico)}}
+- Hipertensión endolinfática : Hidros endolinfático
+    - Paradigma **: Enfermedad de Mèniere**
+    - **Episodios súbitos** de mucho vértigo, **no relacionados con giros** de la cabeza
+    - Sensación de plenitud auricular (dedo en el oído), Acúfenos, Hipoacusia
+    - Los síntomas mejoran si el paciente está {{1567905024055678::**tumbado**}}{{1567905024055678:: sobre el }}{{1567905024055678::**oído patológico**}}{{1567905024055678:: }}
+    - Nistagmo lento patológico {{7855832090793244::hacia el lado lesionado (}}{{7855832090793244::**hipoestimulado**}}{{7855832090793244::)}}, Nistagmo rápido huye de la irritación
+    - **El nistagmo** {{09104884816907965::**se agota**}} ( a diferencia de las lesiones centrales )
+- Diagnóstico
+    - Nistagmos
+        - **Nistagmo lento huye de la lesión** (hiperestimulación repele), Nistagmo rápido se dirige hacia la irritación↔Cupulolitiasis
+        - **Nistagmo lento hacia el lado lesionado** (hipoestimulación atrae), Nistagmo rápido huye de la irritación↔Menière
+    - Test Fukuda-Barany
+        - Dedos apuntando hacia delante, pies en marcha, ojos cerrados
+        - La marcha se dirige **hacia el lado hipoestimulado**, o gira contrariamente hacia el lado hiperestimulado
+    - Neuropatía vestibulotóxica
+        - Hipofunción bilateral : **No hay nistagmus**
+        - **No hay vértigo** ⇒ Sensación de inestabilidad y afectación acústica
+    - Crisis otolítica por fractura del peñasco
+        - Cuadro vertiginoso agudo tras ejecutar **Maniobra de Valsalva**
+        - Transmisión de la PIC súbita a través de la fractura al canal endolinfático ⇒ Crisis otolítica : Vértigo súbito ⇒ El paciente se cae
+    - Nistagmus vertical
+        - Siempre es de origen {{9032611013635805::**central (lesión del tronco cerebral)**}}
+        - El nistagmus por origen central no es {{07341435763791027::agotable}}
+    - Maniobra de Nylen-Barany
+        - Aparece cuando se le gira la cabeza hacia la cupulolitiasis
+    - Reflejo oculovestibular
+        - Ante un decalaje hay una corrección brusca de la mirada, por una hipofunción del seguimiento continuo
+    - Maniobra de Epley
+        - Curación del vértigo
+    - Test de Romberg
+        - Lesión propioceptiva, no tiene que ver con vestibular
+    - Test de Pass-point
+        - Lesión **cerebelosa**
+        - No puede tocar el dedo con los ojos cerrados

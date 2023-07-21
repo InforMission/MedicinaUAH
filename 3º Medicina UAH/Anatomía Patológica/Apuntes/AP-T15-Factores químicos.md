@@ -1,0 +1,51 @@
+- Monóxido de carbono
+    - CO-Hgb = Carboxihemoglobina ⇒ Disminución de transporte de O2 ⇒ Hipoxia
+    - Microhemorragias, Edema
+    - Necrosis selectiva bilateral del globo pálido y putamen
+- Enfermedades ocupacionales
+    - Sistemas de aclaración del pulmón : Tos, Movimiento ciliar, Esputo, Macrófagos alveolares
+    - Partículas fibrogénicas→Partículas no destruibles por los macrófagos alveolares, que se acumulan en el intersticio y dan lugar a fibrosis e inflamación
+    - Los N2 se se diferencian a N1 en condiciones normales, pero al lesionarse se transforman en epitelio cuboide
+    - Antracosis
+        - Agente lesivo : Polvo del carbón
+        - Antracosis asintomática↔No hay fibrosis
+        - Antracosis simple
+            - Neumoconiosis **no complicada** de los trabajadores del carbón
+            - Lesiones nodulares pigmentadas con leve fibrosis, únicas o múltiples
+            - ![[Pasted image 20230625103321.png]]
+        - Antracosis complicada
+            - Neumoconiosis de los trabajadores del carbón
+            - Fibrosis masiva y progresiva (con mucho colágeno) que forma tabiques alveolares y dificulta el intercambio gaseoso
+            - ![[Pasted image 20230625103328.png]]
+    - Silicosis
+        - Partículas esféricas de sílice de 1-5 micras que atraviesan la barrera epitelial y se depositan en el intersticio, donde son captadas por los macrófagos
+        - Lesiones iniciales→Granuloma
+        - Lesiones características→Nódulo silicótico (fibrótico), Fibrosis progresiva (Nódulo de Mauro Gordato)
+        - ![[Pasted image 20230625103335.png]]
+    - Asbestosis
+        - La fibra de asbestos es larga pero muy fina, penetra con facilidad en los alveolos y se acumula en el intersticio. Se recubren de hierro y se pueden teñir
+        - Lesión intersticial→Placa fibrosa pleural (lesión inicial) ⇒ Fibrosis pulmonar progresiva (hepatización)
+        - Lesión epitelial : Cáncer de pulmón
+        - Lesión pleural→**Mesotelioma**
+- Metales
+    - Argiria
+        - Pigmentación por plata por acumulación en las membranas basales y macrófagos
+    - Plomo
+        - Sistema nervioso→**Niño** ⇒ Desmielinización, Necrosis neuronal, Aumento de la densidad ósea | **Adultos** ⇒ Neuropatía desmielinizante
+        - Médula ósea→Sideroblastos en anillo, defecto de síntesis de hemoglobina, anemia microcítica hipocrómica
+        - Riñón→Enfermedad tubulointersticial crónica
+    - Mercurio
+        - Se une a los grupos sulfhidrilo de algunas proteínas
+        - Daño en SNC, digestivo y riñón
+    - Arsénico
+        - Interfiere en la fosforilaxión oxidativa mitocondrial
+        - Daño en SNC, digestivo y **piel** (se acumula en los pelos)
+    - Cadmio
+        - EPOC y lesiones renales
+- Tabaco
+    - Madre fumadora : Aborto, Prematuro
+    - Toxicidad cliar : EPOC, Enfisema, Bronquitis crónica
+    - Cáncer : Pulmón, Cavidad oral, Laringe, Esófago, Vejiga
+- Alcohol
+    - Toxicidad aguda→Esteatosis hepática, Gastritis aguda
+    - Toxicidad crónica→Hepatitis alcohólica, Cirrosis, Miocardiopatía dilatada, Gastritis y úlcera, Aumento de riesgo de pancreatitis, Deficiencia de B1 ⇒ S. Korsakoff, Atrofia cerebral/cerebelar, S. Alcohólico fetal

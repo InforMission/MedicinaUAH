@@ -1,0 +1,131 @@
+- Fisiología
+    - Conceptos generales
+        - pH : Logaritmo inverso de la concentración de hidrogeniones
+        - Ácido : Sustancia capaz de ceder un hidrogenión
+        - Base : Sustancia capaz de captar un hidrogenión
+        - Nivel normal de pH arterial sistémico : **7.35 - 7.45**
+        - Las arterias tienen menos CO2 y menos HCO3-, lo contrario en las venas
+        - La PaCO2 se controla por el **SNC** y el **aparato respiratorio**
+        - El HCO3- plasmático es controlado por los **riñones**
+    - Sistemas tampón
+        - Es suficiente con estudiar un solo sistema para conocer la homeostasia ácido-base (están todos en equilibrio
+        - **Ácido carbónico/Bicarbonato**
+            - Preferido para el estudio del equilibrio ácido-base
+            - [[Ecuación de Henderson-Hasselbach]]
+                - $pH = 6'1 \times \frac{HCO_3⁻}{Pa_{CO2} \times 0.0301}$
+        - Fosfatos
+        - Diversas proteínas
+        - Hemoglobina
+        - Sales del hueso
+    - Regulación respiratoria
+        - La PaCO2 se controla por la ventilación ⇒ **Regulación rápida**
+        - Nivel normal de PaCO2: {{38193803111185254::**40mmHg**}}{{38193803111185254:: }}
+        - Hipercapnia
+            - Etiología→↑Producción de CO2, **Hipoventilación (causa mayor)**, Trastornos con ↑ HCO3- (compensación)
+        - Hipocapnia
+            - Etiología→Hiperventilación, ↓ HCO3-
+    - Regulación renal
+        - Tres procesos
+            - **Reabsorción** de bicarbonato filtrado ⇒ 80-90% en túbulo proximal, el resto en nefrona distal
+            - **Formación de ácido valorable** ⇒ La orina es ácida porque se excretan H+ para conservar el bicarbonato
+            - **Eliminación de NH⁴+** ⇒ Combinación del H+ con NH³
+        - La mayoría de trastornos renales cursan con {{8830213248326932::**acidosis**}}
+    - Respuestas compensatorias
+        - Acidosis metabólica: ↓ HCO3 1 mEq/L ⇔ ↓ PaCO2 1’25 mmHg.
+        - Alcalosis metabólica: ↑ HCO3 1 mEq/L ⇔ ↓ PaCO2 0’75mmHg.
+        - Acidosis respiratoria
+            - Aguda: ↑ PaCO2 10mmHg equivale a ↑HCO3 **1** mEq/L
+            - Crónica: ↑ PaCO2 10mmHg equivale a ↑HCO3 **4** mEq/L
+        - Alcalosis respiratoria
+            - Aguda: ↓10mmHg PaCO2 equivale a ↓ HCO3 **2** mEq/L
+            - Crónica: ↓10mmHg PaCO2 equivale a ↓ HCO3 **4** mEq/L.
+- Acidosis
+    - Definición ⇒ pH {{9615711693595543::**extracelular**}}{{9615711693595543:: < }}{{9615711693595543::**7'35**}}{{9615711693595543:: }}
+    - Metabólica
+        - Etiología
+            - Disminución primaria en la **concentración de HCO3⁻**
+            - **Pérdida** de por el **riñón** o el tubo digestivo (páncreas)
+            - **Aparición de un ácido** ⇒ Exógeno (Alcohol, AAS) o Endógeno (Urea, Cetosis, Lactato)
+        - Fisiopatología
+            - Anion gap ⇒ Diferencia entre iones positivos y negativos que no se miden (sulfatos, fosfatos, **proteínas**) : $Na+ - (Cl- + HCO3-)$ ⇒ Valor normal : **10-12 mEq/L**
+                - Anion gap elevado (Sin {{7671431696268323::hipercloremia}})↓
+                    - **Aparición de ácidos**
+                    - Acidosis láctica, **Cetoacidosis**, Uremia, Intoxicación por ácidos
+                - Anion gap normal : Acidosis **hiperclorémica** (>120)
+                    - **Pérdidas de bicarbonato**
+                    - **Digestivas** (diarreas, tubos de drenaje intestinal) : **Orina** {{42645641521523614::**ácida**}} (el riñón reabsorbe más bicarbonato)
+                    - **Renales** : Acidosis tubulares renales (1 distal, 2 proximal) : **Orina** {{7169699173547215::**alcalina**}}
+        - Semiología
+            - Respiratoria→**Hiperventilación** ⇒ Respiración de Kussmaul (profunda y acelerada)
+            - Cardiovascular→Inotropismo negativo, vasodilatación periférica, predisposición al **edema pulmonar**
+            - Nerviosa : Depresión y cefalea, ↓ conciencia, Coma
+            - Digestiva : Náuseas y vómitos
+            - Ósea : Osteodistrofia renal en casos crónicos
+        - Analítica
+            - **Hiperpotasemia** : El K+ sale del interior de la célula por un mecanismo de desplazamiento
+            - **Leucocitosis**
+            - **Orina ácida** (excepto en {{9563400789991057::acidosis tubular}})
+    - Respiratoria
+        - Etiología
+            - **PaCO2 alta**
+            - Disminución de la ventilación alveolar (**hipoventilación**)
+            - Alteraciones en el control de la respiración : Sedantes, Mórficos, Coma, Meningitis, Encefalitis
+            - Enfermedades pulmonares graves : Asma, Enfisema, Bronquitis
+            - Enfermedades neuromusculares : Miastenia gravis, Poliomelitis
+            - Obesidad, Hipoventilación primaria
+        - Semiología
+            - Aguda
+                - **Síntomas neurológicos** : Ansiedad, Cefalea, Alucinaciones, Coma hipercápnico
+                - Disnea, Arritmias cardíacas, Hipotensión
+            - Crónica
+                - Somnolencia diurna
+                - Pérdida de memoria
+                - Alteraciones de la conducta
+                - Alteraciones motoras : Mioclonías, Temblores, Debilidad
+                - Cefalea
+- Alcalosis
+    - Definición : pH {{23567107081286975::extracelular >}}{{23567107081286975:: **7'45**}}{{23567107081286975:: }}
+    - Metabólicas
+        - Etiología
+            - Concentración de bicarbonato alta
+            - Causa **iniciadora** : Pérdidas de H+ (vómitos, orina), Administración **IV** de alcalinos
+            - Causa **mantenedora** : Hipovolemia (↓secreción de bicarbonato), ↑ Cl-, K+
+        - Semiología
+            - **Hipopotasemia**
+            - Respiratoria : **Hipoventilación** (lenta y superficial)
+            - Cardiovascular : **Arritmias** cardíacas graves
+            - Irritabilidad neuromuscular : Tetania, Hiperreflexia
+            - La alcalosis se tolera peor que la acidosis
+    - Respiratorias
+        - Etiología
+            - PCO2 baja
+            - Hipoxemia, Anemia, Shock, Sepsis
+            - Estímulo del SNC : Enfermedades neurológicas y psiquiátricas, Salicilatos, Embolismo pulmonar (disnea), Insuficiencia hepática, Progesterona
+        - Semiología
+            - Instauración larvada sin clínica, se manifiesta con **instauración aguda**
+            - Inestabilidad, Confusión, Convulsiones
+            - **Hipopotasemia** ⇒ Arritmias cardíacas en cardiópatas
+            - Síndrome de hiperventilación : Parestesias, Entumecimiento peribucal, Opresión torácica, Tetania
+- Gasometría
+    - Mejor la **arterial** (mide el oxígeno)
+    - pH
+        - pH = 7.35-7.45→Normal
+        - pH <7'35→Acidosis
+        - pH >7'45→Alcalosis
+    - HCO3⁻
+        - HCO3⁻ = 22-26→Normal
+        - HCO3⁻ < 22 con pH <7'35→Acidosis metabólica
+        - HCO3⁻ < 22 con pH >7'45→Alcalosis respiratoria
+        - HCO3⁻ >26 con pH <7'35→Acidosis respiratoria
+        - HCO3⁻ >26 con pH >7'45→Alcalosis metabólica
+    - PaCO2
+        - PaCO2 <35mmHg con pH <7'35→Acidosis metabólica
+        - PaCO2 <35mmHg con pH >7'45→Alcalosis respiratoria
+        - PaCO2 >45mmHg con pH <7'35→Acidosis respiratoria
+        - PaCO2 >45mmHg con pH >7'45→Alcalosis metabólica
+- Casos clínicos
+    - pH: 7’05; pO2: 108mmHg; pCO2: 12mmHg y HCO3-: 5mEq/L.→Acidosis metabólica
+    - pH: 7’05; pO2: 68mmHg; pCO2: 82mmHg y HCO3-: 30mEq/L→Acidosis respiratoria
+    - pH: 7’36; pO2: 68mmHg; pCO2: 55mmHg y HCO3-: 34mEq/L.→Acidosis respiratoria compensada
+    - pH: 7’55; pO2: 108mmHg; pCO2: 22mmHg y HCO3-: 24mEq/L.→Alcalosis respiratoria
+    - pH: 7’50; pO2: 68mmHg; pCO2: 50mmHg y HCO3-: 34mEq/L→Alcalosis metabólica

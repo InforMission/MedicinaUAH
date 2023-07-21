@@ -1,0 +1,139 @@
+- Fisiología
+    - Concepto de sincitio funcional y conducción anisotrópica
+        - El corazón es un cableado eléctrico en el que los cables son los miocitos. Los miocitos (células alargadas) se conectan unos con otros en el llamado sincitio funcional, lo que les permite funcionar como una unidad única. Esto es posible gracias a las uniones que establecen los miocitos entre sus extremos longitudinales:
+            - Desmosomas: estructuras que dan solidez a la unión y permiten que un miocito tire de otro en la contracción.
+            - GAP junctions= uniones estrechas: zonas de membrana muy adelgazadas que permiten que un miocito perciba lo que pasa en el citoplasma de el de al lado. Gracias a esto, cuando el primero se despolariza, aquel que está inmediatamente al lado percibe esa despolarización como propia.
+            - Así, la actividad eléctrica se transmite por el **eje longitudinal** de las fibras (NO hacia los lados, sino hacia delante). Este tipo de conducción se denomina conducción anisotrópica (en una dirección SI, y en el resto NO).
+    - Sistema electrónico de conducción
+        - NODO SINUSAL
+            - Células generadoras de ritmo localizadas junto a la desembocadura de la cava
+            - Mecanismo de potencial de acción
+                - El potencial de acción que generan las células del nodo sinusal NO tiene meseta, es estrecho (entra poco calcio) y es espontáneo y continúo
+                - Pasamos de un potencial de membrana de -70mV hasta un potencial umbral de -60mV y espontáneamente al llegar a ese umbral ⇒ apertura de canales de sodio ⇒ entrada masiva de sodio en la célula ⇒ la célula se positiviza
+                - Existen células de respuesta rápida que no generan ritmo espontáneamente, pero al percibir la positivización de las células del nodo sinusal, a través de las GAP junctions, transmiten el ritmo cardiaco.
+            - Concepto de la captura de ritmo (MUY IMPORTANTE)
+                - **El corazón siempre irá al ritmo de aquel grupo de células que lo marque de manera más rápida**
+                - Esto es el fundamento de los marcapasos
+                - La captura de ritmo por parte de los miocitos nos permite tratar arritmias
+            - Inervación y vascularización
+                - El nodo sinusal está irrigado por la **arteria coronaria** {{781477413142629::**derecha**}} e inervado por el SNA
+                - Sistema simpático: genera palpitaciones
+                - Sistema parasimpático ⇒ El **vómito** o la compresión del seno carotideo provocan una **descarga vagal** que puede generar **bradicardias extremas**
+            - El nodo sinusal despolariza las aurículas, generando la onda P. Las aurículas y los ventrículos se encuentran totalmente aislados, separados por un anillo fibroso que da soporte a las válvulas
+            - El anillo fibroso no conduce el impulso eléctrico, por lo que este únicamente puede pasar a los ventrículos a través del nodo AV. Existen enfermedades en las que existen otras vías aparte del nodo AV
+        - NODO AURÍCULO-VENTRICULAR
+            - Localizado en la unión de las válvulas aurículo-ventriculares y el tabique. Se trata de un grupo de células con capacidad para generar ritmo, pero que se ha especializado sobretodo en retenerlo
+            - Conducción decremental
+                - La característica fundamental del nodo AV es una conducción decremental
+                - Esto permite que la aurícula, cuando se contrae, vacíe su contenido dentro de los ventrículos totalmente relajados. Cuando los ventrículos están relajados, permiten la entrada de sangre en ellos sin una presión elevada. Si no existiera esta conducción decremental, se contraería de inmediato el ventrículo tras contraerse la aurícula. Esto provocaría la entrada de sangre en un ventrículo contraído, es decir, con una presión mayor. El PR del ECG es generado por el nodo AV para que la sangre entre a unos ventrículos RELAJADOS
+            - Inervación y vascularización: Está inervado por el sistema nervioso autónomo e irrigado por la arteria coronaria derecha
+        - SISTEMA DE CONDUCCIÓN INTRAVENTRICULAR: HAZ DE HISS Y FIBRAS DE PURKINJE
+            - Actúan como un sistema de conducción rápida. Permiten la contracción rápida, uniforme y ordenada de toda la masa cardiaca
+            - Si estas fibras se estropean
+                - Aparecen las asincronías, es decir, las paredes del corazón se mueven de manera desordenada
+                - El impulso tarda más tiempo en llegar, ya que en lugar de ir por vías de conducción rápida, viaja a través de otras vías no especializadas en la conducción. Si viaja por vías no especializadas en la conducción, el impulso eléctrico dura más tiempo y eso se traduce en el ECG en un QRS alto
+    - Requisitos para un ritmo normal
+        - Ritmo **sinusal** con **frecuencia suficiente**
+        - Debe seguir el camino ordenado: Nodo sinusal ⇒ Nodo AV ⇒ Haz de Hiss y fibras de Purkinje
+        - Debe seguir el camino a las velocidades adecuadas: Velocidad **lenta** en el nodo y **rápida** en Purkinje
+    - ECG normal vs extrasístole ventricular
+        - ECG NORMAL: Nodo sinusal generador de onda P ⇒ Nodo AV onda PR ⇒ Haz de Hiss y fibras de Purkinje generadores de QRS estrecho (ya que hay una conducción adecuada)
+        - EXTRASISTOLE VENTRICULAR (complejo ventricular prematuro): La extrasístole ventricular es muy fácilmente reconocible en el ECG y se trata de una arritmia que tenemos todos y todos los días. Cuando más enfermo esté un corazón más extrasístoles ventriculares tendrá
+        - Mecanismo de generación de una extrasístole ventricular
+            - Despolarización de una zona NO especializada en la conducción
+            - Conducción **lenta** ⇒ **QRS muchísimo más ancho**
+            - **No hay onda P** **delante**
+            - Se anticipa al ritmo normal, ya que el nuevo foco en el ventrículo captura el ritmo. Por eso también se le denomina complejo ventricular **PREMATURO**
+- Etiología
+    - Automatismo
+        - Etiología: **Tumores compresores** (metástasis de cáncer de mama, melanoma, linfoma) e **hipertiroidismo**
+        - Mecanismo de acción: Estímulo de las células ⇒ **Exceso** de funcionamiento
+        - Clínica: **Taquicardia**
+    - **Postpotenciales**
+        - POTENCIAL DE ACCIÓN NORMAL
+            - 1) Potencial de reposo mantenido por la bomba Na+/K+
+            - 2) Apertura de canales de sodio (normalmente debido a la despolarización de la célula contigua)
+            - **3) Repolarización por la apertura de canales de potasio**
+            - 4) Fase de meseta por la entrada de calcio ⇒ contracción del miocito (Acoplamiento electromecánico entre la despolarización y la contracción)
+        - POTENCIAL DE ACCIÓN ALTERADO
+            - **Repolarización excesiva** con una fase de meseta muy larga ⇒ **QT largo**
+            - Como la repolarización es excesiva, las células cercanas pueden percibir esto como un **2º potencial de acción**
+            - Como consecuencia de la producción de potenciales de acción anómalos aparecen **taquicardias ventriculares malignas** helicoidales (**Torsades de pointes**)
+        - Causas de taquicardias ventriculares helicoidales (**TdP**)
+            - Postpotenciales {{5079614017369767::**precoces**}} ⇒ Mutaciones en los canales de K+, Fármacos: Macrólidos (eritromicina), Antihistamínicos o antidepresivos tricíclicos
+            - Postpotenciales {{23026191835183663::**tardíos**}} ⇒ **Digital**
+    - Parasistolia
+        - Grupo de células que están aisladas de las demás y emitiendo un impulso
+        - Dos ritmos simultáneos: un ritmo ventricular causado por la parasistolia y el ritmo normal
+        - En el ECG aparece un ritmo normal y de vez en cuando un latido ventricular
+        - Tiene poca trascendencia patológica.
+    - Bloqueos
+        - Etiología: **Endocarditis** que provoca la muerte de las células del nodo AV, **Miocarditis** (infección viral que destruye el tejido), **IAM** (destruye el tejido cardiaco), una infección por un traumatismo, en una cirugía cardiaca
+        - Mecanismo de acción: El impulso no tiene por donde pasar de las aurículas a los ventrículos
+        - Clínica ⇒ **Muerte** porque ausencia de ritmo ventricular o **bradicardia** extrema (escape ventricular de supervivencia : 20lpm)
+    - Reentrada
+        - La onda de activación tiene una frecuencia o tiempo de ciclo
+        - La frecuencia está determinada por dos factores:
+            - **Velocidad**: tiempo de activación entre una célula y otra. Este factor no varía normalmente, por lo que no determina la frecuencia. Si una célula enferma puede ser un poco más lento, pero no es determinante
+            - **Distancia**: Este factor es el que determina la frecuencia o tiempo de ciclo. La frecuencia está determinada fundamentalmente por la longitud que la onda de activación tiene que recorrer. La frecuencia es inversamente proporcional a la longitud que la onda de activación tiene que recorrer
+        - En las intoxicaciones por alcohol tenemos miocitos intoxicados que provocan un desorden en la activación. Estos miocitos intoxicados generan entre ellos un circuito aparte del resto, caracterizado por ser un circuito anormal, corto y lento. Como hemos dicho anteriormente, la frecuencia es inversamente proporcional a la distancia, por lo que, al ser un **circuito corto** (aunque es lento), la onda de activación vuelve rápidamente
+        - CONCEPTO DE REENTRADA (IMPORTANTE)
+            - Creación de **circuitos de activación internos** (que no siguen toda la secuencia del corazón), que permite que incluso con **velocidades de activación lentas**, entre muy pocas células que se activan entre sí, se produzcan **frecuencias rápidas**
+            - 2 componentes fundamentales de la reentrada ⇒ Una **vía lenta** y un **bloqueo unidireccional**
+        - Circuito de reentrada
+            - Llega el impulso, y se encuentra: Hacia la izquierda tejido por el cual circula de manera lenta (vía lenta) al tratarse de unas células que se encuentran en periodo refractario del bloqueo. Hacia la derecha una zona de bloqueo unidireccional por la que el impulso no puede pasar
+            - Una vez ha pasado esta parte del tejido, puede avanzar hacia la derecha y activar por detrás la zona bloqueada. De esta manera se genera un pequeño circuito sin fin, al cual llamamos circuito de reentrada
+            - Una vía lenta y un bloque unidireccional, por medio de una conducción NO homogénea (=desorganización de la conducción), permiten generar ritmos rápidos. La reentrada es el mecanismo más frecuente en la generación de arritmias, y además es el mecanismo más grave (el que mata a más gente de manera súbita)
+            - En el seno de un IAM de dentro hacia afuera encontramos: tejido necrótico, tejido isquémico y tejido que está bombeando para compensar y además tirando del tejido muerto. Esta última parte del tejido tiene un estrés terrible, y además está administrando células inflamatorias (PMN, monocitos) y citoquinas
+            - En el IAM hay todo tipo de células en todas las condiciones electrofisiológicas posibles. Encontraremos un magma de células despolarizadas, otras hiperpolarizadas, otras con las membranas dañadas, otras con más o menos ATP
+            - Es por ello que, al azar, es fácil que en un IAM nos encontremos reentradas. Cuanto más sano está el musculo cardiaco, menos posibilidades habrá de arritmias. Cuanto más enfermo está el musculo, más células enfermas hay, y por tanto más probabilidades habrá de que se produzcan arritmias. Las reentradas en un IAM provocan arritmias ventriculares, que causan muerte súbita. La fibrilación ventricular se corrige con un “chispazo” (Desfibrilador). El “chispazo” es una corriente eléctrica instantánea que pone orden en todas las células, corta todos los circuitos y permite que el nodo sinusal recupere el ritmo
+        - Tipos de reentrada
+            - REENTRADA FUNCIONAL
+                - Células en las que, como la **conducción es muy lenta** en un sentido, se genera una c**onducción transversal**
+                - Una reeentrada funcional podría ocurrir en el seno de un infarto. Son arritmias que pueden ocasionar la **muerte** ⇒ Desfibrilador
+            - REENTRADA ANATÓMICA
+                - Hay una vía accesoria paralela al nodo AV (Wolff-Parkinson-White)
+                - Las reentradas anatómicas causan {{8482768362345048::**taquicardias**}} de {{2277144673418383::**QR estrechos (<120milisegundos)**}} porque el impulso tarda muy poco tiempo en llegar
+                - Paciente tipo de reentrada anatómica→**Mujer** con palpitaciones que le **aparecen** y **desaparecen**. Con el ciclo menstrual cambia la cantidad de agua en los tejidos, cambiando el potencial electroquímico y el potencial de acción
+                - Pueden ser molestas pero **no matan**
+            - REENTRADA POR DESESTRUCTURACIÓN
+                - Causa **genética** ⇒ Alteraciones genéticas en las que las fibras están desordenadas. Una de estas alteraciones es la **miocardiopatía hipertrófica**
+                - Causa **isquémica** ⇒ Arritmias ventriculares **postinfarto**. Zonas donde se une el tejido sano y enfermo ⇒ conducciones heterogéneas ⇒ reentradas
+                - **Fibrilación auricular**→Distorsión de las aurículas por **acúmulo de sangre**, causada principalmente por la edad (65) y la HTA ⇒ **Embolias y reentradas**
+                - Arritmias ventriculares ⇒ Muerte súbita
+    - Causas generales de ritmo anormal
+        - **Isquemia** ⇒ Los infartos {{4071784913632328::**inferiores**}} son los que más se asocian a bloqueos de conducción. La coronaria {{4071784913632328::**derecha**}} irriga los centros de génesis de ritmo
+        - Lesión celular de cualquier tipo por traumatismos
+        - **Necrosis** por ejemplo por un golpe
+        - **Fibrosis** por envejecimiento
+        - **Hipertrofia** y **dilatación**
+        - Trastornos iónicos: Na, K, Ca, Mg, Cl
+        - **Fármacos** que afectan a canales iónicos: antiarrítmicos, neurolépticos, antiepilépticos, antihistamínicos...
+        - Trastornos genéticos de canales iónicos: Síndrome de Brugada, QT largo
+        - Malformaciones del sistema de conducción: WPW, vías accesorias.
+- Clínica
+    - PALPITACIONES
+        - Después de la comida, al tumbarnos en la cama o al hacer ejercicio físico aparecen palpitaciones fisiológicas
+        - Al tumbarnos la sangre de las piernas llena el corazón, este se llena y por un lado toca las paredes del pecho y por otro lado late más deprisa para bombear ese exceso
+        - La primera causa de palpitaciones es la {{19967054940970086::**ansiedad**}}, y la curamos los médicos simplemente escuchando a los pacientes
+    - VUELCOS
+        - Los vuelcos al corazón son las **extrasístoles**. Pueden ser fisiológicos cuando nos dan un susto
+        - El mecanismo de las extrasístoles tiene dos fases:
+            - Contracción muy rápida (dura lo que dura el QRS): En primer lugar hay un pulso grande de 120, seguido de uno más pequeñito a 60 (a veces imperceptible por el manómetro)
+            - A continuación hay una pausa larga en la que el corazón se está llenando de nuevo. Como se ha llenado mucho, en la siguiente contracción, por la ley de Frank-Starling, bombeará con gran fuerza, generando el llamado “vuelco”
+    - SINCOPE O PRESÍNCOPE
+        - La taquicardia extrema y la bradicardia extrema causan por igual insuficiencia cardiaca (una porque no da tiempo a llenarse y otra porque se llena muy pocas veces)
+        - Bloqueo AV paroxístico
+            - Observamos varias P con sus respectivas QR y de repente una onda P que ya no se sigue de su QR. Se ha bloqueado el impulso en el nodo AV. Durante 4 segundos y 220ms el corazón NO bombea
+            - La mayoría de las personas no notaríamos nada. La causa más común es el envejecimiento del nodo AV, pero también puede ocurrir por una extrema descarga vagal (acción de Ach sobre el nodo AV). Por el bajo gasto puede causar sincopes e incluso muerte súbita
+        - **Taquicardia ventricular** que degenera en fibrilación ventricular: El musculo cardiaco hace movimientos vibrátiles sin llegar a contraerse ⇒ Asistolia completa⇒ Muerte súbita. La parte de arriba se puede recuperar con antiarrítmicos, espontáneamente, con un choque... Parte de abajo únicamente se quita con un choque eléctrico o con un golpe brusco que por acción mecánica provoca una despolarización
+    - INSUFICIENCIA CARDIACA
+        - Diastole acortada + Pérdida de la contracción auricular en FA
+        - Cuando el corazón va muy deprisa la diástole se acorta (la sístole nunca se acorta) ⇒ no se llena bien el corazón ⇒ no se puede vaciar bien ⇒ se producen insuficiencias cardiacas
+        - Las taquicardias sostenidas rápidas son causa de insuficiencia cardiaca (bastante frecuente)
+    - ANGINA
+        - **Taquicardia** supraventricular. En esta situación hay poco aporte (se bombea poco) y mucho consumo ⇒ el consumo de O2 es enorme ⇒ falta oxígeno ⇒ Isquemia ⇒ Angina
+        - Además, podemos ver como el segmento ST desciende, lo cual es un signo inequívoco de isquemia. A 300 lpm todos los corazones generan angina, ya que no hay aporte de oxígeno suficiente para la cantidad de trabajo que se está haciendo. La angina de pecho es un síntoma de taquicardia extrema
+    - EMBOLIAS: FIBRILACIÓN AURICULAR Y FLUTTER
+        - Si las aurículas están muy dilatadas se produce la fibrilación auricular mencionada anteriormente. En el ECG de arriba vemos unas ondas sin onda P con un ritmo completamente desordenado y rápido
+        - El peor síntoma y el más común de la fibrilación auricular son las **embolias**. El tratamiento de las fibrilaciones auriculares para prevenir las embolias es la administración de fármacos **anticoagulantes**

@@ -1,0 +1,210 @@
+- Fisiología
+    - Anatomía
+        - **Serosa** (pericardio visceral), monocapa mesotelial que facilita el intercambio de fluidos e iones. Cubre al corazón
+        - **Fibrosa** (pericardio parietal), tejido fibrocolagenoso
+        - Fluido pericárdico. 15-50 ml de plasma claro ultrafiltrado. Es casi una cavidad virtual, pero hay un poquito de líquido
+        - Adjuntos ligamentosos. Al esternón, columna vertebral y diafragma
+    - **No es necesario para mantener la vida**
+    - Funciones fisiológicas
+        - Limita la dilatación cardiaca
+        - Mantiene la complianza ventricular normal
+        - Reduce la fricción al movimiento cardiaco
+        - Actúa de barrera frente a la inflamación
+        - Limita el desplazamiento cardiaco.
+- Pericarditis aguda
+    - Definición
+        - Inflamación del pericardio de rápido desarrollo que puede ser debida a múltiples causas
+        - Generalmente de curso **benigno** y **autolimitada**, pero puede evolucionar de forma crónica, lo cual incrementa su morbimortalidad
+        - La inflamación provoca un **exudado fibrinoso** con o sin efusión serosa (derrame)
+        - El pericardio transparente normal se convierte en un saco opaco y "arenoso". Puede causar **cicatrización** pericárdica con **adherencias** y **fibrosis**
+        - El derrame puede acabar provocando incluso taponamiento, pero esto es bastante infrecuente
+        - Tanto el **derrame** como la **fibrosis** pueden provocar que el cuadro agudo evolucione a una pericarditis crónica
+    - Patogenia
+        - 1. Propagación contigua: pulmones, pleura, ganglios mediastínicos, miocardio, aorta, esófago, hígado
+        - 2. Diseminación hematógena ⇒ Septicemia, Toxinas / metabólicas, Neoplasia
+        - 3. Propagación linfática
+        - 4. Traumática o irradiación
+    - Patocronia
+        - Las etiologías pueden ser múltiples, pero la que veremos de una manera más habitual en la práctica clínica es la pericarditis {{9865852847622507::**vírica**}}
+            - 1. Usualmente idiopática (inmunológica)
+            - 2. Probablemente debido a infecciones virales. 1) **Coxsackie A y B** (muy cardiotrópico) son la causa más común de pericarditis y miocarditis. Importante
+            - 2) Otros virus: paperas, VZ , influenza, Epstein-Barr, HIV
+        - T = Trauma (cornada, cuchillo), tumor (tumores que metastatizan o infiltran al pericardio, como los tumores de pulmón, de mediastino)
+        - U = **Uremia**: en la insuficiencia renal, también puede haber pericarditis, derrames pleurales, derrames pericárdicos e incluso ascitis
+        - ¿Qué signo semiológico relacionado con la insuficiencia hepática se observaría en las extremidades superiores del paciente con uremia?→Asterixis
+        - M = Infarto miocárdico (agudo, post). Hay necrosis, hay muerte de miocardio, por lo que también puede verse afectado el pericardio. Medicación (hidralazina, procainamida)
+        - O = Otras infecciones (bacterianas, fúngicas, tuberculosis). Las pericarditis agudas suelen estar más ligadas a una causa bacteriana tras cirugías o por infiltración de un foco neumónico pulmonar. La tuberculosis es una causa más frecuente de las pericarditis crónicas
+        - R = Reumatoides, enfermedades autoinmunes, radiación
+    - Clínica
+        - Comienzo repentino de dolor anterior de pecho, **pleurítico** y **subesternal**
+        - Características comunes con el **dolor del IAM** : **retroesternal** o precordial con **radiación** hacia **cuello**, **espalda**, **hombro** **izquierdo** o **brazo**
+        - El dolor pericárdico suele ser **agudo** y **pleurítico**. Se incrementa con la tos, la inspiración, con tragar. Empeora al tumbarse en supino y mejora en posición sentado e inclinado hacia delante
+        - Respiración superficial. Pasa lo mismo que en la **pancreatitis aguda**, que también empeora al **tumbarse** y mejora **sentado**
+    - Diagnóstico
+        - La{{6585382141557912:: **fricción pericárdica**}} es **patognomónica** de la pericarditis. “Sonido de rascar o rallar”. Tiene clásicamente 3 componentes (tanto en sístole como en diástole):
+            - 1. Frotamiento (rozamiento) **presistólico** durante el llenado auricular
+            - 2. Frotamiento (r) **sistólico** ventricular (más fuerte)
+            - 3. Frotamiento (r) **diastólico** ventricular (después de A2P2)
+        - **Roce pericárdico** ⇒ Pared costal, Más intenso en **espiración** y **sentado** , Variabilidad temporal (a veces se escucha y otras veces no)
+        - ECG
+            - **Elevación del segmento ST** ⇒ Inflamación epicárdica, Conduce I, II, aVL y V3-V6
+            - aVR usualmente muestra **depresión del ST**
+            - **ST cóncavo hacia** {{9544700198621054::**arriba**}} (ST en IAM cóncavo hacia abajo como una "cúpula")
+            - **Depresión del segmento PR** -Etapa temprana
+            - Inversión de onda T - Ocurre después de que el ST vuelva a la línea de base
+        - Ecocardiograma
+            - Utilidad limitada
+            - Derrame
+            - Su presencia no confirma el diagnóstico, ya que si no hay derrame, el engrosamiento que presenta el pericardio, se le escapa al ecografista.
+        - Cardioresonancia
+            - Patrón de inflamación
+            - Derrame
+            - Grosor y características
+        - Laboratorio
+            -  VSG  Leucocitosis  Signos de miocarditis (troponina)  Cultivo de virus (+)  Serología para virus: si sospechamos
+        - Diagnóstico diferencial
+            - IAM
+            - Embolismo pulmonar
+            - Neumonía
+            - **Disección de la aorta** ⇒ Suele ser un dolor muy intenso y muchas veces interescapular. Además de, ante un dolor así, plantear una fractura osteoporótica, hay que tener en cuenta la disección de la aorta y ahí el diagnóstico es el TAC
+- Pericarditis crónica
+    - Definición
+        - Consideramos pericarditis crónica cuando la afectación del pericardio es insidiosa y prolongada durante más de 3 meses. Es persistente y en muchos de los casos no hay un episodio inicial de pericarditis.
+    - Pericarditis constrictiva
+        - Definición
+            - La pericarditis constrictiva se trata de una **a****lteración post inflamatoria** poco común.
+            - **Engrosamiento, fibrosis y calcificación del pericardio**
+            - Rara vez se desarrolla después de un episodio de pericarditis idiopática aguda, sino que es más probable que se desarrolle después de una **pericarditis subaguda** con derrame que evoluciona durante varias semanas.
+            - Puede debutar por **cirrosis**, por **hipertensión portal**, por **edemas** en las piernas
+        - Etiología
+            - Idiopática
+            - Infecciosa ⇒ {{7795285957373723::**Tuberculosis**}} , Virus, Bacterias, Histoplasmosis
+            - Fármacos ⇒ Hidralazina, Cromolyn sodium, Procainamida, Penicilina, Isoniazida, Minoxidilo, Fenilbutazona, Metisergida
+            - Radiación
+            - Trauma de pecho o Qx
+            - Fallo renal
+        - Fisiopatología↓
+            - Disminución del volumen telediastólico ⇒ ↓Volumen sistólico ⇒ **↓GC**
+            - Aumento retrógrado de presión ⇒ Hipertensión portal, Edemas, Ingurgitación yugular ⇒ Similar a **IC derecha**
+            - Presiones de llenado de VD aumentadas con la morfología característica en **dip plateau o raíz cuadrada**
+            - Presión auricular derecha elevada (entre 10 y 20 mmHg). El registro de la presión tiene una **morfología típica en "W"** (colapso "y" prominente con a veces colapso "x" también prominente)
+            - Ausencia de variaciones respiratorias de la presión auricular derecha
+        - Pulso venoso yugular
+            - Se explora observando el latido de la vena yugular interna derecha. Inmediatamente lateral a la carótida con el paciente en decúbito supino, elevando el tórax 30-45º. Consta generalmente de dos ondas positivas (a y v) y dos depresiones negativas (senos o descendentes x e y). Generalmente se detecta mejor con la vista el colapso súbito (las descendentes) que las ondas positivas. La contracción auricular onda a y 4º ruido (desaparecen en la fibrilación auricular)
+            - El registro de la presión tiene una morfología típica en "W" (colapso "y" prominente con a veces colapso "x" también prominente)
+            - Presiones diastólicas finales: elevado e igualado (<5 mm Hg de diferencia)
+            - Rastreo de presión de la aurícula derecha. o Rápido descenso de X e Y, patrón “W” o “M” o Falta de disminución con la inspiración (signo de Kussmaul)
+            - Presiones ventrículo izquierdo y el ventrículo derecho: con cambios discordantes
+            - La presión sistólica ventricular derecha y de arteria pulmonar suelen estar moderadamente elevadas (en torno a 3540 mmHg). Las presiones auricular derecha e izquierda suelen ser similares. En resumen, existe una igualación de presiones de llenado en las 4 cámaras cardíacas
+            - Hay que tener en cuenta que en la pericarditis constrictiva se afectan las cuatro cámaras cardiacas, tanto derechas como izquierdas, no se trata de una patología que afecte solo al ventrículo izquierdo o derecho. Las presiones se hacen similares en las dos aurículas porque no se puede dilatar el corazón. El **gasto cardíaco está reducido** y los índices de función sistólica ventricular son normales prácticamente siempre, aunque a veces puede verse deteriorada por lesión del miocardio
+        - Clínica
+            - **Astenia** por disminución del gasto cardiaco
+            - **Ingurgitación** **yugular**: descenso prominente x e y. “M” o “W”. Es lo más común
+            - **Hepatomegalia** por ↑presión en cava y yugular. Estasis hepático, Cirrosis e hipertensión portal
+            - **Ascitis**, **Edemas** periféricos
+            - **50%** tamaño cardíaco normal ⇒ El tamaño cardiaco puede ser normal, pero muchas veces hay **calcificaciones**
+            - **Signo de Kussmaul**→La PVC no disminuye durante la inspiración (fallo diastólico derecho grave)
+            - 30% **pulso paradójico** exagerado (a veces desaparece con la inspiración)
+            - Presión de pulso normal o **débil**
+            - Disnea de esfuerzo, ortopnea, palpitacioens
+            - Auscultación cardíaca
+                - **Knock pericárdico** (ruido protodiastólico tras el 2º ruido que se corresponde con el cese brusco del llenado ventricular)
+                - En la protodiástole puede haber un ruidito que corresponde con este momento de stop del llenado ventricular
+                - El impulso apical está ausente o disminuido
+        - Diagnóstico
+            - Electrocardiograma ⇒ **Taquicardia** sinusal, **fibrilación** atrial, aplastamiento ST, inversión de la onda T, voltaje QRS descendido, derivación del eje hacia la derecha/RVH
+            - Radiografía de pecho: la calcificación pericárdica (44% a 70%), tiene que distinguirse de la calcificación de aneurisma del ventrículo izquierdo
+            - MRI y tomografía computarizada: se puede observar un aumento del grosor pericárdico del ventrículo derecho. (sensibilidad 88%, especificidad 100%, precisión diagnóstica 93%)
+            - ECOCARDIOGRAMA En **modo-M** el signo más característico es la "muesca protodiastólica precoz" del tabique interventricular en el llenado. También suele aparecer el movimiento anterior exagerado del tabique interventricular durante la sístole auricular, debido a que la pared posterior del ventrículo izquierdo es incapaz de expandirse de forma adecuada, desplazándose hacia el ventrículo derecho que es una cámara de menor presión. También puede aparecer un aplanamiento meso y telediastólico de la pared libre posterior del ventrículo izquierd
+            - Diagnóstico diferencial
+                - 1. Cardiomiopatía restrictiva 2. Fallo del ventrículo derecho 3. Enfermedad de las válvulas mitral o tricúspide 4. Taponamiento cardiaco
+    - Derrame pericárdico
+        - Definición
+            - Síndrome que se caracteriza por la presencia de un derrame importante en el saco pericárdico que desaparece (agudo) o se mantiene estable a lo largo del tiempo (más de 3 meses) y que puede ser de años (crónico)
+            - ¿Si usted tiene un derrame pericárdico, el hallazgo clínico esencial será ausencia de dilatación o compresión? El hallazgo esencial es **compresión**. Es este caso, hasta cuando no se está llenando se está comprimiendo. Todo depende del grado de derrame que lleve al taponamiento
+            - Su origen es plurietiológico, pudiendo ser debido a todos los grupos de agentes etiológicos que afectan al pericardio. Según los estudios más importantes las causas específicas más frecuentes del crónico son el {{16759072632702754::**hipotiroidismo**}}, la postirradiación, el fallo cardíaco derecho y algunas infecciones como la toxoplasmosis
+            - En el 70% de los casos el síndrome de derrame pericárdico crónico **idiopático** que es quizás la forma más interesante. Clínicamente se observa como un derrame importante cuantificado ecocardiográficamente (más de 20 mm en saco pericárdico anterior y posterior en diástole)
+        - Tipos de fluido efusivo
+            - 1. Seroso: transudativo- Fallo cardiaco
+            - 2. Supurativo: Infección piógena con detritus celulares y número elevado de leucocitos
+            - 3. Hemorrágico: ocurre con cualquier tipo de pericarditis, especialmente con las infecciosas y las neoplásicas
+            - 4. Seroanginosa
+        - Características
+            - **Dolor torácico**
+            - **Aumento de silueta cardíaca**
+            - Potencial taponamiento
+                - Ruidos cardíacos debilitados: si hay agua por medio, disminuye la transmisión de ruido
+                - Posible roce: depende de la intensidad del derrame, ya que, cuanto {{3379578803526124::**más**}} intenso sea, habrá **menor** roce
+                - Desvanecimiento del impulso de punta del corazón
+                - **Signo de Ewart** ⇒ Matidez por debajo del ángulo de la escapula izquierda por compresión de la base pulmonar izquierda (cuando es un derrame muy grande hasta comprime al lóbulo inferior)
+                - Posible imagen radiológica en cantimplora
+        - Clínica
+            - **Asintomática**, a menos que sea tan intenso que comprima los órganos subyacentes (esófago, nervio frénico)
+            - Disfagia, Disnea, Tos, Ronquera, Hipo, Plenitud abdominal, Náuseas
+        - Diagnóstico
+            - ECG
+                - Disminución del voltaje ⇒ Cantidad y Conductividad eléctrica del fluido
+                - Alteraciones eléctricas ⇒ Amplitud alterna del QRS Producido por el movimiento de balanceo del corazón También se ve en PSVT, HTN, isquemia
+            - RX
+                - Para observarse normalmente se requiere la presencia de más de **200** mL de fluido. No permite la distinción entre el derrame pericárdico y la cardiomegalia. Hoy en día con un eco o un TAC es mucho más fiable el diagnóstico, esto se hacía cuando no había técnicas tan avanzadas
+            - Ecocardiografía
+                - Es clave para diagnosticar el derrame pericárdico (conveniente, muy rentable, económico). Puede haber equivocaciones, es decir, falsos positivos (modo M), ya que es frecuente confundir un derrame pericárdico con un derrame pleural izquierdo, con grasa epicárdica, tejido tumoral, quistes pericárdicos etc
+                - Espacio “sin eco” del derrame pericárdico
+                    - Un espacio posterior sin eco presente solo durante la fase sistólica
+                    - El espacio sin eco persiste a lo largo del ciclo cardíaco (> 25 cc)
+                    - Derrame grande con un corazón que “gira”
+    - Taponamiento cardíaco
+        - Definición
+            - Se trata de la **acumulación** de líquido en pericardio en cantidad suficiente como para producir obstrucción grave de la entrada de sangre en ambos ventrículos
+            - Es una urgencia médica, ya que es tal la presión que el corazón está colapsado y no puede entrar nada de sangre o muy poquita
+            - Las tres causas más frecuentes son las **neoplasias, idiopática y** {{7039670085524821::**urémica**}}, pero existen muchas otras (prácticamente las mismas que causas de pericarditis)
+            - Tríada de Beck
+                - **Descenso** de la presión arterial **sistémica**
+                - **Elevación** de la presión venosa **sistémica** (ingurgitación yugular)
+                - “Un corazón pequeño y silencioso. Quieto. **No hay latido**”
+        - Fisiopatología
+            - Hay una acumulación de fluidos en el espacio pericárdico, lo que provoca un aumento de la presión intracardiaca, una limitación progresiva del llenado diastólico ventricular y una reducción del volumen sistólico y del gasto cardiaco. “El dato clave es la **compresión**”
+            - Pregunta: Si el ventrículo izquierdo tiene 15 cm3 de sangre, ¿cómo será el volumen sisólico? El volumen sistólico será como mucho de 15 cm3, es decir MUY BAJO. A mayor volumen de derrame, mayor es la presión dentro del ventrículo. A mayor presión en el ventrículo, el vaciamiento de sangre de la aurícula en el ventrículo disminuirá. Por lo tanto, si disminuye, cada vez tendrá un volumen sistólico más bajo, lo que conlleva a un gasto cardiaco más bajo y a una presión arterial sistémica más baja
+            - A medida que va aumentando la presión intracardiaca en el ventrículo, la presión sistólica va disminuyendo y con ella, la presión del pulso, hasta colapsarse y morirse
+            - Etapa temprana: elevación leve o moderada de la presión venosa central
+            - Etapa avanzada: aumento de la presión intrapericárdica, disminución del llenado ventricular, disminución del volumen sistólico, hipotensión, daño en la perfusión de los órganos
+        - Clínica
+            - Síntomas: disnea, fatiga, agitación. Posible síncope, shock y anuria
+            - Examen físico: pulso paradójico, taquicardia, aumento de la presión venosa yugular, hipotensión severa
+            - **Pulso arterial paradójico**
+                - Hay un importante **descenso** de la amplitud del **pulso** e incluso desaparición de la onda pulsátil durante la **inspiración**
+                - El descenso de la presión sistólica en inspiración en condiciones fisiológicas es de menos de 10 mmHg y en el taponamiento cardíaco es mayor
+                - Al llenarse el VD durante la inspiración y no poderse distender desplaza el tabique hacia el VI
+            - Taponamiento sin pulso
+                - Defecto del septo atrial
+                - Estenosis aórtica severa
+                - Insuficiencia aórtica
+                - Disfunción del ventrículo izquierdo (LVH con LVEDP)
+                - Disminución del volumen intravascular (low-pressure tamponade)
+            - Pulso sin taponamiento
+                - COPD
+                - Infarto del ventrículo derecho
+                - Embolismo pulmonar
+                - Pericarditis constrictiva con derrame
+                - Cardiomiopatía restrictiva
+                - Obesidad extrema
+                - Ascitis tensa
+        - Diagnóstico
+            - Presión venosa central
+                - **X descendida** : Descenso de la base en sístole
+                - **Y descendida** : Ocurre cuando la válvula tricúspide se abre y el llenado ventricular comienza desde la aurícula derecha de alta presión En la pericarditis constrictiva, el llenado se trunca en la “diástole temprana a la media” (early to mid diastole). En el taponamiento, el llenado está restringido durante la diástole
+            - **Signo de kussmaul**
+                - En la constricción, el retorno venoso aumenta con la inspiración y una presión auricular derecha alta resiste el llenado, lo que resulta en un **aumento de la presión venosa yugular**
+            - RX ⇒ Cardiomegalia > 200ml
+            - ECG ⇒ QRS < 15mV en I, II, III
+            - Ecocardiograma
+                - Derrame pericárdico: altamente fiable
+                - Taponamiento cardíaco  Colapso diastólico de la aurícula derecha y el ventrículo derecho.  Tamaño reducido de la cámara.  Distensión de la vena cava inferior.  Variación respiratoria exagerada de las velocidades de flujo de las válvulas mitral y tricúspide
+    - Pericarditis crónica recurrente o recidivante
+        - Ocurre en un pequeño % de pacientes con pericarditis idiopática aguda. Son repeticiones de episodios de pericarditis aguda. En el fondo son patologías del **sistema inmune**
+        - Generalmente responden a **esteroides** y a **metrotrexato**
+        - La dependencia a los esteroides requiere una disminución gradual durante 3-12 meses. Los AINE, los analgésicos y la colchicina también pueden ser beneficiosos. En cambio, la pericardiectomía para el alivio de los síntomas no siempre es eficaz
+    - Síndrome de Dressler
+        - Cuadro clínico caracterizado por **fiebre**, **pericarditis** y **pleuritis** (típicamente con fiebre de bajo grado y fricción pericárdica). Ocurre en los primeros días a varias semanas después de un **infarto de miocardio** o **cirugía del corazón**
+        - Es una **respuesta autoinmune** frente al corazón dañado por un infarto o por una intervención quirúrgica. Tiene una incidencia de 6-25% y es preciso tratar a estos pacientes con altas dosis de **aspirina**
+        - Fonoecocardiografía ⇒ Knock pericárdico (sonido diastólico precoz) , ↓X e Y, Eco en modo M (pericardio engrosado)
