@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introducción.md",
+                "file": "Índice 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introducción.md",
+                "file": "Índice 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introducción.md",
+                "file": "Índice 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introducción.md"
+                "file": "Índice 0.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "334fd14c3497b32f",
   "lastOpenFiles": [
+    "Inicio.md",
+    "Introducción.md",
     "index.html",
     "new file",
-    "Inicio.md",
     "Índice 0.md",
     "Zettlekasten/Ecuación de Henderson-Hasselbach.md"
   ]

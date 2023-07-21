@@ -1,22 +1,22 @@
 
-| [[Introducción]] | [Fichas docentes](https://medicinaycienciasdelasalud.uah.es/estudios/lstAsignaturas-v3.asp?CodPlan=G215) | [[Bibliografía]] | [[Docs]] | [[Índice 0]] |
+| [Introducción](Introducci%C3%B3n.md) | [Fichas docentes](https://medicinaycienciasdelasalud.uah.es/estudios/lstAsignaturas-v3.asp?CodPlan=G215) | [Bibliografía](Bibliograf%C3%ADa.md) | [Docs](Docs.md) | [Índice 0](%C3%8Dndice%200.md) |
 | ---------------- | -------------------------------------------------------------------------------------------------------- | ---------------- | -------- | ---------- |
 
 ## Mafia
 
-| [[1º Medicina UAH]]     | [[2º Medicina UAH]]   | [[3º Medicina UAH]]     |
+| [1º Medicina UAH](1%C2%BA%20Medicina%20UAH.md)     | [2º Medicina UAH](2%C2%BA%20Medicina%20UAH.md)   | [3º Medicina UAH](3%C2%BA%20Medicina%20UAH.md)     |
 | ----------------------- | --------------------- | ----------------------- |
-| [[Anatomía Humana I]]   | [[Anatomía II]]       | [[Patología General]]   |
-| [[Bioestadística]]      | [[Bioquímica Médica]] | [[Farmacología]]        |
-| [[Biología Celular]]    | [[Epidemiología]]     | [[Microbios]]           |
-| [[Bioquímica]]          | [[Fisiología I]]      | [[Anatomía Patológica]] |
-| [[Embriología Médica]]  | [[Fisiología II]]     | [[Radiología 2]]        |
-| [[Ética Médica]]        | [[Inmunología]]       |                         |
-| [[Histología Médica]]   | [[Organografía]]      |                         |
-| [[Humanidades Médicas]] | [[Radiología 1]]      |                         |
-| [[Psicología Médica]]   | [[TICS]]              |                         |
+| [Anatomía Humana I](Anatom%C3%ADa%20Humana%20I.md)   | [Anatomía II](Anatom%C3%ADa%20II.md)       | [Patología General](Patolog%C3%ADa%20General.md)   |
+| [Bioestadística](Bioestad%C3%ADstica.md)      | [Bioquímica Médica](Bioqu%C3%ADmica%20M%C3%A9dica.md) | [Farmacología](Farmacolog%C3%ADa.md)        |
+| [Biología Celular](Biolog%C3%ADa%20Celular.md)    | [Epidemiología](Epidemiolog%C3%ADa.md)     | [Microbios](Microbios.md)           |
+| [Bioquímica](Bioqu%C3%ADmica.md)          | [Fisiología I](Fisiolog%C3%ADa%20I.md)      | [Anatomía Patológica](Anatom%C3%ADa%20Patol%C3%B3gica.md) |
+| [Embriología Médica](Embriolog%C3%ADa%20M%C3%A9dica.md)  | [Fisiología II](Fisiolog%C3%ADa%20II.md)     | [Radiología 2](Radiolog%C3%ADa%202.md)        |
+| [Ética Médica](%C3%89tica%20M%C3%A9dica.md)        | [Inmunología](Inmunolog%C3%ADa.md)       |                         |
+| [Histología Médica](Histolog%C3%ADa%20M%C3%A9dica.md)   | [Organografía](Organograf%C3%ADa.md)      |                         |
+| [Humanidades Médicas](Humanidades%20M%C3%A9dicas.md) | [Radiología 1](Radiolog%C3%ADa%201.md)      |                         |
+| [Psicología Médica](Psicolog%C3%ADa%20M%C3%A9dica.md)   | [TICS](TICS.md)              |                         |
 
-| [[4º Medicina UAH]] | 5º Medicina UAH | 6º Medicina UAH |
+| [4º Medicina UAH](4%C2%BA%20Medicina%20UAH.md) | 5º Medicina UAH | 6º Medicina UAH |
 | --------------- | --------------- | --------------- |
 |                 |                 |                 |
 
