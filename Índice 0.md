@@ -6,16 +6,16 @@
 
 
 ## Generalidades
-[[Ecuación de Henderson-Hasselbach]]
-[[Ley de Boyle]]
+[Ecuación de Henderson-Hasselbach](Ecuaci%C3%B3n%20de%20Henderson-Hasselbach.md)
+[Ley de Boyle](Ley%20de%20Boyle.md)
 
 ## Fármacos
 
 ## Microbios
 
 ## Patologías
-[[ERGE]]
-[[Gastrinoma]]
+[ERGE](ERGE.md)
+[Gastrinoma](Gastrinoma.md)
 
 ## Sistemas y órganos
 
@@ -31,6 +31,6 @@ Respiratorio
 
 # Índice (conexión de enunciados) → Lista de lectura
 
-[[Fármacos]]
-[[Microbios]]
-[[Patologías]]
+[Fármacos](F%C3%A1rmacos.md)
+[Microbios](Microbios.md)
+[Patologías](Patolog%C3%ADas.md)
