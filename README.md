@@ -1,0 +1,4 @@
+# MedicinaUAH
+
+Trello: 
+Google Drive:
