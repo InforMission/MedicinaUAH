@@ -1,5 +1,7 @@
-Author: [[Yan]]
-
+---
+Autor: Yan
+Tipo: ABCDE
+---
 ## Abstract
 - - -
 ![[Pasted image 20230722110037.png|300]]

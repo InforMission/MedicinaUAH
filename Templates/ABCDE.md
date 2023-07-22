@@ -1,4 +1,7 @@
-Author: 
+---
+Autor: 
+Tipo: 
+---
 
 # A
 
