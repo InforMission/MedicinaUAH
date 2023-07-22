@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Inbox/Desarrollo/Index 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Inbox/Desarrollo/Index 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Inbox/Desarrollo/Index 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Inbox/Desarrollo/Index 0.md"
               }
             }
           }
@@ -148,6 +148,22 @@
   },
   "active": "334fd14c3497b32f",
   "lastOpenFiles": [
+    "IRA/Kei.md",
+    "Inbox/Desarrollo/Index 0.md",
+    "IRA/Yan.md",
+    "Templates/IRA.md",
+    "Inbox/Material/Index 0.md",
+    "Inbox/Index 0.md",
+    "Inbox/Material/Web.md",
+    "Inbox/Desarrollo",
+    "Inbox/Material/Bases de Datos.md",
+    "Inbox/Material/Artículos.md",
+    "Inbox/Material/Libros.md",
+    "README.md",
+    "Inbox/Materiales.md",
+    "Inbox/Material",
+    "OMLTE/Untitled.md",
+    "Inbox",
     "Workflow.md",
     "Inicio.md",
     "Introducción.md",
