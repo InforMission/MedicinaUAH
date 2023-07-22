@@ -1,3 +1,0 @@
----
-alias: divertículo de Zenker
----

@@ -1,1 +1,0 @@
-{"message":["No citation was found."],"statusCode":400,"error":{"status":"CITATION_NOT_FOUND","message":["No citation was found."]},"isCKApiError":true,"appResponse":{"status":"CITATION_NOT_FOUND","message":["No citation was found."]},"appEndpoint":"https://prod-east.clinicalkey.com/service/content/imageByEntitlement/3-s2.0-B9788491139119000090-f09-28-9788491139119"}

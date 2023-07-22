@@ -1,2 +1,0 @@
-> La ecuación de Henderson-Hasselbalch es una expresión utilizada en química para calcular el pH de una disolución reguladora, o también, a partir del pKa o el pKb (obtenidos de la constante de disociación del ácido o de la constante de disociación de la base) y de las concentraciones de equilibrio del ácido o base y de sus correspondientes base o ácido conjugado, respectivamente.
-> [Wikipedia](https://es.wikipedia.org/wiki/Ecuaci%C3%B3n%20de%20Henderson-Hasselbalch)

@@ -1,7 +1,0 @@
-[[PG-B9T1-Fisiología]]
-[[PG-B9T2-Diagnóstico]]
-[[PG-B9T3-IRA]]
-[[PG-B9T4-IRC]]
-[[PG-B9T5-Glomerulopatías]]
-[[PG-B9T6-Tubulopatías]]
-[[PG-B9T7-Vías urinarias inferiores]]
