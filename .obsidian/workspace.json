@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. IRA/Yan.md",
+                "file": "Diario/2023-07-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. IRA/Yan.md",
+                "file": "Diario/2023-07-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. IRA/Yan.md",
+                "file": "Diario/2023-07-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. IRA/Yan.md"
+                "file": "Diario/2023-07-22.md"
               }
             }
           }
@@ -149,10 +149,13 @@
   },
   "active": "334fd14c3497b32f",
   "lastOpenFiles": [
+    "Templates/OMLT.md",
+    "Templates/IRA.md",
+    "Diario/2023-07-22.md",
+    "README.md",
     "IRA/Kei.md",
     "Inbox/Desarrollo/Index 0.md",
     "IRA/Yan.md",
-    "Templates/IRA.md",
     "Inbox/Material/Index 0.md",
     "Inbox/Index 0.md",
     "Inbox/Material/Web.md",
@@ -160,7 +163,6 @@
     "Inbox/Material/Bases de Datos.md",
     "Inbox/Material/Artículos.md",
     "Inbox/Material/Libros.md",
-    "README.md",
     "Inbox/Materiales.md",
     "Inbox/Material",
     "OMLTE/Untitled.md",
