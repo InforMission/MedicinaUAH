@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. IRA/Kei.md",
+                "file": "Inbox/Desarrollo/Index 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. IRA/Kei.md",
+                "file": "Inbox/Desarrollo/Index 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. IRA/Kei.md",
+                "file": "Inbox/Desarrollo/Index 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. IRA/Kei.md"
+                "file": "Inbox/Desarrollo/Index 0.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,25 +143,27 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "334fd14c3497b32f",
   "lastOpenFiles": [
+    "IRA/Kei.md",
+    "Inbox/Desarrollo/Index 0.md",
+    "IRA/Yan.md",
     "Templates/IRA.md",
-    "3. IRA/Yan.md",
-    "3. IRA/Kei.md",
-    "Diario/2023-07-22.md",
-    "0. Índices/Index 0.md",
-    "Diario",
-    "Templates/ABCDE.md",
-    "1. ABCDE/ABCDE/Qué es ABCDE.md",
-    "1. ABCDE/Index 0 (ABCDE).md",
-    "3. IRA/Index 0 (IRA).md",
-    "2. OMLTE/Index 0 (OMLTE).md",
-    "Templates/Dataview.md",
-    "0. Índices",
+    "Inbox/Material/Index 0.md",
+    "Inbox/Index 0.md",
+    "Inbox/Material/Web.md",
+    "Inbox/Desarrollo",
+    "Inbox/Material/Bases de Datos.md",
+    "Inbox/Material/Artículos.md",
+    "Inbox/Material/Libros.md",
+    "README.md",
+    "Inbox/Materiales.md",
+    "Inbox/Material",
+    "OMLTE/Untitled.md",
+    "Inbox",
     "Workflow.md",
     "Inicio.md",
     "Introducción.md",

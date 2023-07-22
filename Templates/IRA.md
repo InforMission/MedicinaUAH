@@ -1,7 +1,4 @@
----
-Autor: 
-Tipo: Persona
----
+
 ## Information
 - - -
 
