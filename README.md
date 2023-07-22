@@ -1,4 +1,4 @@
 # MedicinaUAH
 
 Trello: 
-Google Drive:
+Google Drive: To check
