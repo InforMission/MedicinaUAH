@@ -1,7 +1,11 @@
+---
+Autor: Yan
+Tipo: OMLTE
+---
 
 - - -
 
-- [ ] O -> [[ABCDE/ABCDE/Qué es ABCDE|Qué es ABCDE]]
+- [ ] O -> [[1. ABCDE/ABCDE/Qué es ABCDE|Qué es ABCDE]]
 
 - [ ] M
 

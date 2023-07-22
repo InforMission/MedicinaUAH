@@ -3,3 +3,5 @@ Crear base de datos ( 3 P )
 	ABCDE : Product
 	IRA : People
 Crear repositorio -> Clonar
+	Download zip -> Open in GitHub Desktop
+

@@ -1,3 +1,8 @@
+---
+Autor: Yan
+Tipo: Index
+---
+
 # Inbox
 - [ ] Explicar ABCDE
 - [ ] Explicar IRA
@@ -7,4 +12,11 @@
 # Objetivos
 - [ ] [[Create Index]]
 - [ ] [[Crear documentación]]
-- [ ] [[OMLTE/Qué es ABCDE]]
+- [ ] [[2. OMLTE/Qué es ABCDE]]
+
+
+```dataview
+table tipo, autor
+from "2. OMLTE"
+sort tipo asc
+```

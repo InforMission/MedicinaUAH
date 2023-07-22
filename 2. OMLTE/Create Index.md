@@ -1,6 +1,8 @@
 
-Quién : [[Yan]]
-
+---
+Autor: Yan
+Tipo: OMLTE
+---
 
 
 - - -
