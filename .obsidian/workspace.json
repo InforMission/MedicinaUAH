@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diario/2023-07-22.md",
+                "file": "3. IRA/Kei.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diario/2023-07-22.md",
+                "file": "3. IRA/Kei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diario/2023-07-22.md",
+                "file": "3. IRA/Kei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diario/2023-07-22.md"
+                "file": "3. IRA/Kei.md"
               }
             }
           }
@@ -147,16 +147,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8dfe78a0547213ed",
+  "active": "334fd14c3497b32f",
   "lastOpenFiles": [
-    "0. Índices/Index 0.md",
+    "Templates/IRA.md",
+    "3. IRA/Yan.md",
+    "3. IRA/Kei.md",
     "Diario/2023-07-22.md",
+    "0. Índices/Index 0.md",
     "Diario",
     "Templates/ABCDE.md",
     "1. ABCDE/ABCDE/Qué es ABCDE.md",
     "1. ABCDE/Index 0 (ABCDE).md",
     "3. IRA/Index 0 (IRA).md",
-    "3. IRA/Yan.md",
     "2. OMLTE/Index 0 (OMLTE).md",
     "Templates/Dataview.md",
     "0. Índices",
