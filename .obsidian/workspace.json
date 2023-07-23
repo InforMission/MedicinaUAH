@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workflow.md",
+                "file": "Diario/2023-07-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow.md",
+
+                "file": "Diario/2023-07-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workflow.md",
+
+                "file": "Diario/2023-07-23.md",
+
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workflow.md"
+
+                "file": "Diario/2023-07-23.md"
               }
             }
           }
@@ -153,11 +157,10 @@
   },
   "active": "5293aa19d662eb5a",
   "lastOpenFiles": [
-    "README.md",
+
     "Workflow.md",
-    "Logística/Libros/Boron/Arterias y venas - Fisiología médica/Images/Arterias y venas - Fisiología médica - Figura 19-9.jpg",
-    "1. PRODUCT (ABCDE)/Index 0 (ABCDE).md",
-    "Diario/2023-07-23.md",
+    "README.md",
+
     "Templates/ABCDE.md",
     "Templates/Zotero.md",
     "Templates/Index.md",
@@ -172,6 +175,7 @@
     "Logística/Libros/Boron/Ventilación y perfusión de los pulmones - Fisiología médica/Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-3.jpg",
     "Logística/Libros/Boron/Ventilación y perfusión de los pulmones - Fisiología médica/Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-2.jpg",
     "Logística/Libros/Boron/Ventilación y perfusión de los pulmones - Fisiología médica/Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-16.jpg",
+
     "Logística/Libros/Boron/Ventilación y perfusión de los pulmones - Fisiología médica/Ventilación y perfusión de los pulmones - Fisiología médica.md",
     "Logística/Libros/Boron/Ventilación y perfusión de los pulmones - Fisiología médica/Images",
     "Logística/Libros/Boron/Ventilación y perfusión de los pulmones - Fisiología médica",
@@ -197,6 +201,12 @@
     "Logística/Libros/Boron/Sistema reproductor femenino - Fisiología médica/Sistema reproductor femenino - Fisiología médica.md",
     "Logística/Libros/Boron/Sistema nervioso autónomo - Fisiología médica/Sistema nervioso autónomo - Fisiología médica.md",
     "Logística/Libros/Boron/Regulación endocrina del crecimiento y la masa corporal - Fisiología médica/Regulación endocrina del crecimiento y la masa corporal - Fisiología médica.md",
-    "Logística/Libros/Boron/Regulación de la temperatura corporal - Fisiología médica/Regulación de la temperatura corporal - Fisiología médica.md"
+
+
+    "Logística/Libros/Boron/Regulación de la temperatura corporal - Fisiología médica/Regulación de la temperatura corporal - Fisiología médica.md",
+    "Logística/Libros/Boron/Regulación de la presión arterial y del gasto cardíaco - Fisiología médica/Regulación de la presión arterial y del gasto cardíaco - Fisiología médica.md",
+    "Logística/Libros/Boron/Regulación de la expresión génica - Fisiología médica/Regulación de la expresión génica - Fisiología médica.md",
+    "Logística/Libros/Boron/Páncreas y glándulas salivales - Fisiología médica/Páncreas y glándulas salivales - Fisiología médica.md"
+
   ]
 }
