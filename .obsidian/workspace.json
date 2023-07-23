@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diario/2023-07-23.md",
+                "file": "3. PEOPLE (IRA)/Yan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diario/2023-07-23.md",
+                "file": "3. PEOPLE (IRA)/Yan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diario/2023-07-23.md",
+                "file": "3. PEOPLE (IRA)/Yan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diario/2023-07-23.md"
+                "file": "3. PEOPLE (IRA)/Yan.md"
               }
             }
           }
@@ -147,13 +147,17 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "publish:Publish changes...": false,
-      "extract-highlights-plugin:Extract Highlights": false
+      "extract-highlights-plugin:Extract Highlights": false,
+      "flashcards-obsidian:Generate flashcards": false
     }
   },
   "active": "5293aa19d662eb5a",
   "lastOpenFiles": [
-    "Logística/Zotero/Untitled.md",
+    "3. PEOPLE (IRA)/Kei.md",
+    "3. PEOPLE (IRA)/Yan.md",
+    "0. Índices/Index 0.md",
     "Diario/2023-07-23.md",
+    "Logística/Zotero/Untitled.md",
     "Templates/Zotero.md",
     "2. PLAN (OMLTE)/Create Index.md",
     "2. PLAN (OMLTE)/Index 0 (OMLTE).md",
@@ -178,10 +182,7 @@
     "Logística/Apuntes/PG/Bloque 11 - Respiratorio/PG-B11-T5-Síndromes pleurales.md",
     "Logística/Apuntes/PG/Bloque 11 - Respiratorio/PG-B11-T4-Síndrome mediastínico.md",
     "Logística/Apuntes/PG/Bloque 11 - Respiratorio/PG-B11-T3-Síndromes pulmonares II.md",
-    "Logística/Apuntes/PG/Bloque 11 - Respiratorio/PG-B11-T2-Síndromes pulmonares I.md",
-    "Logística/Apuntes/PG/Bloque 11 - Respiratorio/PG-B11-Aparato respiratorio.md",
     "Logística/Apuntes/PG/Bloque 11 - Respiratorio",
-    "Logística/Apuntes/PG/Bloque 10 - Hematología/PG-B10T9-Síndrome de diátesis hemorrágica.md",
     "Logística/Apuntes/PG/Bloque 10 - Hematología",
     "Logística/Apuntes/PG/Bloque 9 - Nefrourinario",
     "Logística/Apuntes/PG/Bloque 8 - Cardiovascular",
