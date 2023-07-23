@@ -1,7 +1,7 @@
----
+
 autor:
 lugar:
-nombre:
+alias:
 categoria: 
 fecha: {{date}}
 ---

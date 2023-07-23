@@ -1,6 +1,6 @@
 ---
-Autor: 
-Tipo: Index
+autor: "[[Yan]]"
+tipo: "Index"
 ---
 
 [[Yan]]

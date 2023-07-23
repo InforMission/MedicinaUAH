@@ -1,6 +1,6 @@
 ---
-Autor: Yan
-Tipo: Index
+autor: "Yan"
+tipo: "Index"
 ---
 
 ```dataview
