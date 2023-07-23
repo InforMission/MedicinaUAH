@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Dataview.md",
+                "file": "Diario/2023-07-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Dataview.md",
+                "file": "Diario/2023-07-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Dataview.md",
+                "file": "Diario/2023-07-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Dataview.md"
+                "file": "Diario/2023-07-23.md"
               }
             }
           }
@@ -148,8 +148,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8dfe78a0547213ed",
+  "active": "334fd14c3497b32f",
   "lastOpenFiles": [
+    "Templates/Dataview.md",
     "Logística/Libros",
     "Templates/Index.md",
     "Organización funcional de la célula - Fisiología médica/Organización funcional de la célula - Fisiología médica.md",
@@ -194,7 +195,6 @@
     "Logística/Libros/Rang-y-Dale/Óxido nítrico y mediadores relacionados - Rang y Dale. Farmacología/Images",
     "Logística/Libros/Rang-y-Dale/¿Qué es la farmacología - Rang y Dale. Farmacología/Images",
     "Logística/Libros/Rang-y-Dale/Variabilidad individual, farmacogenómica y medicina personalizada - Rang y Dale. Farmacología/Images",
-    "Logística/Libros/Rang-y-Dale/Transmisión química y acción farmacológica en el sistema nervioso central - Rang y Dale. Farmacología/Images",
-    "Logística/Libros/Rang-y-Dale/Transmisión noradrenérgica - Rang y Dale. Farmacología/Images"
+    "Logística/Libros/Rang-y-Dale/Transmisión química y acción farmacológica en el sistema nervioso central - Rang y Dale. Farmacología/Images"
   ]
 }
