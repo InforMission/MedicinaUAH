@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diario/2023-07-22.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diario/2023-07-22.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diario/2023-07-22.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,54 +125,64 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diario/2023-07-22.md"
+                "file": "README.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "334fd14c3497b32f",
+  "active": "8dfe78a0547213ed",
   "lastOpenFiles": [
-    "Templates/OMLT.md",
-    "Templates/IRA.md",
+    "Workflow.md",
+    "2. PLAN (OMLTE)/Index 0 (OMLTE).md",
+    "Diario/2023-07-23.md",
+    "0. Índices/Index 0.md",
+    "Logística/Desarrollo",
+    "Logística/Web",
+    "Logística/Libros",
+    "Logística/Artículos",
+    "Logística",
+    "1. PRODUCT (ABCDE)/Index 0 (ABCDE).md",
+    "1. PRODUCT (ABCDE)/ABCDE/Qué es ABCDE.md",
+    "Templates/Crear documentación.md",
+    "2. PLAN (OMLTE)/Qué es ABCDE.md",
+    "2. PLAN (OMLTE)/Create Index.md",
+    "3. PEOPLE (IRA)/Yan.md",
     "Diario/2023-07-22.md",
-    "README.md",
-    "IRA/Kei.md",
-    "Inbox/Desarrollo/Index 0.md",
-    "IRA/Yan.md",
-    "Inbox/Material/Index 0.md",
-    "Inbox/Index 0.md",
+    "3. PEOPLE (IRA)/Kei.md",
+    "Templates/IRA.md",
     "Inbox/Material/Web.md",
-    "Inbox/Desarrollo",
+    "Inbox/Material/Libros.md",
+    "Inbox/Material/Index 0.md",
     "Inbox/Material/Bases de Datos.md",
     "Inbox/Material/Artículos.md",
-    "Inbox/Material/Libros.md",
-    "Inbox/Materiales.md",
+    "Inbox/Desarrollo/Index 0.md",
     "Inbox/Material",
-    "OMLTE/Untitled.md",
+    "Inbox/Index 0.md",
+    "Inbox/Desarrollo",
     "Inbox",
-    "Workflow.md",
-    "Inicio.md",
-    "Introducción.md",
-    "index.html",
-    "new file",
-    "Índice 0.md",
-    "Zettlekasten/Ecuación de Henderson-Hasselbach.md"
+    "README.md",
+    "3. PEOPLE (IRA)/Index 0 (IRA).md",
+    "Diario",
+    "Templates/ABCDE.md",
+    "Templates/Dataview.md",
+    "0. Índices",
+    "Inicio.md"
   ]
 }

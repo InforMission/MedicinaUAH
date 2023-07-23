@@ -1,6 +1,10 @@
-# MedicinaUAH
+
 
 ## Bienvenida
 
-Hola chicos qué tal, aquí os presentaré más o menos el proyecto
+
+## Qué es InforMission
+
+
+## Primeros pasos
 
