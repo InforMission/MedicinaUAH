@@ -1,3 +1,10 @@
+---
+autor: "Yan"
+lugar:
+alias:
+tags: OMLTE
+fecha: {{date}}
+---
 
 - - -
 
@@ -11,7 +18,7 @@
 - [ ] T
 	- [x] OMLTE
 	- [x] IRA -> [[Yan]]
-	- [ ] ABCDE -> [[1. PRODUCT (ABCDE)/ABCDE/Qué es ABCDE]]
+	- [ ] ABCDE -> [[1. PRODUCT (ABCDE)/Qué es ABCDE/Qué es ABCDE]]
 - [ ] E
-	- [ ] 
+	- [x] 
 - - -

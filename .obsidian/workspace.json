@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "013591945dce97f3",
+        "id": "a80039f7e97a7930",
         "type": "tabs",
         "children": [
           {
-            "id": "334fd14c3497b32f",
+            "id": "5bbcfbe9b975182f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diario/2023-07-23.md",
+                "file": "3. PEOPLE (IRA)/Yan.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ABCDE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diario/2023-07-23.md",
+                "file": "3. PEOPLE (IRA)/Yan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diario/2023-07-23.md",
+                "file": "3. PEOPLE (IRA)/Yan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diario/2023-07-23.md"
+                "file": "3. PEOPLE (IRA)/Yan.md"
               }
             }
           }
@@ -148,20 +148,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "334fd14c3497b32f",
+  "active": "5bbcfbe9b975182f",
   "lastOpenFiles": [
-    "3. PEOPLE (IRA)/Index 0 (IRA).md",
-    "0. Índices/Index 0.md",
-    "2. PLAN (OMLTE)/Index 0 (OMLTE).md",
-    "2. PLAN (OMLTE)/Create Index.md",
-    "1. PRODUCT (ABCDE)/ABCDE/Pasted image 20230722110037.png",
-    "1. PRODUCT (ABCDE)/Index 0 (ABCDE).md",
-    "1. PRODUCT (ABCDE)/ABCDE/Qué es ABCDE.md",
-    "Templates/Index.md",
-    "0. Índices/Untitled.md",
+    "2. PLAN (OMLTE)/Crear documentación.md",
     "3. PEOPLE (IRA)/Yan.md",
-    "Diario/2023-07-23.md",
+    "2. PLAN (OMLTE)/Create Index.md",
     "2. PLAN (OMLTE)/Qué es ABCDE.md",
+    "2. PLAN (OMLTE)/Index 0 (OMLTE).md",
+    "3. PEOPLE (IRA)/Kei.md",
+    "1. PRODUCT (ABCDE)/Qué es ABCDE/Qué es ABCDE.md",
+    "0. Índices/Index 0.md",
+    "1. PRODUCT (ABCDE)/Index 0 (ABCDE).md",
+    "3. PEOPLE (IRA)/Index 0 (IRA).md",
+    "Templates/File.md",
+    "Templates/Dataview.md",
+    "Templates/ABCDE.md",
+    "Templates/IRA.md",
+    "Templates/OMLT.md",
+    "2. PLAN (OMLTE)/Untitled.md",
+    "1. PRODUCT (ABCDE)/Untitled.md",
+    "Untitled.md",
+    "Diario/2023-07-23.md",
+    "Diario/2023-07-22.md",
+    "1. PRODUCT (ABCDE)/Qué es ABCDE/Pasted image 20230722110037.png",
+    "0. Índices/Untitled.md",
     "README.md",
     "Logística/Zotero",
     "Logística/Apuntes",
@@ -171,20 +181,11 @@
     "Logística/Libros",
     "Logística/Artículos",
     "Logística",
-    "Templates/Crear documentación.md",
-    "Diario/2023-07-22.md",
-    "3. PEOPLE (IRA)/Kei.md",
-    "Templates/IRA.md",
     "Inbox/Material/Web.md",
     "Inbox/Material/Libros.md",
     "Inbox/Material/Index 0.md",
-    "Inbox/Material/Bases de Datos.md",
-    "Inbox/Material/Artículos.md",
-    "Inbox/Desarrollo/Index 0.md",
     "Inbox/Material",
-    "Inbox/Index 0.md",
     "Inbox/Desarrollo",
-    "Inbox",
-    "Templates/ABCDE.md"
+    "Inbox"
   ]
 }

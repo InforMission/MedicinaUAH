@@ -1,7 +1,11 @@
 ---
-Autor: Yan
-Tipo: Index
+autor: "Yan"
+lugar:
+alias:
+tags: index
+fecha: {{date}}
 ---
+
 
 # Inbox
 - [ ] Explicar ABCDE

@@ -1,7 +1,10 @@
 
 ---
-Autor: Yan
-Tipo: OMLTE
+autor: "Yan"
+lugar:
+alias:
+tags: OMLTE
+fecha: {{date}}
 ---
 
 
@@ -15,7 +18,7 @@ Tipo: OMLTE
 	- [ ] 
 
 - [ ] T
-	- [ ] OMLT
+	- [ ] OMLT -> [[Yan]]
 	- [ ] IRA
 	- [ ] ABCDE
 

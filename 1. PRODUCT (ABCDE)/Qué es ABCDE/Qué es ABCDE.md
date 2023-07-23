@@ -1,9 +1,10 @@
 ---
-Autor: Yan
-Tipo: ABCDE
+autor: "Yan"
+lugar:
+alias:
+tags: ABCDE
+fecha: {{date}}
 ---
-
-Author: [[Yan]]
 
 ## Abstract
 - - -

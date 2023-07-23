@@ -1,11 +1,14 @@
 ---
-Autor: Yan
-Tipo: OMLTE
+autor: "Yan"
+lugar:
+alias:
+tags: OMLTE
+fecha: {{date}}
 ---
 
 - - -
 
-- [ ] O -> [[1. PRODUCT (ABCDE)/ABCDE/Qué es ABCDE|Qué es ABCDE]]
+- [ ] O -> [[1. PRODUCT (ABCDE)/Qué es ABCDE/Qué es ABCDE|Qué es ABCDE]]
 
 - [ ] M
 

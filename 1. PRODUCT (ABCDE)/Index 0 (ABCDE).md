@@ -1,11 +1,14 @@
 ---
-Autor: Yan
-Tipo: Index
+autor: "Yan"
+lugar:
+alias:
+tags: index
+fecha: {{date}}
 ---
 
 
 ## Logística
-[[1. PRODUCT (ABCDE)/ABCDE/Qué es ABCDE|Qué es ABCDE]]
+[[1. PRODUCT (ABCDE)/Qué es ABCDE/Qué es ABCDE|Qué es ABCDE]]
 
 ## Cursos
 - - -

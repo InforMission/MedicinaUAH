@@ -9,7 +9,7 @@ Bievenido al índice 0. Aquí se encuentra un hipervínculo hacia cualquier part
 
 ```dataview
 TABLE autor, tipo
-WHERE Tipo="Index"
+FROM #index
 ```
 
 # Contenidos

@@ -1,3 +1,10 @@
+---
+autor:
+lugar:
+alias:
+categoria: persona
+fecha: {{date}}
+---
 
 ## Information
 - - -
@@ -9,7 +16,9 @@ Ingeniería Informática UCM
 CTO
 
 ### Availability
-```query
-[[Kei]]
+```dataview
+LIST
+FROM #OMLTE or #ABCDE
+WHERE filter(file.tasks, (t) => !t.completed) AND contains(file, this.file.name)
 ```
 

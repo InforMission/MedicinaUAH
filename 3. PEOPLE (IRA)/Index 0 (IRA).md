@@ -1,6 +1,8 @@
 ---
-Autor: 
-Tipo: Index
+autor:
+lugar:
+alias:
+tags: index
+fecha: {{date}}
 ---
 
-[[Yan]]
