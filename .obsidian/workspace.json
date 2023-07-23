@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. PEOPLE (IRA)/Yan.md",
+                "file": "Diario/2023-07-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. PEOPLE (IRA)/Yan.md",
+                "file": "Diario/2023-07-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. PEOPLE (IRA)/Yan.md",
+                "file": "Diario/2023-07-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. PEOPLE (IRA)/Yan.md"
+                "file": "Diario/2023-07-23.md"
               }
             }
           }
@@ -153,51 +153,51 @@
   },
   "active": "5293aa19d662eb5a",
   "lastOpenFiles": [
-    "3. PEOPLE (IRA)/Kei.md",
-    "3. PEOPLE (IRA)/Yan.md",
-    "0. Índices/Index 0.md",
-    "Diario/2023-07-23.md",
-    "Logística/Zotero/Untitled.md",
+    "Workflow.md",
+    "README.md",
+    "Templates/ABCDE.md",
     "Templates/Zotero.md",
-    "2. PLAN (OMLTE)/Create Index.md",
-    "2. PLAN (OMLTE)/Index 0 (OMLTE).md",
+    "Templates/Index.md",
+    "Templates/Crear documentación.md",
     "Templates/Carpeta indexada.md",
-    "Logística/Apuntes/PG/Index 0.md",
-    "Logística/Apuntes/PM/Untitled",
-    "Logística/Apuntes/AP/Index 0.md",
-    "Logística/Apuntes/AP/AP-T1-Generalidades.md",
-    "Logística/Apuntes/PM/PM-Digestivo.md",
-    "Logística/Apuntes/PM",
-    "Logística/Apuntes/PG/Bloque 12 - Locomotor/PG-B12T6-Metabolismo de las purinas.md",
-    "Logística/Apuntes/PG/Bloque 12 - Locomotor/PG-B12T6-Exploración musculoesquelética.md",
-    "Logística/Apuntes/PG/Bloque 12 - Locomotor/PG-B12T5-Recambio óseo.md",
-    "Logística/Apuntes/PG/Bloque 12 - Locomotor/PG-B12T4-Hipercalcemia e hipocalcemia.md",
-    "Logística/Apuntes/PG/Bloque 12 - Locomotor/PG-B12T3-Metabolismo fosfocálcico.md",
-    "Logística/Apuntes/PG/Bloque 12 - Locomotor/PG-B12T2-Ácido araquidónico.md",
-    "Logística/Apuntes/PG/Bloque 12 - Locomotor/PG-B12T1-Artropatías.md",
-    "Logística/Apuntes/PG/Bloque 12 - Locomotor/PG-B12-Aparato locomotor.md",
-    "Logística/Apuntes/PG/Bloque 12 - Locomotor",
-    "Logística/Apuntes/PG/Bloque 11 - Respiratorio/PG-B11T1-Insuficiencia respiratoria.md",
-    "Logística/Apuntes/PG/Bloque 11 - Respiratorio/PG-B11-T6-Gasometría.md",
-    "Logística/Apuntes/PG/Bloque 11 - Respiratorio/PG-B11-T5-Síndromes pleurales.md",
-    "Logística/Apuntes/PG/Bloque 11 - Respiratorio/PG-B11-T4-Síndrome mediastínico.md",
-    "Logística/Apuntes/PG/Bloque 11 - Respiratorio/PG-B11-T3-Síndromes pulmonares II.md",
-    "Logística/Apuntes/PG/Bloque 11 - Respiratorio",
-    "Logística/Apuntes/PG/Bloque 10 - Hematología",
-    "Logística/Apuntes/PG/Bloque 9 - Nefrourinario",
-    "Logística/Apuntes/PG/Bloque 8 - Cardiovascular",
-    "Logística/Apuntes/PG/Bloque 7 - Digestivo",
-    "Logística/Apuntes/PG/Bloque 6 - Endocrino",
-    "Logística/Apuntes/PG/Bloque 5 - Metabolismo",
-    "Logística/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-9-x36-y679.png",
-    "Logística/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-9-x35-y453.png",
-    "Logística/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-9-x34-y593.png",
-    "Logística/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-9-x165-y454.png",
-    "Logística/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-9-x131-y188.png",
-    "Logística/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-7-x38-y93.png",
-    "Logística/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-7-x31-y667.png",
-    "Logística/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-66-x154-y139.png",
-    "Logística/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-64-x37-y245.png",
-    "Logística/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-63-x36-y365.png"
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones - Fisiología médica/Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-9.jpg",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones - Fisiología médica/Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-8.jpg",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones - Fisiología médica/Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-7.jpg",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones - Fisiología médica/Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-6.jpg",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones - Fisiología médica/Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-5.jpg",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones - Fisiología médica/Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-4.jpg",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones - Fisiología médica/Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-3.jpg",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones - Fisiología médica/Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-2.jpg",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones - Fisiología médica/Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-16.jpg",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones - Fisiología médica/Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-15.jpg",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones - Fisiología médica/Ventilación y perfusión de los pulmones - Fisiología médica.md",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones - Fisiología médica/Images",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones - Fisiología médica",
+    "Logística/Libros/Boron/Transporte del potasio - Fisiología médica/Transporte del potasio - Fisiología médica.md",
+    "Logística/Libros/Boron/Transporte del potasio - Fisiología médica/Images",
+    "Logística/Libros/Boron/Transporte del potasio - Fisiología médica",
+    "Logística/Libros/Boron/Transporte de ácidos y bases - Fisiología médica/Transporte de ácidos y bases - Fisiología médica.md",
+    "Logística/Libros/Boron/Transporte de ácidos y bases - Fisiología médica/Images",
+    "Logística/Libros/Boron/Transporte de ácidos y bases - Fisiología médica",
+    "Logística/Libros/Boron/Transporte de urea, glucosa, fosfato, calcio, magnesio y solutos orgánicos - Fisiología médica/Transporte de urea, glucosa, fosfato, calcio, magnesio y solutos orgánicos - Fisiología médica.md",
+    "Logística/Libros/Boron/Transporte de urea, glucosa, fosfato, calcio, magnesio y solutos orgánicos - Fisiología médica/Images",
+    "Logística/Libros/Boron/Transporte de urea, glucosa, fosfato, calcio, magnesio y solutos orgánicos - Fisiología médica",
+    "Logística/Libros/Boron/Transporte de solutos y agua - Fisiología médica/Transporte de solutos y agua - Fisiología médica.md",
+    "Logística/Libros/Boron/Transporte de solutos y agua - Fisiología médica/Images",
+    "Logística/Libros/Boron/Transporte de solutos y agua - Fisiología médica",
+    "Logística/Libros/Boron/Transporte de sodio y cloro - Fisiología médica/Transporte de sodio y cloro - Fisiología médica.md",
+    "Logística/Libros/Boron/Transporte de oxígeno y dióxido de carbono en la sangre - Fisiología médica/Transporte de oxígeno y dióxido de carbono en la sangre - Fisiología médica.md",
+    "Logística/Libros/Boron/Transmisión sináptica y unión neuromuscular - Fisiología médica/Transmisión sináptica y unión neuromuscular - Fisiología médica.md",
+    "Logística/Libros/Boron/Transmisión sináptica en el sistema nervioso - Fisiología médica/Transmisión sináptica en el sistema nervioso - Fisiología médica.md",
+    "Logística/Libros/Boron/Transducción sensorial - Fisiología médica/Transducción sensorial - Fisiología médica.md",
+    "Logística/Libros/Boron/Transducción de señales - Fisiología médica/Transducción de señales - Fisiología médica.md",
+    "Logística/Libros/Boron/Sistema reproductor masculino - Fisiología médica/Sistema reproductor masculino - Fisiología médica.md",
+    "Logística/Libros/Boron/Sistema reproductor femenino - Fisiología médica/Sistema reproductor femenino - Fisiología médica.md",
+    "Logística/Libros/Boron/Sistema nervioso autónomo - Fisiología médica/Sistema nervioso autónomo - Fisiología médica.md",
+    "Logística/Libros/Boron/Regulación endocrina del crecimiento y la masa corporal - Fisiología médica/Regulación endocrina del crecimiento y la masa corporal - Fisiología médica.md",
+    "Logística/Libros/Boron/Regulación de la temperatura corporal - Fisiología médica/Regulación de la temperatura corporal - Fisiología médica.md",
+    "Logística/Libros/Boron/Regulación de la presión arterial y del gasto cardíaco - Fisiología médica/Regulación de la presión arterial y del gasto cardíaco - Fisiología médica.md",
+    "Logística/Libros/Boron/Regulación de la expresión génica - Fisiología médica/Regulación de la expresión génica - Fisiología médica.md",
+    "Logística/Libros/Boron/Páncreas y glándulas salivales - Fisiología médica/Páncreas y glándulas salivales - Fisiología médica.md"
   ]
 }
