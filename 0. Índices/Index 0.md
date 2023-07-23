@@ -1,5 +1,5 @@
 ```dataview
-Table Autor
-WHERE tipo = Index 
+TABLE autor, tipo
+WHERE tipo = "Index"
 ```
 
