@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Diario/2023-07-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Diario/2023-07-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Diario/2023-07-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Diario/2023-07-23.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,24 +148,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8dfe78a0547213ed",
+  "active": "334fd14c3497b32f",
   "lastOpenFiles": [
+    "0. Índices/Index 0.md",
+    "1. PRODUCT (ABCDE)/Index 0 (ABCDE).md",
+    "2. PLAN (OMLTE)/Qué es ABCDE.md",
+    "2. PLAN (OMLTE)/Index 0 (OMLTE).md",
+    "2. PLAN (OMLTE)/Create Index.md",
+    "1. PRODUCT (ABCDE)/ABCDE/Qué es ABCDE.md",
+    "1. PRODUCT (ABCDE)/ABCDE/Pasted image 20230722110037.png",
+    "Diario/2023-07-23.md",
+    "README.md",
     "Logística/Zotero",
     "Logística/Apuntes",
     "Workflow.md",
-    "2. PLAN (OMLTE)/Index 0 (OMLTE).md",
-    "Diario/2023-07-23.md",
-    "0. Índices/Index 0.md",
     "Logística/Desarrollo",
     "Logística/Web",
     "Logística/Libros",
     "Logística/Artículos",
     "Logística",
-    "1. PRODUCT (ABCDE)/Index 0 (ABCDE).md",
-    "1. PRODUCT (ABCDE)/ABCDE/Qué es ABCDE.md",
     "Templates/Crear documentación.md",
-    "2. PLAN (OMLTE)/Qué es ABCDE.md",
-    "2. PLAN (OMLTE)/Create Index.md",
     "3. PEOPLE (IRA)/Yan.md",
     "Diario/2023-07-22.md",
     "3. PEOPLE (IRA)/Kei.md",
@@ -179,9 +182,7 @@
     "Inbox/Index 0.md",
     "Inbox/Desarrollo",
     "Inbox",
-    "README.md",
     "3. PEOPLE (IRA)/Index 0 (IRA).md",
-    "Diario",
     "Templates/ABCDE.md",
     "Templates/Dataview.md",
     "Inicio.md"

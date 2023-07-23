@@ -1,6 +1,4 @@
 
-
-
 # Introducción
 
 Bievenido al índice 0. Aquí se encuentra un hipervínculo hacia cualquier parte de esta base de datos, que está dividida en las "3 P" : 
