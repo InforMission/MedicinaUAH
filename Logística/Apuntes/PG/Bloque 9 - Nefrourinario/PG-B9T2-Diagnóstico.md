@@ -1,0 +1,205 @@
+
+- Anamnesis
+	- Palpación
+		- Procedimiento bimanual de Guyon
+		- Peloteo renal
+		- Método de Goelet
+		- Puntos dolorosos
+			- Puntos dolorosos renales
+				- Costovertebral de Guyon ⇒ Masa muscular sacrolumbar con 12º costilla
+				- Costomuscular de Surraco ⇒ 12º espacio intercostal y borde del dorsal ancho
+			- Puntos dolorosos renoureterales
+				- Ureteral superior ⇒ Borde externo del recto abdominal a la altura de la línea umbilical : Unión ureteropiélica
+				- Ureteral medio ⇒ Unión de la línea biilíaca y la vertical que pasa por la espina del pubis
+				- Ureteral inferior ⇒ Tacto rectal o vaginal : Entrada del uréter en la vejiga
+	- Auscultación
+		- Áreas costo-vertebrales
+		- Soplos en sujeto decúbito lateral con los muslos flexionados sobre el abdomen
+		- Soplo sistólico→Estenosis o aneurisma de la arteria renal o femoral (**Síndrome de Lariche**)
+	- Dolor
+		- Lumbalgia **intermitente** que irradia hacia abdomen y genitales→Cólico nefrítico
+		- Lumbalgia **continua** que **no irradia**→Infarto renal
+		- Lumbalgia **gravatativa **(pesadez) y continua→Pielonefritis
+		- Dolor en hipogastrio→Cistalgia (inflamación vesical)
+	- Volumen urinario
+		- Poliuria→> 3L/24h
+		- Oliguria→< 400 mL/24h o < 20ml/h
+		- Anuria→< 50 mL/24h
+		- Nocturia (↑ volumen nocturno)
+	- Micción ⇒ Disuria, Incontinencia, Urgencia, Tenesmo vesical
+- Frecuencia miccional ⇒ Poliaquiuria, Nicturia (↑frecuencia nocturna)
+- Orina
+	- Macroscopía
+		- Color
+			- Normal ⇒ Amarillo pálido/Ámbar oscuro
+			- Incolora ⇒ Muy diluida
+			- Roja ⇒ Hemoglobina, Mioglobina
+			- Castaño oscuro→Alcaptonuria
+			- Verde ⇒ Pigmentos biliares
+		- Aspecto
+			- Normal ⇒ Clara, Turbia (cristales)
+			- Turbia ⇒ Leucocitos, Bacterias
+			- Brumosa ⇒ Moco
+			- Lechosa ⇒ Grasa
+		- Olor
+			- Afrutado↔Cetonas
+			- Picante↔NH³ (bacterias)
+			- Jarabe de arce rancio↔Fenilcetonuria
+			- Pies sudados↔Acidemia isovalérica
+			- Manteca rancia↔Hipermetioninemia
+	- Sobrenadante
+		- pH
+			- Valores normales ⇒ pH = {{5,5}}
+			- Infección urinaria o tubulopatía ⇒ Orina {{**alcalina**}}{{ (Acidosis)}}
+		- **Proteinuria**
+			- Proteinuria {{ }}{{**> 130-150mg**}}/24h
+			- Proteinuria en rango nefrótico {{**>3.5g**}}/24h
+			- Albuminuria{{ > }}{{**30mg**}}{{ }}
+			- Microalbuminuria {{**30-300mg**}}{{/24h}}
+			- Albuminuria elevada o clínica {{**>300 **}}{{mg}}
+			- Uromodulina (Tamm-Horsfall) {{**50mg**}}{{ }}
+			- Proteinuria según condiciones de aparición ↓
+				- Intermitente o transitoria↔< 1g/día, Esfuerzo físico, Fiebre, Frío, Insuficiencia cardíaca
+				- Ortostática↔<1-2g/día, **Rara** en mayores de 30 años
+				- Persistente↔Glomerular, Tubular, Por hiperaflujo, Postrenal
+			- Tipos de proteinuria persistente
+				- Glomerular ↓
+					- Albúmina, Transferrina, Globulinas (si es no selectiva)
+					- Nefropatía→Por **cambios mínimos**, Glomerulonefritis, Nefropatía diabética, **HTA**, Fármacos/Tóxicos
+				- Tubular ↓
+					- Beta2-microglobulina, ↓Albúmina, Cadenas ligeras (**policlonal**)
+					- Nefropatías **intersticiales** (tóxicas, autoinmunes, alérgicas, infecciones, necrosis tubular aguda)
+				- Por hiperaflujo ↓
+					- Cadenas ligeras (**monoclonal**), Hemoglobina, Mioglobina
+					- Gammapatías monoclonales, Hemólisis, Rabdomiólisis
+				- Postrenal ↓
+					- <1gr al día
+					- ITU, Nefrolitiasis, Tumores de vías urinarias
+		- Glucosa
+		- Cuerpos cetónicos
+		- Bilirrubina, Urobilinógeno, Urobilina
+			- Anemia hemolítica
+		- Nitritos
+		- Densidad
+		- Osmolalidad
+		- Ionograma
+	- Sedimento
+		- Leucocituria
+			- Rango normal : {{4-5}} leucocitos/campo
+			- La mayor parte son {{**neutrófilos**}}
+			- Si se acompaña de bacteriuria puede orientar hacia cistitis o pielonefritis
+		- Hematuria
+			- Rango normal : {{**2-3**}}** hematíes/campo**
+			- Hematuria **macroscópica**→Hematuria visible (orina color coca-cola), típica de origen **glomerular**
+			- Hematuria **microscópica**→Orina de aspecto normal con **>3** hematíes/campo
+			- Hematíes **dismórficos**→Daño **glomerular**
+			- Aspecto de sobrenadante y sedimento
+				- Sobrenadante **claro** y sedimento **rojo**→Hematuria
+				- Sobrenadante **rojo** con dipstick **positivo**→Hemoglobinuria, Mioglobinuria
+				- Sobrenadante **rojo** con dipstick **negativo**→Fármacos, Porfiria, Remolacha
+			- Hematuria **extraglomerular** ↓
+				- Color : Roja-Rosa
+				- Coágulos : Posibles
+				- Proteinuria : <500mg/día
+				- Eritrocitos : Normales
+				- Cilindros hemáticos : No
+			- Hematuria **glomerular** ↓
+				- Color : Roja (Coca-cola)
+				- Coágulos : No
+				- Proteinuria : Puede ser >500mg/día
+				- Eritrocitos : Dismórficos
+				- Cilindros hemáticos : Posibles (**patognomónicos**)
+		- Células epiteliales
+		- Cilindros
+			- Estructuras cilíndrica formadas en los túbulos renales que presentan una matriz orgánica compuesta por la mucoproteína de Tamm-Horsfall (uromodulina)
+			- Cilindros hialinos ↓
+				- Formados exclusivamente por uromodulina
+				- No son indicativos de enfermedad
+				- Aumentan en enfermedad, fiebre, estrés, ejercicio
+			- Cilindros granulosos ↓
+				- Agregación de gránulos a la matriz de uromodulina, o degeneración de cilindros celulares
+				- En personas sanas tras ejercicio extremo
+				- En pacientes con cualquier patología renal
+			- Cilindros celulares ↓
+				- Células renales incorporadas al cilindro de uromodulina
+				- En sanos presencia esporádica
+				- Presencia abundante ⇒ **Lesión tubular**
+			- Cilindros hemáticos ↓
+				- Daño agudo **glomerular** (Síndrome nefrítico : Oliguria + Hematuria glomerular)
+				- Presencia **siempre patológica**
+			- Cilindros leucocitarios ↓
+				- Entrada de leucocitos a través del glomérulo o por movimientos ameboides en cualquier tramo
+				- Nefritis intersticial aguda, Pielonefritis aguda, Glomerulonefritis proliferativa
+			- Cilindros grasos ↓
+				- Frecuentemente asociados a síndrome nefrótico
+				- Cruz de Malta ⇒ Síndrome nefrótico
+			- Cilindros céreos
+				- Disminución del flujo renal ⇒ Máxima degeneración de cilindros hialinos, granulosos y celulares
+		- Cristales
+			- La mayoría de los cristales que aparecen en orina son normales y tienen poco significado clínico. Pueden aparecer a pH ácido o alcalino
+			- Ácido úrico
+				- Muy refringentes
+				- pH ácido
+				- Solubles en álcalis y calor
+				- Insolubles en acético y HCl
+			- Oxalato cálcico←Causa más común de litiasis
+				- pH ácido, neutro o ligeramente alcalino
+				- Soluble en HCl y etanol
+				- Insoluble en acético
+			- Leucina←Frecuente en patologías renales
+				- pH ácido
+				- Solubles en sosa y agua caliente
+				- Insolubles en ClH
+			- Tirosina : Asociado a cristales de leucina
+				- pH ácido
+				- Soluble en ClH y sosa
+				- Insoluble en alcohol y acético
+			- Cistina : En pacientes con cistinuria
+				- Poco o nada birrefrigentes
+				- pH ácido
+				- Solubles en HCl, sosa e hidróxido amónico
+				- Insolubles en acético
+			- Bilirrubina←En patologías hepáticas
+				- pH ácido
+				- Solubles en acético, ClH
+				- Insolubles en alcohol
+			- Colesterol←Asociado a síndrome nefrótico
+				- pH ácido
+				- Soluble en cloroformo o éter
+				- Insoluble en ácidos diluidos o álcalis
+		- Bacterias
+- Función renal
+	- Creatinina
+		- $$GFR = \frac{[Creatinina]_{orina} (mg/dl)\times
+[Volumen]_{orina} (ml)}{[Creatinina]_{plasma}(mg/dl) \times
+Tiempo (min)}$$
+		- $$GFR(ml/m/1.73²) \approxeq \frac {(140-edad)\times peso(Kg)\times0,85(mujer)}{72\times [Creatinina]_{plasma}(mg/dL)}$$
+		- ↑ Producción de creatinina (↑plasma) ↓
+			- Ingesta reciente de carne
+			- Gran masa muscular
+			- Rabdomiólisis
+		- ↓ Producción de creatinina (↓plasma) ↓
+			- Dieta vegetariana, Malnutrición
+			- Edad avanzada
+			- Atrofia muscular
+		- ↓ Filtración de creatinina (↑plasma) ↓
+			- Insuficiencia renal
+		- ↓ Secreción tubular de creatinina (↑plasma) ↓
+			- Trimetoprim
+			- Cimetidina
+	- Urea (BUN)
+		- El BUN varía inversamente al GFR al igual que la creatinina, pero es menos útil porque puede variar independientemente del GFR
+		- Dieta hipoproteica, Hepatopatía ⇒ ↓BUN sin cambios en GFR
+		- El 40-50% de la urea es reabsorbida en el **túbulo proximal** , junto con el agua y el sodio
+		- **↑ Proporción BUN/Creatinina**↔Fallo renal de etiología **prerrenal** (↓perfusión ↑absorción de urea)
+	- Cistacina C sérica
+		- Producida por todas las células nucleadas de forma constante (no demostrado)
+		- Se filtra en el glomérulo y no se reabsorbe, pero se **metaboliza** en los túbulos (no permite estudiar aclaramiento)
+	- Sodio urinario
+		- **Fracción de excreción de Na+** →Proporción (%) de Na+ filtrado que es excretado en la orina : Relación entre natriuresis y filtrado glomerular
+		- $$FE_{Na⁺} = {\frac {[Na⁺]_o \times Volumen}{{[Na⁺]_p}}  \div \frac {[Creatinina]_o \times Volumen}{{[Creatinina]_p}} \brack} \times100$$
+		- FeNa normal : {{1%}}
+		- Depleción de volumen ← <25 mEq/L de natriuresis
+		- Normovolemia <-> 40 mEq/L de natriuresis
+	- Índice de insuficiencia renal → Proporción entre el Na+ urinario y el aclaramiento de creatinina
+		$$\frac{[Na⁺]_{orina}}{[Creatinina]_{orina}/[Creatinina]_{plasma}}$$

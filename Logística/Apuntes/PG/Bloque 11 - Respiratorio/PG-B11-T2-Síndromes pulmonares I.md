@@ -1,0 +1,155 @@
+- En los síndromes **obstructivos** hay un aumento de la **resistencia** de las vías respiratorias al flujo aéreo
+- En los síndromes **restrictivos** hay una disminución de **expansión del parénquima** pulmonar
+- Síndromes obstructivos
+    - Los síndromes obstructivos suelen predominar en {{13275403290453802::**espiración**}}. La resistencia puede ser de vías respiratorias superiores, o de bronquios y vías distales
+    - Causas luminales
+        - **Inhalación de cuerpos extraños**. Común en niños. También es común en personas con problemas de masticación o con reflujo gastroesofágico
+        - **Aumento de la secreción**. Si se tiene mucosidad, ésta obstruirá la luz de la vía. El ejemplo más típico es la **bronquitis crónica** acompañada expectoración
+        - **Aumento de la retención de secreciones**. Cuadros en los que hay aumento de viscosidad por mucoviscidosis o disminución del reflejo de la tos
+    - Causas parietales
+        - **Contracción del músculo liso bronquial**. Típico del **asma** ⇒ Broncoespasmo y reducción del calibre
+        - **Hipertrofia del epitelio muco – secretor**. Cuanto más pequeño sea el bronquio o bronquiolo que sufra hipertrofia, más se va a poner en evidencia esa obstrucción
+        - **Edema de la pared**
+    - Causas extra – parietales
+        - **Tracción elástica radial** por destrucción del tejido alveolar ⇒ **Enfisema**
+        - Compresión extrínseca de grandes masas. Lo más típico son las **adenopatías**; los **tumores** también pueden comprimir, pero es menos frecuente
+    - Reversibles
+        - **Asma** ⇒ Espasmo del músculo liso de la vía aérea e inflamación
+        - El asma agudo es totalmente reversible, el asma recidivante también, pero cuando éste se va cronificando, hay mayor inflamación y remodelación de la pared bronquial que disminuyen la reversibilidad
+        - En un cuadro de asma hay **poca expectoración**
+    - Irreversibles
+        - **EPOC** (enfermedad pulmonar obstructiva crónica) o **LCFA** (limitación crónica al flujo aéreo)
+        - En la EPOC nos encontramos 2 grandes patrones: **bronquitis crónica** y **enfisema**
+- EPOC
+    - Definición
+        - EPOC→**Obstrucción crónica** del flujo aéreo por anomalías de las vías aéreas y del parénquima pulmonar
+        - Es **irreversible** generalmente, sobre todo en el **enfisema**, ya que en la cronicidad de la **bronquitis** crónica hay pequeñas posibilidades de reversibilidad
+        - Dato clave ⇒ Enlentecimiento y ↓ **intensidad de la espiración** por la ↑resistencia irreversible
+        - **Dos** patrones-fenotipos
+            - **Bronquitis crónica**→Hiperproducción de **moco** e hipertrofia del epitelio muco secretor. Causan tos crónica y obstrucción bronquial
+            - **Enfisema**→**Destrucción del tejido alveolar** ⇒ ↓Elasticidad pulmonar y ↑ distensibilidad pulmonar ⇒ Atrapamiento aéreo e **hiperinsuflación pulmonar** (↑ CPT y VR)
+    - Etiología
+        - El **tabaco** es el principal factor de riesgo ya que es el responsable de más del 80% de los casos. El riesgo de EPOC se relaciona con la cantidad de tabaco consumido y los años en los que se ha consumido
+        - La prevalencia de la EPOC en la población fumadora es de un 30%. El desarrollo de la enfermedad dependerá de la capacidad de manejo de la inflamación que tenga el fumador
+        - Nosotros estamos en momento de excelencia de volumen espiratorio máximo al segundo (VEMS) y de nuestra capacidad vital (CV). Sin embargo, a medida que envejecemos hay un deterioro anual de 35 ml/año del VEMS. El tabaco lo que hace es acelerar radicalmente la pérdida de la función pulmonar, y en consecuencia, la disminución del VEMS (deterioro de 50 – 100 ml/año)
+        - Otros factores de riesgo para el desarrollo de la EPOC
+            - **Asma** crónico y atopia
+            - Exposición laboral a polvos de origen mineral (carbón, oro, fundiciones) o vegetal (granos, algodón)
+            - Contaminación atmosférica
+            - Genéticos→**Déficit de α – 1 – antitripsina** ⇒ Produce enfisema y viene a estar presente en menos del 1% de los pacientes con EPOC.
+    - Patogenia
+        - DAÑO BRONQUIAL
+            - Tanto en el asma como en la EPOC la patogénesis es **inflamatoria**
+            - En la patogenia de la **EPOC**, al contrario que en el asma, hay un predominio de **neutrófilos, linfocitos T CD8+, y macrófagos**, así como de mediadores TNF – α, IL8, y aumento del estrés oxidativo ⇒ Fibrosis, hipertrofia tisular
+            - Enfisema ⇒ Destrucción irreversible de la pared alveolar, Hipertrofia-hiperplasia de glándulas productoras de moco de la submucosa ⇒ Tos, Expectoració
+            - **Índice de REID**→Relación entre el espesor de las glándulas submucosas y el grosor de la pared bronquial ⇒ **>70-80% en EPOC**
+            - El remodelado y en el engrosamiento bronquial suele afectar a **bronquiolos de 2 – 4 mm** ⇒ Si llega a los bronquiolos de menos de 2 mm se produce la destrucción de los mismos que conllevará a una **insuficiencia respiratoria** y
+        - DAÑO DEL PARÉNQUIMA PULMONAR
+            - Pared alveolar ⇒ Células epiteliales, neumocitos tipo I y II, y fibras elásticas
+            - **Inflamación** ⇒ Degradación de fibras elásticas y síntesis de EROs ⇒ Muerte celular y la desaparición de la pared
+            - Las **proteasas** degradan las fibras elásticas y son producidas por los PMN ⇒ **Defensa : anti-proteasa y α-1-antitripsina**
+            - **Déficit de α-1-antitripsina** (<80mg/mL) ⇒ Destrucción espontánea de las paredes alveolares y enfisema (componente genético de la EPOC)
+            - El enfisema puede ser de dos tipos histológicamente
+                - El **enfisema centrolobulillar** es el que está relacionado con el tabaco. Predomina rodeando la zona del **bronquiolo terminal**
+                - El **enfisema panacinar** es por **déficit de alfa 1 antitripsina**. Ocurre en todo el pulmón independientemente de su proximidad al bronquiolo terminal. Se van formando agujeros. El panacinar tiene una **distribución difusa**
+        - DAÑO VASCULAR
+            - Hay un cuadro de **hipoxemia** que provocará en las arteriolas un engrosamiento de la íntima, una hipertrofia muscular y muscularización de las arteriolas
+            - Se produce **Hipertensión pulmonar** que provoca un aumento de la resistencia del ventrículo derecho dando lugar a un **cor pulmonare** (insuficiencia cardiaca)
+    - Fisiopatología
+        - Patrón **obstructivo** ⇒ **↓VEMS** (<70%)
+        - Característico : **↓volumen espirado y enlentecimiento del flujo aéreo**
+        - **Inflamación** ⇒ Engrosamiento parietal y colapso bronquiolar ⇒ ↑Resistencia
+        - **↓Tracción elástica** ⇒ Atrapamiento aéreo y cierre precoz de la vía aérea
+        - **↑ volumen residual** y ↑ **capacidad residual funcional**
+        - ↓ Intercambio gaseoso ⇒ ↑Gradiente alveolo-arterial ⇒ **Hipoxemia** ⇒ **Hipercapnia** (señal de gravedad)
+        - ↓Difusión en **enfisema** (↓unidades alveolo-capilares) ⇒ Hipoxemia de ejercicio
+        - CPT ⇒ **Aumenta** en patrones de {{3897579072402453::**enfisema**}} y es **normal** en {{3897579072402453::**bronquitis**}}{{3897579072402453:: crónica}}
+        - V/Q→**>1** en enfisema (↓perfusión) , **<1** en bronquitis crónica (↓ventilación)
+        - Resumen
+            - **Bronquitis** crónica↔Perfusión mantenida : **V/Q bajo**. **Hipoxemia** ⇒ Hipercapnia
+            - **Enfisema**↔Perfusión perdida por destrucción del lecho capilar : **V/Q alto**. Efecto del **espacio muerto**. Riesgo de **hipertensión pulmonar/cor pulmonare**
+    - Clínica
+        - **Bronquitis crónica** ⇒ Tos y expectoración mantenida 3 meses seguidos durante 2 años consecutivos
+            - Predominio tos y expectoración
+            - {{6660359760331871::**Menor**}} disnea a medida que progresa la enfermedad
+            - **Hipoxemia** e **hipercapnia** más severas
+            - Cianosis en formas graves o agudizadas
+            - **Poliglobulia**: hematocrito aumentado
+            - Fenotipo “Blue bloater” o “azul abotargado”
+        - **El enfisema no tiene un parámetro clínico**, se averigua mediante datos anatomopatológicos de destrucción de la pared bronquial
+            - Disnea que va **aumentando**
+            - Enfermedad **inflamatoria sistémica** ⇒ ↑TNF, IL-6 ⇒ Agotamiento ⇒ **Miopatía generalizada,** anorexia y pérdida de peso.
+            - Comorbilidades como la inflamación crónica cardiovascular, la poliglobulia, osteoporosis, ansiedad, depresión, carcinoma de pulmón
+            - **Diabetes tipo II** por aumento de los marcadores inflamatorios en sangre. Todas estas comorbilidades se deben al estado inflamatorio sistémico
+        - Exploración física
+            - Los signos clínicos se relacionan con la **hiperinsuflación**
+            - Auscultación ⇒ Murmullo vesicular disminuido, Espiración prolongada, **Roncus** en espiración e inspiración (secreciones) , **Sibilancias** (broncoespasmo)
+            - **Acropaquias**
+            - Percusión: Aumento de timpanismo
+        - Patrón de **Enfisema** (soplador rosado)↕
+            - Edad ⇒ Anciano
+            - Estatura ⇒ Alto y delgado
+            - Cor pulmonale ⇒ En enfermedad **avanzada**
+            - Hipoxemia ⇒ Leve
+            - Hipercapnia ⇒ En etapas tardías
+            - Distensibilidad pulmonar ⇒ **Aumentada**
+            - Intercambio gaseoso ⇒ **Disminuido**
+            - Obstrucción aérea ⇒ **Grave**
+            - Hematocrito ⇒ Normal
+        - Patrón de **Bronquitis crónica** (azul abotargado)↕
+            - Edad ⇒ **Joven**
+            - Estatura ⇒ Obeso
+            - Cor pulmonale ⇒ Al **principio** de la enfermedad
+            - Hipoxemia ⇒ **Prominente**
+            - Hipercapnia ⇒ Al **principio** de la enfermedad
+            - Distensibilidad pulmonar ⇒ Normal
+            - Intercambio gaseoso ⇒ Normal
+            - Obstrucción aérea ⇒ Moderada
+            - Hematocrito ⇒ **Aumentado** (poliglobulia)
+    - Diagnóstico
+        - La confirmación diagnóstica se hace por **espirometría** y prueba **broncodilatadora** ⇒ Obstrucción no reversible con un **FEV1 < 80%** y **relación FEV1/FVC < 70%**
+        - Clasificación de gravedad de la EPOC según clasificación de GOLD
+            - TIPO I: LEVE. FEV1 **> 80%**
+            - TIPO II: MODERADA. 50% < FEV1 < 80%
+            - TIPO III: GRAVE. 30% < FEV1 < 50%
+            - TIPO IV: MUY GRAVE. FEV1 **< 30%** o insuficiencia respiratoria / VD
+        - En todos los estadios de gravedad el {{01730546151997081::**índice de Tiffeneau**}} **es** {{156521091597277::**<70%**}}{{156521091597277:: }}
+        - Gasometría según estadíos
+            - Estadío precoz ⇒ **pO2 normal** o levemente baja , ↑ gradiente alvéolo – arterial
+            - Estadío avanzado ⇒ **Hipoxemia**, ± Hipercapnia
+            - Agudizaciones ⇒ **Hipoxemia severa**, **Acidosis** respiratoria
+        - Radiografía ⇒ Hiperinsuflación, descenso del diafragma, aumento de los espacios retroesternales, **oligohemia** porque hay pocos vasos, campos claros
+- Enfermedad intersticial
+    - En el patrón de infiltración intersticial hay un **engrosamiento de tamaño de la pared alveolar**. Según va avanzando, se van destruyendo los alveolos y los capilares
+    - El engrosamiento de la pared provocará la **alteración de la difusión de los gases**
+    - Etiología
+        - Causas idiopáticas
+            - **Fibrosis pulmonar** idiopática, **Neumonía** ( intersticial, No específica, Descamativa, Linfocítica, Aguda)
+            - Bronquiolitis respiratoria
+            - Neumonía organizada
+        - Secundarias a estímulos físicos, químicos o mediadas por el sistema inmune
+            - Enfermedades autoinmunes sistémicas
+            - Fármacos y radioterapia: **Busulfán** o **metrotexato**
+            - **Alveolitis alérgicas extrínsecas**→Hipersensibilidad **tipo III** localizada, mediada por **IgG4**
+            - **Sarcoidosis**
+            - Eosinofilias pulmonares con o sin parásitos
+            - Neumoconiosis ⇒ Asma ocupacional
+            - OTRAS: Histiocitosis X, amiloidosis, microlitiasis alveolar
+    - Fisiopatología
+        - Se produce una insuficiencia respiratoria {{0771208142618669::**restrictiva**}} por la rigidez de pulmón.
+        - **Trastorno de difusión** de gases por alejamiento del capilar de la pared alveolar
+        - Patrón restrictivo→↓Capacidad vital ↓FEV1 ⇒ Tiffeneau normal o alto
+        - La transferencia de monóxido de carbono estará disminuida.
+        - Hay **aumento del gradiente** alvéolo – arterial de O2 con moderada **hipocapnia**
+        - Hay **hipoxemia** arterial en fases avanzadas ⇒ **Hipercapnia**
+    - Clínica
+        - **Disnea de esfuerzo y progresiva**
+        - Suele haber **tos seca** no productiva
+        - **No hay roncus** pues estos se producen por la hipersecreción de moc
+        - **Estertores crepitantes** al final de la inspiración, que no se modifican por la tos
+        - Al igual que en los patrones obstructivos, estos evolucionan a **insuficiencia respiratoria/cor pulmonare**
+        - En la semiología también podemos encontrar **acropraquias**
+    - Diagnóstico
+        - TC→Patrón intersticial con áreas de destrucción (bullas) como en el enfisema⇒ Patrón de “honeycomb” o de **panales de abeja**
+        - En el diagnóstico, el **lavado bronquio-alveolar** es importante para intentar detectar qué tipo de células se encuentran, sobre todo en casos de sarcoidosis
+        - La **biopsia transbronquial** también es necesaria

@@ -1,5 +1,7 @@
 [
   "obsidian-link-converter",
   "obsidian-excalidraw-plugin",
-  "dataview"
+  "dataview",
+  "obsidian-plugin-toc",
+  "extract-highlights-plugin"
 ]

@@ -1,0 +1,328 @@
+- ![[Pasted image 20230625105945.png]]
+- Inmunodeficiencias primarias
+    - Epidemiología
+        - Alteraciones genéticas de baja frecuencia (1:104 recién nacidos vivos)
+        - Comprende más de 100 entidades diferentes
+        - Alta incidencia de procesos infecciosos
+        - Mayor incidencia de enfermedades autoinmunes y neoplasias
+        - 80% casos ⇒ Manifestación {{36173268499518185::**antes de los 5 años de vida**}}{{36173268499518185:: }}
+        - Incidencia hombre/mujer ⇒ {{5472009585872901::**1.5-2/1**}}
+    - Fisiopatología
+        - Mecanismo linfocitario combinado
+            - Clínica
+                - Infecciones bacterianas, virales o micóticas recurrentes o crónicas
+                - Infecciones crónicas – Infecciones oportunistas
+            - Inmunidad celular alterada
+                - Actividad microbicida de **microorganismos intracelulares**
+                - Inmunidad contra los **virus**
+                - **Hipogammaglobulinemia**
+            - Enfermedades
+                - Inmunodeficiencia combinada grave IDCG
+            - Diagnóstico
+                - Número absoluto de linfocitos T y B de subpoblaciones
+                - Pruebas proliferativas para medir la función de linfocitos T
+        - Mecanismo linfocitario B
+            - Clínica
+                - Infecciones **bacterianas** y **virales**
+                - Giardiasis, **Enteropatía**
+                - Autoinmunidad, Enfermedades inflamatorias
+            - Inmunidad alterada
+                - Hipogammaglobulinemia
+                - ↓Lisis bacteriana ↓Eliminación de virus o toxinas
+            - Enfermedades
+                - Hipogammaglobulinemia, Agammaglobulinemia
+                - Deficiencia de IgA, Defectos de subclases de IgG
+                - IDVC
+                - Deficiencia de anticuerpos
+            - Diagnóstico
+                - Recuento de linfocitos B
+                - IgG, IgA, IgM séricas
+                - Pruebas de anticuerpos (tétanos, difteria)
+                - Vacuna contra neumococo ⇒ Pruebas de anticuerpos
+        - Mecanismo dependiente de la fagocitosis
+            - Clínica
+                - Infecciones bacterianas y micóticas
+                - Mala cicatrización de las heridas
+                - Estomatitis, Enfermedad periodontal
+            - Inmunidad alterada
+                - Alteración de la movilización de neutrófilos
+                - Alteración de la opsonización
+                - Reducción de la lisisis bacteriana
+            - Enfermedades
+                - Neutropenia crónica, cíclica, autoinmunitaria
+                - Deficiencia de adhesión leucocitaria
+                - Enfermedad granulomatosa crónica
+            - Diagnóstico
+                - Número absoluto de neutrófilos
+                - **Estallido oxidativo** del neutrófilos estudiado mediante prueba de **dihidrorodamina** por citometría de flujo
+                - Examen de extensión de sangre
+                - Anticuerpos contra el neutrófilo
+        - Mecanismo dependiente del complemento
+            - Clínica
+                - Infecciones bacterianas
+                - Predisposición a **enfermedad meningocócica**
+                - Autoinmunidad, **Angioedema**
+            - Alteración inmunológica
+                - Alteración de la opsonización
+                - ↓Lisis bacteriana
+                - **No se eliminan los inmunocomplejos**
+            - Enfermedades
+                - Deficiencia de C2
+                - Otros defectos
+            - Diagnóstico
+                - AEH, CH50, AH50
+                - Medida de componentes individuales
+                - Proteína inhibidora de C1 y función
+    - **Deficiencias combinadas** de linfocitos T y B (**IDCS**)↓
+        - Defectos de recombinación V(D)J
+            - Alteraciones en los genes RAG1, RAG2, ARTEMIS o ADN-PKc
+            - **Linfopenia T(**{{6587858910874251::**-**}}**), B(**{{6587858910874251::**-**}}**) y NK(**{{6587858910874251::**+**}}**)**, hipogammaglobulinemia
+        - Deficiencia de adenosina desaminasa (ADA)
+            - **Herencia AR** de mutaciones de la adenosina desaminasa
+            - Linfopenia **T(**{{6587858910874251::**-**}}**), B(**{{6587858910874251::**-**}}**) y NK(**{{6587858910874251::**-**}}**),** hipogammaglobulinemia
+            - Infecciones graves
+            - **Retraso del crecimiento** ⇒ Ensanchamiento de la unión costocondral, hipoacusia, manifestaciones neurológicas, pulmonares y hepáticas
+        - {{7000670353303138::IDCS ligada al X}} ⇐ **Forma más frecuente de IDCS**↕
+            - **Mutaciones en la cadena γ de las citocinas** ( transmisor de señales de receptores IL-2, IL-4, IL-7, IL-9, IL-15 y IL-21)
+            - Linfopenia **T(**{{6587858910874251::**-**}}**), B(**{{6587858910874251::**+**}}**) y NK(**{{6587858910874251::**-**}}**)**, hipogammaglobulinemia
+            - Infecciones graves (**hongos**), Retraso del crecimiento
+            - Casos leves ⇒ Números bajos de linfocitos T o NK o s.Omenn
+        - Deficiencia de JAK3
+            - Herencia AR de mutaciones en los genes JAK3
+            - Linfopenia sin linfocitos T **con linfocitos B**, **reducción acentuada de NK**, hipogammaglobulinemia
+            - Infecciones graves, Retraso del crecimiento; los casos leves pueden presentarse ↓linfocitos T o NK
+        - Deficiencia de IL-7
+            - Herencia AR de mutaciones en los genes Cadena α de IL-7R
+            - Linfopenia sin linfocitos T **con linfocitos B y NK,** hipogammaglobulinemia
+            - Infecciones graves, Retraso del crecimiento
+            - Casos leves ⇒ Números bajos de linfocitos T o NK o s.Omenn
+        - Defectos en cadenas del TCR (CD3γ)
+            - Herencias AR de mutaciones en **cadenas γ, ɛ y ζ** del TCR
+            - Linfopenia sin linfocitos T **con linfocitos B y NK,** hipogammaglobulinemia
+            - Infecciones graves, Retraso del crecimiento
+            - Casos leves ⇒ Números bajos de linfocitos T o NK o s.Omenn
+        - Síndrome de Omenn
+            - **Linfopenia T(**{{6587858910874251::**-**}}**), B(**{{6587858910874251::**-**}}**) y NK(**{{6587858910874251::**+**}}**)**
+            - Eritrodermia generalizada descamativa, Hipereosinofilia, ↑IgE
+        - Características generales
+            - **Inicio antes de los 6 meses**
+            - Principal característica ⇒ Gran deterioro del desarrollo del linfocito T (no sombra tímica) ⇒ **Linfopenia profunda**
+            - **Linfopenia profunda con hipogammaglobulinemia**
+            - Infecciones graves, retraso del crecimiento
+            - Las versiones incompletas pueden tener linfocitos T autorreactivos (**síndrome de Omenn**)
+    - Deficiencias de **anticuerpos**
+        - **Ausencia** de linfocitos B
+            - Agammaglobulinemia ligada al X
+                - Inicio en **varones mayores de 6 meses**
+                - Alteración de la Tirosina cinasa de **Bruton** (BTK)
+                - Hipogammaglobulinemia profunda (**Bloqueo pro-B ⇒ pre-B**)
+                - **<0.1% LB** en sangre periférica, **depleción de folículos linfoides (sin amígdalas)** y centros germinativos
+                - Infecciones por microorganismos **encapsulados** y **Mycoplasma**
+            - Agammaglobulinemia autosómica
+                - Defectos del BCR o de sus vías transmisoras de señales (µ, λ5, Igα, Igβ, BLNK)
+                - IgG, IgA, IgM muy bajas o nulas, Infecciones bacterianas graves
+            - Síndrome de Good
+                - Causa y herencia desconocidas. Pacientes {{8831838417344697::adultos >40 años}} de edad.
+                - Niveles variables de IgG, IgA e IgM muy bajas o nulas
+                - Asociada a {{8799072572384281::**timoma**}}; puede haber infecciones oportunistas
+        - Presencia de linfocitos B con **↓** **IgG ↓IgA y/o ↓IgM**
+            - Inmunodeficiencia variable común (IDVC)
+                - Genes y herencia **desconocidos**
+                - Relativamente frecuente (1:25.000), comienza a los {{5064901826572406::20-40}} años y tiene una presentación clínica muy heterogénea
+                - IgG, IgA y/o IgM bajas, **pérdida de células** {{22205859915007564::**plasmáticas en mucosa digestiva**}}{{22205859915007564:: }}
+                - Infecciones respiratorias : Neumonía, Empiema, Bronquiectasia
+                - **Infecciones** {{7787315287239096::**digestivas**}} : Giardia, Campylobacter, Hiperplasia linfática, Malabsorción, Diarrea
+                - **Autoinmunidad (25%)** : Trombocitopenia, Aclorhidria, Anemia perniciosa y hemolítica, Sarcoidosis, Esplenomegalia
+            - Deficiencia de ICOS
+                - Herencia **AR** de mutaciones en el **gen ICOS**
+                - IgG, IgA y/o IgM bajas
+                - Infecciones recurrentes y **autoinmunidad**
+        - Presencia de linfocitos B con **↓IgG ↓IgA con ↑IgM o normal**
+            - Síndrome de hiper-IgM ligado al X
+                - Alteraciones de ligando de CD40L (defecto de **linfocito** {{9247668241245381::**T**}})
+                - IgG e IgA reducidas, **IgM normal o elevada**, número de linfocitos B normal o alto
+                - **Pneumocystis carinii**, Bacterias piógenas, Neutropenia, Autoinmunidad
+            - Deficiencia de CD40
+                - Alteración AR del CD40 (cambio de isotipo)
+                - IgG e IgA reducidas, **IgM normal o elevada**
+                - Infecciones bacterianas y oportunistas, neutropenia, enfermedad autoinmunitaria
+            - Defectos de la recombinación del ADN
+                - Alteraciones AR de genes AID y UNG (inicio switch isotípico)
+                - IgG e IgA reducidas, **IgM normal o elevada**
+                - Infecciones bacterianas, **↑tamaño de** {{9723705492904668::**ganglios linfáticos y centros germinales**}}{{9723705492904668:: }}
+                - Autoinmunidad y **enteropatía similar a IDVC**, neutropenia, cánceres inusuales
+                - UNG = Uracilo-ADN-n-glucosilasa
+                - AID, AICDA = Citidina Desaminasa Inducida por la Activación
+        - Deficiencias de isotipos
+            - Deficiencia selectiva de IgA ⇐ ID primaria **más frecuente**
+                - IgA < 7mg/dL con los demás isotipos normales
+                - Mayoría de pacientes {{7230277862097603::**asintomáticos adultos**}}
+                - ↑Alergias, ↑IgE sérica, Asma
+                - Autoinmunidad, Artritis reumatoide, Celiaquismo, Enfermedad inflamatoria intestinal
+                - Infecciones por _**Giardia**_ (↓IgA secretoria)
+            - Deficiencia de IgA y subclases de IgG
+                - Infecciones en algunos sujetos con pérdida de anticuerpos
+            - Deficiencia de subclase de IgG
+                - **Asintomática** en muchos casos
+                - IgG3→Adultos : Infecciones víricas de tracto respiratorio superior e inferior
+                - IgG2→Niños : Neumococos, H. influenzae (capsulados)
+                - Infecciones en algunos casos con pérdida de anticuerpos
+    - Trastornos del **complemento**
+        - Deficiencia de C1q, C1r, C1s, C2, C4, C3
+            - **No hay actividad hemolítica del CH50** (Vía clásica)
+            - C1, C2,C4 ⇒ Pérdida de los 1º pasos del complemento
+            - C3 ⇒ Pérdida de las **vías clásica** y **alternativa**
+            - ↓ Disolución de inmunocomplejos y eliminación de células apoptósicas ⇒ **Depósito tisular**
+            - Infecciones bacterianas, síndrome tipo LES, enfermedad reumatoide, vasculitis, polimiositis, glomerulonefritis
+        - Deficiencia de C5, C6, C7, C8
+            - **No hay actividad hemolítica del CH50**
+            - Pérdida **parcial** de la activación del complemento
+            - Infecciones por {{9119246937309928::**Neisseria (meningitis)**}}, LES
+        - Deficiencia de C1-INH
+            - Activación del complemento ⇒ **↓C4 y C2** (Consumo)
+            - Pérdida de la regulación del complemento **C1**
+            - **Angiodema hereditario**
+    - Defectos de los fagocitos
+        - Defectos en la migración de fagocitos
+            - LAD-1
+                - Mutaciones en {{03334752942421737::**β2 integrinas**}}{{03334752942421737:: (CD11a,b,c/CD18)}}
+                - Migración defectiva de neutrófilos a tejidos infectados
+                - Infecciones bacterianas recurrentes
+                - Diagnóstico : Citometría de flujo
+            - LAD-2
+                - Mutaciones en la {{06787637336790242::**fucosil transferasa**}} (síntesis de los motivos reconocidos por las selectinas en sus ligandos)
+                - Rodamiento y migración defectiva de neutrófilos
+                - Infecciones bacterianas recurrentes
+                - Diagnóstico : Citometría de flujo
+            - LAD-3
+                - Mutaciones en {{43959056954520226::**RAP-1**}} (activación de integrinas por los receptores de quimiocinas)
+                - Defectos en la adhesión estable y migración leucocitaria
+        - Enfermedad granulomatosa crónica
+            - Mutaciones en alguno de los componentes de la {{24051883192812973::**NADPH oxidasa**}} **:** gp91 (60% ligada a X), p22, p47 y p67 (AR)
+            - Infecciones bacterianas recurrentes
+            - Frecuentes{{1265059304019931:: }}{{1265059304019931::**granulomas**}}{{1265059304019931:: en tractos }}{{1265059304019931::**digestivo**}}{{1265059304019931:: y }}{{1265059304019931::**urinario**}}{{1265059304019931:: }}
+            - Diagnóstico→Reducción de colorante NBT (microscopía) oxidación de la DHR (citometría de flujo)
+        - Deficiencia de G6PD en neutrófilos
+            - Defecto de G6PD ligada al X
+            - Disfunción del shunt de hexosas-monofosfato en el sistema NADPH
+            - Síntomas similares a enfermedad granulomatosa crónica y anemia hemolítica no esferocítica
+        - Deficiencia de mieloperoxidasa
+            - Mutación de la mieloperoxidasa
+            - Característica recurrencia de {{40647837573066914::**infecciones fúngicas**}}{{40647837573066914:: }}
+        - Síndrome de Chédiak-Higashi
+            - Lisosomas gigantes peroxidasa-positivos y mutación del gen regulador del tráfico lisosomal
+            - Albinismo, hepatoesplenomegalia, ↑infecciones
+    - Defectos bien definidos con manifestaciones sindrómicas
+        - Síndrome de **Wiskott-Aldrich** (SWA)↓
+            - ↓ IgM **↑IgA**
+            - Mutaciones ligadas al X en el gen WAS para la proteína WASP
+            - **WASP** está implicada en {{7476608124450759::la polimerización de la actina y en el establecimiento la }}{{7476608124450759::**sinapsis inmunitaria**}}{{7476608124450759:: }}
+            - **Tríada**→**Eccema, Trombocitopenia, Inmunodeficiencia**
+            - Defectos inmunitarios : Anemia hemolítica, Esplenomegalia, Artritis, Enfermedad inflamatoria intestinal, Vasculitis, **↑linfomas**
+        - Ataxia-Telangiectasia (AT)
+            - Mutaciones AR en el gen de la proteína ATM, importante en la división celular y en la **reparación del ADN**
+            - Enfermedad **neurodegenerativa** que conduce a una **atrofia cerebelosa**, **telangiectasias** cutáneas y defectos inmunitarios
+            - Defectos inmunitarios→**↓IgA**, ↓Subclases de IgG, Infecciones pulmonares recurrentes, **radiosensibilidad**, ↑linfomas
+        - Síndrome de di George
+            - Defecto AD miembro del **síndrome de eliminación de 22q11.2**
+            - CATCH-22→Cardiac issues, **Thymic aplasia**, Cleft palate, Hipocalcemia
+            - Infecciones recurrentes, hipogammaglobulinemia, citopenias autoinmunitarias (especialmente trombocitopenia)
+        - Síndrome de Hiperinmunoglobulinemia **E** (SHIE, Buckley-Job)
+            - Defecto AD en el gen **STAT3**
+            - **Eccema**, **Abscesos** cutáneos y pulmonares
+            - Eosinofilia, **↑IgE sérica**
+            - Articulaciones hiperextensibles y fracturas óseas recurrentes, Faz tosca característica
+        - Hipoplasia de pelo-cartílago (HPC)
+    - Síndromes por alteración de la regulación inmunitaria
+        - Síndromes linfoproliferativos
+            - Pérdida de la función de los linfocitos NK-T, alteración del control de los virus
+            - Mutaciones en SAP, XIAP (ITK, CD27)
+            - ↓linfocitos NK y ↑CTL CD8+, ↓linfocitos NK-T, anemia, hipogammaglobulinemia en algunos casos
+            - Infección por EBV, proliferación linfática, linfoma
+        - Poliendocrinopatía autoinmunitaria (APS-1)
+            - Mutación en AIRE ⇒ Pérdida de autotolerancia tímica
+            - Hipoparatiroidismo, Hipotiroidismo, diabetes, Disfunción suprarrenal y gonadal
+            - **Candidiasis** cutánea
+            - Hepatitis
+        - Síndrome linfoproliferativo autoinmunitario (ALPS)
+            - Mutación en FAS, FASL⇒ Pérdida de autotolerancia tímica
+            - Defectos en la apoptosis del linfocito ⇒ ↑linfocitos T (CD4−/CD8−) doblemente negativos, ↑vitamina B12 sérica
+            - Esplenomegalia, linfoadenopatía, citopenias, ↑linfoma
+        - Defectos génicos de linfocitos T reguladores (IPEX)
+            - Mutaciones en FOXP3 ⇒ Pérdida de autotolerancia tímica
+            - **↓Generación de Tregs**
+            - Enteropatía, dermatitis, eccema, diabetes de comienzo temprano, tiroiditis, anemia hemolítica, trombocitopenia, aumento de IgE e IgA
+    - Defectos de la inmunidad innata
+        - Deficiencia de IRAK4
+            - Alteración de las respuestas de las citocinas a los receptores activadores de tipo toll
+        - Encefalitis por herpes simple
+            - **Alteración TLR3** con Inducción defectuosa de IFN-α, IFN-β e IFN-γ
+        - Candidiasis mucocutánea crónica
+            - Vías transmisoras de señales de **IL-17R defectuosas**
+        - Deficiencia de **IL-12R**, IL-23R, IFN-γR1, IFN-γR1, NEMO, Stat-1
+            - Infecciones por micobacterias y salmonelas
+            - No vacunar con BCG + Atb
+            - Fisiopatología
+                - La fagocitosis de la micobacteria por los macrófagos induce la **producción de IL-12** (IL12p40/p35)
+                - IL-12 ⇒ Activa LT y NK a través de IL-12Rβ1/β2 ⇒ ↑IFNɣ
+                - IFNɣ ⇒ actúa a través de su receptor IFNɣR1/IFNɣR2
+                - Stat-1 ⇒ Transducción de señales de IFNɣ R ⇒ **↑ IL-12.**
+                - NEMO ⇒ Transducción de señales vía CD40 ⇒ **↑ IL-12**
+- Inmunodeficiencias secundarias
+    - Inmunosupresores, quimioterapia o radiaciones ⇒ ↓Médula ósea
+    - Infección por HIV ⇒ Depleción de Th4
+    - Endocrinopatías, nefropatías, hepatopatias
+    - Desnutrición ⇒ ↓Maduración y función leucocitaria
+    - Quemaduras
+    - Edad avanzada
+- Diagnóstico
+    - Pruebas básicas
+        - Hemograma con recuento y fórmula leucocitaria
+        - Proteinograma electroforético: Relación A/G
+        - Dosaje de IgGs: IDR
+    - Estudios de respuesta inmune humoral
+        - Nivel I
+            - Recuento cuantitativo de los niveles séricos de IgG, IgM, IgA por IDR e IgE por ELISA.
+            - Recuento cuantitativo de LB por citometría de flujo, mediante Ac para CD19-CD20
+            - Estudio funcional: Búsqueda de anticuerpos preexistentes, generados en respuesta a vacunas o infecciones previas: isohemaglutininas anti-A y antiB, Anti-estreptolisona O (ASTO), Anti-toxina tetánica, Anti-toxina diftérica por Aglutinación, ELISA.
+        - Nivel II
+            - Determinación de Ac antineumocócicos en respuesta a inmunización activa con polisacárido neumocóccico. ELISA
+            - Detección cuantitativa, por citometría de flujo, de la expresión en los LB de CD27, molécula asociada al desarrolllo de memoria B
+            - Determinación cuantitativa de subclases de IgG: IgG1, IgG2, IgG3, IgG4. ELISA
+            - Análisis de mutaciones en genes causantes de IDP de Ac: BTK, cadena μ
+    - Estudios de respuesta inmune celular
+        - Nivel I
+            - Determinación cuantitativa, por citometría de flujo, de la expresión de marcadores T (CD3, CD4, CD8)
+            - Pruebas de hipersensibilidad retardada a distintos antígenos: PPD, Candidina, estreptoquinasa-estreptodornasa. Estudio funcional
+        - Nivel II
+            - Estudio funcional de la respuesta proliferativa in vitro a mitógenos (PHA, ConA, PMA más Ionomicina). Cultivo celular
+            - Estudio funcional de la respuesta proliferativa a antígenos; candidina, PPD y células alogénicas en cultivo mixto linfocitario. Cultivo celular
+            - Dosaje de citocinas en sobrenadantes de cultivos linfocitarios o en el citoplasma celular en respuesta a mitógenos: IL-1, IL-2, IFNγ, TNFα, IL-4, IL-6 y otras. ELISA, citometría de flujo (intracitoplasmática). Estudio cuantitativo-funcional.
+            - Estudio funcional de actividad enzimática: ADA, PNP. 5. Estudios de mutaciones en genes asociados con IDP celulares y combinadas: cadena γ común, JAK3, Artemis, RAG1, RAG2, ZAP-70, entre otros.
+    - Estudios de respuesta inmune innata (fagocitos)
+        - Nivel I
+            - Estudios funcionales de mecanismos microbicidas dependientes de oxígeno
+                - Prueba de reducción de nitroazul de tetrazolio (NBT)
+                - Prueba de oxidación del colorante dihidrorodamina (DHR) por citometría de flujo .
+        - Nivel II
+            - Determinación cuantitativa de la expresión de moléculas de adhesión (CD11b, CD18). Citometría de flujo
+            - Estudio funcional de la movilidad de fagocitos (leucotaxis)
+            - Determinación de las actividades enzimáticas: mieloperoxidasa, glucosa-6-fosfato deshidrogenasa. Estudio cuantitativo y funcional
+            - Actividad bactericida. Estudio funcional
+            - Evaluación funcional de la vía de transducción de señales de IFNγ e IL-12
+            - Estudios de mutaciones en genes causantes de IDP asociadas con fagocitos (CYBB, CYBA, p47phox, p67phox, IFNGR1, IFNGR2, IL12B1, IL12B2, STAT1, NEMO, TYK2).
+    - Estudios de respuesta inmune innata (complemento)
+        - Nivel I
+            - Determinación cuantitativa de sus componentes (C3, C4, C1 estearasa). IDR
+            - Actividad lítica del complemento (CH50 y vía alternativa 50). Estudio cuantitativo y funcional
+        - Nivel II
+            - Determinación cuantitativa y funcional de los restantes componentes del complemento. ELISA (cuantificación), pruebas funcionales (CH50)
+            - Determinación cuantitativa y funcional de los restantes inhibidores del complemento. ELISA (cuantificación)
+    - Estudios de respuesta inmune innata (NK)
+        - Determinación cuantitativa de expresión de moléculas de linaje (CD16/56, KIR, Vα24) por citometría de flujo
+        - Actividad citolítica sobre células K562. Estudio funcional.
+    - Otros estudios
+        - Médula ósea ⇒ Identificación de plasmocitos y células pre-B
+        - Detección de portadores
+        - Diagnóstico prenatal (sangre fetal, células amnióticas, vellosidades coriónicas)
+- ID importantes : Déficit de IgA, IDCV, Enfermedad de Bruton, IDCS, Wiskott-Aldritch, Ataxia-Telangiectasia

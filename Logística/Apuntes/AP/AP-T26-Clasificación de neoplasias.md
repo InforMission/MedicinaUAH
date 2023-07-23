@@ -1,0 +1,147 @@
+- Conceptos
+    - Metaplasia y displasia ⇒ Siempre patológicas
+    - Metaplasia⇒ Displasia ⇒ Neoplasia
+    - Neoformación : Nueva masa, nódulo, tumor (neoplasias, hamartomas, malformaciones)
+    - Neoplasia : Nuevo desarrollo autónomo (benigna o maligna)
+    - Tumor : Signo de inflamación (benigno o maligno)
+    - Proliferación : Hiperplásica, neoplásica, tumoral, benigna, maligna
+    - Cáncer : Tumor maligno
+    - Parénquima→Células neoplásicas proliferantes
+    - Estroma→Soporte de tejido conjuntivo y vasos sanguíneos
+- Criterios para clasificar a las neoplasias
+    - **Componente proliferante** : Da nombre al tumor, puede ser cualquier tipo de célula
+        - Epiteliales
+        - Mesenquimales
+        - Nerviosos
+        - Hemato-linfoides
+        - Células germinales
+        - Melanocitos
+        - Otros
+    - En función de la hoja embrionaria
+        - Ectodermo
+        - Mesodermo
+        - Endodermo
+    - Célula madura o inmadura (Blástica)
+- Neoplasia benigna o maligna
+    - Morfología : Hay tumores malignos bien diferenciados
+    - Tamaño : Hay tumores malignos pequeños y benignos grandes
+    - Localización : Hay neoplasias de naturaleza benigna y comportamiento maligno
+- Características de las neoplasias benignas
+    - Crecimiento lento
+    - No necrosis ni hemorragia
+    - Límite bien definido, expansivo
+    - Comprime sin infiltrar
+    - Resección quirúrgica fácil
+    - No se extiende a distancia
+    - Pronóstico favorable
+    - Ausencia de
+        - Desorden madurativo
+        - Pleomorfismo celular y nuclear
+        - Elevada actividad proliferativa
+        - Mitosis atípicas
+- Características de las neoplasias malignas
+    - Crecimiento rápido
+    - Puede presentar necrosis y/o hemorragia
+    - Límite mal definido, infiltrativo
+    - Infiltra el tejido adyacente
+    - Resección quirúrgica difícil
+    - Se puede extender a distancia
+    - Pronóstico desfavorable
+    - Gran variabilidad en su conducta
+    - Presencia de
+        - Desorden madurativo
+        - Pleomorfismo celular y nuclear
+        - Elevada actividad proliferativa
+        - Mitosis atípicas (excesivas)
+- Signos de malignidad
+    - Pleomorfismo
+    - Mitosis
+    - Atipia
+    - Infiltración
+- Diferencias
+    - Maduración
+    - Pleomorfismo celular-nuclear
+    - Actividad proliferativa
+- Nomenclatura de neoplasias benignas
+    - Tumores de células mesenquimales
+        - Célula de origen + **oma** : Lipoma, Fibroma, Leiomioma, Condroma, Osteoma
+    - Tumores de células epiteliales
+        - Célula de origen + **oma**
+        - Arquitectura microscópica : Cisto, Papilo
+        - Patrón microscópico : Pólipo
+        - Diferenciación celular : Escamosa (espinocelulares), Columnar, Basal
+        - Órgano de origen : Hígado, Páncreas, Ovario...
+    - Incidentaloma
+        - Tumor que se descubre en otra prueba, de origen desconocido
+- Nomenclatura de neoplasias malignas
+    - Tumores de células mesenquimales
+        - Célula de origen + **sarcoma**
+    - Tumores de células epiteliales
+        - Carcinoma + órgano de procedencia
+    - Tumores de células indiferenciadas : Tumor maligno indiferenciado ⇒ **IHQ**, Molecular
+    - Tumores bifásicos→Sarcoma sinovial, Mesotelioma (Crecimiento epitelial y mesenquimal)
+- Neoplasias mixtas
+    - Tumor con varias diferenciaciones
+    - Derivan de una capa germinal, con diferenciación divergente
+    - Adenoma pleomorfo (benigno) ⇒ evoluciona a ⇒ Carcinoma ex-adenoma pleomorfo (maligno)
+- Teratomas
+    - Derivan de más de una capa germinal, de células totipotenciales, produciendo diferentes tejidos
+    - Maduro (menos maligno)⇒ Inmaduro (más sólido y maligno)
+- Nomenclatura de neoplasias no incluidas en grupo de tejido epitelial o tejido de sostén
+    - Linfoma
+    - Melanoma
+    - Leucemia
+    - Tumor embrionario (nefroblastoma, neuroblastoma)
+    - Gliomas (astrocitoma, oligodendroglioma)
+    - Tumor de células germinales
+    - Teratoma
+    - Tumor neuroendocrino (feocromocitoma, t. carcinoide, insulinoma, prolactinoma...)
+- Nomenclatura de proliferaciones no neoplásicas que la semejan
+    - Colesteatoma : Quiste de oído medio
+    - Hamartoma
+    - Coristoma
+- Términos confusos
+    - Linfoma, Melanoma, Seminoma, Hepatoma
+    - Hamartomas, Coristomas, Aspergiloma, Colesteatoma
+    - Melanoma en regresión, Carcinoma exadenoma pleomorfo, Micosis fungoide
+- Epónimos que perduran
+    - Tumor de Wilms↔Nefroblastoma
+    - Tumor de Brenner↔Tumor ovárico de células transicionales (uroteliales)
+    - Tumor de Merkel↔Carcinoma o apudoma primario neuroendocrino epidermoide
+    - Tumor de Sertoli-Leydig
+    - Tumor de Krukenberg↔Carcinoma metastásico en estroma ovárico
+    - Tumor de Warthin↔Cistoadenoma papilar linfomatoso benigno de parótida
+    - Sarcoma de Ewing↔Tumor de célula pequeña redonda y azul mesenquimal
+    - Sarcoma de Kaposi
+    - Enfermedad de Paget
+- ICD-11 ⇒ WHO classification of tumours
+    - Tumores adiposos
+        - Benignos
+        - Intermedios
+        - Malignos
+    - Tumores fibroblásticos/miofibroblásticos
+        - Benignos
+        - Intermedios
+        - Intermedios
+        - Malignos
+    - Tumores fibrohistiocíticos
+        - Benignos
+        - Intermedios
+        - Malignos
+    - Leiomiomas
+    - Tumores pericíticos
+    - Rabdomiomas
+    - Tumores vasculares
+    - Tumores condroosteosos
+    - Tumores de diferenciación incierta
+- Diagnóstico : MTS ganglionar de cáncer epidermoide
+    - Órganos que presentan epitelio estratificado queratinizado ⇒ piel
+    - Órganos que presentan epitelio plano estratificado no queratinizado: CÉRVIX, VAGINA; ESÓFAGO, FARINGE, LARINGE
+    - Órganos que presentan metaplasia escamosa que ha evolucionado a displasia y finalmente neoplasia: PULMÓN, ESTÓMAGO, GLÁNDULAS SALIVALES, PÁNCREAS, VÍA BILIAR, VEJIGA,..
+- Naturaleza : Oma, Carcinoma, Sarcoma
+- Tipo histológico : Epitelial, mesenquimal, nervioso... (adenoma, lipoma, schwannoma)
+- Inmadurez : Blásticos
+- Órgano afectado : Hepatocarcinoma, Leiomioma uterino, Liposarcoma renal
+- Morfología macroscópica : Polipoide, Quístico, Necrotizante, Hemorrágico
+- Rasgos microscópico : Papilar, Queratinizante, Trabecular, Coloide, Hialinizante, Microcítico, Anillo de sello, Mixoide
+- La misma morfología nos obliga a estudios de IHQ y Moleculares para nombrar al tumor (Neoplasias HEMATOPOYÉTICAS Y LINFOIDES)

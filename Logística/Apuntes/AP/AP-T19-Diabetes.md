@@ -1,0 +1,66 @@
+- Definición
+    - Grupo de trastornos metabólicos que tienen como característica común la hiperglucemia, que produce un daño orgánico secundario
+- Diabetes I (5-10%)
+    - Definición
+        - Destrucción autoinmune de las células beta pancreáticas ⇒ Déficit de insulina
+    - Pródromo
+        - Fase I
+            - Alteración inmunitaria
+            - Normoglucemia
+            - Presintomática
+            - Individuo a riesgo de DMI
+        - Fase II
+            - Autoinmunidad de células b
+            - Disglucemia
+            - Presintománica
+        - Fase III
+            - Autoinmunidad de células b
+            - Hiperglucemia mantenida
+            - Sintomática
+    - Patogenia
+        - Supervivencia de **linfocitos T** autorreactivos frente a células beta pancreáticas
+        - Llegan a los ganglios linfáticos peripancreáticos ⇒ Daño de islotes por procesos patológicos ⇒ Liberación de Glutamato Descarboxilasa (**GAD**) : Antígeno pancreático ⇒ APC ⇒ Th1/CD8
+        - Las células B también actúan
+- Diabetes II (90-95%)
+    - Definición
+        - Adquisición de resistencia a la insulina a lo largo de la vida o secreción inadecuada de insulina por parte de las células beta, muy frecuentemente asociada a sobrepeso
+    - Sobrepeso
+        - Adipoquinas, Inflamación, Ácidos grasos libres↔Resistencia a la insulina
+        - Adipoquinas ⇒ Hiperglucemia persistente→Hiperplasia de células beta ⇒ Ineficacia ⇒ Atrofia ⇒ Disminución de insulina
+    - Lesiones
+        - Pancreáticas
+            - Inconstantes
+            - Más frecuentes en tipo {{90971596924452::1}} que en tipo {{90971596924452::2}}
+            - Diabetes tipo 1
+                - Reducción de número y tamaño de los islotes
+                - Infiltrado linfocitario de islotes sobre todo por linfocitos T
+            - Diabetes tipo 2
+
+        - Macroangiopatía : Arterias grandes o medianas
+            - **Ateromatosis acelerada** (Mayor gravedad y aparición en edades más tempranas) por disfunción endotelial
+            - ACVA
+            - Gangrena seca 100 veces más frecuente que en la población general
+            - Arterioloesclerosis hialina ⇒ Isquemia, Hipertensión
+        - Microangiopatía : Capilares
+            - Lesión esencial→**Engrosamiento difuso de las membranas basales** ⇒ Capilares, Cápsula de Bowman, Nervios periféricos
+            - Alteraciones de la permeabilidad
+        - Nefropatía diabética↕
+            - Engrosamiento generalizado de la membrana basal de los capilares glomerulares
+            - Esclerosis mesangial difusa ⇒ Proteinuria
+            - Glomeruloesclerosis nodular ⇒ {{07146603836788046::Nódulos de Kimmelstiel-Wilson}}
+            - Arteriolas con hialinosis de arterias aferentes y eferentes ⇒ Hipertensión
+            - Atrofia tubular y fibrosis intersticial
+        - Retinopatía diabética
+            - Engrosamiento de la membrana basal de la **zona plegada del cuerpo ciliar**
+        - Vasculopatía retiniana diabética↓
+            - Engrosamiento de membrana basal
+            - Microaneurismas ⇒ Hipoperfisión ⇒ VEGF ⇒ **Neoangiogénesis**
+            - **Edema macular** ⇒ Exudados en la capa plexiforme ⇒ Desprendimiento de retina
+        - Neuropatía diabética
+            - Neuropatía periférica en 50% de los pacientes
+            - Neuropatía axonal ⇒ Desmielinización segmentaria (alrededor de c.Schwan), Denervación
+            - Arteriolas endoneurales ⇒ Vasculopatía, hialinización
+        - Pie diabético
+            - Neuropatía distal ⇒ Denervación, Atrofia⇒ Pérdida de **sensibilidad** ⇒ Úlceras (no hay dolor)
+            - Angiopatía distal ⇒ **Hipoperfusión** (favorece úlceras) ⇒ Déficit regenerativo
+            - Retraso en la curación ⇒ **Gangrena + Osteomielitis** (infección)

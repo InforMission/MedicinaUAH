@@ -1,0 +1,239 @@
+- Fisiología
+    - FUNCIONES METABÓLICAS
+        - Hidratos de carbono: almacenamiento de glucógeno y conversión de galactosa y fructosa en glucosa. El hígado participa en la gluconeogénesis, manteniendo la homeostasis de la glucosa. El hepatocito es una diana de la insulina, por lo que, al lesionarse esta célula, aparece resistencia a la insulina. Ante una insuficiencia hepática masiva ⇒ pérdida de la capacidad para mantener la homeostasis de la glucosa ⇒ el paciente cursará con hipoglucemia
+        - Lípidos: o Oxidación de ácidos grasos como fuente de energía (producción de cuerpos cetónicos) para otros órganos (por ejemplo, cerebro en condiciones de ayuno). o Metabolismo del colesterol: El hígado interviene en la síntesis de colesterol (y conversión en sales biliares por acción de la 7-α-hidroxilasa), fosfolípidos y lipoproteínas. El colesterol, los fosfolípidos y las proteínas se eliminan a través de la bilis. o Síntesis de grasa a partir de proteínas y carbohidratos
+        - Proteínas: o Desaminación de aminoácidos. o Formación de urea para eliminar el amonio: el ciclo de la urea elimina el amonio proveniente del intestino. o Formación de proteínas plasmáticas (todas excepto Ig), incluyendo factores de pro y anti-trombóticos
+    - DETOXIFICACIÓN/ELIMINACION
+        - Fármacos, hormonas, y otras sustancias: El hígado tiene dos mecanismos para eliminar sustancias: 1. a través de la bilis, 2. transformación en sustancias hidrosolubles y posterior eliminación vía renal. Muchas hormonas se metabolizan en el hígado, como la tiroxina, hormonas esteroideas (estrógenos, cortisol, aldosterona). Además, el hígado es capaz de eliminar sustancias como la bilirrubina, el amino (conversión a urea) y el alcohol
+    - SINTESIS Y EXCRECIÓN DE BILIS
+        - Función exocrina del hígado. La bilis es fundamental para mantener el eje intestino-hígado (relación con la microbiota, capacidad para controlar poblaciones bacterianas, mantener la homeostasis de la barrera intestinal)
+    - VASCULAR
+        - A través del hígado, por la vena porta (1000ml/min) y en menor medida por la arteria hepática (300 ml/min) pasa el 25% del gasto cardiaco. Esta cantidad de sangre pasa a través de un sistema vascular de alto flujo y baja resistencia, comportándose como un reservorio de sangre.
+    - FUNCIÓN LIMPIADORA DE SANGRE PROCEDENTE DEL INTESTINO
+        - Através del sistema macrófagico del hígado (células Kupffer) y células endoteliales (fagocitosis y endocitosis)
+    - En el hígado se dan distintas vías fisiológicas de gran importancia, como el ciclo de Krebs, el ciclo de la urea (para convertir el amonio en urea), la gluconeogénesis y la glucogenogénesis, el ciclo de los ácidos tricarboxílicos o la formación de piruvato a partir de aminoácidos.
+- Etiología
+    - CRÓNICA : CIRROSIS (enfermedad hepática crónica más frecuente)
+        - Se desarrolla a lo largo de muchos años (10-20 años), es decir, puede pasar mucho tiempo desde el comienzo de la cirrosis hasta que aparece insuficiencia hepática crónica
+        - Alcohol (1ª causa)
+        - Virus hepatotropos (**hepatitis C**, B, B+D)
+        - **Hígado graso no alcohólico** (obesidad, síndrome metabólico, diabetes)
+        - Enfermedades. biliares (colestasis crónica). En la clase anterior hablamos de las complicaciones inespecíficas de las colestasis. Decíamos que al haber una colangitis biliar primaria, la bilis se iba acumulando en el espacio porta y en los lobulillos, generando una reacción inflamatoria que destruye los hepatocitos. Esto nos indica que las colestasis crónicas pueden acabar ocasionando una cirrosis.
+        - Enfermedades metabólicas (hemocromatosis por depósito de hierro, Wilson por depósito de cobre, déficit de α-1antitusina)
+        - **Enfermedades vasculares**: Aquellas en las que hay una obstrucción al drenaje venoso hepático
+        - Fármacos. Tóxicos (muy raro hoy en día)
+        - Existen enfermedades que se parecen a la cirrosis pero no lo son. En el pasado, el 50% de las cirrosis eran criptogénicas= de causa desconocida. En la actualidad esto ya no es así, ya que sabemos la causa de prácticamente TODAS las cirrosis
+    - AGUDA = HEPATITIS FULMINANTE = INSUFICIENCIA HEPÁTICA AGUDA GRAVE
+        - Se desarrolla entre 6 semanas y 2 meses
+        - Virus hepatotropos (hepatitis B en determinadas formas, hepatitis A)
+        - Fármacos Los fármacos producen hepatitis fulminante por dos mecanismos (IMPORTANTE)
+            - Toxicidad por mecanismo **dosis dependiente** (**paracetamol**): Suele tener relación con intentos suicidas
+            - **Toxicidad idiosincrásica**: efecto adverso que solo ocurre en determinados individuos. Cualquier fármaco, por una predisposición genética (polimorfismos en el sistema inmune), puede provocar un efecto adverso hepatotóxico aleatorio. Esta reacción hepatotóxica puede ser desde autoimitada hasta ocasionar un fallo fulminante. Ejemplos de ello podrían ser la amoxicilina-clavulánico, rifampicina, isoniacida...
+        - Tóxicos (Amanita phalloides, que además de producir intoxicación hepática, provoca lesión renal).
+- Patogenia de la i. hepática crónica : cirrogénesis
+    - DAÑO Y MUERTE HEPATOCELULAR mediada siempre por inflamación. La inflamación crónica acabará produciendo fibrosis
+    - FIBROGÉNESIS EN EL PARÉNQUIMA HEPÁTICO: aumento de la matriz extracelular y disminución de células funcionales. Esto tiene como consecuencia el aumento de la resistencia al flujo portal. Hay dos tipos de fibrosis
+        - Fibrosis **perisinusoidal** = **capilarización** de sinusoides
+        - Fibrosis **septal**: septos de tejido fibroso que interrumpen la continuidad del parénquima hepático. es la que hace que se desestructure el parénquima del hígado. Son conexiones portosistemicas intrahepáticas
+    - REGENERACIÓN (NODULAR) HEPATOCELULAR. El hígado tiene una gran capacidad de regeneración, sin embargo, no se regenera con una arquitectura normal, sino formando nódulos que NO cumplen las características de un lobulillo fisiológico de Rappaport. Al haber mucha regeneración ⇒ proliferación clonal de los hepatocitos ⇒ riesgo de **carcinogénesis**
+    - La **noxa** (agente lesivo) produce **inflamación** del parénquima hepático, lo que causa la necrosis del hepatocito. Tanto la inflamación como la necrosis estimulan la formación de **TEJIDO FIBROSO**. Además, hay una regeneración del parénquima hepático menos dañado en **NÓDULOS de regeneración** con una arquitectura anómala, es decir, distinta a la original
+    - Esta célula secreta colágeno y aumenta la matriz extracelular, por lo que provoca fibrosis: se sustituye el parénquima de hepatocitos por tejido no funcional
+    - Dos características importantes de la cirrosis
+        - La cirrosis no es un fenómeno “on-off”, sino que se trata de un proceso **progresivo**: cuanto más tejido fibrosis acumule, más cerca estará de la cirrosis y peor pronóstico tendrá. La línea limítrofe entre fibrosis avanzada y cirrosis no es clara. Para identificar aquel individuo que está evolucionando mal dentro de su enfermedad hepática crónica, medimos la cantidad de tejido fibroso
+        - La cirrosis es un proceso **difuso**, es decir, afecta a todo el hígado por igual. La hepatitis fulminante opera de la misma forma, pero en ella la pérdida de hepatocitos es tan rápida que la insuficiencia metabólica aparece súbitamente, y no da tiempo a la aparición de fibrosis
+    - Fibrosis septal
+        - Consiste en la formación de tabiques de tejido fibroso hacen que se desestructure el parénquima del hígado. Estos tabiques de tejido fibroso tienen varias características:
+        - Adoptan una forma distinta dependiendo del tipo de cirrosis
+        - Impiden la continuidad del parénquima hepático, uniendo los espacios porta con las venas centrolobulillares. Esto hace que a estos tabiques los llamemos shunts o conexiones porto-sistémicas intrahepáticas
+        - Están vascularizados, lo que permite que la sangre pase directamente desde el espacio porta a la vena centrolobulillar sin que esta sufra cambios metabólicos en los sinusoides (by-passean el hígado)
+        - En el HIGADO NORMAL podemos ver todo un sistema de sinusoides en el lobulillo, a través del cual pasa la sangre y sufre los cambios metabólicos necesarios. Finalmente, alcanza la vena hepática central
+        - En el HIGADO CIRRÓTICO, como hemos dicho anteriormente, se forman nódulos de regeneración y shunts portosistémicos intrahepáticos (septos de tejido fibroso que llevan la sangre directamente desde los espacios porta a la vena hepática). La sangre de los septos NO sufre los intercambios metabólicos, causando una insuficiencia hepática funcional
+    - Fibrosis sinusoidal
+        - La necrosis del hepatocito estimula a la célula estrellada (o célula de Ito), situada en el espacio de Disse
+        - El colágeno (tejido fibroso) sintetizado por estas células se deposita en el espacio de Disse, es decir, en los sinusoides
+        - La acumulación de tejido fibroso en el espacio de Disse tiene dos consecuencias fundamentales:
+            - Formación de una barrera que impide los intercambios metabólicos: El tejido fibroso impide que la sangre en la luz del sinusoide contacte con las láminas de hepatocitos, causando INSUFICIENCIA METABÓLICA
+            - Aumento de la resistencia al flujo portal: El sinusoide lleva sangre portal, por lo que, si hay un estrechamiento de este, aumenta la resistencia al flujo portal de sangre y genera HIPERTENSIÓN PORTAL. En la cirrosis, el aumento de la resistencia al flujo portal de sangre se produce por el acumulo de tejido fibroso en el SINUSOIDE
+        - Podemos decir que las dos consecuencias fundamentales de la cirrosis son la insuficiencia metabólica y la hipertensión portal
+    - Causas de cirrosis
+        - Necrosis de hepatocitos
+            - Perdida de elementos funcionantes INSUFICIENCIA
+            - Hipoalbuminemia (porque el hígado no la sintetiza, por daño glomerular, enteropatías, desnutrición...) Ictericia (función detoxificadora) Prolongación del tiempo de protombina (no sintetiza factores de coagulación
+            - ENCEFALOPATÍA HEPÁTICA: en su patogenia interviene tanto la hipertensión portal como la insuficiencia metabólica
+        - Fibrosis pericelular/perisinusoidal
+            - Barrera fibrótica en el intercambio metabólico hepático-sangre sinusoidal
+            - Hipoalbuminemia (porque el hígado no la sintetiza, por daño glomerular, enteropatías, desnutrición...) Ictericia (función detoxificadora) Prolongación del tiempo de protombina (no sintetiza factores de coagulación
+            - ENCEFALOPATÍA HEPÁTICA: en su patogenia interviene tanto la hipertensión portal como la insuficiencia metabólica
+        - Nódulos de regeneración/Fibrosis septal
+            - Relación anómala entre el flujo sinusoidal y láminas de hepatocitos Shunts (conexiones) porto-sistémicos (centrolobulillares)
+            - Hipoalbuminemia (porque el hígado no la sintetiza, por daño glomerular, enteropatías, desnutrición...) Ictericia (función detoxificadora) Prolongación del tiempo de protombina (no sintetiza factores de coagulación
+            - ENCEFALOPATÍA HEPÁTICA: en su patogenia interviene tanto la hipertensión portal como la insuficiencia metabólica
+        - Fibrosis perisinusoidal
+            - Aumento de la resistencia intrahepática al flujo de sangre
+            - Ascitis Hemorragia por varices
+            - ENCEFALOPATÍA HEPÁTICA: en su patogenia interviene tanto la hipertensión portal como la insuficiencia metabólica
+    - Para medir los niveles de factores protrombóticos, medimos la velocidad con la que la sangre coagula en una prueba específica llamada “**Actividad o tiempo de protrombina (TP)**”. Cuando las pruebas de coagulación de la sangre están alteradas, indica insuficiencia hepática.
+    - Concepto IMPORTANTE: La coagulación no depende únicamente de los protrombóticos o de los antitrobóticos, sino que se trata de un equilibrio entre ambos. Ambos componentes se producen en el hígado
+    - Concepto de **TIEMPO DE PROTOMBINA (TP)** : Es una prueba de coagulación que mide el tiempo que tarda en aparecer la protombina activada en el plasma. Se utiliza para evaluar la vía extrínseca de la coagulación. - Se mide en porcentaje. En un paciente normal sería del 100%, mientras que en un paciente cirrótico, el tiempo de protombina disminuye, pudiendo ser del 70, 40 o 30%. - Es una prueba normalizada en el INR. Al normalizar los resultados, el paciente cirrótico, en lugar de tener 1, tendrá un 1’5 de INR. Cuanto mayor sea el INR, mayor será la insuficiencia hepátic
+- Patogenia de la i. hepática aguda : hepatitis fulminante
+    - En la hepatitis fulminante, la **noxa**
+        - a) Causa **inflamación del parénquima hepático**: esta inflamación es escasa en intoxicación por paracetamol, por ejemplo, pero muy importante en infecciones víricas (hepatitis A o B agudas)
+        - b) Causa la **necrosis masiva de los hepatocitos sin inflamación**: se colapsa la malla fibrosa de reticulina que sostiene el parénquima hepático.
+    - La necrosis es tan grande y se produce tan rápidamente (en semanas) que no da tiempo a que haya fibrosis. La **ausencia de fibrosis** tiene dos consecuencias fundamentales:
+        - **NO se produce hipertensión portal**: la función vascular no se pierde
+        - Predomina la insuficiencia metabólica: hay necrosis de hepatocitos (pérdida de elementos funcionantes). Esto genera hipoalbuminemia, ictericia, prolongación del tiempo de protombina y encefalopatía.
+    - Ausencia de fibrosis ⇒ NO hipertensión portal
+    - Pérdida de elementos funcionantes ⇒ SI insuficiencia metabólica
+- Síndrome clínico y metabólico
+    - Hipertensión portal
+        - Que como consecuencia aparecen:
+            - **Ascitis**
+            - **Hemorragia** por rotura de varices
+            - **Hiperesplenismo** ⇒ trombopenia (=plaquetopenia) y leucopenia.
+        - Pérdida de la función vascular del hígado ⇒ Aumento de la resistencia vascular ⇒ La sangre pasa con mayor dificultad ⇒ Hipertensión portal
+    - Insuficiencia metabólica
+        - Alteración **hidratos de carbono**
+            - **Hiperglucemia**: es lo **más frecuente** en la cirrosis. El hepatocito es una de las principales dianas de la insulina. Daño a los hepatocitos ⇒ la insulina no puede introducir glucosa en los hepatocitos ⇒ Resistencia a la insulina ⇒ Hiperglucemia
+            - **Hipoglucemia**: ocurre en estadios avanzados de cirrosis o en la insuficiencia hepática aguda. Daño a muchos hepatocitos ⇒ No hay reserva de glucosa y glucógeno ⇒ Incapacidad para mantener la homeostasis de la glucosa
+        - Disminución de la **síntesis proteica**
+            - Hipoalbuminemia: La hipoalbuminemia se relaciona con el pronóstico (teniendo en cuenta que el valor normal de albumina es de 3’4-5’4g/dL, no es lo mismo un paciente cirrótico que tiene 3’2 de albumina, que uno que tiene 2’2)
+            - Disminución de factores coagulación, que clínica se expresa como la prolongación del tiempo de protombina (la sangre coagula peor)
+        - Disminución de la síntesis **lípidos**: hipocolesterolemia. Esto ocurre en estadios muy avanzados y terminales de la cirrosis
+        - Disminución de la excreción de **bilirrubina**, que provoca ictericia hepatocelular
+        - Disminución detoxificación de **productos nitrogenados**, que genera encefalopatía
+        - Alteraciones **hidrosalinas** ⇒ Hiponatremia (por retención renal de agua. Edemas)
+        - Alteraciones **hematológicas**
+            - Diátesis hemorrágica: trombopenia y prolongación del tiempo de protombina
+            - Hiperesplenismo: leucopenia y trombocitopenia
+        - Alteraciones **endocrinas**: el hígado, como hemos mencionado anteriormente, está implicado en el metabolismo de muchas hormonas (sobretodo hormonas esteroideas). Alteraciones hepáticas generan HIPERestrogenismo. Consecuencias del HIPERestrogenismo
+            - En la mujer no se nota mucho, pero en el hombre causa feminización e hipogonadismo
+            - Los estrógenos tienen una capacidad vasodilatadora y angiogénica, por lo que, tanto en el varón como la mujer, el hiperestrogenismo causa telangiectasias (spider angiomas). Se trata de dilataciones de arteriolas en forma de red, que aparecen solo en el territorio de la vena cava superior
+    - Alteraciones hematológicas
+        - En una cirrosis hay tres alteraciones hematológicas fundamentales:
+            - Disminución tanto de factores antitrombóticos como de factores protombóticos
+            - Trombopenia (como consecuencia del hiperesplenismo)
+        - DISMINUCIÓN DE FACTORES ANTITROBÓTICOS Y TROMBÓTICOS: En conjunto, el balance de la coagulación en el paciente con cirrosis se decanta a un estado de TROMBOFILIA. Esto nos indica que la disminución de la síntesis de factores en la cirrosis afecta más a los factores antitrobóticos que a los protrombóticos
+        - 3 requisitos para que se produzca una trombosis
+            - Estado de trombofilia
+            - Lesión en un vaso
+            - Un estasis venoso (=disminución del flujo venoso).
+        - Es por ello que hay una tendencia a que en la cirrosis aparezca trombosis portal (tanto en el tronco de la vena porta como en el interior del hígado).
+        - El INR (tiempo de protombina) marca la capacidad de síntesis del hígado. No por tener un INR prolongado va a tener más o menos capacidad de formar coágulos.
+        - TROMBOPENIA: Una plaquetopenia conlleva una menor capacidad de coagulación y un tiempo de hemorragia prolongado. Tener una plaquetopenia determina que el paciente tenga un cierto grado de diátesis hemorrágica. Esto quiere decir que los pacientes con plaquetopenia tienen una predisposición a presentar hemorragias.
+        - Paciente cirrótico = Riesgo de hemorragia ante intervención quirúrgica y tiempo de hemorragia muy prolongado + Riesgo trombótico muy importante
+        - Estigmas cutáneos de hepatopatía crónica ⇒ Telangiectasias, Eritema palmar en eminencia hipotenar
+- Fisiopatología
+    - La vitamina K es una vitamina liposoluble que para absorberse necesita de las sales biliares
+    - Los factores de coagulación se activan por la vitamina K
+    - La DISTINTA RESPUESTA A LA ADMINISTRACIÓN DE VITAMINA K nos indica si la ictericia que tiene el paciente se debe a una enfermedad intrahepática (cirrosis) o a un proceso obstructivo (colestasis)
+    - Situación de **colestasis**: No hay excreción de sales biliares ⇒ Esteatorrea (diarrea con presencia de secreciones lipídicas en las heces) ⇒ malabsorción de grasas (entre ellas la vitamina K) ⇒ Prolongación del tiempo de protombina. Para corregir esta situación administramos una inyección intramuscular de vitamina K.
+    - Situación de **cirrosis**: El daño a los hepatocitos provoca que **no haya respuesta a vitamina K intramuscular**, y por tanto no haya una prolongación del tiempo de protombina. Por mucha vitamina K que tenga el paciente, no será capaz de activar los **factores de coagulación** que haya. Además, los hepatocitos dañados ya ni siquiera sintetizan los factores de coagulación
+    - Cuando tengamos un paciente **ictérico** por colestasis, hay que añadir **vitamina K** para corregir la coagulopatía. Pero no en un paciente cirrótico, ya que no serviría de nada
+    - Colestasis
+        - Lesión ⇒ **Obstrucción**
+        - Absorción de vitamina K ⇒ No
+        - Síntesis de factores de coagulación ⇒ No
+        - Síntesis de factores de coagulación post administración vitamina K ⇒ Sí
+        - Respuesta de vitamina K IM ⇒ Sí
+        - Prolongación de TP ⇒ Sí
+    - Cirrosis
+        - Lesión ⇒ **Daño hepatocelular**
+        - Absorción de vitamina K ⇒ Sí
+        - Síntesis de factores de coagulación ⇒ No
+        - Síntesis de factores de coagulación post administración vitamina K ⇒ No
+        - Respuesta de vitamina K IM ⇒ No
+        - Prolongación de TP ⇒ No
+- Encefalopatía hepática
+    - Definición
+        - **Concepto**: Alteración de la función cerebral de origen metabólico en pacientes con enfermedad hepática. La estructura cerebral no se altera o se altera pero muy poco
+        - Hay una gran variedad de manifestaciones neurológicas y psiquiátricas (variabilidad clínica y afectación cerebral difusa)
+        - **Causa**: Fallo del hígado para metabolizar **neurotoxinas** procedentes la mayoría del **intestino**. Este fallo se debe a **shunt postosistémicos** y/o **insuficiencia hepática**
+        - Insuficiencia hepática (pérdida de unidades funcionantes tanto en IHC como IHA) La sangre intestinal entra en contacto con hepatocitos malfuncionantes / Shunts portosistemicos (SOLO en insuficiencia hepática crónica) La sangre intestinal no entra en contacto con los hepatocitos ⇒ Fallo hepático de metabolizar neurotoxinas ⇒ Sangre intestinal con neurotoxinas llega al cerebro ⇒ Afectación cerebral difusa (Encefalo. Hepática)
+        - Además, hay un PRECIPITANTE: Debe buscarse la causa de que un paciente con una afectación crónica (IHC, IC, EPOC...) se desequilibre y desarrolle una encefalopatía. Un paciente con cirrosis puede encontrarse estable durante años y de repente, desarrollar una encefalopatía
+        - Reversible con tratamiento eliminando la neurotoxina. Esto nos indica que el daño no es estructural, sino **funcional**
+        - Alteración en la **morfología** (poco) y **FUNCIÓN** de los astrocitos: la célula que se daña en la encefalopatía hepática es el astrocito (célula auxiliar de la neurona)
+        - Tipo A
+            - Asociación ⇒ nsuficiencia hepática aguda
+            - Causa ⇒ Pérdida de unidades funcionantes
+            - Inicio ⇒ Brusco, con frecuencia mortal
+            - Causa principal ⇒ Edema cerebral
+            - Tratamiento ⇒ Ineficaz, TH
+        - Tipo B
+            - Presencia de un BY-PASS porto-sistémico sin enfermedad hepática intrínseca (enfermedades congénitas en las que falta la vena porta)
+        - Tipo C
+            - Asociación ⇒ Cirrosis y SPS
+            - Causa ⇒ Pérdida de unidades funcionantes + shunts portosistémicos
+            - Inicio ⇒ Gradual, rara vez mortal
+            - Causa principal ⇒Shunting/ toxina precipitante, Edema cerebral más leve
+            - Tratamiento ⇒ Eficaz
+    - Fisiología del amonio
+        - Origen del amonio NH3 intestinal
+            - De los compuestos nitrogenados de la dieta
+            - Del metabolismo de sustancias nitrogenadas por la flora del intestino delgado distal y el colon
+            - Por la glutaminasa intestinal, que transforma glutamina en glutamato y NH4+
+        - **Ciclo de la urea** en hígado
+            - NH3 ⇒ Urea ⇒ Eliminación renal
+            - Las enzimas de este ciclo utilizan el **cinc** como cofactor, por lo que un déficit de este metal puede favorecer la **hiperamoniemia**
+        - Síntesis de glutamina en hígado, músculo esquelético y SNC
+            - Al glutamato se le une el amonio y por acción de la glutamin-sintetasa se forma glutamina.
+        - **Situación normal**: Este amonio que se genera en el intestino se va a detoxificar mediante dos vías (ciclo de la urea y síntesis de glutamina). La vía fundamental es el ciclo de la urea, que ocurre en el hígado. El amonio llega al hígado a través de la vena porta y se convierte en urea. Esta es filtrada por el riñón y se expulsa a través de la orina
+        - **Insuficiencia hepática**: Si tenemos pérdida de unidades funcionantes y/o shunts portosistemicos que by-passean el hígado, el amonio no se elimina en el hígado y pasa directamente a la circulación. Al llegar al sistema nervioso, atraviesa la BHE y nos produce alteración de la función cerebral
+        - Parece lógico pensar que si la causa de encefalopatía hepática es la presencia de amonio en el sistema nervioso, restringiendo el consumo proteico en la dieta, el paciente mejorará. Sin embargo, en lugar de mejorar, el paciente se desnutre porque no hay aporte proteico. La desnutrición conlleva la pérdida de musculo esquelética, en el cual encontramos otra vía de eliminación de amonio. De esta manera, en lugar de mejorar la encefalopatía del paciente, estamos empeorándosela
+        - El amonio puede estar en forma de amoniaco o ion amonio dependiendo del pH del medio. Si acidificamos las heces, desplazamos la acción hacia el ion amonio, por lo que aquel que se forme en el intestino difundirá peor al medio interno. Esto podemos utilizarlo en el tratamiento
+    - Etiología
+        - **Insuficiencia hepática** (aguda o crónica), por lo que no se produce el **ciclo de la urea**
+        - **Shunts portosistémicos** (crónica) intrahepáticos (fibrosis sinusoidal) y extrahepáticos (varices esofágicas que hacen que la sangre no llega al hígado)
+        - **Aumento del aporte**
+            - Aumento de las proteínas endógenas debido a un sangrado por varices, hemorragia digestiva... que de repente llega a la luz intestinal. Las proteínas sanguíneas son degradadas por bacterias, aumentando endógenamente el amonio
+            - Aumento de las proteínas exógenas debido a dietas hiperproteicas (sobretodo de proteínas animales que tienen mayor contenido nitrogenado)
+            - Aumento del catabolismo proteico de proteínas del organismo
+        - **Insuficiencia renal**, por lo que no se elimina bien la urea. La urea difunde muy bien y vuelve al intestino. Allí, las bacterias la vuelven a transformar en amonio. Se ha sugerido que la presencia de Helicobacter pylori en la mucosa gástrica podría intervenir en algunos casos, ya que es **ureasa-positiva**
+        - Además de la hiperamonemia, la **uremia** por si misma contribuye también a la encefalopatía
+    - Precipitantes de encefalopatía hepática
+        - AUMENTO DE LA PRODUCCIÓN DE AMONIO
+            - Transgresión dietética: ingesta excesiva de proteínas animales
+            - Estreñimiento: la disminución del tránsito intestinal y por tanto, el aumento del tiempo que están los alimentos en el intestino provoca que las bacterias degraden más aminoácidos y se forme más amonio
+            - Hemorragia digestiva, que provoca una sobrecarga endógena de proteínas
+            - Insuficiencia renal
+            - Hipopotasemia: La alcalosis sistémica favorece la hipopotasemia, la cual aumenta la producción de amonio en el riñón
+            - Sepsis e infecciones ⇒ ↑ catabolismo proteico. Muy frecuente. Los pacientes cirróticos están en un estado de **inmunodeficiencia**
+        - AUMENTO DE LA DIFUSIÓN DE AMONIO: Alcalosis sistémica
+            - Para controlar la ascitis que aparece en pacientes cirróticos, se administran diuréticos
+            - Diuréticos inhibidores de la aldosterona (Espironolactona, amiloride...) y diuréticos distales ahorradores de potasio ⇒ A nivel distal ⇒ La aldosterona reabsorbe sodio y agua y elimina potasio e hidrogeniones. Si administramos diuréticos inhibidores de la aldosterona no se eliminan hidrogeniones y como consecuencia, tendremos una acidosis metabólica
+            - Diuréticos del asa (sulfamidas como el seguril=furosemida) ⇒ Rama ascendente del asa de Henle ⇒ Inhiben la reabsorción de sodio y agua. Producen alcalosis sistémica
+            - La alcalosis sistémica conlleva un déficit de H+. Esto hace que la reacción se desplace hacia la formación de NH3 + HOH. El NH3 difunde fácilmente a la circulación y pasa mejor a través de la BHE al SNC
+        - AUMENTO DE LA DEPRESIÓN CEREBRAL, por incremento del tono GABAérgico.
+            - Como hemos mencionado anteriormente, las benzodiazepinas y otros psicótropos son agonistas de los receptores de GABA, por lo que en pacientes cirróticos, estos fármacos provocan un efecto muchísimo mayor
+            - Se han obtenido buenos resultados terapéuticos con la administración de **flumazenilo**, un inhibidor de estos receptores
+    - Patogenia
+        - Aumento en la circulación de productos derivados del metabolismo nitrogenado intestinal (metabolismo proteico). A la cabeza de todos estos productos se encuentra el **amonio**, que explica la mayoría de las manifestaciones clínicas de la encefalopatía hepática
+        - **Alteración de la BHE** (factor permisivo). Inflamación hepática ⇒ Secreción de **citoquinas** ⇒ Aumento de la permeabilidad de la BHE ⇒ Las neurotoxinas procedentes del intestino pueden acceder al sistema nervioso
+        - Parece que el propio amonio interviene en el incremento de la permeabilidad de la BHE
+        - Alteración de la neurotransmisión cerebral: Daño en la neurotransmisión glutaminérgica y predominio de la neurotransmisión inhibidora (GABA)
+        - Durante mucho tiempo se ha achacado la causa de la encefalopatía a un disbalance entre los aminoácidos ramificados y aromáticos. En el individuo sano predominan los aminoácidos ramificados (valina, isoleucina, leucina...) sobre los aromáticos (como el triptófano). En el individuo cirrótico, esta situación se invierte, encontrándonos con un aumento de aminoácidos aromáticos. Parece ser que, la causa de este disbalance es el aumento de la resistencia a la insulina
+        - Los aminoácidos aromáticos son precursores de neurotransmisores falsos o no funcionantes (por ejemplo la serotonina, feniletanolamina u octopamina), los cuales sustituyen a los verdaderos. Los neurotransmisores falsos desplazan a la dopamina y noradrenalina en su función. Consecuencia fundamental: disminución de la actividad glutaminérgica excitadora y aumento de la actividad gabaérgica inhibidora. Además, hay un aumento de los receptores de GABA y un aumento de la afinidad de estos por el GABA
+        - En la encefalopatía hepática tenemos una situación de hiperamoniemia y además un estado de inflamación. Ambas situaciones provocan un aumento de la permeabilidad de la BHE
+        - El amonio, cuando llega a los astrocitos del sistema nervioso central, se une al glutamato y, por acción de la glutamina sintetasa, se forma glutamina
+        - El aumento de glutamina genera un aumento de la osmolaridad intracelular del astrocito
+        - El astrocito absorbe agua y se forma edema. El edema es mayor en la hepatitis fulminante que en la cirrosis. Esto se debe a que en esta última, al ser una situación crónica, existen mecanismos de compensación (expulsión de otros osmolitos normalmente presentes en los astrocitos). **El edema cerebral leve subyace en todas las formas de encefalopatía hepática**
+        - El edema en el astrocito provoca: - Daño en la neurotransmisión por glutamato. - Aumento de neuroesteroides y aumento de la afinidad del GABA por sus receptores. - Estrés oxidativo que produce daño mitocondrial
+        - Aumento de la resistencia a la insulina ⇒ Aumento de los aminoácidos aromáticos ⇒ Formación de neurotransmisores falsos ⇒ Menos actividad glutaminérgica y más actividad gabaérgica
+        - Disminución de la neuroexcitación ⇒ Hiposensibilidad de los receptores postsinápticos al glutamato
+        - Aumento de la neuroinhibición ⇒ Acido gamma-aminobutírico Falsos neurotransmisores.
+    - Clínica
+        - Heterogeneidad clínica
+        - **Manifestaciones inespecíficas**: cualquier encefalopatía metabólica (sin necesidad de que sea hepática), las puede producir (por ejemplo una encefalopatía hipercápnica)
+        - Trastornos del nivel de conciencia: Confusión ⇒ Desorientación ⇒ Somnolencia ⇒ Coma
+        - Cambios de personalidad e intelecto: cambios cognitivos, conducta desinhibida, bradipsiquia (lentitud del pensamiento), bradilalia (lentitud en la articulación de las palabras), apraxia (imposibilidad para realizar acciones voluntarias), afasia (dificultad para comunicarse mediante el habla, la escritura o la mímica), dificultad para hacer test de conexión numérica... o Síntomas neurológicos, entre los cuales el más característico es la asterixis. Las neurotoxinas dañan la formación reticular bulbar, encargada del mantenimiento de la postura. Un paciente con encefalopatía hepática, cuando se le pide que extienda las manos y separe los dedos, el paciente no es capaz de mantener la postura y continuamente está corrigiéndola. A esto se le denomina asterixis o “temblor aleteante”, y es MUY CARACTERÍSTICO de la encefalopatía hepática (aunque también ocurre en otras encefalopatías metabólicas como la uremia, hipoxia...).
+        - IMPORTANTÍSIMO: La **asterixis** es el signo distintivo en el diagnóstico de encefalopatía hepática.
+    - Tratamiento
+        - Identificar el factor precipitante
+        - Reducir la producción y absorción de amonio en el intestino: o Aporte de antibióticos (rifaximida) generalmente no absorbibles para disminuir la carga bacteriana aerobia que sintetiza amonio en la luz del colon. Sobre todo son antibióticos eficaces contra gram negativos. o Aporte de disacáridos no absorbibles (lactulosa y lactitol: Dufalac). o NO restringir la dieta proteica (mencionado anteriormente)
+        - Evitar la iatrogenia (diuréticos que generan alcalosis sistémica mencionados anteriormente)
+        - La lactulosa y el lactitol son buenos laxantes para los cirróticos pero no para la población en general. La lactulosa por sí misma, al no absorberse, produce una diarrea osmótica. Además, al transformarse en ácidos orgánicos por medio de las bacterias colónicas, **acidifican** el pH del colon
+            - Es letal para las bacterias formadoras de ureasa
+            - Desplaza la reacción hacia la forma no difusible del amonio
+            - Disminuye la difusión del amonio por la BHE y disminuye la absorción del mismo en el intestino.
+        - En el pasado, a los pacientes cirróticos se les administraba una dieta rica en aminoácidos ramificados. Posteriormente se demostró que esto no era útil
+        - Las benzodiacepinas tienen afinidad por el receptor de GABA. En la encefalopatía hepática aumentan los receptores de GABA, por lo que estos pacientes son especialmente sensibles al efecto depresor del sistema nervioso central que tiene las benzodiacepinas
+        - En los pacientes cirróticos hay una inversión del ciclo vigilia-sueño, sin embargo, para tratar este signo, **NO debemos administrar benzodiacepinas** porque podemos provocarles la encefalopatía. DETALLE PRÁCTICO IMPORTANTE

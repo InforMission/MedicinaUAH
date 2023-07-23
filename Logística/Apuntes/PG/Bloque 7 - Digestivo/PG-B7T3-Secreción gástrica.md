@@ -1,0 +1,198 @@
+- Fisiología
+    - Defensa de mucosa gástrica
+        - **Células epiteliales de revestimiento** ⇒ Moco y **prostaglandinas** (↓AINEs) ⇒ Barrera mucosa y HCO3⁻ + Glutation e intercambio de H+
+        - **Flujo sanguíneo** de la mucosa ⇒ Eiminación de ácido + Nutrición de c. Revestimiento ⇒ **Insuficiencia respiratoria** ⇒ ↓Irrigación ⇒ Lesión ⇒ Hemorragia
+    - Células {{433500954846876::**parietales**}}{{433500954846876:: u oxínticas}} ⇒ {{7820042473033515::**Clorhídrico**}}↓
+        - Células muy **eosinófilas**, con muchas **mitocondrias** y ↑ consumo de ATP (como las c. tubulares renales)
+        - Función ⇒ Secreción de HCl y H+ ⇒ Anhidrasa carbónica ⇒ HCO3- a la sangre ⇒ **Marea alcalina postprandial**
+        - Producción de **factor intrínseco** y **factor R** ⇒ Absorción de **vitamina B12** (duodeno/íleon)
+        - Daño de c. Parietales ⇒ **Anemia perniciosa**
+        - Regulación
+            - **Adenil-ciclasa** (ATP ⇒ AMPc) regulada por la **histamina (H2)** ⇐ Mastocitos
+            - Movilización del **Ca2+** ⇒ **Receptores AChM** (X) y de **Gastrina** (c. G del **antro**)
+    - Células **principales** o cimógenos ⇒ {{05017978909517251::**Pepsina**}}{{05017978909517251:: (prohormona)}}
+        - Células **basófilas** con ↑Retículo endoplasmático rugoso
+        - Función ⇒ Secreción de pepsinógeno ⇒ pH **ácido** ⇒ **Pepsina** ⇒ Proteólisis
+        - Regulación→**Secretina** ⇒ ↓ Secreción ácida, ↑ Pepsinógeno
+        - Hay pepsinógeno I y II, pero solo el I se encuentra en **orina**
+    - Células **neuroentéricas** (enterocromafines)
+        - Células G secretoras de **gastrina** en el **antro**↔Estímulos locales (aa, proteínas) ⇒ Vago ⇒ **↑c. Oxínticas** ⇒ Son **inhibidas por** {{6732574532784987::**el pH ácido**}}{{6732574532784987:: (feedback negativo)}}
+        - Células D secretoras de **somatostatina**↔↓Secreción de **gastrina**
+    - Regulación gástrica
+        - **Fase cefálica** : Ver y oler un alimento es percibido por el cerebro y este regula el estómago. La fase cefálica es estimuladora de la secreción gástrica.
+        - **Fase gástrica** : Estímulos mecánicos y bioquímicos en la luz del estómago. La fase gástrica es estimuladora de la secreción gástrica
+        - **Fase intestinal** : Regulación del estómago (**inhibición**) al pasar el bolo hacia el intestino (ácido, distensión)
+    - Inhibición de la secreción gástrica
+        - **Cuerpo-Antro** ⇒ Remoción de proteínas y distensión durante el vaciado gástrico ⇒ ↓Nervio intrínseco, Vago, Área de glándula pilórica ⇒ **↓Gastrina**
+        - **Antro** ⇒ Acumulación de ácido ⇒ Área de glándula pilórica ⇒ **↓Gastrina**
+        - **Duodeno** (fase inhibitoria intestinal) ⇒ Grasa, Ácido, Hipertonicidad, Distensión ⇒ ↑Reflejo enterogástrico, **CCK**, **Secretina**, GIP) ⇒ **↓Gastrina**
+- Hipersecreción
+    - Etiología
+        - Hiperplasia de {{7368348713137913::células }}{{7368348713137913::**oxínticas**}}{{7368348713137913:: y }}{{7368348713137913::**principales**}}{{7368348713137913:: : ↑HCl, ↑Pepsinógeno}}
+        - Hipergastrinemia (↑Gastrina)
+            - **↑Gastrina** ⇒ ↑ estímulo de c. oxínticas y principales ⇒ : ↑HCl, ↑Pepsinógeno
+            - Causas comunes→Hiperplasia de **células G** , **Zollinger-Ellison** : Tumor benigno secretor de **gastrina** (relacionado con MEN1) , Hipergastrinemia **funcional**
+            - BAO y PAO→↑BAO , PAO puede ser normal (ya está hiperestimulado) ⇒ **Disminución de diferencia entre BAO y PAO** (secreción basal aumentada)
+        - **Hiperistaminemias** (↑Histamina)
+            - Mastocitosis, Síndromes mieloides crónicos (↑basófilos)
+        - Hipertonía vagal (↑Acetilcolina)
+            - El nervio vago pertenece al SNA, que tiene múltiples conexiones en el hipotálamo con el sistema límbico y el sistema de las emociones
+            - Es decir, a veces la gente, cuando se pone nerviosa, tiene acidez gástrica, porque se produce la liberación de acetilcolina consecuente a la estimulación vagal
+            - **Antimuscarínicos**→↓Vago ⇒ ↓Secreción gástrica ⇒ **↓BAO**
+        - Farmacológicas, Alimentarias
+    - Úlcera péptica
+        - Definición→Pérdida de sustancia del tracto digestivo que alcanza en profundidad, como mínimo hasta la **submucosa** y resulta de la acción lesiva del **HCl** y la **pepsina** secretados por el estómago ⇒ Desequilibrio entre agresión y defensa de la mucosa gástrica
+        - El bicarbonato y la leche tamponan el ácido gástrico pero el {{6521075688095266::**calcio**}} aumenta la actividad de las células oxínticas
+        - Localización
+            - Puede aparecer en estómago, esófago y parte inicial del duodeno
+            - En **Zollinger-Ellison** tiene tanta secreción que puede llegar al {{11898892589860055::**yeyuno**}}
+            - En **divertículo de Meckel** hay mucosa gástrica ectópica en el {{041057277591030505::**duodeno**}}
+        - Epidemiología
+            - Factor de riesgo más importante en la población general ⇒ {{31457728432204113::**Helicobacter Pylori**}}{{31457728432204113:: }}
+            - Factores de riesgo importantes→**Ácido y AINEs** ⇒ Menos : **Tabaco, Dieta, Estrés**
+            - La gran mayoría de las úlceras en pacientes sin infección por H. pylori son producidas por {{5516812465880001::**AINEs**}}
+            - Factores de riesgo definitivos para gastropatía por AINEs→Edad **> 60 años**, **Corticoides**, Historia previa de úlcera y complicaciones, Dosis altas de **AINEs**
+            - Hasta un **10%** de la población tiene úlcera péptica en algún período de la vida
+            - La ansiedad o depresión son causas de **hipersecreción**, pero NO causa directa de úlcera ⇒ **No hay relación causal** entre ningún parámetro psíquico y úlcera péptica
+            - **Helicobacter Pylori**
+                - Características
+                    - Bacilo curvo, Gram -, Microaerófilo, **Ureasa +** (neutralización acidez)
+                    - Reservorio en {{7491348832266653::mucosa gástrica }}{{7491348832266653::**antral**}}{{7491348832266653:: }}
+                    - Transmisión **VO**, Distribución mundial
+                - Factores de virulencia del Hp
+                    - Motilidad : Flagelos
+                    - Adhesinas : **BabA**, OipA
+                    - Actividad **ureasa** ⇒ Amonio
+                    - Citotoxina vacuolizante (**VacA**), Citotoxina inmunodominante (**CagA**)←Alteración de barrera moco-bicarbonato (acción similar a granzimas)
+                    - Cuanto mayor la respuesta {{6754831798499741::**Th1**}} , mayor inflamación
+                - Clínica↓
+                    - Antritis difusa ⇒ **Úlcera duodenal**
+                    - Gastritis superficial ⇒ **Asintomáticos** (o dispepsia)
+                    - **Pangastritis** ⇒ Gastritis atrófica multifocal que puede desembocar en úlcera gástrica y **cáncer** gástrico
+                - Cepas
+                    - **Tipo I** ⇒ Expresa: Adhesina (**BabA**), Citotoxina vacuolizante (**VacA**), Antígeno y Citotoxina inmunodominante (**cagPAI** y **CagA**). Producen **UGD**
+                    - **Tipo II** ⇒ No expresa BabA, VacA, cagPAI ni CagA. Es el responsable de muchos tipos de gastritis y colonización sin lesiones. **No producen úlcera**
+            - Incidencia por edad
+                - La **úlcera duodenal** presenta su pico de incidencia a los **45 años** ⇒ Hombres jóvenes
+                - La **úlcera péptica** presenta su pico de incidencia entre los **55-65 años** ⇒ Mujeres ancianas (toman más AINEs)
+            - **La úlcera** {{2677139270087254::**duodenal**}} **es más frecuente que la** {{2677139270087254::**gástrica**}}
+            - Tabaco y úlcera péptica
+                - Mayor incidencia de úlcera
+                - Cicatrización más lenta
+                - Recidivas más frecuentes
+                - Complicaciones más frecuentes
+                - Menor expectativa de vida en ulcerosos
+            - Secreción ácida y actividad péptica
+                - Desde hace años se conoce que los pacientes con úlcera duodenal como grupo, presentan una secreción ácida gástrica basal y estimulada elevada y una respuesta secretora a la comida más prolongada que los individuos sanos
+                - Las úlceras no se generan solo por disminución de la defensa por Helicobacter, por AINEs o por tabaco, sino también por aumento de factores agresivos, como el ácido clorhídrico o la pepsina
+                - Esta hipersecreción de ácido se ha atribuido a un incremento en la masa de células parietales, a hipertonía vagal, a una mayor sensibilidad de la célula parietal a los secretagogos, a la alteración de reflejos inhibitorios en la liberación de gastrina y de la secreción ácida.
+        - Etiopatogenia
+            - Factores patogénicos **genéticos**
+                - **Asociación familiar** ⇒ 20-50% de {{560174740009356::**UD**}} presentan **historia familiar** . **En la** {{560174740009356::**UG**}} **no hay tanto factor genético**
+                - **Helicobacter** : **Parasitosis**→Respuestas **Th2** ⇒ Menor ulcerogénesis
+                - **Agotamiento de células oxínticas y parietales**
+                - Se ha descrito la asociación entre úlcera péptica y el **grupo sanguíneo O**: El antígeno de superficie podría actuar como receptor para H. pylori
+            - Factores patogénicos **adquiridos**
+                - Infección por **H. pylori** ⇒ Depende de la cepa, la respuesta inmune en la pared gástrica y factores exógenos (dieta, tabaco)
+                - Disminución de defensas (**AINEs**, tabaco)
+                - ↑ secreción gástrica
+            - Entidades que cursan con hipersecreción ácida
+                - **Gastrinoma**→Tumor secretor de **gastrina** presente en el S. Zollinger-Ellison y en la adenomatosis MEN I. La **hipergastrinemia** aumenta la secreción ácida gástrica, generando lesiones en todo el **duodeno** o incluso el **yeyuno**, dando lugar a una o múltiples **UD** que debutan por {{5884836211845834::**sangrado**}} : **PAO** {{7630966571733495::**normal**}}
+                - **Mastocitosis sistémica**→Neoplasia caracterizada por una proliferación de mastocitos que infiltran diversos tejidos. La histamina secretada es causa de **úlcera péptica** en cerca del **50%** de los pacientes. **BAO** {{8544262941461434::**aumentado**}}
+                - **Síndromes mieloproliferativos**→**Basofilia** e hiperplasia antral de células G, pueden ser causa de hipersecreción ácida y úlcera. **BAO** {{6423885878923703::**aumentado**}}
+        - Ulcerogénesis asociada a helicobacter pylori
+            - Infección ⇒ Gastritis crónica activa, Colonización duodenal
+            - ↑Inflamación, **↓Somatostatina** ⇒ **Hipergastrinemia** ⇒ ↑Secreción ácida gástrica
+            - **Metaplasia** gástrica en duodeno ⇒ Colonización duodenal ⇒ **Úlcera duodenal**
+            - La infección por Helicobacter se asocia
+                - En la úlcera {{025791268953960778::**duodenal**}} preferentemente con {{20605004482281175::gastritis }}{{20605004482281175::**antral**}}{{20605004482281175:: }}
+                - En la úlcera {{7944261588203907::**gástrica**}} con {{5275218495853191::gastritis }}{{5275218495853191::**difusa**}}{{5275218495853191:: y ↑tendencia a la }}{{5275218495853191::**atrofia gástrica**}}{{5275218495853191:: }}
+            - Diagnóstico
+                - La **prueba del aliento** suele ser lo más común, ya que cuenta con una sensibilidad del 97% y una especificidad del 100%
+                - La **serología** tiene una sensibilidad un poquito inferior (96%), pero la especificidad bastante más baja
+                - Los **antígenos en heces** también suelen utilizarse
+        - Secuencia multifactorial del cáncer gástrico
+            - Mucosa gástrica ⇒ Polimorfismos , H.pylori, Helmintos
+            - Gastritis superficial ⇒ ==Helmintos==
+            - Inflamación crónica ⇒ Respuesta inmune, Sal, Tabaco, EROs, Proliferación celular
+            - Gastritis atrófica ⇒ ==Antioxidantes==, ↓**HCl** ↓ **Alcalosis**/Crecimiento bacteriano
+            - **Metaplasia** intestinal ⇒ **Displasia** ⇒ **Carcinoma**
+        - Mitos y realidades en la UGD
+            - Se da en **toda la población**
+            - No se asocia con el **estrés**
+            - No hay una **personalidad ulcerosa**
+            - No se asocia con el **alcohol** (pero **sí al tabaco**)
+            - No se asocia con el **café**
+            - La **dieta** no influye en la úlcera
+            - Hay poca relación **esteroides**-úlcera
+        - Manifestaciones clínicas
+            - Dolor abdominal
+                - Epigástrico, **no irradiado** y a punta de dedo⇒ Si se complica puede parecer hasta una apendicitis, irradiando hacia la fosa ilíaca o hipocondrio derecho
+                - Aparición postprandial **tardía** (el pH aumenta al no haber comida)→**UD**
+                - Duele **durante** la comida→**Úlcera pilórica**
+                - A veces nocturno que despierta
+            - Vómitos ⇒ Secundarios al dolor, Estenosis pilórica (incapacidad de drenar contenido gástrico) y Auto-Inducción
+            - Náuseas
+            - Síntomas dispépticos
+            - Anorexia
+            - Pérdida de peso
+        - Complicaciones de la úlcera péptica
+            - Debut en un 10% de los casos con {{6322738327649482::**sangrado**}}
+            - **Hemorragia** ⇒ La úlcera alcanza un vaso ⇒ **hematemesis**. Sospechar **esofagitis**, **úlceras** o **varices esofágicas** ⇒ **Endoscopia** precoz
+            - **Perforación** ⇒ Hacia la transcavidad de los epiplones o la cavidad peritoneal ⇒ Vertido de contenido gástrico ⇒ **Peritonitis** ⇒ Clínica, RX simple ({{8430736334779179::neumoperitoneo}})
+            - **Penetración** ⇒ Pancreatitis aguda, Hígado (contacto con víscera)
+            - **Estenosis pilórica**→Complicación **crónica** de las úlceras pilóricas ⇒ Fibrosis que aumenta la rigidez de la pared, inhibiendo su dilatación, generando una **obstrucción**
+            - Refractariedad ⇒ Endoscopia, test especiales
+        - Diagnóstico
+            - Fundamentalmente **clínico** . La prueba de elección es la **endoscopia**
+            - El síndrome ulceroso “típico” **no es**{{4256848877223829:: **patognomónico de la úlcera péptica**}} ⇒ La sensibilidad de la historia ulcerosa es {{4256848877223829::**baja**}}{{4256848877223829:: (30-70%)}}
+            - La {{5177645043372778::**gastroscopia**}} presenta una gran exactitud diagnóstica (>95%) que permite la obtención de muestras (biopsias y citología). También se utiliza para controlar la cicatrización de UG y para llevar a cabo técnicas terapéuticas (esclerosas, clip, dilataciones...)
+            - **UG tipo I**↔Localización en la **curvatura menor del cuerpo** gástrico, a menudo próxima a la incisura, la secreción ácida gástrica suele ser **normal-baja**
+            - **UG tipo II**↔Localización **antral**, a menudo **se asocia con UD** y suele existir **hipersecreción ácida**
+            - **UG tipo III**↔Localización antral, prepilórica, o pilórica y a menudo se asocia al consumo de **AINE**
+            - Úlcera prepilórica→UG tipo III relacionada con AINEs
+            - Helicobacter pylori
+                - Test de **ureasa**, histología, cultivo de biopsia
+                - Test de aliento : **13C-urea**
+                - Serología, Ag en heces (HpSA)
+            - Sospechar Zollinger-Ellison↕
+                - **Gastrinemia** y **úlceras** : Post-bulbar
+                - + **diarrea** ⇒ Refractaria pre-Qx / Recurrente Hp(-)/AINE(-)
+                - +**tumor endocrino**
+            - Secreción ácida, Ecografía o TAC←no sirven para diagnosticar Zollinger-Ellison
+    - Anamnesis
+        - Semiología
+            - **Dolor epigástrico** ⇒ Punta de dedo e irradiado, alto y subesternal, epigástrico
+            - Ardor epigástrico, Pirosis retroesternal
+            - Hematemesis/Melena
+            - **Vómitos en posos de café**→Lesión superior al **ángulo de Treitz**
+            - Dispepsia
+        - Exploración física
+            - Dolor epigástrico
+            - **Chapoteo gástrico**
+            - **Adenopatías supraclaviculares** de Virchow-Troisier↔**Metástasis gástrica** (adenopatías siempre patológicas)
+            - Hepatomegalia
+            - Peritoneo ⇒ **Peritonitis**
+        - Quimismo gástrico
+            - BAO (Basic Acid Output)
+                - Medida de la **producción basal** de ácido gástrico ⇒ Aspiración 15min/1hora⇒ Cantidad de base necesaria para **neutralizar** el HCl secretado⇒ **0-10 mEq/L**
+                - **BAO 0 mEq/h**→↓ producción ácido gástrico ⇒ **gastritis atrófica, gastrectomía**
+            - MAO (Maximal Acid Output)↓
+                - Medida de la **producción por estimulación** del ácido gástrico ⇒ Inyección de **pentagastrina** (secretagogo) ⇒ **↑ c. oxínticas** ⇒ Aspiración 15 min/1 hora
+                - **MAO >10 mEq/h**→↑ producción ácido gástrico ⇒ **úlcera péptica, gastritis, Zollinger-Ellison, Dosis insuficiente de IBP**
+                - En una **hiperplasia de células oxínticas** ⇒ ↑MAO
+            - PAO (Peak Acid Output)
+                - Pico máximo de producción de ácido por estimulación con secretagogos ⇒ 2 picos de 15min multiplicados por 2
+                - **PAO > 15mEq/h**→↑producción ácida ⇒ ERGE, Gastritis, Úlcera péptica, Z-E
+            - **Mastocitosis**→↑BAO, el MAO puede ser igual
+            - **BAO de 0 y MAO de 0** : Hay **poco** {{9111109185147566::**factor intrínseco**}} porque hay pocas c.oxínticas (gastrectomía)
+- Hiposecreción
+    - Atrofia de células oxínticas y principales
+        - Autoinmunidad contra c.Oxínticas ⇒ Atrofia y ↑ {{9292846418905454::**LDH**}} ⇒ ↓B12 ⇒ **Anemia perniciosa**
+        - Hipersensibilidad II y IV
+    - Resección gástrica
+        - En la resección gástrica no hay células ⇒ Tratamiento sustitutivo→**Vitamina B12 IM**
+        - **Disminución** de ácido, **factor R y factor intrínseco** ⇒ No se absorbe B12 en el {{8228591529120626::**íleon terminal**}}
+    - Hipoestimulación
+        - Neurológica : Vaguectomía←Causa más frecuente
+        - Farmacológicas : **Anti-H2** , Inhibidores de la secreción de gastrina

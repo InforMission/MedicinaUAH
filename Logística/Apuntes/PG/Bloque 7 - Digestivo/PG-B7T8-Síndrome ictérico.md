@@ -1,0 +1,126 @@
+- Definición
+    - Coloración amarillenta de **mucosas** y piel por un **aumento de la concentración sérica de bilirrubina**
+    - La concentración de bilirrubina en sangre no debe superar **1 mg/dL** (75% NC)
+    - **Hiperbilirrubinemia**→Bilirrubina sérica **˃ 1 mg/dL**
+    - **Ictericia**→Bilirrubina sérica **> 3 mg/dL**
+    - Tiene apetencia por las fibras elásticas ⇒ Conjuntiva del ojo y velo del paladar
+    - **Xantosis**→Piel amarilla por depósito de vitamina A en dietas ricas en carotenos ⇒ No hay coloración de mucosas
+- Fisiología
+    - Fuentes de la bilirrubina
+        - Degradación del grupo **hemo** de hematíes senescentes (120 días) por el sistema **reticuloendotelial** en el **bazo**
+        - Degradación de **eritrocitos en la MO** ⇒ EPO aumentada y ↓ maduración
+        - Degradación de enzimas (**hemoproteínas no-Hb**), la mayor parte hepáticas
+        - Grupo hemo ⇒ Hemooxigenasa ⇒ Biliverdina ⇒ Bilirrubin reductasa ⇒ Bilirrubina
+    - Fases del metabolismo de la bilirrubina↓
+        - PREHEPÁTICA→SRE ⇒ Degradación del grupo hemo ⇒ Bilirrubina **NC** ⇒ Transporte en **albúmina sérica** ⇒ Hígado
+        - HEPÁTICA→Captación ⇒ **Ligandinas** (impiden vuelta a sangre) ⇒ **UDP** glucuronil transferasa ⇒ **Conjugación** ⇒ BMG, BDG ⇒ Excreción por **MRP2**
+        - INTESTINAL→Bilis ⇒ **β-glucuronidasa** de la microflora ⇒ Urobilinógeno ⇒ **Heces** (90%) y **circulación enterohepática** (10%)
+    - Tipos de bilirrubina
+        - NO conjugada/indirecta ⇒ **Liposoluble** ( No se elimina vía renal o biliar) ⇒ Atraviesa **BHE** ⇒ **kern ícterus en niños**
+        - **Conjugada**/directa ⇒ **Hidrosoluble** (eliminación biliar-renal) ⇒ No atraviesa BHE
+- Hiperbilirrubinemia no conjugada (indirecta)
+    - Definición
+        - La BNC está presente antes del hígado, por lo tanto ⇒ ↑BNC = Problemas **antes del hígado**
+        - Un aumento AISLADO de BNC no se asocia a problemas hepáticos ⇒ No hay **bilirrubinuria**
+    - Etiología
+        - **Sobreproducción**⇒ Ictericia **hemolítica** ⇒ Hemólisis, Eritropoyesis ineficaz
+        - **Déficit de captación** ⇒ Fármacos (rifampicina, probenecid, ribavirina)
+        - **Déficit de conjugación** ⇒ Afectación selectiva de la **glucuroniltransferasa**
+            - **Crigler-Najjar** (tipos I y II) (MUY RARO) ⇒ **inactividad** de glucuroniltransferasa
+            - **Síndrome de Gilbert** (10% población) ⇒ **↓ actividad** de la glucuroniltransferasa
+            - **Ictericia fisiológica en el recién nacido** ⇒ Retraso en la maduración de la glucuronil transferasa, más frecuente en prematuros ⇒ ↑BNC ⇒ **BHE** ⇒ Acúmulo en **ganglios basales** ⇒ **kern ícterus** ⇒ Exposición a **rayos UVA** para hidrosolubilizar la BNC
+    - Ictericia hemolítica
+        - **Aumento de la oferta de bilirrubina**
+        - Destrucción de hematíes ⇒ **hematoma** o **hemólisis intravascular**
+        - ↑ hematopoyesis ⇒ **↑ BNC** sin daño hepatocelular (PFH normales)
+        - ↑BC en intestino ⇒ ↑Urobilinoides ⇒ **Heces pleiocrómicas**
+- Hiperbilirrubinemia conjugada (directa)
+    - Etiología
+        - Daño en el transporte de bilirrubina, Daño en el hepatocito, Obstrucción en vías biliares ⇒ **Bilirrubinuria** (coluria, orina de color oscuro)
+        - Procesos hereditarios→Síndrome de **Dubin-Jhonson**, Síndrome de **Rotor**
+        - Ictericia **hepatocelular** ⇒ Hepatitis viral, Alcohol, Hepatitis tóxica, Cirrosis avanzada ⇒ Asociada a anomalías de las pruebas de función hepática (**PFH**)
+        - Procesos colestásicos ⇒ Ictericia **colestásica** ⇒ Intrahepáticos, Extrahepáticos
+    - Ictericia hepatocelular
+        - **Daño hepatocelular** ⇒ Se dañan todos los pasos del metabolismo hepático de la bilirrubina, pero el que más se daña es la **excreción** ⇒ **↑BC** ⇒ **Coluria**
+        - ↓Excreción ⇒ ↓Urobilinoides ⇒ **Hipocromía** fecal
+        - **Necrosis** ⇒ {{8196108327060256::Enzimas citolíticas ⇒ ↑}}{{8196108327060256::**TRANSAMINASAS (AST-GOT, ALT-GTP)**}}{{8196108327060256:: }}
+        - Fracción delta o bilioproteína→Ictericia crónica ⇒ Unión covalente de BC a **albúmina** ⇒ Ictericia **persistente** tras enfermedad (vida media **2 semanas**)
+    - Ictericia colestática
+        - Coledocolitiasis o por un tumor en la vía biliar ⇒ **Obstrucción** ⇒ Regurgitación de BC a la sangre ⇒ **Coluria**
+        - **No** llega la BC al intestino, No urobilinoides ⇒ Heces **ACÓLICAS** (blancas).
+        - Aumento de {{20070497080935734::**enzimas de colestasis**}}{{20070497080935734:: (}}{{20070497080935734::**GGT, FOSFATASA ALCALINA**}}{{20070497080935734::)}}
+- Colestasis
+    - Definición
+        - Obstrucción de las vías biliares
+        - Vía **intrahepática** ⇒ Colangiolos ⇒ Dúctulos (colangiocitos ) ⇒ **Interlobulillares** (espacio porta) ⇒ Septales (visibles en CGRM)
+        - Vía **extrahepática** ⇒ Hepático derecho ⇒ Hepático común ⇒ **Colédoco**
+    - Etiología
+        - Intrahepática
+            - **Colestasis hepatocelular** ⇒ Daño en producción-excreción de bilis↓
+                - 1. Hepatitis viral ⇒ Hepatitis A ⇒ Ictericia hepatocelular
+                - 2. Hepatitis alcohólica
+                - 3. Efectos tóxicos de fármacos
+                - 4. Sepsis no hepatobiliar
+                - 5. Colestasis postoperatoria benigna
+                - 6. Colestasis del embarazo
+                - 7. Colestasis recidivante beningna
+            - **Colestasis colangiocelular** ⇒ Daño en la vía biliar intraheṕatica. Suele ser por inflamación de los c.interlobulillares
+                - **Colangitis biliar primaria** ⇒ Destrucción autoinmune de **c. interlobulillares**. La bilis no alcanza el duodeno. En un **90% mujeres**
+                - Colangitis **esclerosante** primaria ⇒ Autoinmunidad en **varones**
+                - Colangiocarcinoma
+                - Tumores primarios y secundarios, granulomas, abscesos
+                - Raro ⇒ **Alagille** (hipoplasia biliar), fibrosis quística, ductopenia, amiloidosis
+        - Extrahepática
+            - **Maligna** ⇒ Colangiocarcinoma, Cáncer de la ampolla de Vater, Cáncer de páncreas
+            - **Benigna** ⇒ **Coledocolitiasis** (↑%), Pancreatitis crónica
+            - La colangitis es típica de las {{2905694562942649::**obstrucciones benignas**}}{{2905694562942649::, sobre todo de los }}{{2905694562942649::**cálculos**}}{{2905694562942649::. No es típica de las obstrucciones malignas}}
+        - 2 consecuencias a tener encuenta de la colestasis extrahepática
+            - **DOLOR** visceral del cólico biliar por la obstrucción de la vía
+            - **ESTASIS BILIAR ⇒ Dilatación de la vía biliar visible en imagen**
+            - Retención de bilis ⇒ Proliferación bacteriana ⇒ **Colangitis bacteriana** (propia de **colestasis** {{5501421470939625::**benigna**}}) ⇒ Urgencia médica ⇒ Bacteriemia y sepsis
+    - Síndrome de colestasis
+        - Más o menos **↓ excreción de BC** ⇒ **Ictericia** ⇒ Coluria, Acolia
+        - **↓Excreción** de sales biliares ⇒ ↑En sangre ⇒ Receptores opiáceos ⇒ **Prurito**
+        - ↓Sales biliares intestinales ⇒ **Malabsorción grasa** ⇒ Esteatorrea, Osteopenia, Coagulopatías, Ceguera nocturna, Hemeralopía
+        - ↓ Excreción de colesterol ⇒ **Hipercolesterolemia** ⇒ Xantelasmas, Xantomas
+        - Pérdida de conductos biliares ⇒ Retención intrahepática de ácidos biliares detergentes ⇒ **Daño hepático**
+        - Interrupción de la circulación del ácido biliar enterohepático
+    - Bioquímica↓
+        - ↑ enzimas de colestasis (**FA, GGT**)
+        - ↑ sales biliares
+        - **Hiperbilirrubinemia** de predominio **directo**, pudiendo haber o no ictericia
+        - **Hipercolesterolemia**
+        - **Bilirrubinuria**
+    - Clínica
+        - ± **Ictericia**, coluria, acolia/hipocolia
+        - **Prurito**, lesiones de rascado, **xantomas** y xantelasmas
+        - **Esteatorrea**: malabsorción de vitaminas liposolubles y sus consecuencias
+        - **Osteopenia**: esteatorrea ⇒ ↓ vitamina D ⇒ ↓ Ca+2 ⇒ ↓Ca+2 x P ⇒ osteomalacia
+        - **Desnutrición** ⇒ ↑ catabolismo proteico ⇒ ↓ matriz ósea ⇒ osteoporosis
+    - Consecuencias de colestasis a largo plazo
+        - La colestasis crónica sucede en las **enfermedades intrahepáticas**. Un buen ejemplo es la **colangitis biliar primaria**
+        - Mujeres de 40 años con FA aumentada ⇒ ↓ c.interlobulillares ⇒ colestasis,cirrosis
+        - **Colestasis** ⇒ ↑Epiteliobiliar ⇒ Fosfatasa alcalina y GGT
+        - **↑Sales biliares** ⇒ Acúmulo en espacio porta ⇒ Inflamación, Necrosis ⇒ Fibrosis, Cirrosis
+    - Fisiopatología renal en la colestasis↓
+        - ↑Sales biliares ⇒ Nodo sinusal ⇒ **Bradicardia** ⇒ **Hipotensión**
+        - **↑ Bilirrubina ⇒ Disfunción tubular**
+        - Operación ⇒ Anestesia ⇒ Hipoxia, Hipotensión ⇒ **IRA**
+    - Pruebas bioquímicas hepáticas
+        - **Bilirrubina**
+        - **Aspartato-aminotransferasa (AST-GOT)**↔Transaminasa que se encuentra en el hígado, **músculo** cardiaco y esquelético, cerebro y riñón. Si aumenta, puede haber riesgo de una **miositis**, un IAM, un infarto cerebral, o una hepatitis
+        - **Alanin-aminotransferasa (ALT-GPT**)↔Transaminasa que se encuentra solo en el **hígado**. Cuando aumenta, solo hay un problema en el hígado
+        - **Fosfatasa alcalina**↔En epitelio biliar, hueso en reacción osteoblástica, placenta
+        - **Gammaglutamiltranspeptidasa (GGT)**↔**En epitelio biliar**. Cuando se induce el **citocromo P450** aumenta (ingesta aguda de alcohol, fenobarbital, rifampicina)
+        - ![[Pasted image 20230619161223.png]]
+- Diagnóstico de ictericia/colestasis
+    - Antes de hacer pruebas de imagen hay que pedir una **bioquímica básica** para ver cómo están las **enzimas hepáticas**
+    - Siempre que se pueda se elegirá una técnica no invasiva como el TAC o la RM
+    - En eco o TAC la {{6359608185986383::**parte distal** }}de la vía dilatada se ve mal ⇒ **CPRM, Ecoendoscopia**
+    - Confirmación de **colangitis biliar** ⇒ **biopsia hepática**
+    - Ecografía ⇒ **Calibre** vía biliar, hígado, páncreas ⇒ Primera prueba para diagnóstico de ictericia
+    - TAC-RM ⇒ **Calibre** vía biliar, hígado, páncreas
+    - Colangiopancreato RM ⇒ **Morfología** vía biliar/pancreática
+    - Ecoendoscopia ⇒ Morfología vía biliar (distal)/pancreática
+    - CPRE ⇒ Morfología vía biliar/pancreática
+    - Biopsia hepática ⇒ Enfermedad intrahepática

@@ -1,0 +1,225 @@
+- Características generales de las neoplasias endocrinas y neuroendocrinas
+    - Histológicas
+        - La **atipia** en los órganos endocrinos está permitida
+        - Ricamente **vascularizados**
+        - Células en general con escasa atipia
+    - Manifestaciones clínicas
+        - Relacionadas con niveles hormonales
+        - Relacionados con el efecto masa : Hiperfuncionantes o hipofuncionantes
+- Hipófisis
+    - Células
+        - Células cromófobas
+        - Células acidófilas
+        - Células basófilas
+    - Adenomas hipofisarios
+        - Características generales
+            - Adenoma secretor ⇒ GH, PRL, TRH, GnRH, ACTH
+            - Adenoma no secretor ⇒ **Macroadenoma**
+            - Adenoma plurisecretor
+            - 10% de neoplasias intracraneales
+            - 4-6 década de vida
+            - 3-5% de predisposición hereditaria
+            - Mayor agresividad si existe alteración de {{8000748588341016::**genes**}}{{8000748588341016:: del punto de control de }}{{8000748588341016::**ciclo celular**}}{{8000748588341016:: }}
+        - Clasificación macroscópica de los adenomas hipofisarios
+            - Adenomas encapsulados↕
+                - Comprimen quiasma y nervios craneales
+            - Adenomas no encapsulados : **Adenomas infiltrantes**↕
+                - Más grandes
+                - Infiltran seno cavernoso y esfenoidal, duramadre y cerebro
+                - Producen **hemorragia** y **necrosis**
+                - Cromófobos o escasa granulación
+            - Adenomas atípicos
+                - Mayor pleomorfismo
+                - Ki67 >3% , p53 positivos
+                - Conducta agresiva local y recidiva
+        - Prolactinoma
+            - 25-30% : **más frecuente**
+            - Pico 20-30 años
+            - Prolactinemia elevada : Amenorrea, Galactorrea, Líbido disminuida, Esterilidad
+            - Hombres y mujeres mayores: Macroadenomas
+        - Adenoma somatotropo
+            - 25% de los adenoma
+            - Infancia : Gigantismo
+            - Adultos : Acromegalia
+        - Adenoma Corticotropo
+            - Síndrome de **Nelson**↔Macroadenoma destructivo secundario a suprarrenalectomía bilateral
+            - Sindrome de **Cushing** : Hipercortisolismo secundario
+        - Adenoma gonadotropo
+            - Secretor de FSH y LH
+            - Mujeres jóvenes : **amenorrea**
+            - **Citoplasma más denso** (rica en mitocondrias)
+            - Hombres y mujeres mayores: Macroadenomas
+        - Adenoma tirotropo
+            - Secretor de TSH
+            - Causa {{18454335258047627::**infrecuente**}} de hipertiroidismo
+    - Carcinoma pituitario
+        - Secretores ACTH/Prolactina
+        - Metástasis cerebrales o sistémicas
+        - IHQ
+            - + : Marcadores neuroendocrinos, CK(citoqueratina), EMA
+            - ‒ : S100, CEA, Vimentina, PGFA, LCA
+    - Otros
+        - Gangliocitoma, Tumores mesenquimales, Tumores c. granulares, Meningioma, Cordoma
+- Tiroides
+    - Folículos tiroideos, Células parafoliculares
+    - Adenoma folicular
+        - Masa **encapsulada** solitaria, tamaño medio **3 cm**, bien diferenciado del parénquima normal adyacente
+        - **Falta de invasión** de vasos de la cápsula
+        - Gammagrafía→**Nódulo frío hipofuncionante**
+        - **Folículos pequeños,** Atipia ocasional
+        - Riqueza de mitocondrias, con citoplasma denso ⇒ Adenoma oncocítico de {{5749888586221115::**células de Hurley**}}{{5749888586221115:: }}
+        - IHQ→Tiroglobulina, TTF-1, **CK**
+    - Teratoma
+        - Masa lobulada, variable consistencia, tamaño medio **6 cm**
+        - Quistes multiloculares, zonas necróticas, hemorrágicas y duras (hueso, cartílago)
+        - Malignidad-benignidad ⇒ Madurez
+        - IHQ→S100, PGFA, ENS, NF...
+    - **Carcinoma papilar**
+        - Carcinoma **más frecuente**
+        - Nódulo mal delimitado ⇒ Infiltración de la cápsula. Masa **encapsulada** solitaria <5cm
+        - Material coloide con cristales, Células en **granos de café**, Núcleos vacíos ("**ojos de la huérfana Annie**), Calcificaciones (Cuerpos de **Psamoma**)
+        - La ausencia de papilas no implica que no sea un carcinoma papilar
+        - IHQ→**Tiroglobulina, TTF1**
+    - Carcinoma anaplásico
+        - Masa mal delimitada, con **necrosis y hemorragia**
+        - Infiltrante de órganos y tejidos blandos adyacentes
+        - Mortalidad elevada
+        - IHQ→**CK y EMA, vimentina /** Rara + para : tiroglobulina, TTF-1
+    - Carcinoma medular
+        - Masa bien delimitada amarillenta lisa, a veces calcificaciones
+        - Tumor **neuroendocrino** : Relacionado con MEN
+        - Cromatina en "**sal y pimienta**", Escasa actividad mitótica, Presencia de **amiloide**
+        - IHQ→**Cromogranina**, Sinaptofisina, CD56, CK, TTF-1, CEA, **Calcitonina** +
+    - Linfoma primario de tiroides
+        - Asociada a tiroiditis linfocitaria/**Hashimoto**
+        - Linfoma de células B de la zona marginal extranodal
+        - Linfoma difuso de celulas B grandes
+        - IHQ y reordenamiento de cadenas ligeras
+        - {{5097790801810598::**Lesión linfoepitelial** }} : Clave diagnóstica
+- Paratiroides
+    - Células
+        - Células principales y oxifílicas, grasa
+        - **En un niño todas las células son principales**
+    - Adenoma
+        - Hiperparatiroidismo primario
+        - Nódulo pardo-**rojizo** encapsulado de 0,5-5 g
+        - Células principales y nidos aislados de células oxífilas
+        - Atipia endocrina
+    - Carcinoma
+        - Nódulo circunscrito, no siempre encapsulado ⇒ Masa infiltrante
+        - Varios gramos 4-10 g
+        - Coloración **blanco-**grisácea
+        - Criterios de malignidad ⇒ Infiltración y-o metástasis
+- Páncreas endocrino
+    - {{3138044740364354::2}}% neoplasias pancreáticas
+    - Adultos
+    - Únicas o múltiples, Benignos o malignos
+    - Cordones, nidos, trabéculas : Células aisladas en un tejido muy vascularizado ⇒ Técnicas IHQ
+    - Insulinoma
+        - Casi siempre benignos
+        - Nódulo encapsulado <2cm
+        - A veces múltiples
+        - Islotes gigantes con cordones de células **monomorfas**
+        - Asociado a depósitos de **amiloide** (como carcinoma medular tiroideo)
+    - Gastrinoma
+        - **>60% malignos**
+        - **Síndrome de** {{8802402008593504::**zollinger-ellison**}}{{8802402008593504:: }}
+        - Asociados a MEN1 25%
+    - Glucagonoma
+    - Somatostatinoma
+    - Pepeoma
+    - Vipoma
+- Suprarrenal
+    - Corteza
+        - Glomerular : Aldosterona
+        - Fascicular : Cortisol
+        - Reticular : Andrógenos
+        - Adenomas y carcinomas, características morfológicas similares
+        - Hiperfunción ⇒ Hiperadrenalismo
+            - Síndrome de Cushing (hipercortisolismo)
+            - Hiperaldosteronismo
+            - Síndromes adrenogenitales o virilizantes
+        - Incluidos de MEN
+            - Li-Fraumeny
+            - Complejo de Carney
+        - Adenoma corticosuprarrenal
+            - Amarillento, encapsulado de <30 g
+            - Células semejantes a las de la zona fascicular
+            - Puede haber atipia (endocrina)
+        - Carcinoma
+            - {{267049428675322::**Menos**}} **frecuente** que el carcinoma metastásico
+            - Masa pseudoencapsulada {{4515611413855394::**>200**}}**g**
+            - Amarillento con áreas de necrosis, hemorragia y quistes
+            - Frecuente **invasión** de la vena suprrarrenal, cava y linfáticos
+            - Tumores agresivos con **atipia marcada** (no atipia endocrina)
+    - Médula
+        - Neoplasia de células cromafines ⇒ {{4893990597140039::**Feocromocitomas**}}
+            - Parénquima en nidos, alvéolos, trabecular, sólido, difuso
+            - Red vascular conectiva **sustentacular** : {{15658656765448642::S100}} positiva
+            - Benigno o maligno según {{1437593902476273::**metástasis**}} : único criterio
+            - Depósitos de amiloide y melanina
+        - Neoplasia de células nerviosas ⇒ {{25365270038122745::**Neuroblastomas**}}
+- Neuroendocrinos
+    - Neuroendocrina = Cromafín (sales de cromo)
+    - **Sistema** {{1380406898764317::**APUD**}}
+    - En todas las mucosas de cualquier órgano
+        - Pulmón
+        - Tracto GI
+        - Médula suprarrenal
+        - Paraganglios
+    - Características
+        - Grupo heterogéneo de naturaleza variable : Hiperplasia (tumorlet) ⇒ Carcinomas poco diferenciados
+        - Poco frecuentes, Origen especulativo
+        - Síndromes hereditarios : MEN1, MEN2
+        - Semejanza histológica independiente de localización : Cordones, nidos, rosetas
+        - Núcleos con {{6578799527312351::**cromatina en sal y pimienta**}}{{6578799527312351:: }}
+    - Tumores neuroendocrinos de pulmón
+        - Carcinoide pulmonar
+            - NEC1
+            - Núcleos uniformes, redondos y ovales con **cromatina en sal y pimienta**
+            - > 2 mitosis / 10 CGA
+            - Ausencia de mitosis o necrosis
+        - Carcinoide atípico
+            - NEC2
+        - Carcinoma de célula grande/pequeña
+            - NEC3
+            - Efecto **Azzopardi** por aplastamiento de núcleos
+    - Digestivo
+        - El factor pronóstico más importante ⇒ {{7345774194334518::**Localización**}}
+        - Mitosis, índice de proliferación : {{35016227424233426::Ki67}}
+        - Gastrinomas + ZES : Malignos casi siempre (peor pronóstico que las formas no funcionantes)
+        - {{619347054686858::Yeyuno e íleon}} : Múltiples y suelen ser más agresivos
+        - Muy frecuentes en {{04002773712589658::apéndice y colon}} pero son casi todos {{7952949101557214::benignos}} (raro > 2cm)
+        - {{7137240259680231::Colon proximal}} : Pueden crecer mucho y metastatizar. Infrecuentes.
+    - Feocromocitoma
+    - Paraganglioma
+        - Iguales que {{31924534703678353::feocromocitoma}}
+        - 70% en {{505952554846717::cabeza y cuello}}
+        - Branquiomérico, Intravagal, Aortosimpático
+- Marcadores IHQ
+    - **Cromogranina**→Baja sensibilidad, Alta especificidad
+    - **Sinaptofisina**→Alta sensibilidad, Alta especificidad
+    - **CD56**→Alta sensibilidad, Baja especificidad
+    - Citoqueratinas 8, 18, 19
+    - Enolasa neuronal específica
+    - Anticuerpos específicos de secreción hormonal (insulina, glucagón, gastrina, serotonina, somatostatina)
+- MEN
+    - Características
+        - Enfermedades hereditarias con lesiones proliferativas en órganos endocrinos (hiperplasias, adenomas, cáncer)
+        - Pacientes **jóvenes**
+        - Múltiples órganos ⇒ **Sincrónicos o metacrónicos**
+        - Multifocales
+        - Etapa asintomática
+        - Más agresivos y recurrentes
+    - MEN1
+        - Autosómica dominante
+        - 2 de 3 afectaciones : **Paratiroides, Páncreas, Prolactina** (3 P)
+            - Hiperplasia o adenoma paratiroideo
+            - Síndrome de Zollinger-Ellison, Insulinoma, Glucagonoma, Vipoma
+            - Prolactinoma
+        - Otras : Lesiones corticales adrenales, Cutáneas (lipoma, melanoma), Tumores neuroendocrinos bronquiales y tímicos, Tumores SNC (ependimoma), Partes blandas (leiomioma esofágico, angiomiolipoma)
+    - MEN2
+        - Autosómica dominante
+        - **Carcinoma medular de tiroides**
+        - Men2a↔CMT, feocromoticoma, hiperplasia de paratiroides
+        - Men 2b↔CMT, hábito marfanoide, neuromas

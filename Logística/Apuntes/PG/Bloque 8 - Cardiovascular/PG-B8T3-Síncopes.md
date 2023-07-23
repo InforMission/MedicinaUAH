@@ -1,0 +1,69 @@
+- DEFINICIÓN: Pérdida completa y **transitoria** de la conciencia con relajación muscular completa y posterior **recuperación completa**
+- MECANISMO: Se produce por una reducción abrupta del flujo de sangre al cerebro
+- Etiología
+    - **Neuromediados**: Alteraciones abruptas del tono vascular y cardiaco. Se trata del tipo de síncope que comúnmente llamamos “lipotimia” y técnicamente “sincope vasovagal”. Este tipo de síncope se produce por un reflejo vagal que provoca vasodilatación abrupta o/y bradicardia extrema.
+    - **Cardiacos**: Pueden estar causados por arritmias (fibrilación ventricular) o por obstrucciones mecánicas (mixomas, embolo gigante)
+    - **Cerebrovasculares**: los sincopes cerebrovasculares ocurren fundamentalmente por **embolias cerebrales**
+- Epidemiología
+    - La incidencia anual de sincopes es de 7,2 episodios por mil personas/año
+    - Los síncopes representan entre el 1-2% de las urgencias. Es decir, se trata de una urgencia muy común
+    - La mortalidad por sincopes en los habitantes de Framingham es del 1,31 al año (pero no los neuromediados)
+    - **Neuromediados** (reacciones vagales): 43% (los más frecuentes en la gente joven)
+    - **Idiopáticos** 36%
+    - Causa cardiaca 9,5% , Causa neurológica 9% al año ⇒ Muy graves
+    - En jóvenes, son más frecuentes los síncopes {{9665859161786279::**neuromediados**}}. En ancianos, lo son los síncopes {{9665859161786279::**ortostáticos**}} y por {{9665859161786279::**fármacos**}} (no se consideran sincopes malignos)
+- Distinción entre síncopes y otros cuadros neurológicos
+    - Síncope
+        - NO movimientos anormales previos, relajación de esfínteres o mordedura de lengua
+        - Pérdida de la conciencia
+        - Sudor, confusión...pero el paciente se orienta y habla
+        - Recuperación rápida y completa
+        - No hay daño neurológico posterior
+    - Convulsión epiléptica
+        - Movimientos anormales, relajación de esfínteres y mordedura de lengua
+        - Ausencia de déficit neurológicos posteriores ni alteraciones previas de la conciencia
+        - Estado confusional o postcrítico posterior
+    - Problemas cerebrovasculares (ictus)
+        - Recuperación lenta y muchas veces incompleta
+        - Déficit neurológico focal
+        - Estado confusional o postcrítico posterior
+- Diferencia entre síncope neuromediado y cardiogénico→El cardiogénico no tiene pródromo
+- Síncope neuromediado
+    - Síncope vasovagal
+        - Puede ser postural (estar mucho tiempo de pie con calor) o causado por visión de sangre, dolor, miedo, emociones...
+        - Estímulo vagal abrupto que provoca vasodilatación, bradicardia o ambas ⇒ Síncopes vasodepresores, cardioinhibidores o mixtos
+        - Son sincopes **benignos** en los que existen un **estado previo** (malestar, sudoración, visión en cañón de escopeta, tripa revuelta...) que permite al paciente protegerse ante la inminente caída ⇒ **recuperación lenta**
+        - Características
+            - Sensación previa de mareo y malestar
+            - Frialdad, palidez y malestar posterior
+            - Ambiente propicio: calor, bipedestación prolongada, ambiente cerrado
+            - Paciente predispuesto: episodios previos similares, falta de descanso o alimento, enfermedad
+            - Situaciones desencadenantes típicas: visión de sangre, miedo, dolor, angustia
+    - Síncope situacional
+        - estímulo brusco del vago desencadenado por tos, estornudos, postmiccional, estimulo gastrointestinal (defecación, dolor visceral, tragar saliva), post ejercicio, postprandial, al soplar (se hace una maniobra de Valsalva, se comprimen las cavas y el corazón no se llena, lo que hace que baje la tensión)... También son síncopes benignos. Por la anamnesis podemos detectar este tipo de síncopes
+    - Síncope por enfermedad del seno carotídeo
+    - Estos tres tipos de síncopes neuromediados tienen en común unos receptores que informan de manera inadecuada a los vasos y al corazón, generando bradicardia o vasodilatación abrupta. Se trata de sincopes que tienen un pródromos y reconocibles en la anamnesis
+- Síncope ortostático
+    - Etiología
+        - Disautonomía primaria: Dentro de las disautonomías primarias podemos hablar de disautonomía pura, atrofia multisistémica, enfermedad de Parkinson con disautonomía y demencia por cuerpos de Lewy. Las disautonomías primarias son enfermedades propias del sistema autónomo que se diagnostican fundamentalmente debido a sincopes ortostáticos. El tratamiento es mediante la hidratación con suero hidrosalino
+        - Disautonomía secundaria: Diabetes, amiloidosis, uremia, lesión de médula espinal
+        - Inducida por fármacos: alcohol, vasodilatadores, diuréticos, antidepresivos...
+        - Deplección de volumen: hemorragias, diarrea, vómitos... Una hemorragia digestiva exanguinante con 5g de Hb puede manifestarse con una pérdida de conocimiento
+    - Diagnóstico
+        - Anamnesis
+        - Exploración : Medición de la tensión arterial en supino y tras sedestación-bipedestación (mantenida al menos 3 minutos)
+        - Caída de TAS mayor de 20mmHg ó de 15 mmHg en la diastólica.
+        - Aumento de la frecuencia cardiaca en más de 20 lpm
+        - Reproducción de los síntomas.
+- Síncope cardiogénico
+    - Los síncopes cardiogénicos ocurren por falta de flujo porque el corazón no bombea suficiente sangre. Se trata de síncopes **malignos** que pueden ocasionar la muerte del paciente. Se detectan perfectamente mediante la anamnesis. Una alteración cardiaca no provoca mareos, sino que cuando no llega suficiente riego al corazón, directamente nos desmallamos
+    - Características
+        - Inicio brusco y fin brusco sin molestias previas: el paciente no recuerda siquiera haberse caído, sino que lo primero que nos cuenta es que se ha encontrado directamente caído en el suelo. Se trata de sincopes en los que no hay un estado previo (No hay pródromos)
+        - Contusiones frecuentes: no tiene tiempo de tomar posturas de defensa. Por ejemplo, pacientes que llegan al hospital con golpes en la nariz (no les ha dado tiempo a protegerse antes de caerse). Sin embargo, las fracturas de Colles (fractura distal del radio) son típicas de sincopes vasovagales u ortostáticos, en los que el paciente si ha tenido un estado previo al sincope y le ha dado tiempo a poner las manos antes de caerse (por eso aparece la fractura).
+        - Ausencia de movimientos anormales, de mordedura de lengua y relajación de esfínteres
+        - En ocasiones, clínica asociada de angina o palpitaciones, y relación con el esfuerzo
+    - Etiología
+        - Arritmias
+        - Enfermedades estructurales ⇒ Por obstrucción al flujo o incremento de presión intracavitaria
+        - Cardíacas: **Enfermedad valvular** (por ejemplo la estenosis aórtica), IAM, isquemia miocárdica, **miocardiopatía hipertrófica**, masas cardíacas, enfermedad pericárdica/taponamiento, anomalías congénitas de arterias coronarias, disfunción de válvulas protésicas
+        - Otras: Tromboembolismo pulmonar, síndrome aórtico agudo, hipertensión pulmonar

@@ -1,0 +1,141 @@
+- Fisiología
+    - Volemia y Osmolalidad
+        - **Volemia** ⇒ Volumen del compartimento extracelular (plasma e intersticio)
+        - **Osmolalidad** o presión osmótica ⇒ Presión que ejercen las moléculas o sustancias osmótica activas al desplazar agua a favor de gradiente a través de una membrana semipermeable.
+            - $Osmolalidad = 2[Na+] + \frac {Glucosa}{18} + \frac {BUN}{2,8} = 285 \pm 5 $
+            - La presión osmótica depende principalmente de la concentración de Na+ en el espacio extracelular (**natremia**)
+        - El volumen {{9591212140835146::**extracelular**}} está determinado por la {{5043818603614361::**cantidad absoluta de Na+**}}{{5043818603614361:: }}
+        - El volumen {{7892563315437977::**intracelular**}} está determinado por la {{36195256380643626::**osmolalidad**}}
+        - La {{49470297442426947::**natremia**}}{{49470297442426947:: (osmolalidad)}} se regula con el agua y se mide con una analítica de sangre
+        - La {{8279975187321289::**volemia**}} se regula con el sodio y se mide con el estado hemodinámico
+        - **Volumen circulante efectivo** ⇒ Volumen que perfunde los tejidos
+    - Regulación de la osmolalidad plasmática
+        - La regulación de la osmolalidad plasmática depende del {{33730727769819113::**balance hídrico**}}{{33730727769819113:: }}
+        - **Balance hídrico** : Compensación entre el aporte mínimo (Ingesta, Endógena) y las pérdidas "obligadas" de agua (Orina, Heces, Pulmones, Piel), aproximadamente **1600** ml/día
+        - La ingesta y excreción de agua depende de la {{7106158308110848::**ADH**}}{{7106158308110848:: y de la }}{{7106158308110848::**sed**}}{{7106158308110848:: }}
+            - Hiperosmolalidad→↑ Sed y secreción de ADH
+            - ↓ Volumen circulante efectivo→↑ Sed y secreción de ADH ⇒ **Hiponatremia**
+            - Hipoosmolalidad→↓ Sed y secreción de ADH
+    - Regulación del volumen extracelular
+        - La regulación de la volemia depende del {{5950701905022224::**balance de sodio**}}{{5950701905022224:: }}
+        - El balance de sodio depende del filtrado glomerular y de la **reabsorción tubular renal** (SN simpático y del {{46707580562312767::**Sistema renina-angiotensina-aldosterona**}})
+        - La reabsorción tubular de sodio depende del {{8333285206375638::**volumen circulante efectivo**}}
+- Hipovolemia
+    - Etiología
+        - **Disminución de la cantidad de Na+**
+        - Pérdidas renales
+            - Aguda ⇒ Necrosis tubular aguda, Insuficiencia renal aguda postrenal
+            - Crónica ⇒ Nefropatía o tubulopatía "pierde-sal", Insuficiencia renal crónica avanzada
+            - Insuficiencia suprarrenal, Diuréticos, Diuresis osmótica
+        - Pérdidas extrarrenales
+            - Diarreas, Vómitos, Drenajes
+            - Sudación, Quemaduras
+            - "Secuestro" (pancreatitis, peritonitis aguda)
+        - Las 2 situaciones en las que se pierde agua hipotónica son {{4314653799356778::la diuresis osmótica y el sudor}} ⇒ Hipovolemia hiperosmótica
+    - Fisiopatología
+        - Disminución del volumen **intersticial** ⇒ Pérdida de la turgencia tisular
+        - Disminución del volumen **circulante efectivo** ⇒ Activación de SN simpático y SRAA ⇒ Taquicardia, Vasoconstricción, ↑ Reabsorción de Na+
+    - Semiología
+        - Hipovolemia (↓ volumen circulante efectivo)
+            - **Hipotensión ortostática** ⇒ Disminución de más de 20 mmHg de presión arterial al pasar de decúbito a bipedestación
+            - Sed, Astenia
+            - Taquicardia, Disminución de la presión venosa central, Shock
+        - Disminución del volumen intersticial
+            - **Signo del pliegue**
+            - Sequedad de piel y mucosas
+    - Analítica
+        - La pérdida de volumen extracelualr se puede evaluar en función de la **repercusión renal** ⇒ ↑ urea y creatinina plasmática
+        - Hemoconcentración (↓ porción plasmática de la sangre)
+        - Natriuria <10 mEq/L→Pérdidas extrarrenales
+        - Natriuria **> 10-20mEq/L**→**Pérdidas renales**
+        - Natriuria >10-20 mEq/L con Cloruria <10 mEq/L ⇒ Alcalosis metabólica
+    - Hipovolemia **hiper**osmótica↕
+        - Sudación intensa, diuréticos osmóticos
+    - Hipovolemia **hipo**osmótica↕
+        - Diarreas muy intensas : Pérdida de Na+ con activación de la ADH
+        - Hiponatremia por activación de la ADH y retención de agua
+    - Hipovolemia **normo**osmótica↕
+        - Diarreas o vómitos de intensidad leve/moderada : Pérdidas de Na+ sin activación de ADH
+- Hipervolemia
+    - Etiología
+        - Aumento del volumen circulante efectivo con **fracaso de respuesta natriurética**
+            - Yatrogenia : Introducción de suero salino en exceso
+            - Disminución del filtrado glomerular
+        - **Disminución del volumen circulante efectivo** y desequilibrio de la difusión transcapilar (causa más importante)
+            - Insuficiencia cardíaca congestiva (↑presión hidrostática)
+            - Cirrosis hepática (↓ albúmina)
+            - Síndrome nefrótico (↓albúmina)
+    - Semiología
+        - Edema generalizado, localizado en las zonas del cuerpo en declive
+    - Hipervolemia hipoosmótica
+        - Insuficiencia cardiaca ⇒ ↓ **volumen circulante efectivo ⇒** ADH ⇒ Retención de agua ⇒ **Hipoosmolalidad**
+- Pseudohiponatremia
+    - Etiología
+        - Reducción del contenido acuoso del plasma : Hiperlipidemia, Hiperproteinemia
+        - Aumento en el plasma de solutos diferentes al Na+ : Glucosa, Manitol
+    - Hiponatremia normoosmótica↔Pseudohiponatremia por reducción del contenido acuoso del plasma
+    - Hiponatremia hiperosmótica↔Pseudohiponatremia por hiperglucemia o manitol
+- Hiponatremia
+    - Definición : Natremia < {{9013108492229231::135}} mEq/L
+    - Etiología
+        - Aumento de la cantidad de agua
+        - **Incapacidad** del riñón para **diluir** la orina : ↓ FG, ↓ Reabsorción tubular, ↑ ADH
+    - Fisiopatología
+        - ↓ Osmolalidad plasmática ⇒ Incremento de volumen celular
+        - Tumefacción cerebral ⇒ Disfunción cerebral difusa
+    - Semiología
+        - Na < 125 mEq/L↔Anorexia, Náuseas, Malestar general
+        - Na < 120 mEq/L↔Cefalea, Disminución de la conciencia
+        - Na < 115 mEq/L↔Coma
+    - Hiponatremia hipovolémica
+        - Etiología
+            - ↓ volumen circulante efectivo (diarreas), Respuesta a ↓ volumen circulante efectivo : ↓ FG, **↑ ADH**
+            - Administración de tiazidas
+        - Diagnóstico
+            - Hiponatremia
+            - Hipovolemia : **Hipotensión ortostática**
+        - Tratamiento
+            - Suero isotónico ⇒ Restablecimiento del volumen
+            - No se debe restringir el agua
+            - Retirar diuréticos
+    - Hiponatremia euvolémica
+        - Etiología
+            - **SIADH** (hiponatremias muy severas)
+            - **Hipotiroidismo**, Insuficiencia suprarrenal (↓ glucocorticoides)
+        - Diagnóstico
+            - Hiponatremia
+            - Ausencia de hipotensión ortostática y edema
+        - Tratamiento
+            - Restricción de agua
+    - Hiponatremia hipervolémica
+        - Etiología
+            - ↓ volumen circulante efectivo : Insuficiencia cardíaca, Síndrome nefrótico, Cirrosis hepática
+            - ↓ intensa del filtrado glomerular : Insuficiencia renal avanzada
+        - Diagnóstico
+            - Hiponatremia
+            - Edema
+        - Tratamiento
+            - Diuréticos
+            - Restricción de sal y agua
+- Hipernatremia
+    - Definición : Natremia {{4662232804841029::> 145}} mEq/L
+    - Etiología
+        - Pérdida de agua exclusiva→Diabetes insípida, convección/evaporación (fiebre)
+        - Pérdida de agua mayor que Na+→Sudación copiosa, Diuresis osmótica
+        - Balance positivo de sodio→Muy raro : **Hiperaldosteronismo primario**, suero salino hipertónico
+    - Fisiopatología
+        - ↑ osmolaridad plasmática ⇒ ↓ volumen intracelular
+        - ↓ volumen cerebral ⇒ Disfunción cerebral difusa
+    - Semiología
+        - A partir de {{39943547124388745::**160**}} mEq/L
+        - Sed
+        - Disfunción cerebral difusa ⇒ Irritabilidad, Debilidad muscular, Deterioro de conciencia, convulsiones, coma profundo
+    - Hipernatremia con volumen extracelular **disminuido**
+        - Balance negativo de agua respecto al Na+
+        - Diuresis osmótica, Sudación excesiva
+    - Hipernatremia con volumen extracelular **normal**
+        - Pérdida **exclusiva** de agua
+        - Diabetes insípida
+    - Hipernatremia con volumen extracelular **aumentado**
+        - Balance positivo de Na+
+        - Infusión de suero salino hipertínico, Hiperaldosteronismo primario

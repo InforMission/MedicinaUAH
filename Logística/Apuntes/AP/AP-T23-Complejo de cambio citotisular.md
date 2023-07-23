@@ -1,0 +1,54 @@
+- Las células tienden a mantener un equilibrio estable
+- Conservan su entorno y su medio intracleular dentro de unos límites estrechos (homeostasis)
+- Tienen capacidad de adaptación (hipertrofia, hiperplasia, atrofia)
+- Cambio no neoplásico
+    - Hipertrofia
+    - Hiperplasia
+    - Atrofia
+    - Metaplasia, Displasia ⇒ Siempre patológicas
+- Displasia
+    - Proliferación celular desordenada (pre-neoplásica) : Límite impreciso con neoplasia
+    - **Aplicable preferentemente a** {{48208363638229224::**epitelios**}} : Pérdida de uniformidad celular y de su orientación arquitectural
+    - {{9061632268531712::**Membrana basal** }}**siempre íntegra ⇒** No hay invasión (si sobrepasa la membrana se convierte en {{9226861144051843::neoplasia}})
+    - Según grado de anarquía ⇒ Desorden arquitectural, pleomorfismo celular : Gradación ⇒ Alto o bajo grado
+    - La displasia no necesariamente progresa hacia el cáncer (pero progresa con más frecuencia)
+- Neoplasia
+    - **Definición de neoplasia**→**Crecimiento anormal** del tejido cuyo crecimiento **excede y no está coordinado** con el del tejido normal y que **persiste** (es **autónomo**) de la misma forma aunque cese el estímulo que lo desencadenó, como resultado de alteraciones genéticas hereditarias que se transmiten a la progenie de células tumorales.
+    - Crecimiento **independiente** de los mecanismos de regulación del crecimiento celular. Pierde el control
+    - La neoplasia depende de{{2825782938678807:: los recursos energéticos del tejido sano ⇒ Parásito}}
+    - Neoplasia←Crecimiento nuevo y autónomo
+    - Tumor←Hinchazón
+    - Neoformación←Nueva estructura en general : Neoplasias, hamartomas, malformaciones
+    - Benignas
+    - Malignas
+    - Comparación malignas-benignas
+        - Diferenciación y atipia celular
+            - {{946272920254384::Diferenciación anómala }}⇒ Atipia ⇒ {{7250728138699414::Pleomorfismo}}
+            - {{009671637282647305::Desdiferenciación}} ⇒ Aumento de actividad proliferativa ⇒ {{6950424209399089::Mitosis}}
+            - Tumores benignos : {{7447320062048739::Bien diferenciados }}(siempre)
+            - Tumores malignos : Bien-Moderadamente-Mal-**Anaplásicos**
+        - Velocidad de crecimiento
+            - Benignas **lentas**, Malignas **rápidas**
+            - Velocidad {{6722332098404511::inversamente}} proporcional al grado de {{9106910972252051::diferenciación}}
+            - Velocidad {{15954296624848552::directamente}} proporcional al grado de {{4109323966078906::anaplasia}}
+            - El crecimiento del componente parenquimatoso se debe acompañar armónicamente del {{6113987430107859::crecimiento de los tejidos de sostén (VEGF por células neoplásicas)}}
+            - {{24310175317735316::Gran crecimiento}} + {{24310175317735316::Escasa vascularización}} = {{24379243000749162::Necrosis}}
+        - Infiltración local
+            - Las neoplasias benignas no tienen capacidad de infiltrar ⇒ Crecimiento **lento** **expansivo** bien **delimitado** (puede tener cápsula) que comprime sin infiltrar
+            - **Las displasias no invaden** ⇒ Las neoplasias pueden invadir si son {{10934283317701388::malignas}} (adquieren una mutación genética)
+            - El diagnóstico de infiltración debe ser {{37196893428919475::**microscópico**}}
+            - Capacidad de infiltrar estructuras vasculares ⇒ Diseminación hematolinfática
+            - Infiltración local y metástasis son signos de malignidad ⇒ Pelota vs Cangrejo
+        - Extensión a distancia
+            - Solo dan metástasis los{{3610027129390465:: tumores malignos}}
+            - Implante secundario separado de la masa neoplásica primaria. Puede ser el debut de una neoplasia
+            - La capacidad de dar metástasis es variable y suele ser **pr** **porcional** al grado de **anaplasia** y **tamaño tumoral**.
+            - Empeora mucho el pronóstico
+            - **Cavidades corporales** ⇒ La infiltración local determina la llegada de la neoplasia a una cavidad corporal (peritoneal, pleural)
+            - **Vía linfática** ⇒ Las células son arrastradas a los ganglios linfáticos a través de los linfáticos **aferentes**. Se afectan en un principio ganglios loco-regionales.
+            - **Vía hematógena** ⇒ Capilares y vénulas - Sistema venoso - Sistema arterial - Pulmones/Hígado
+            - Órganos muy vascularizados que son destino raro de metástasis→Bazo, Riñones, Tiroides, Músculos
+    - Estadificación de las neoplasias
+        - T : Tamaño tumoral (1-4)
+        - N : Existencia de ganglios locales metastatizados (N0, N1, Nx)
+        - M : Metástasis a distancia (M0, M1, M2, Mx)

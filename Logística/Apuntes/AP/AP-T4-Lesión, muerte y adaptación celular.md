@@ -1,0 +1,111 @@
+- Lesión celular ⇒ Lesión irreversible ⇒ Necrosis o cambio neoplásico ⇒ Inflamación ⇒ Reparación
+- Si se elimina el estrés las células podrán volver a su estadío inicial
+
+- Hipertrofia↔Aumento del tamaño de las células y de su actividad funcional
+    - Respuesta a un aumento de trabajo.
+    - Mayor producción de proteínas
+    - ![[Pasted image 20230619213728.png]]
+- Hiperplasia↔Aumento en el número de células
+    - Sólo ocurre cuando {{033885546830591196::el tejido contiene células con capacidad de división}}
+    - Tipos: fisiológica y patológica
+    - ![[Pasted image 20230619213735.png]]
+- Atrofia↔Reducción del tamaño y actividad metabólica de las células
+    - Disminución de la síntesis de proteínas y un aumento de su degradación
+    - ![[Pasted image 20230619213742.png]]
+- Metaplasia↔Cambio en el fenotipo de las células
+    - Propensión a la transformación maligna
+    - ![[Pasted image 20230619213750.png]]
+
+- Acúmulo de lípidos
+    - Triglicéridos : Esteatosis
+        - Localización ⇒ Hígado, corazón, riñón
+        - Etiología ⇒ Tóxico, Nutricional, Diabetes, Obesidad, Anoxia
+        - Suele ser reversible
+        - ![[Pasted image 20230619213800.png]]
+    - Colesterol
+        - Arterioesclerosis
+            - ![[Pasted image 20230619213809.png]]
+        - Xantomas, Colesterolosis
+            - ![[Pasted image 20230619213817.png]]
+    - Lípidos complejos : Dislipoidosis
+        - Enfermedad de Tay Sachs
+            - Déficits de hexosaminidasa ⇒ Incapacidad de metabolizar gangliósido GM1, que se acumula en el SNC y causa retraso mental y ceguera
+            - ![[Pasted image 20230619213824.png]]
+        - Enfermedad de Nieman Pick
+            - Déficits de esfingomielinasa ⇒ Acúmulos de esfingomielina en el SN que causan daño neuronal.
+            - ![[Pasted image 20230619213833.png]]
+        - Enfermedad de Gaucher
+            - Déficits de glucocerebroxidasa ⇒ Acúmulo de glucocerebrósidos en células del sistema fagocítico mononuclear
+            - ![[Pasted image 20230619213841.png]]
+- Acúmulo de proteínas
+    - Agregados eosinófilos en citoplasma
+    - Patogenia
+        - Proteinuria por exceso
+        - Secreción anormal de proteínas en RE (mieloma)
+        - Defecto en transporte intracelular y plegamiento (déficit de alfa-1-antitripsina, amiloidosis)
+        - Alteraciones de proteínas del citoesqueleto (hialinosis alcohólica, placas de Alzheimer)
+        - Mucopolisacaridosis
+- Mucopolisacaridosis
+    - Degradación defectuosa de los mucopolisacáridos por un déficit enzimático ⇒ Acumulación en los tejidos
+    - Síndrome de Hurler/Hunter : Déficit de **alfa iduronidasa**, acúmulos de heparano y dermatano
+        - Síndromes de **Hurler** (mucopolisacaridosis **tipo I**)
+            - Opacificación corneal
+            - Depósito en vasos coronarios y válvulas cardíacas de curso muy grave
+        - Síndromes de **Hunter** (mucopolisacaridosis **tipo II**)
+            - Sin opacificación corneal, curso más leve
+- Acúmulo de glúcidos
+    - Anomalías del metabolismo de la glucosa o del glucógeno
+    - Diabetes Mellitus
+    - Glucogenosis
+        - Enfermedad de von Gierke
+            - Déficit de glucosa 6 fosfatasa ⇒ Depósitos de glucógeno en hepatocitos
+        - Enfermedad de McArdle
+            - Déficit fosforilasa muscular ⇒ Acúmulo de glucógeno en músculo esquelético
+        - Enfermedad de Pompe
+            - Déficits de maltasa ácida lisosómica ⇒ Depósitos de glucógeno generalizados, especialmente en músculo cardiaco
+- Acúmulo de pigmentos
+    - Exógenos
+        - Neumoconiosis
+        - Tatuajes
+        - Metales (plata, plomo)
+    - Endógenos
+        - Lipídicos
+            - Lipofucsina
+                - Pigmento de lípidos y fosfolípidos unidos a proteína
+                - Señal de daño por radicales libres ⇒ Células que están sufriendo cambios regresivos (pigmento de desgaste) ⇒ **Atrofia parda**
+                - ![[Pasted image 20230619213849.png]]
+        - Melánicos
+            - Fisiológica
+                - Excesiva exposición solar, Cloasma gravídico, Efélides o pecas
+            - Patológica
+                - Defecto
+                    - Albinismo (déficit de tiroxinasa), Vitíligo
+                - Exceso
+                    - Síndrome de Addison
+                    - Síndrome de Peutz-Jehgers
+                    - Síndrome de Albrigh
+                    - Acantosis nigricans
+        - Hemáticos
+            - Hemosiderosis
+                - Localizada
+                    - Congesión, Hemorragia
+                - Generalizada
+                    - Hemocromatosis
+                    - Trastornos de su utilización
+                    - Aumento de su destrucción
+                    - Transfusiones de sangre repetidas
+                - ![[Pasted image 20230619213857.png]]
+- Calcificación patológica
+    - Calcificación distrófica ⇒ Calcio sérico normal
+        - Favorece la alcalosis local
+        - Tejidos necróticos
+        - Tejidos desvitalizados
+        - Algunos tumores
+    - Calcificación metastásica ⇒ Hipercalcemia
+        - Generalizada (pulmón, riñón, estomago, intestinos)
+        - Patogenia
+            - Hiperparatiroidismo
+            - Aumento patológico de Vitamina D
+            - Insuficiencia renal
+    - ![[Pasted image 20230619213904.png]]
+    - Color azulado, Tinción con Von Kossa (iones de plata del nitrato de plata que sustituyen a los iones de calcio del carbonato y fosfato)

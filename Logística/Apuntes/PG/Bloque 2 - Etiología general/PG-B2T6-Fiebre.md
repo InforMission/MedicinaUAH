@@ -1,0 +1,35 @@
+- **Fiebre** ⇒ Elevación de la temperatura corporal por encima de los límites circadianos normales, y siempre como consecuencia de un cambio **reversible** a nivel del centro termorregulador
+- La **fiebre** comienza a partir de 38º. Por debajo de 38° se considera febrícula, y por encima de 41,5° se denomina hiperpirexia
+
+![[Pasted image 20230618160237.png]]
+- La prostaglandina E2 es la que se encarga de estimular el funcionamiento del centro termorregulador
+- Efectos positivos de la fiebre
+    - Signo (se puede medir con el termómetro) y síntoma (la persona puede notarse fiebre/febril/escalofríos) positivo que indica enfermedad y que, por tanto, facilita el tratamiento
+    - Provocación de la fiebre para “tratar” algunas enfermedades
+    - Aumento del poder fagocitario y bactericida de los neutrófilos y los efectos citotóxicos de los linfocitos.
+- Efectos negativos de la fiebre
+    - Aumento del consumo de O2
+    - Aumento del catabolismo muscular
+    - Disminución de agudeza mental. Por ejemplo, síndrome confusional en ancianos o delirio orgánico
+    - Efectos en los niños. Por ejemplo, las convulsiones febriles de la infancia
+    - Efectos en la embarazada
+- Manifestaciones que acompañan a la fiebre
+    - Escalofríos
+        - Suelen orientar hacia patologías infecciosas
+        - Dentro de las patologías infecciosas, las que presentan más comúnmente escalofríos son las infecciones bacterianas.
+    - Mialgias y artralgias
+    - Cefalea
+    - **Aumento** de la frecuencia cardíaca y respiratoria
+    - Anorexia
+    - Somnolencia
+- Tipos de fiebre
+     ![[Pasted image 20230618160345.png]]
+    - **Continua** ← Oscilaciones de temperatura muy pequeñas ( < 1°). Se decía que esta fiebre era típica de la {{fiebre tifoidea o fiebre entérica}}
+    - **Remitente** ← Continua, pero con oscilaciones de más de un 1°
+    - Héctica o en agujas: Intervalos de temperatura muy grandes. Se asocia a {{procesos supurativos}}.
+    - **Intermitente** ← Periodos con fiebre y otros sin fiebre: fiebre terciana (dos días sí y un día no), fiebre cuartana (dos días sí, dos días no). Esto es frecuente en los casos de {{paludismo, dengue, leptospirosis, rickettsias, borrelias...}}
+    - **Recurrente** ← Fiebre que dura una serie de días, va seguida de un período afebril y vuelve a aparecer una nueva fiebre que vuelve a durar varios días. Es el caso del {{1332086984019758::dengue}}
+    - **Ondulante**←Los períodos de fiebre sufren oscilaciones lentas. Es el caso de la fiebre de malta (_Brucella_)
+- Finalización de la fiebre
+    - Finalización por crisis: la fiebre termina bruscamente. Esto ocurre cuando es una infección tratada con antipiréticos.
+    - Finalización por lisis: la fiebre termina lentamente. Esto ocurre, por ejemplo, en la fiebre tifoidea no tratada.

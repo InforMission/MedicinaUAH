@@ -1,0 +1,91 @@
+- Lesiones no neoplásicas
+    - Ganglio linfático
+        - Diagnostico diferencial entre patología neoplásica o no neoplásica
+        - Fundamental AP en general y AP hematolinfoide en particular
+        - Neoplásica : primaria vs metastásica
+        - No neoplásica : específica vs inespecífica
+            - Específica
+            - AP : lesión reconocible (HE, HQ, otros)
+            - Serología, Clínica, Epidemiología
+        - Específica : Granuloma
+        - Inespecífica : Hiperplasia folicular ⇒ aumento del seno, Hiperplasia paracortical
+        - La histología convencional casi siempre se queda corta en el diagnóstico de entidades hematológicas-linfoides ⇒ IHQ
+    - Bazo
+        - Congestión esplénica : Pulpa roja expandida ⇒ Esplenomegalia
+        - Infarto esplénico
+        - Granuloma necrotizante
+        - Granuloma sarcoideo
+        - Enfermedades por depósitos : **Gaucher**
+    - Timo
+        - Tiene componente epitelial y linfoide
+        - Quistes tímicos ⇒ Componente {{47799237463723454::epitelial}}
+    - Médula ósea
+- Neoplasias
+    - Predominantemente en ganglio linfático y médula ósea
+    - Clasificación
+        - Neoplasias linfoides
+            - Precursores linfoides
+            - Células B maduras
+            - Células T maduas
+            - Linfoma de Hodgkin (linfoma {{13630339443308181::B}})
+        - Neoplasias mieloides
+            - MC
+            - LMA
+            - SMD
+            - SMPc
+            - MFP
+        - Histiocitosis
+    - Neoplasias linfoides
+        - Las de un niño son más {{30432196847573745::genéticas}} porque no han tenido tanta exposición a patógenos
+        - Distribución
+            - **Linfoma**→Expresión localizada en un ganglio o cualquier localización anatómica
+            - **Leucemia**→Aquella que aparece tanto en médula ósea como en sangre periférica
+            - Indolente o Agresiva
+            - **Las formas** {{25204913563751297::**agresivas**}} **son potencialmente curables**
+            - Quimioterapia convencional, biológica, transplante de médula ósea
+        - Anatomía patológica
+            - Localización anatómica: ganglio linfático, MO, cualquier localización anatómica
+            - Ganglio linfático: Arquitectura{{8962170935299785:: borrada o distorsionada.}}
+            - MO: patrones y distribución, coexistencia otra localización
+            - Elementos neoplásicos
+                - Células B o T inmaduras
+                - Linfoma de Hodgkin
+                - Linfomas no Hodgkin
+                - Células B : Células grandes (VEB,Kaposi, Mediastínico)vs células pequeñas vs plasmáticas
+                - Células T : Anaplásicos vs no anaplásicos
+            - Muy importante la IHQ
+            - PCR : IGH vs TCR
+                - Mucha variabilidad en las pares de bases que conforman las regiones variables
+                - **Si solo hay un clon en PCR de una célula B o T es un signo claro de linfoma**
+    - Neoplasias mieloides
+        - Clínica
+            - **Citopenias**
+            - Clínica por ocupación de otros órganos : **Organomegalias**
+            - Alteraciones de la coagulación
+            - Infecciones
+        - AP
+            - Hematoxilina
+            - IHQ
+- Neoplasias mieloides
+    - PMN
+    - Atipias en elementos medulares : Megacarioblastos
+    - Ocupación de la médula : Fibrosis reticulínica
+    - Ocupación de médula ósea no neoplásica en otros órganos
+- Metástasis
+    - Carcinoma : Teñirá queratinas
+    - Células en anillo de sello→Carcinoma poco diferenciado
+- Timo
+    - 4 T→Timoma, Teratoma, Tiroides (bocio), Terrible linfoma
+    - Timomas, Carcinoma tímico, Neoplasias neuroendocrinas tímicas, Tumores de células germinales, Linfomas, Neoplasias de histiocitos y células dendríticas, Neoplasias de partes blandas
+    - Timoma
+        - Lóbulos septados por bandas fibrosas (cápsula parcial), quistes, necrosis
+        - La neoplasia siempre es {{9749784664639194::**epitelial**}}{{9749784664639194:: + células acompañantes (linfoides)}}
+        - Tipo A↔Fusocelulares/Ovales
+        - Tipo B : Epitelioides/Poligonales
+        - Timoma A↔sin células acompañantes
+        - Timoma B: con células acompañantes en cantidad variable (1, 2, 3).
+- Bazo
+    - Neoplasias esplénicas
+        - Hematolinfoides
+        - Primarias→**hemangioma cavernoso**
+        - Secundarias (metástasis)

@@ -1,0 +1,80 @@
+- Fisiología
+    - La hemostasia corrige las alteraciones de la integridad vascular, es decir, la **ruptura** (que produciría HEMORRAGIA) y la **obstrucción** (que produciría TROMBOSIS)
+    - Los 3 elementos que intervienen en la hemostasia y que están estrechamente interrelacionados son
+        - 1) Pared vascular
+        - 2) Plaquetas
+        - 3) Factores plasmáticos
+    - Fases de la hemostasia
+        - **Vasoconstricción**
+        - Formación del **trombo** plaquetario
+        - Formación de **fibrina**
+        - Destrucción de fibrina
+    - La hemostasia constituye un equilibrio dinámico muy regulado entre la fibrinoformación y la fibrinólisis. Tanto la fibrinoformación como la fibrinólisis tienen activadores e inhibidores. Las alteraciones pueden aparecer a cualquiera de estos niveles
+    - **Antifibrinolisis**→La **trombina** se activa y pasa el **fibrinógeno** a **fibrina**. La fibrina se une a las plaquetas y forma el **trombo**
+    - **Fibrinolisis**→La fibrina se disuelve gracias a la plasmina. **t-PA** es el activador tisular del **plasminógeno**, que convierte el plasminógeno en **plasmina**
+    - **Productos de degradación de la fibrina**→Dímero D (útil para valorar la actividad fibrinolítica)
+    - El {{19587422440692137::**dímero D**}} tiene un alto {{5775320157910964::**valor predictivo negativo**}} para {{6569741020558::la }}{{6569741020558::**embolia de pulmón**}}{{6569741020558::. Si está bajo no hay embolia o trombosis.}}
+- Fisiopatología
+    - Diátesis hemorrágicas
+        - Vasculopatías
+        - Trombopatías (Trombocitopenia tiene relevancia en {{04132585732832017::**<50.000 plaquetas**}}{{04132585732832017:: }}⇒ Hemorragia)
+        - Coagulopatías
+        - **Hiperfibrinolisis**
+    - **Trombosis**
+    - **CID : Coagulación intravascular diseminada (Diátesis hemorrágica + Trombosis)**
+- Hiperfibrinolisis primaria
+    - Estado fisiopatológico que favorece la aparición de fenómenos hemorrágicos por una **excesiva actividad fibrinolítica sin aumento de la coagulación**
+    - Es **muy infrecuente** salvo la iatrogenia (tratamiento de ictus isquémico)
+    - Etiología
+        - Lesiones de tejidos **ricos en t-PA**→cáncer de **páncreas**, **próstata**, **leucemias** agudas
+        - {{04422234197379371::**Cirrosis hepática**}} ⇒ Disminución del aclaramiento del **t-PA**
+        - Golpe de calor, Traumatismos
+        - Trastornos hereditarios
+        - Deficiencia de los inhibidores de la plasmina
+    - Semiología
+        - Hemorragia
+        - Disminución del **plasminógeno** y **fibrinógeno** (Si hay fibrinolisis ⇒ Se está consumiendo tanto Plasminógeno como Fibrinógeno)
+        - Aumento de PDF (=productos de degradación de la fibrina), {{18660443737225552::**escaso**}} **aumento de dímero D**
+- Coagulación intravascular diseminada
+    - Es un proceso sistémico en el que se produce una **activación de la coagulación de forma difusa y no controlada** en el interior de los pequeños vasos.
+    - Etiopatogenia
+        - Liberación de material procoagulante (**Factor tisular**)
+            - {{9811653127172615::**Síndrome de Trousseau**}}{{9811653127172615:: }}es un tipo de CID secundaria a {{4252401561191863::**cáncer de páncreas**}}{{4252401561191863:: }}
+            - **Leucemia promielocítica aguda**
+            - **Complicaciones obstétricas** ⇒ Embolismo de líquido amniótico, Feto muerto retenido, Desprendimiento precoz de placenta
+            - **Traumatismos** ⇒ Aplastamiento, traumatismo craneoencefálico
+            - Reacciones transfusionales graves
+        - Agresión al endotelio vascular (**adhesión** plaquetaria, activación de **vía intrínseca**)
+            - **Sepsis** por gramnegativos (endotoxina)
+            - Sepsis por grampositivos y otros gérmenes
+            - **Venenos** de serpientes
+            - **Fármacos** (muy raro)
+        - Circulación a través de lechos vasculares anormales (excepcional)
+            - **Hemangiomas** gigantes (**Síndrome de Kasabach-Merrit**) ⇒ CID localizada en el hemangioma
+            - **Aneurismas** aórticos
+            - Otras malformaciones vasculares
+        - Factores favorecedores
+            - Insuficiencia hepatocelular
+            - **Shock**
+    - Fisiopatología
+        - Acúmulo de los depósitos de **fibrina** en la **microcirculación**
+        - Activación de la **fibrinolisis secundaria** ⇒ Favorece la **diátesis hemorrágica** junto con el consumo de factores de la coagulación y de las plaquetas
+        - Los depósitos de fibrina producen **isquemia** en determinados órganos (trombosis) y **ANEMIA HEMOLÍTICA MICROANGIOPÁTICA**
+        - Anemia hemolítica microangiopática ⇒ Rotura de hematíes en capilares angostos
+    - Semiología
+        - **Sangrado** (>60%) en la piel (petequias y equimosis), heridas, catéteres, mucosas, territorios profundos. Se debe tanto a déficit de los factores de la coagulación como de plaquetas
+        - **Insuficiencia renal aguda** (25-40%): microtrombosis de arteriolas aferentes, hipotensión, sepsis. o Insuficiencia hepática (20%)
+        - **Insuficiencia respiratoria** (20%): hemorragia pulmonar (condensación), distrés respiratorio (aparece fundamentalmente en una situación de shock)
+        - **Shock** (15%): hemorragia, fracaso multiorgánico, sepsis
+        - **Tromboembolismo** (7%): arteriales y venosos
+        - Afectación del SNC (5%)
+    - Cuadro biológico
+        - **Trombocitopenia** < 100.000 (Si se activa la coagulación)
+        - Se activa la agregación y adhesión plaquetaria
+        - Consumo de plaquetas ⇒ **Trombocitopenia**
+        - **Anemia hemolítica** (regenerativa ⇒ no afectación MO) : **esquistocitos**
+        - **Alargamiento del TP y TTPA**
+        - Aumento del **dímero D y PDF** (degradación de la fibrina)⇒ Indican **HIPERfibrinolisis**
+        - Descenso del fibrinógeno
+        - **Déficit de factores** (uno de los que primero se consume es el {{6997503915412238::**factor V**}})
+        - Disminución de inhibidores coagulación

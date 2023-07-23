@@ -1,0 +1,152 @@
+- Patología de vías urinarias inferiores
+    - Patología vascular renal
+        - Fisiopatología
+            - Afectación vascular con compromiso del flujo sanguíneo y alteración de la función renal
+            - ↓Luz vascular y flujo sanguíneo ⇒ Isquemia y ↓TFG
+            - ↓TFG parcial y gradual ⇒ ↑SRAA, ↑Na+, **HTA**
+        - Arterias renales
+            - Estenosis
+                - Etiología : Displásica (fibroplasia/hiperplasia en jóvenes), Ateroesclerótica
+                - Localización : Zona {{**proximal**}} de la arteria
+                - Clínica→**IR isquémica** progresiva + **HTA** secundaria + **Soplo** sistólico
+                - Diagnóstico : Angio-TAC y RMN
+            - Oclusiones
+                - Etiología
+                    - **Trombosis** ⇒ Arterioesclerosis, Traumatismo, Aneurisma aórtico, Vasculitis, Displasias
+                    - **Tromboembolia** ⇒ Fibrilación auricular, Mixoma, Grasa
+                    - **Ateroembolia** ⇒ Ancianos, Qx aórtica, Cateterización, Angioplastia
+                - Clínica
+                    - Obstrucciones pequeñas ⇒ Asintomáticas
+                    - Obstrucciones grandes→**Infarto renal agudo** : Lumbalgia, Fiebre, Náuseas, Vómitos, **Hematuria**, Enzimuria, ↑Transaminasas GOT, ↑LDH
+                - Diagnóstico : Gammagrafía y Angio-TAC
+        - Microvasculatura
+            - Enfermedad ateroembólica
+                - Fisiopatología
+                    - Placas de ateroma de la Aorta ⇒ Material suelto tras manipulación/anticoagulación/espontánea
+                    - Siembra de microémbolos de colesterol que ocluyen vasos de {{150-200 micras}}
+                    - En el territorio distal a la obstrucción se observan lesiones isquémicas e inflamatorias
+                - Epidemiología ↓
+                    - Varones >70 años fumadores hipertensos
+                    - 100% presentan **fracaso renal agudo**
+                    - 64.4% eosinofilia y 57.7% lesiones cutáneas
+                - Semiología ↓
+                    - Insuficiencia renal aguda ⇒ **Oliguria** aguda o gradual
+                    - **Eosinofiluria**, Microhematuria, Cristales de colesterol, Proteinuria, Leucocituria
+                    - Cianosis en los dedos de los pies, Livedo reticularis, Afectación retiniana, Pancreatitis, ACVA
+                    - Puede haber consumo de complemento (↓C3)
+                - Diagnóstico
+                    - **Cristales de colesterol **en la biopsia renal
+                    - Émbolos de colesterol en vasos retinianos
+            - Hipertensión arterial esencial
+                - Fisiopatología
+                    - ↑Retención de Na+ y H2O
+                    - Vasoconstricción periférica
+                - Epidemiología
+                    - 30-45% de los adultos tienen HTA ⇒ 60% en >60 años
+                    - 90-95% HTA ⇒ **HTA esencial** (renales, endocrinológicas, vasculares y por fármacos)
+                    - HTA en pacientes con enfermedad renal ⇒ 80%
+                - Clínica
+                    - Cardiológica ⇒ Hipertrofia VI, ICC y cardiopatía isquémica
+                    - Cerebral ⇒  ACVA isquémico y hemorragia cerebral
+                    - Renales ⇒ Proteinuria y ERC
+            - Nefroangioesclerosis arteriolar hipertensiva
+                - Epidemiología
+                    - 2º causa de substitución de la función renal
+                    - Posible componente genético (polimorfismos de MYH9)
+                - Etiología
+                    - **Fibrosis** del parénquima renal  ⇒ Estadío final del daño de origen vascular
+                    - HTA** **{{<115}}** **mmHg ⇒ Nefroesclerosis benigna
+                    - HTA {{>130}} mmHg ⇒ Nefroesclerosis maligna
+                - Fisiopatología
+                    - Nefroesclerosis benigna ↓
+                        - Vasoconstricción de la arteriola aferente y eferente
+                        - ↓FPR y menor↓FG (por vasoconstricción eferente)
+                        - Isquemia ⇒ **↓Masa glomerular **⇒ Proteinuria
+                    - Nefroesclerosis maligna ↓
+                        - **Edema de papila** en el fondo de ojo, ↓Función renal
+                - Anatomía patológica
+                    - Nefroesclerosis benigna ↓
+                        - Predomina en **arteriolas aferentes**
+                        - **Lesiones hialinas** (PAS+ homogéneo) en la pared con depósitos IgM y C'
+                        - Engrosamiento de la íntima y lámina elástica interna
+                        - **Glomérulos reducidos** con ↑ MBG y ↑ Mesangio
+                    - Nefroesclerosis maligna ↓
+                        - **Hemorragias capilares** en la superficie del riñón con riñones de tamaño normal o disminuido
+                        - **Necrosis fibrinoide** con material eosinófilo
+                        - Glomérulo isquémico con **semilunas**
+                        - ↓Continuidad endotelial ⇒ Entrada de componentes plasmáticos en la pared vascular
+                - Clínica
+                    - Benigna ⇒ Menos lesiones vasculares, disfunción que no evoluciona a IRC terminal
+                    - Maligna ⇒ Necrosis fibrinoide arteriolar que evoluciona a insuficiencia renal
+                - Datos clínicos de sospecha
+                    - Historia familiar de HTA
+                    - Varón >55 años
+                    - Hipertrofia VI
+                    - Concomitancia de arteriopatía periférica, cardiopatía isquémica, enfermedad cerebrovascular
+                    - No diabetes mellitus, No microhematuria
+                    - Proteinuria {{<1g/24h}}
+                    - Creatinina inicial 1.3-2 mg/dL con FG de 30-59 ml/min/1,73² con progresión IR infrecuente o lenta
+                    - Dislipidemia e hiperuricemia
+                    - Riñones simétricos y ligeramente disminuidos
+            - Microangiopatía trombótica (MAT)
+                - Definición de MAT ↓
+                    - Lesión del endotelio (arteriolas o capilares) con engrosamiento parietal, **trombosis** intramural y obstrucción parcial o completa de la luz vascular.
+                - Síndrome hemolítico-urémico (SHU)
+                    - Definición de SHU↓ ↓
+                        - MAT con anemia hemolítica microangiopática (Coombs -) y trombocitopenia que afecta preferentemente a los **riñones** y se manifiesta con hematuria, oligoanuria y fracaso renal
+                    - Etiología
+                        - Idiopático
+                        - Secundario ⇒ Infecciones ({{E.Coli, Estreptococo}}), Fármacos (Ciclosporinas, ACO), Embarazo, Transplante renal, Neoplasia
+                        - Hereditario ⇒ AR, AD
+                    - Anatomía patológica ↓
+                        - **Inflamación endotelial **de la microvasculatura glomerular
+                        - Expansión **subendotelial**, desprendimiento de MBG
+                        - Microtrombos de plaquetas y fibrina ⇒ Oclusión capilar
+                        - **Característico**→** Presencia de Esquistocitos** (fragmentos eritrocitarios)
+                - Púrpura trombótica trombocitopénica (PTT)
+                    - Definición ↓
+                        - MAT con anemia hemolítica, trombocitopenia y formación de microtrombos en varios órganos pero especialmente el **SNC**
+                    - Etiología
+                        - Idiopática
+                        - LES, Esclerosis sistémica, Cáncer, Sida, Embarazo, Cocaína, Quinidina
+                        - Hereditaria
+                    - Fisiopatología↓ ↓
+                        - Mutaciones en **ADAMTS13** ⇒ Metaloproteasa plasmática implicada en la **proteólisis** del factor von Willebrand
+                        - Presencia de anticuerpos que inactivan el ADAMTS13
+                        - Persistencia de multímeros FvW ⇒ ↑Trombosis
+                - Clínica ↓
+                    - **Anemia hemolítica** progresiva: ↑Haptoglobina, ↑Reticulocitos
+                    - Leucocitosis y Trombocitopenia
+                    - ↑Creatinina, Urea, Fósforo, PDF, PAI
+                    - Puede haber consumo de complemento (C3,C4)
+                    - Proteinuria, Hematuria, Cilindruria
+            - Nefropatía por anemia de células falciformes
+        - Venas
+            - Trombosis venosa
+                - Obstrucción de la vena renal parcial, completa, uni o bilateral
+                - Etiología
+                    - **Hipercoagulabilidad** (S. Nefrótico, Deshidratación en niños pequeños, Carcinomas, ACO, Corticoides)
+                    - **Dificultad para el flujo sanguíneo renal** (Aneurisma de aorta que comprime, Adenopatías, Invasión de carcinoma, Traumatismo)
+                - Clínica ↓
+                    - **Hematuria**, Proteinuria frecuentemente **nefrótica**
+                    - **Leucocitosis**
+                    - Insuficiencia renal, **Nefromegalia**
+                    - **Lumbalgia**, Fiebre, Shock hipovolémica (rotura renal)
+                    - Complicación a tener en cuenta ⇒ Embolia pulmonar
+    - Nefrolitiasis
+        - Localización ⇒ Cáliz renal, Pelvis renal o Parénquima renal
+        - Arenilla ⇒ Cálculos muy numerosos y muy pequeños que sedimentan en la orina, con aspecto de polvo rojizo
+        - Los cálculos {{**>5**}}mm se detectan 100% en ecografía (focos hiperecogénicos con sombra acústica nítida)
+        - Etiología
+            - **Calcio** 75%
+            - Fosfato amónico magnésico (estruvita) 10-15%
+            - Urato 10%
+            - Cistina 1%
+        - Factores que determinan la litiasis
+            - ↑ Inductores de litogénesis : Ca++, Pi, Oxalato, Sodio, Urato
+            - ↓ Inhibidores de la litogénesis : Citrato, Magnesio, Osteopontina, Uromodulina
+            - pH urinario, volumen urinario
+        - Clínica
+            - Asintomática ⇒ Alteraciones en sedimento urinario
+            - Sintomática ⇒ Fase expulsiva, cólico nefrítico (en falco e irradiación a genitales), hematuria
+            - Uropatía obstructiva ⇒ IR, infecciones

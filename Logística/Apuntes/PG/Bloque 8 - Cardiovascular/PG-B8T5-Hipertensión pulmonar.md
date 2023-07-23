@@ -1,0 +1,56 @@
+- Fisiología
+    - Circulación pulmonar→**Ventrículo derecho**⇒ Arterias pulmonares (CO2) ⇒ Capilares pulmonares ⇒ Venas pulmonares (O2) ⇒ **Aurícula izquierda**
+    - Es un circuito de baja resistencia y tiene una gran capacidad de adaptación a grandes incrementos del gasto cardiaco, por lo que puede contener grandes volúmenes de sangre. Para que se incremente la **presión arterial pulmonar** como consecuencia de un incremento del volumen de sangre, tienen que ser **grandes volúmenes de sangre**
+    - La presión arterial pulmonar (**PAP**) depende de
+        - Presión de la aurícula izquierda (**PAI**) ⇒ Presión que tiene que vencer el VD
+        - Presión de la circulación pulmonar ⇒ Gasto cardiaco pulmonar (**GC**) x Resistencias vasculares pulmonares (**RVP**)
+    - El principal estímulo que incrementa las resistencias vasculares pulmonares es la {{7468328488580072::**hipoxia**}}, produciendo el **reflejo alveolocapilar** ⇒ Contracción de los capilares para redistribuir la sangre por los territorios mejor oxigenados
+    - Los valores normales son
+        - Presión arterial pulmonar sistólica: 24 mmHg
+        - Presión arterial pulmonar diastólica: 8 mmHg − Presión arterial pulmonar media: 14 mmHg
+        - Gasto cardiaco: 5 l/min
+    - Valores de HTP
+        - Presión arterial pulmonar sistólica: **> 40 mmHg**
+        - Presión arterial pulmonar media: **> 25 mmHg**
+            - Leve: 25-40 mmHg
+            - Moderada: 40-60 mmHg
+            - Grave: > 60 mmHg
+    - Ondas del pulso venoso yugular
+        - **Onda a**↔Contracción de la **aurícula derecha** al vaciarse en el VD (**presistólica**)
+        - Onda c ⇒ Cierre de la válvula tricuspídea al comenzar la sístole o a la interferencia del pulso arterial carotídeo
+        - Seno x ⇒ Relajación auricular y **colapso de la vena yugular**
+        - **Onda v**↔Contracción del **ventrículo derecho**, mientras la {{31858147468489606::válvula tricúspide}} está cerrada (**sistólica**)
+        - Valle y ⇒ Llenado pasivo rápido del ventrículo derecho (**diastólica**)
+- Etiopatogenia
+    - Hipertensión pulmonar postcapilar
+        - **Aumento de la presión de la aurícula izquierda**, que se produce por una insuficiencia cardiaca izquierda
+        - El trastorno de las cavidades **izquierdas** repercute **retrógradamente** sobre la circulación pulmonar
+        - Observamos un **aumento de la presión capilar pulmonar (PCP) > 15 mmHg**
+        - Cambios funcionales y estructurales vasculares ⇒ **↑resistencias vasculares pulmonares**
+    - Hipertensión pulmonar precapilar
+        - **No hay aumento de la presión capilar pulmonar**
+        - Debido a un **aumento del gasto cardiaco**
+            - Aumento del **volumen circulatorio pulmonar**
+            - Cardiopatías congénitas con **cortocircuito I-D** ⇒ Comunicación interventricular (CIV), Comunicación interauricular (CIA), Ductus arterioso persistente
+            - Cambios funcionales y estructurales vasculares que incrementan las resistencias vasculares pulmonares ⇒ **Hipertensión pulmonar**
+        - Debido a un **aumento de las resistencias** vasculares pulmonares (más frecuente)
+            - **Pérdida de vasos** ⇒ Disminución del 50% de la vasculatura pulmonar
+            - Destrucción del parénquima ⇒ **Enfisema** , extirpación de un pulmón
+            - **Tromboembolismo pulmonar (TEP)** ⇒ Embolia de pulmón que obstruye los vasos
+            - Hipertensión pulmonar primaria ⇒ Trastorno primario de la pared vascular
+            - **Hipoxia, hipercapnia y acidosis**↔Reflejo alveolocapilar
+            - Trastornos ventilatorios **obstructivos** (asma) y **restrictivos** (fibrosis pulmonar)
+- Semiología
+    - **Cor pulmonale**
+        - Disfunción del {{5512528348318664::**ventrículo derecho**}} por enfermedades respiratorias, asociada característicamente a la hipertensión pulmonar {{49426974774163046::**precapilar**}}
+        - Disminución del gasto cardiaco ⇒ **Disnea y síncopes**
+        - Aumento de presión venosa central (**PVC**) ⇒ Edema, ↑PVY y **IC derecha**
+        - **Latido** {{41668928391194315::**paraesternal izquierdo**}} como consecuencia del crecimiento del VD
+        - **Soplo pansistólico**↔**Insuficiencia tricuspídea funcional**
+        - **Onda V gigante**↔Al contraerse el VD, si existe una insuficiencia tricuspídea, habrá un flujo de sangre retrógrado hacia las venas yugulares
+        - **Tercer** tono↔Dilatación del ventrículo derecho
+        - **Cuarto** tono↔Hipertrofia del ventrículo derecho
+        - **Onda A aumentada**↔Contracción potente de la aurícula derecha para vencer la **resistencia** aumentada al llenado del **ventrículo derecho hipertrofiado**
+    - Hipertensión arterial pulmonar↕
+        - **Dolor torácico** ⇒ Dolor inespecífico, confundible con una cardiopatía isquémica
+        - **2º tono** cardiaco aumentado↔Hipertensión arterial pulmonar ⇒ Cierre brusco de la válvula pulmonar
