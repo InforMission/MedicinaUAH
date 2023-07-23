@@ -7,16 +7,15 @@ tipo: "Index"
 - [ ] Explicar ABCDE
 - [ ] Explicar IRA
 - [ ] Explicar OMLTE
+- [ ] Generar sistema de metadata
+- [ ] Generar templates de dataview
+- [ ] Meter un libro a la perfección
 
 
 # Objetivos
 - [ ] [[Create Index]]
 - [ ] [[Crear documentación]]
-- [ ] [[2. OMLTE/Qué es ABCDE]]
+- [ ] [[2. PLAN (OMLTE)/Qué es ABCDE]]
 
 
-```dataview
-table tipo, autor
-from "2. OMLTE"
-sort tipo asc
-```
+

@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c35954e1113e17d",
+        "id": "013591945dce97f3",
         "type": "tabs",
         "children": [
           {
-            "id": "92f3add99c5f28e6",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "fdc6ad00fb359afc",
+            "id": "334fd14c3497b32f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,6 +55,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "92f3add99c5f28e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -130,56 +129,62 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fdc6ad00fb359afc",
+  "active": "334fd14c3497b32f",
   "lastOpenFiles": [
-    "Templates/Index.md",
-    "2. OMLTE/Untitled.md",
-    "2. OMLTE/Untitled 1.md",
-    "1. ABCDE/Index 0 (ABCDE).md",
-    "2. OMLTE/Index 0 (OMLTE).md",
-    "3. IRA/Index 0 (IRA).md",
     "0. Índices/Index 0.md",
-    "3. IRA/Kei.md",
-    "1. ABCDE/ABCDE/Qué es ABCDE.md",
-    "3. IRA/Yan.md",
-    "2. OMLTE/Qué es ABCDE.md",
+    "1. PRODUCT (ABCDE)/Index 0 (ABCDE).md",
+    "2. PLAN (OMLTE)/Qué es ABCDE.md",
+    "2. PLAN (OMLTE)/Index 0 (OMLTE).md",
+    "2. PLAN (OMLTE)/Create Index.md",
+    "1. PRODUCT (ABCDE)/ABCDE/Qué es ABCDE.md",
+    "1. PRODUCT (ABCDE)/ABCDE/Pasted image 20230722110037.png",
     "Diario/2023-07-23.md",
-    "Diario/2023-07-22.md",
-    "Templates/OMLT.md",
-    "Templates/IRA.md",
     "README.md",
-    "IRA/Kei.md",
-    "Inbox/Desarrollo/Index 0.md",
-    "IRA/Yan.md",
-    "Inbox/Material/Index 0.md",
-    "Inbox/Index 0.md",
+    "Logística/Zotero",
+    "Logística/Apuntes",
+    "Workflow.md",
+    "Logística/Desarrollo",
+    "Logística/Web",
+    "Logística/Libros",
+    "Logística/Artículos",
+    "Logística",
+    "Templates/Crear documentación.md",
+    "3. PEOPLE (IRA)/Yan.md",
+    "Diario/2023-07-22.md",
+    "3. PEOPLE (IRA)/Kei.md",
+    "Templates/IRA.md",
     "Inbox/Material/Web.md",
-    "Inbox/Desarrollo",
+    "Inbox/Material/Libros.md",
+    "Inbox/Material/Index 0.md",
     "Inbox/Material/Bases de Datos.md",
     "Inbox/Material/Artículos.md",
-    "Inbox/Material/Libros.md",
-    "Inbox/Materiales.md",
+    "Inbox/Desarrollo/Index 0.md",
     "Inbox/Material",
+    "Inbox/Index 0.md",
+    "Inbox/Desarrollo",
     "Inbox",
-    "index.html",
-    "new file"
+    "3. PEOPLE (IRA)/Index 0 (IRA).md",
+    "Templates/ABCDE.md",
+    "Templates/Dataview.md",
+    "Inicio.md"
   ]
 }
