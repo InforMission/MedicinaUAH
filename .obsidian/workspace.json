@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Índices/Index 0.md",
+                "file": "Templates/Dataview.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Índices/Index 0.md",
+                "file": "Templates/Dataview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Índices/Index 0.md",
+                "file": "Templates/Dataview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Índices/Index 0.md"
+                "file": "Templates/Dataview.md"
               }
             }
           }
@@ -148,43 +148,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "334fd14c3497b32f",
+  "active": "8dfe78a0547213ed",
   "lastOpenFiles": [
-    "3. PEOPLE (IRA)/Index 0 (IRA).md",
-    "0. Índices/Index 0.md",
-    "2. PLAN (OMLTE)/Index 0 (OMLTE).md",
-    "2. PLAN (OMLTE)/Create Index.md",
-    "1. PRODUCT (ABCDE)/ABCDE/Pasted image 20230722110037.png",
-    "1. PRODUCT (ABCDE)/Index 0 (ABCDE).md",
-    "1. PRODUCT (ABCDE)/ABCDE/Qué es ABCDE.md",
-    "Templates/Index.md",
-    "0. Índices/Untitled.md",
-    "3. PEOPLE (IRA)/Yan.md",
-    "Diario/2023-07-23.md",
-    "2. PLAN (OMLTE)/Qué es ABCDE.md",
-    "README.md",
-    "Logística/Zotero",
-    "Logística/Apuntes",
-    "Workflow.md",
-    "Logística/Desarrollo",
-    "Logística/Web",
     "Logística/Libros",
-    "Logística/Artículos",
-    "Logística",
-    "Templates/Crear documentación.md",
-    "Diario/2023-07-22.md",
+    "Templates/Index.md",
+    "Organización funcional de la célula - Fisiología médica/Organización funcional de la célula - Fisiología médica.md",
+    "Fundamentos de fisiología - Fisiología médica/Fundamentos de fisiología - Fisiología médica.md",
+    "Organización funcional de la célula - Fisiología médica/Images/Organización funcional de la célula - Fisiología médica - eFigura 2-2.jpg",
+    "Organización funcional de la célula - Fisiología médica/Images/Organización funcional de la célula - Fisiología médica - eFigura 2-1.jpg",
+    "Organización funcional de la célula - Fisiología médica/Images/Organización funcional de la célula - Fisiología médica - Figura 2-9.jpg",
+    "Organización funcional de la célula - Fisiología médica/Images/Organización funcional de la célula - Fisiología médica - Figura 2-8.jpg",
+    "Organización funcional de la célula - Fisiología médica/Images/Organización funcional de la célula - Fisiología médica - Figura 2-7.jpg",
+    "Organización funcional de la célula - Fisiología médica/Images/Organización funcional de la célula - Fisiología médica - Figura 2-6.jpg",
+    "Organización funcional de la célula - Fisiología médica/Images/Organización funcional de la célula - Fisiología médica - Figura 2-5.jpg",
+    "Organización funcional de la célula - Fisiología médica/Images/Organización funcional de la célula - Fisiología médica - Figura 2-4.jpg",
+    "Organización funcional de la célula - Fisiología médica/Images/Organización funcional de la célula - Fisiología médica - Figura 2-3.jpg",
+    "Organización funcional de la célula - Fisiología médica/Images/Organización funcional de la célula - Fisiología médica - Figura 2-23.jpg",
+    "Organización funcional de la célula - Fisiología médica/Images",
+    "Organización funcional de la célula - Fisiología médica",
+    "Workflow.md",
+    "Logística/Libros/Índice 0.md",
+    "Fundamentos de fisiología - Fisiología médica",
+    "Logística/Libros/Rang-y-Dale/5-hidroxitriptamina y farmacología de la migraña - Rang y Dale. Farmacología/5-hidroxitriptamina y farmacología de la migraña - Rang y Dale. Farmacología.md",
+    "Logística/Libros/Rang-y-Dale/Antidepresivos - Rang y Dale. Farmacología/Antidepresivos - Rang y Dale. Farmacología.md",
+    "Logística/Libros/Rang-y-Dale/Rang-y-Dale.md",
+    "Logística/Libros/Moore/Aparato faríngeo, cara y cuello - Embriología clínica/Aparato faríngeo, cara y cuello - Embriología clínica.md",
+    "Logística/Libros/Rang-y-Dale/Absorción y distribución de los fármacos - Rang y Dale. Farmacología/Absorción y distribución de los fármacos - Rang y Dale. Farmacología.md",
+    "Logística/Libros/Rang-y-Dale/Control de la glucemia y tratamiento farmacológico de la diabetes mellitus - Rang y Dale. Farmacología/Control de la glucemia y tratamiento farmacológico de la diabetes mellitus - Rang y Dale. Farmacología.md",
+    "Logística/Libros/Rang-y-Dale/¿Qué es la farmacología - Rang y Dale. Farmacología/¿Qué es la farmacología - Rang y Dale. Farmacología.md",
+    "Logística/Libros/Moore/Vías habituales de señalización que participan en el desarrollo - Embriología clínica/Vías habituales de señalización que participan en el desarrollo - Embriología clínica.md",
+    "Logística/Libros/Rang-y-Dale/Abuso y dependencia de fármacos y drogas - Rang y Dale. Farmacología/Abuso y dependencia de fármacos y drogas - Rang y Dale. Farmacología.md",
+    "Logística/Libros/Moore/De la cuarta a la octava semana del desarrollo humano - Embriología clínica/De la cuarta a la octava semana del desarrollo humano - Embriología clínica.md",
+    "publish.css",
+    "Fig..md",
+    "1. PRODUCT (ABCDE)/Index 0 (ABCDE).md",
+    "3. PEOPLE (IRA)/Yan.md",
     "3. PEOPLE (IRA)/Kei.md",
-    "Templates/IRA.md",
-    "Inbox/Material/Web.md",
-    "Inbox/Material/Libros.md",
-    "Inbox/Material/Index 0.md",
-    "Inbox/Material/Bases de Datos.md",
-    "Inbox/Material/Artículos.md",
-    "Inbox/Desarrollo/Index 0.md",
-    "Inbox/Material",
-    "Inbox/Index 0.md",
-    "Inbox/Desarrollo",
-    "Inbox",
-    "Templates/ABCDE.md"
+    "3. PEOPLE (IRA)/Index 0 (IRA).md",
+    "2. PLAN (OMLTE)/Index 0 (OMLTE).md",
+    "2. PLAN (OMLTE)/Qué es ABCDE.md",
+    "0. Índices/Index 0.md",
+    "Logística/Libros/Moore/Moore.md",
+    "Logística/Libros/Moore/Desarrollo de los miembros - Embriología clínica/Desarrollo de los miembros - Embriología clínica.md",
+    "Logística/Libros/Rang-y-Dale/Sustancias psicoactivas - Rang y Dale. Farmacología/Images",
+    "Logística/Libros/Rang-y-Dale/Óxido nítrico y mediadores relacionados - Rang y Dale. Farmacología/Images",
+    "Logística/Libros/Rang-y-Dale/¿Qué es la farmacología - Rang y Dale. Farmacología/Images",
+    "Logística/Libros/Rang-y-Dale/Variabilidad individual, farmacogenómica y medicina personalizada - Rang y Dale. Farmacología/Images",
+    "Logística/Libros/Rang-y-Dale/Transmisión química y acción farmacológica en el sistema nervioso central - Rang y Dale. Farmacología/Images",
+    "Logística/Libros/Rang-y-Dale/Transmisión noradrenérgica - Rang y Dale. Farmacología/Images"
   ]
 }
