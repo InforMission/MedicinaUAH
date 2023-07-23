@@ -1,0 +1,98 @@
+- Definición
+    - Es un **aumento de la masa eritrocitaria**, que NO es lo mismo que del número de hematies, hemoglobina o hematocrito; aunque se asocia a estos dos parámetros
+        - Hombre ⇒ Hematocrito >60%, Hemoglobina >20g/dL
+        - Mujer ⇒ Hematocrito >55%, Hemoglobina >18.5g/dL
+    - También podemos describirlo como el **aumento del volumen globular eritrocitario por encima del 25% de lo normal**
+- Pseudopoliglobulia
+    - En la práctica clínica es importante saber diferenciar la poliglobulia verdadera de la pseudopoliglobulia. La pseudopoliglobulia se define como un aumento del hematocrito, de la hemoglobina o del número de hematíes **sin aumento de la masa eritrocitaria**
+    - Poliglobulia por disminución del volumen plasmático
+        - Deshidratación, exceso de diuréticos, restricción de líquidos, etc. Si disminuye la cantidad de plasma es obvio que aumenta proporcionalmente la concentración de hemoglobina y hematocrito sin que realmente se trate de un aumento de la masa de hematíes
+    - Poliglobulia **microcítica**: aumento del número de hematíes, con hematocrito normal y VCM descendido ⇒ Talasemias
+    - Por tanto, en la práctica hay que tener mucho cuidado con estos posibles enmascaramientos de las anemias y de las poliglobulias
+    - Falsas poliglobulias (fausses polyglobulies): como la talasemia. Poliglobulia verdadera (PG VRAIE).
+- Etiopatogenia
+    - Insuficiencia renal vs otras patologías renales
+        - Si usted tiene una condición de insuficiencia renal crónica con hipoxemia tisular, ¿la producción de eritropoyetina estará aumentada o disminuida?: disminuida. Si recordamos el tema de insuficiencia renal crónica, ésta cursaba con anemia
+        - Si un paciente tiene una patología renal que le lleva a sufrir isquemia tisular en el riñón SIN insuficiencia renal, ¿tendrá anemia o poliglobulia? ⇒ cualquier patología renal que provoca quistes, o hipoxemia tisular en el riñón, etc. SIN insuficiencia renal la producción de eritropoyetina estará aumentada, por lo que la hematopoyesis estará aumentada, por lo tanto, habrá POLIGLOBULIA IMPORTANTE
+        - HIPOXEMIA TISULAR + INSUFICIENCIA RENAL CRÓNICA ⇒ Depende de lo que predomine más, pero normalmente la eritropoyetina se encuentra disminuida, ANEMIA
+        - HIPOXEMIA TISULAR SIN INSUFICIENCIA RENAL CRÓNICA ⇒ Eritropoyetina aumentada, POLIGLOBULIA
+        - Si un paciente tiene un tumor renal que produce eritropoyetina, y no tiene déficit de hierro ni de vitamina B12, ¿el paciente tenderá a padecer anemia o poliglobulia? Poliglobulia
+    - Principales causas de la poliglobulia o aumento del volumen globular absoluto
+        - Proliferación clonal (tumoral) de la célula germinal pluripotente (CD34+) con mayor expresión en hematíes→policitemia vera. Esto es lo más habitual. - Producción aumentada de eritropoyetina (EPO): o En respuesta a hipoxia tisular. o Producción anómala de EPO o sustancias similares segregadas por tumores o lesiones renales (producción autónoma de EPO). - También puede haber cuadros de poliglobulia debidas no tanto al aumento de producción de eritropoyetina, sino debido al llamado “dopping” o dopaje de toda la vida de jesuchrist: es decir, tomar testosterona o corticoides en dosis altas. En este contexto, también se pueden producir situaciones de poliglobulia
+    - Poliglobulia idiopática
+        - Es decir, que no sabemos la causa. La más típica es la que aparece en el síndrome de Gaisböck, que se trata de una persona de unos 50 años aproximadamente, con sobrepeso, estrés y fumador. El síndrome de Gaisböck es una forma de poliglobulia idiopática en la que se entremezclan elementos de riesgo cardiovascular, incluyendo dicha poliglobulia que NO sabemos la causa por la que se produce
+    - Poliglobulias secundarias
+        - Dependientes de eritropoyetina
+            - Por secreción adecuada de eritropoyetina, es decir, causas de hipoxia tisular
+                - a. Disminución presión parcial de O2 en aire inspirado: por ejemplo, en el “mal de altura” o intoxicación por CO
+                - b. Insuficiencia respiratoria (EPOC, enfisema, fibrosis)
+                - c. Cardiopatías congénitas derecha-izquierda, es decir, que la sangre venosa pasa directamente hacia el ventrículo izquierdo y, por lo tanto, la sangre tiene mucha hemoglobina reducida (genera hipoxemia sistémica)
+                - d. Hemoglobina con afinidad anómala O2, es decir, con alta afinidad al oxígeno y no lo desprenden en los tejidos. (metahemoglobinemia)
+                - e. Tabaquismo: carboxihemoglobina es un parámetro claro de posible hipoxemia tisular y, por tanto, de secreción aumentada de eritropoyetina.
+            - Por secreción inadecuada de eritropoyetina
+                - a. Renal: poliquistosis, hidronefrosis, hipernefroma
+                - b. Hemangiomas cerebelo; fibroma uterino masivo; otros cánceres como el hepatoma, cáncer en el ovario, etc
+            - Por otras causas hormonales ⇒ Androgenoterapia prolongada, S. Cushing
+            - Alteraciones del receptor
+        - De causa hormonal
+    - Poliglobulia primitiva
+        - Definición
+            - Proliferación clonal de las células hepatopoyéticas o SMPC
+            - Predominio granulocítico Leucemia mieloide crónica (LMC)
+            - Predominio eritroide **Policitemia vera (PV)**
+            - Predominio megacariocítico Trombocitopenia esencial hemorrágica (TEH)
+            - Predominio fibrosis (profunda ocupación fibrosa de la MO) Mielofibrosis idiopática (MF)
+            - Otros: leucemia eosinofílica crónica, neutrofílica crónica, mastocitosis y otras inclasificables. La proliferación clonal de las células hematopoyéticas conlleva una esplenomegalia (porque hay mucha destrucción de éstas), mielofibrosis secundaria (transición de unos procesos a otros) y evolución final a LA
+        - **Poliglobulia primitiva** ⇒ POLICITEMIA VERA. Es un síndrome en el que se produce la transformación neoplásica de la célula madre; o, dicho de otra forma, una forma de leucemia en la que predomina la producción de eritrocitos
+        - Es una forma de policitemia por transformación tumoral. Es un síndrome mieloproliferativo, con incremento de la masa eritrocitaria y predominio de hiperplasia eritroide (proliferación clonal de células pluripotenciales con aumento de granulocitos, plaquetas y hematíes)
+        - Se da entre sujetos de 50-60 años (edades medias).
+        - Suele cursar con **esplenomegalia**, porque hay mucha producción de hematíes y, por lo tanto, hay mucha destrucción a nivel del bazo
+        - Características principales
+            - Aumento de la masa eritocitaria
+            - Leucocitosis y trombocitosis moderadas
+            - A nivel molecular: mutaciones JAK-2 (tirosin-kinasa) – V617F
+        - La alteración clonal o mutación de produce en los estadios previos a BFU-E y CFU-E, es decir, en las células madre o en las células de la estirpe eritrocitaria más iniciales. Se trata de una mutación en la JAK2 (tirosin-kinasa). Estas células, por tanto, empiezan a señalizar intensamente y a proliferar
+        - Esta mutación V617F en JAK2 favorece la **activación del receptor de EPO** independientemente de la EPO. Es decir, la producción de hematíes es AUTÓNOMA de la eritropoyetina, ya que la mutación se encuentra en la JAK2 en la propia célula, y es esta mutación la “culpable” de que se generen hematíes en grandes cantidades. Es decir, para que haya proliferación de eritrocitos no es necesaria la eritropoyetina.
+        - Por tanto, si no es necesaria la eritropoyetina, la producción de ésta por los riñones estará DISMINUIDA. Los eritrocitos normales tienen 2 receptores para EPO, pero en la policitemia vera solo hay uno. Se hacen sensibles a citocinas con capacidad proliferativa
+        - Por tanto, en los pacientes con policitemia vera los niveles de eritropoyetina están NORMALES o DISMINUIDOS. Por tanto, los niveles de EPO en orina y suero son INFERIORES en la PV en relación a controles normales. NO es una proliferación dependiente de la eritropoyetina
+        - La frecuencia o incidencia de esta enfermedad es relativamente baja: 4,6 casos/100.000 habitantes/año, ligero predominio masculino
+    - Eritrocitosis pura
+        - solamente hay aumento selectivo y único de los hematíes sin afectación de leucocitos ni plaquetas, ni evidencia de este síndrome mieloproliferativo. Tiene una sensibilidad especial a factores estimulantes o depresores de eritropoyesis. Es raro raro
+- Clínica
+    - **↑viscosidad** ⇒ ↑ resistencia vascular ⇒ enlentecimiento circulatorio ⇒ **estasis** + **vasodilatación** ⇒ **cianosis + rubicundez** + ingurgitación
+    - La cianosis predomina en los tejidos distales ⇒ **Acrocianosis distal**
+    - **Hipoxia** ⇒ Síntomas similares a la anemia
+    - **Congestión cefálica** ⇒ Cefalea frontal, Vértigo, Acúfenos, Somnolencia
+    - **↑Trabajo cardíaco** ⇒ Descompensación, isquemias, insuficiencia arterial periférica, claudicación intermitente
+    - **Telangiectasias, Hemorragias, Trombosis**
+    - ↑Hematopoyesis ⇒ ↑Destrucción de hematíes ⇒ **↑LDH, Hiperuricemia, Uricosuria**
+    - Síntomas característicos
+        - **Prurito generalizado**. Generalmente, se manifiesta al bañarse
+        - Molestias digestivas, digestiones pesadas
+        - {{3599175372069108::**Eritromelalgia**}} (enrojecimiento y quemazón en las MMII). Típicamente asociada a los **síndromes** **mieloproliferativos** (policitemia vera, mielofibrosis proliferativa, etc.)
+- Exploración clínica
+    - Destaca ese color rojo o azulado de la cara (eritrosis, facies rubicunda), partes acras (manos, orejas) y mucosas
+    - Cianosis, quemosis conjuntival y alteraciones en el fondo de ojo. La dilatación de las venas y de los capilares se ve, principalmente, en el fondo de ojo; es decir, se ven unas venas con dilataciones y estrecheces
+    - Hipertensión arterial (frecuente). Aunque haya vasodilatación, al estancarse los hematíes, estos sujetos padecen HTA
+    - Hepatomegalia
+    - Esplenomegalia moderada (60%) (por aumento de la masa y el estímulo del SRE)
+    - En la policitemia vera, además de todo lo anterior dicho, también puede haber **LEUCOCITOSIS** y **TROMBOCITOSIS**
+    - Pruebas complementarias
+        - Sospecha poliglobulia: por el hematocrito, la hemoglobina, el número de hematíes.
+        - Definición poliglobulia: **volumen globular elevado**
+        - **Saturación hemoglobina**: en una insuficiencia respiratoria crónica, la saturación de la hemoglobina estará disminuida
+        - **EPO**: cuantificación de la eritropoyetina. Por ejemplo, en un paciente con insuficiencia respiratoria crónica, los niveles circulantes de EPO estarán aumentados
+- Diagnóstico de policitemia vera
+    - Hematíes: poliglobulia, aumento de hemoglobina y hematocrito (50-65%)
+    - Aumento FAL, LDH y ácido úrico
+    - Niveles de EPO {{5784253002405717::**bajos o normales**}}{{5784253002405717:: }}
+    - Aumento de la masa eritrocitaria (empleando 51Cr)
+    - AMO y BMO: hiperplasia de las 3 series, predominio eritroide
+    - Alteraciones citogenéticas (20%): 13 q-, 20q, +8, +9
+    - CFU-E: crecimiento espontáneo en ausencia de EPO
+    - Aunque hay un 20% de casos de policitemia vera causadas por alteraciones citogenéticas, la principal causa de la policitemia vera es la {{3722479334654547::**mutación en JAK2**}}. Es un hallazgo molecular característico que se utiliza como nuevo marcador diagnóstico en SMPC (proliferación clonal de células hematopoyéticas): ESTO SUELE CAER EN EXÁMENES
+        - ➔ Es miembro de la familia de tirosincinasas
+        - ➔ Mutación V617F (se sustituye valina por fenilalanina)
+        - ➔ Presente en >90% de pacientes con PV, y 50% con TE (trombocitopenia esencial) y MF (mielofibrosis idiopática)
+        - ➔ Correlación con duración, complicaciones y respuesta al tratamiento (el tratamiento es la “sangría de toda la vida”, vamos, quitarles sangre a tope)
+- ![[Pasted image 20230619164531.png]]

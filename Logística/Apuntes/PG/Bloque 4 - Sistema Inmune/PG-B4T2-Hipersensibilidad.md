@@ -1,0 +1,111 @@
+- Generalidades
+    - ![[Pasted image 20230625105836.png]]
+    - Reacciones de sensibilidad inmediata
+        - Tipo I, II y III
+        - Se manifiestan rápidamente (minutos u horas)
+        - Dependen de interacción Ag-Ac
+    - Reacciones de hipersensibilidad retardada
+        - Tipo IV
+        - Se manifiestan lentamente
+- Hipersensibilidad tipo I (Reacción alérgica)
+    - Fisiopatología
+        - Polimorfismos en cromosoma 5q ⇒ ↑ Polarización de Th2
+        - Cromosomas implicados en la producción de IgE ⇒ 4, 7, 16
+        - Los {{32587086147040556::mastocitos}} presentan IgE en la membrana, los {{32587086147040556::eosinófilos}} no.
+    - Patogenia
+        - Predisposición genética (20% población)
+        - Activación preferencial de **linfocitos TH2** ⇒ Síntesis de **IgE específica** por los linfocitos B ⇒ FcεRII⇒ **FcεRI(↑sensibilidad)**
+        - **Sensibilización** ⇒ Reexposición (**2 IgE**)⇒ Activación **Mastocitos**
+        - Fase inmediata→Mastocitos y basófilos
+        - Fase tardía→Eosinófilos
+        - Histamina, PAF, PGE2, Leucotrienos, TNFa ⇒ Daño tisular
+    - Clínica
+        - Piel ⇒ Urticaria (Habones, Aguda) y Eccema atópico (Crónica)
+        - Mucosas ⇒ Conjuntivitis, Rinitis, Laringitis, Asma, Alergia alimentaria
+        - Sistémica ⇒ Anafilaxia
+    - Rinitis alérgica
+        - Histamina y PAF (tto. antihistamínicos)↔Picor, Estornudos, Congestión, Hidrorea
+        - Eosinófilos y Leucotrienos (tto. corticoides intranasales)↔Obstrucción nasal, Anosmia, Hiperreactividad nasal
+    - Asma bronquial
+        - Fisiopatología
+            - Broncoconstricción, Edema, Infiltración celular ⇒ **↑Resistencia al flujo aéreo**
+            - ↑ Trabajo respiratorio ⇒ ↓CVF, ↓FEV1 ⇒ ↑CRF
+            - Inflamación crónica ⇒ ↑Colágeno IV ⇒ **Remodelado bronquial**
+            - Hiperinsuflación de los pulmones en RX de tórax
+            - **Hipercapnia** y **acidemia** respiratoria
+        - Clínica
+            - Disnea, Tos, Sibilancias
+            - Taquipnea, Taquicardia
+            - Leve **hipertensión** sistólica
+            - ↑diámetro anteroposterior del tórax
+            - Tos productiva ⇒ Espirales de Curschmann, Cristales de Charcot-Leyden
+            - Atelectasia
+            - Neumotórax espontáneo o neumomediastino
+    - Anafilaxia
+        - Edema de mucosas y broncoempasmo ⇒ Dificultad respiratoria
+        - **Vasodilatación** periférica ⇒ Colapso vascular
+        - IgE elevada, {{07643557633507614::**Triptasa**}} aumentada en sangre
+- Hipersensibilidad tipo II (Citotóxica)
+    - Patogenia
+        - Anticuerpos **IgG o IgM** contra antígenos (endógenos o exógenos) presentes en la superficie celular o la MEC
+        - **Complemento** : MAC C5b, Opsonización C3b
+        - **Fagocitosis** previa opsonización C3b e IgG
+        - **ADCC** (Citotoxicidad Celular Dependiente de Ac) ⇒ Apoptosis
+        - Hapteno→Sustancia química de bajo PM que estimula una respuesta inmunitaria al unirse a la membrana o una proteína
+    - Clínica
+        - **Síndrome de Goodpasture**↑
+            - Anticuerpos anti-colágeno IV de la MBG glomerular (glomerulonefritis) y alveolar (alveolitis)
+            - Insuficiencia renal y hemoptisis
+        - **Enfermedad de Graves**
+            - Anticuerpos anti-receptor de TSH agonistas, anti-fibroblastos retroorbitales
+            - Hipertiroidismo y oftalmopatía
+        - **Miastenia gravis**
+            - Anticuerpos antirreceptor de acetilcolina en la unión neuromuscular
+        - **Anemia hemolítica**
+        - Gastritis autoinmune
+            - Anticuerpos **anti-célula parietal**
+            - ↓Factor intrínseco ⇒ Anemia perniciosa ⇒ **Adenocarcinoma**
+            - ↓Ácido gástrico ⇒ Anemia ferropénica, Hipergastrinemia ⇒ ↑Células enterocromafines ⇒ **Tumor carcinoide**
+        - Púrpura trombocitopénica idiopática
+        - Reacciones postransfusionales
+        - Endocarditis reumática (Reacción cruzada entre estreptococo A y proteínas cardíacas)
+        - Vasculitis asociada a ANCA
+        - Pénfigo
+- Hipersensibilidad tipo III (Inmunocomplejos)
+    - Antígenos desencadenantes
+        - Antígenos endógenos ⇒ Antígenos nucleares, Antígenos celulares, Tumorales, Inmunoglobulinas
+        - Antígenos exógenos ⇒ Fármacos, Enfermedad del suero, Angítenos ambientales inhalados e ingeridos, Infecciones
+    - Patogenia
+        - Anticuerpos IgG o IgM contra **complejos solubles**
+        - Activación del complemento (C1q) : **Anafilotoxinas** (C3a,C5a) ⇒ Degranulación de basófilos
+        - Activación plaquetaria (unión a FcR) ⇒ **Microtrombos** ⇒ Isquemia
+        - Aminas vasoactivas ⇒ **Vasodilatación** ⇒ **Depósito** de inmunocomplejos en la **membrana basal** vascular
+        - Intento de fagocitosis (PMN) ⇒ Enzimas lisosómicas ⇒ Daño vascular ⇒ **Necrosis fibrinoide**
+    - Clínica
+        - Lupus Eritematoso Sistémico
+            - Inadecuado manejo de los autoanticuerpos y {{9159289856455854::productos }}{{9159289856455854::**apoptóticos**}}{{9159289856455854:: }}
+        - Panarteritis Nodosa
+        - Enfermedad del suero
+        - Glomerulonefritis postestreptocócica
+- Hipersensibilidad tipo IV (Celular/Retardada)
+    - Patogenia
+        - **No intervienen anticuerpos**
+        - Reacciones inflamatorias mediadas por {{0700389975705098::**linfocitos Th memoria**}} que reconocen el Ag en la membrana de las **APC** unido a **MHCII**
+        - Linfoquinas ⇒ Atracción y activación de **macrófagos** ⇒ {{1468644096008762::**Granulomas**}}
+        - Producción y activación de **linfocitos CD8+** ⇒ Citotoxicidad sobre macrófagos y otras células portadoras del Ag
+    - Clínica
+        - Reacción de Mantoux
+            - Inyección intradérmica de tuberculina que produce una **infiltración linfocitaria y macrofágica**
+        - Hipersensibilidad de Jones-Mote
+            - Inyección intradérmica de Ag como la ovoalbúmina que produce una **infiltración basófila**
+        - Hipersensibilidad por contacto
+            - **Eccema**
+            - Respuesta a sustancias (Ni, Cr, etc.) que al penetrar en la epidermis se conjugan con proteínas normales del organismo y funcionan como **haptenos**
+        - Hipersensibilidad granulomatosa
+            - Intento de aislamiento y destrucción de Ag persistentes : Mycobacterium, Brucella, Aspergillus, Toxoplasma
+            - Nódulo indurado en la piel que puede tardar semanas en surgir
+        - Sarcoidosis
+            - Enfermedad granulomatosa cróncia de afectación multiorgánica desencadenada por un antígeno desconocido
+        - Artritis reumatoide
+            - Autoanticuerpos antipolipeptidos citrulinados y factores reumatoides ⇒ Inadecuada activación de **linfocitos T y monocitos**
+            - Infiltración sinovial, inflamación local, daño óseo regional, efectos sistémicos

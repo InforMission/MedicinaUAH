@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "013591945dce97f3",
+        "id": "bf5a40e6908fa476",
         "type": "tabs",
         "children": [
           {
-            "id": "334fd14c3497b32f",
+            "id": "5293aa19d662eb5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diario/2023-07-23.md",
+                "file": "2. PLAN (OMLTE)/Create Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diario/2023-07-23.md",
+                "file": "2. PLAN (OMLTE)/Create Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diario/2023-07-23.md",
+                "file": "2. PLAN (OMLTE)/Create Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diario/2023-07-23.md"
+                "file": "2. PLAN (OMLTE)/Create Index.md"
               }
             }
           }
@@ -145,46 +145,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "publish:Publish changes...": false,
+      "extract-highlights-plugin:Extract Highlights": false
     }
   },
-  "active": "334fd14c3497b32f",
+  "active": "5293aa19d662eb5a",
   "lastOpenFiles": [
-    "0. Índices/Index 0.md",
-    "1. PRODUCT (ABCDE)/Index 0 (ABCDE).md",
-    "2. PLAN (OMLTE)/Qué es ABCDE.md",
     "2. PLAN (OMLTE)/Index 0 (OMLTE).md",
     "2. PLAN (OMLTE)/Create Index.md",
-    "1. PRODUCT (ABCDE)/ABCDE/Qué es ABCDE.md",
-    "1. PRODUCT (ABCDE)/ABCDE/Pasted image 20230722110037.png",
-    "Diario/2023-07-23.md",
-    "README.md",
-    "Logística/Zotero",
-    "Logística/Apuntes",
-    "Workflow.md",
-    "Logística/Desarrollo",
-    "Logística/Web",
-    "Logística/Libros",
-    "Logística/Artículos",
-    "Logística",
-    "Templates/Crear documentación.md",
-    "3. PEOPLE (IRA)/Yan.md",
-    "Diario/2023-07-22.md",
-    "3. PEOPLE (IRA)/Kei.md",
-    "Templates/IRA.md",
-    "Inbox/Material/Web.md",
-    "Inbox/Material/Libros.md",
-    "Inbox/Material/Index 0.md",
-    "Inbox/Material/Bases de Datos.md",
-    "Inbox/Material/Artículos.md",
-    "Inbox/Desarrollo/Index 0.md",
-    "Inbox/Material",
-    "Inbox/Index 0.md",
-    "Inbox/Desarrollo",
-    "Inbox",
-    "3. PEOPLE (IRA)/Index 0 (IRA).md",
-    "Templates/ABCDE.md",
-    "Templates/Dataview.md",
-    "Inicio.md"
+    "Templates/Carpeta indexada.md",
+    "Logística/Apuntes/PG/Index 0.md",
+    "Logística/Apuntes/PM/Untitled",
+    "Logística/Apuntes/AP/Index 0.md",
+    "Logística/Apuntes/AP/AP-T1-Generalidades.md",
+    "Logística/Apuntes/PM/PM-Digestivo.md",
+    "Logística/Apuntes/PM",
+    "Logística/Apuntes/PG/Bloque 12 - Locomotor/PG-B12T6-Metabolismo de las purinas.md",
+    "Logística/Apuntes/PG/Bloque 12 - Locomotor/PG-B12T6-Exploración musculoesquelética.md",
+    "Logística/Apuntes/PG/Bloque 12 - Locomotor/PG-B12T5-Recambio óseo.md",
+    "Logística/Apuntes/PG/Bloque 12 - Locomotor/PG-B12T4-Hipercalcemia e hipocalcemia.md",
+    "Logística/Apuntes/PG/Bloque 12 - Locomotor/PG-B12T3-Metabolismo fosfocálcico.md",
+    "Logística/Apuntes/PG/Bloque 12 - Locomotor/PG-B12T2-Ácido araquidónico.md",
+    "Logística/Apuntes/PG/Bloque 12 - Locomotor/PG-B12T1-Artropatías.md",
+    "Logística/Apuntes/PG/Bloque 12 - Locomotor/PG-B12-Aparato locomotor.md",
+    "Logística/Apuntes/PG/Bloque 12 - Locomotor",
+    "Logística/Apuntes/PG/Bloque 11 - Respiratorio/PG-B11T1-Insuficiencia respiratoria.md",
+    "Logística/Apuntes/PG/Bloque 11 - Respiratorio/PG-B11-T6-Gasometría.md",
+    "Logística/Apuntes/PG/Bloque 11 - Respiratorio/PG-B11-T5-Síndromes pleurales.md",
+    "Logística/Apuntes/PG/Bloque 11 - Respiratorio/PG-B11-T4-Síndrome mediastínico.md",
+    "Logística/Apuntes/PG/Bloque 11 - Respiratorio/PG-B11-T3-Síndromes pulmonares II.md",
+    "Logística/Apuntes/PG/Bloque 11 - Respiratorio/PG-B11-T2-Síndromes pulmonares I.md",
+    "Logística/Apuntes/PG/Bloque 11 - Respiratorio/PG-B11-Aparato respiratorio.md",
+    "Logística/Apuntes/PG/Bloque 11 - Respiratorio",
+    "Logística/Apuntes/PG/Bloque 10 - Hematología/PG-B10T9-Síndrome de diátesis hemorrágica.md",
+    "Logística/Apuntes/PG/Bloque 10 - Hematología/PG-B10T8-Bazo.md",
+    "Logística/Apuntes/PG/Bloque 10 - Hematología/PG-B10T7-Leucocitosis y leucopenia.md",
+    "Logística/Apuntes/PG/Bloque 10 - Hematología/PG-B10T6-Poliglobulia.md",
+    "Logística/Apuntes/PG/Bloque 10 - Hematología",
+    "Logística/Apuntes/PG/Bloque 9 - Nefrourinario",
+    "Logística/Apuntes/PG/Bloque 8 - Cardiovascular",
+    "Logística/Apuntes/PG/Bloque 7 - Digestivo",
+    "Logística/Apuntes/PG/Bloque 6 - Endocrino",
+    "Logística/Apuntes/PG/Bloque 5 - Metabolismo",
+    "Logística/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-9-x36-y679.png",
+    "Logística/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-9-x35-y453.png",
+    "Logística/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-9-x34-y593.png",
+    "Logística/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-9-x165-y454.png",
+    "Logística/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-9-x131-y188.png",
+    "Logística/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-7-x38-y93.png",
+    "Logística/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-7-x31-y667.png",
+    "Logística/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-66-x154-y139.png",
+    "Logística/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-64-x37-y245.png",
+    "Logística/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-63-x36-y365.png"
   ]
 }

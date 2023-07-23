@@ -3,19 +3,11 @@ autor: "Yan"
 tipo: "Index"
 ---
 
-# Inbox
-- [ ] Explicar ABCDE
-- [ ] Explicar IRA
-- [ ] Explicar OMLTE
-- [ ] Generar sistema de metadata
-- [ ] Generar templates de dataview
-- [ ] Meter un libro a la perfección
+```dataview
+LIST
+WHERE contains(file.folder, this.file.folder) 
+```
 
-
-# Objetivos
-- [ ] [[Create Index]]
-- [ ] [[Crear documentación]]
-- [ ] [[2. PLAN (OMLTE)/Qué es ABCDE]]
 
 
 

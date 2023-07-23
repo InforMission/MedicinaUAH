@@ -1,0 +1,91 @@
+- Fisiología
+    - Sobre estos metabolitos del ácido araquidónico (AA) podemos decir lo siguiente
+        - **Ubicuidad**: estos metabolitos pueden producirse prácticamente en todas las células del organismo, ya que la mayoría de ellas poseen los sustratos y las enzimas necesarias para formar los metabolitos activos
+        - Muchos de ellos producen efectos **antagónicos**
+        - Poseen acciones fisiológicas, por lo que son importantísimos para conservar una adecuada homeostasis del organismo. Sin embargo, tienen un fácil desequilibrio, generalmente causado por la **sobreproducción**
+    - Eicosanoides
+        - Son **autacoides**: tienen una actividad bioquímica en el tejido donde se sintetizan
+        - Se sintetizan según necesidades, y no se **almacenan**
+        - Su **vida media es corta**: su catabolismo se produce en el mismo lugar de su síntesis. La fracción que alcanza el torrente sanguíneo es metabolizada principalmente en **hígado** y **pulmón**
+        - Hay **receptores específicos** en las membranas de casi todos los tejidos, **excepto en** {{962653823193139::**los eritrocito**}}**s**
+        - Actúan modulando la producción de {{8014827936705133::**AMPc**}}
+    - Prostanoides
+        - **Prostaglandinas**: Producen vasodilatación e inhiben la agregación plaquetaria. Son mediadores que están siempre en cualquier situación de inflamación
+        - **PGE2**: vasodilatación e inhibe la agregación plaquetaria
+        - **PGI2**: similar a la PGE2, se produce en el m.liso de la pared vascular y en epitelios
+        - **PGD2**: función **encefálica**
+        - **PGF2α**: función **uterina** y **ovárica**
+        - **Tromboxano A2**: es sintetizado específicamente por las plaquetas. Al contrario que las PG, estimula la agregación plaquetaria (1) y produce **vasoconstricción** (2)
+    - Metabolismos de la lipooxigenasa
+        - Si sobre el AA (liberado porque la PLA2 ha degradado fosfolípidos de membrana en respuesta a estímulos o a fármacos) actúa la **lipooxigenasa**, produce determinados metabolitos que son **vasoconstrictores** y **broncoconstrictores**
+        - **HETE** (ácido hidroxieicosatetraenoico): produce **vasoconstricción** y adherencia leucocitaria
+        - **Leucotrienos**: es un gran grupo caracterizado principalmente por producir **broncoconstricción** ⇒ Efectos similares a la **histamina**
+        - **Lipoxinas**: producidas por la 15 – LOX. Bloquean la quimiotaxis de neutrófilos y tienen efecto antiinflamatorio
+- Fisiopatología
+    - Inflamación
+        - El estímulo inflamatorio induce a la **PLA2** a liberar **AA**. Se produce un aumento de **sustrato** de la **COX**, y en consecuencia, un aumento de producción de PG
+        - El estímulo inflamatorio también favorece la liberación de **histamina** y **bradicinina**
+        - **Vasodilatación**, **hiperalgesia** y ↑ permeabilidad vascular, ↑quimiotaxis **PMN**, ↑efecto de IL – 1/TNF
+        - Inmnomodulación : **↓ proliferación linfocitaria**
+    - Sepsis
+        - La **PGE2** y la **PGI2** tienen un papel fundamentan en la **vasodilatación periférica** en aquellos pacientes que tienen un proceso de sepsis
+        - El **TXA2** (producto de la COX en las plaquetas) produce vasoconstricción y agregación plaquetaria
+        - Los **leucotrienos** producen **vasoconstricción**, favoreciendo la **isquemia** tisular
+        - El exceso de todos estos metabolitos activos puede provocar la **disfunción del sistema inmune**
+    - Resorción ósea
+        - La **PGE2** induce la **resorción ósea** (**osteoporosis** yuxtaarticular, erosiones) en la artritis reumatoide y otras artropatías
+        - En cultivos de tejido sinovial de pacientes con artritis reumatoide hay una elevación de la **PGE2**
+        - La inclusión de **indometacina** en estos cultivos disminuye la resorción ósea.
+        - La producción de PGE2 es estimulada por **IL – 1 y TNF**, que son mediadores fundamentales de la inflamación en la sinovial de la AR
+        - La PGE2 está elevada en la **hipercalcemia tumoral** en un 10 – 15%
+    - Ductus arterioso
+        - Cuando un niño nace de forma prematura, lo tratamos con **indometacina** (inhibidor de la producción de PG) para favorecer el cierre del ductus persistente
+        - Cuando un niño nace con **cardiopatías congénitas** como la atresia pulmonar o tricuspídea, lo que queremos es **mantener abierto el shunt arteriovenoso** hasta que podamos realizar la cirugía
+        - Para conservar el ductus arterioso, se administra **PGE2**
+    - Asma
+        - El asma es la inflamación subaguda de las vías respiratorias, mediada por macrófagos, eosinófilos, linfocitos y células epiteliales.
+        - **PGF2** y **PGD2** ⇒ Congestión vascular y edema
+        - **Leucotrienos** ⇒ Broncoconstricción, alteraciones en la producción de moco y del transporte mucociliar y son factores quimotácticos de anafilaxia.
+    - Ulcus gastroduodenal
+        - Las PG tienen un papel protector digestivo
+        - Regulan la **liberación de HCO3- y moco**
+        - **Inhiben** la secreción de células **parietales**
+        - Papel importante en el mantenimiento del **flujo sanguíneo mucoso**
+        - Participan en la **restitución celular**
+    - Dismenorrea
+        - En el endometrio, hay alta concentración de **PGE** y **PGF**
+        - **PGE** ⇒ estimula la **contractilidad** uterina
+        - **PGF** ⇒ **contrae** el útero al acercarse la ovulación
+        - Inductoras: **Maduración del cuello, Contractilidad del útero**
+        - Los AINEs mejoran los síntomas de la dismenorrea. Los efectos varían en función de la **fase** del ciclo menstrual y del embarazo en la que nos encontremos
+    - Insuficiencia renal
+        - **PGE2** y **PGI2**
+        - Incremento de la **secreción de renina**, antagonizando a ADH
+        - **↓Resistencia vascular renal** de las arteriolas aferentes y ↑ perfusión renal
+        - En la **IRC** producen **vasodilatación** y median la **hiperfiltración** compensadora de las nefronas funcionantes
+        - Los **AINEs** pueden precipitar **insuficiencia renal aguda** (IRA) en pacientes con alteraciones del filtrado glomerular al producir un desequilibrio de estas PG
+    - Síndrome de Bartter
+        - Enfermedad autosómica recesiva del transporte de **Cl**-/Na+/K+ en eltúbulo renal caracterizada por **hipopotasemia**, **alcalosis** metabólica y tensión arterial **normal**
+        - La PG tiene un papel **vasodilatador** evitando la elevación de la tensión arterial y estimulando la producción de renina ⇒ **tensión arterial norma**l a pesar de la hiperestimulación del SRAA
+        - Se sabe que la administración de AINEs puede restaurar en parte las alteraciones
+    - Agregación plaquetaria
+        - Un desequilibrio a favor del **TXA2** por las plaquetas favorece la trombosis. Un ejemplo sería la lesión endotelial.
+        - El endotelio produce PGI2 y las plaquetas TXA2, pero si hay una lesión endotelial, entonces **TXA2 > PGI2**. Como consecuencia, se producen fenómenos de **trombosis**
+        - La aspirina lo que hace es inhibir la COX plaquetaria, y además de una forma mucho más persistente que en el endotelio. La acción de la aspirina sobre la COX de la plaqueta dura mucho más que la acción sobre la COX del endotelio (que es la que produce las PG). Esto hace que de alguna forma, la PG gane sobre el TX, y ésta es básicamente la explicación de por qué la aspirina actúa como inhibidor de la agregación plaqueataria. Una sola dosis de aspirina inhibe la COX plaquetaria 48h, mientras que las células endoteliales recuperan rápidamente la actividad ciclooxigenasa favoreciendo la VD
+    - Cáncer
+        - Estudios epidemiológicos han demostrado que la ingesta crónica de ácido acetil-salicílico (AAS) reduce la incidencia de cáncer de colon un 40 – 50%
+        - Sin embargo, no hay evidencia suficiente como para recomendar la profilaxis de cáncer de colon con aspirinas
+    - Alzheimer
+        - Estudios epidemiológicos han demostrado que el uso crónico de AINEs disminuye el riesgo de desarrollar Alzheimer y retrasa su aparición
+        - No se sabe muy bien los mecanismos por lo que esto sucede y tampoco hay una evidencia suficiente como para recomendar una profilaxis con aspirina ni con antiinflamatorios.
+- Utilidades terapéuticas
+    - Inhibidores de PG
+        - **AINES**: tratamiento de la inflamación y dolor; cierre de ductus en bebés prematuros y tocolisis
+        - **AAS**: profilaxis trombótica, prevención cáncer colorrectal (hay evidencias, pero no suficientes como para recomendarlo como profilaxis)
+    - Análogos de PG
+        - **Misoprostol**: protección mucosa gástrica, maduración cuello uterino y abortos primer trimestre por inducir la contractilidad uterina
+        - **Prostaciclina**: tiene la acción VD más importante. Se utiliza en el tratamiento del síndrome de Raynaud, hipertensión pulmonar e impotencia
+        - **PGE**: cardiopatías congénitas en las que nos interesa que el ductus permanezca abierto hasta que se realice una cirugía
+        - **Análogos de las PG,** como **Latanoprost (PGF2) y Tafluprost**: tratamiento del glaucoma
+    - Inhibidores de leucotrienos
+        - **Zafirlukast**, **Montelukast**: Asma bronquial

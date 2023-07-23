@@ -1,0 +1,91 @@
+- **Adaptaciones celulares al estrés**→Cambios **reversibles** del tamaño, número, fenotipo, actividad metabólica o función de las células al estrés
+    - Hay anomalías estructurales y funcionales, pero no ocurre {{4776827762342679::daño grave de la membrana ni disolución nuclear}}
+    - Si se supera la capacidad de adaptación o si el estrés externo es nocivo sucede la {{39783806469966754::lesión celular}}
+    - Si persiste la agresión, la lesión es irreversible y la célula {{23934496442619402::muere}}
+- La respuesta celular a los estímulos lesivos depende de
+    - Tipo, duración e intensidad de la lesión
+    - Adaptabilidad de la célula lesionada
+- Factores que determinan la irreversibilidad de la lesión↓
+    - Incapacidad para revertir la disfunción mitocondrial (ausencia de fosforilación oxidativa y generación de ATP)
+    - Trastornos profundos en la función de la membrana
+- Dianas celulares de la lesión irreversible
+    - Mitocondrias
+    - Membrana celulr
+    - Síntesis de las proteínas
+    - Citoesqueleto
+    - Aparato genético de la célula
+- Mecanismos de lesión celular
+    - Depleción de ATP
+        - Fallo de la fosforilación oxidativa
+        - Pérdida de los depósitos intracelulares de glucógeno (vía glucolítica)
+    - Lesión mitocondrial
+        - Aumento de calcio citosólico
+        - Presencia de radicales libres
+        - Privación de oxígeno
+    - Entrada de calcio y pérdida de la homeostasis del calcio
+        - Liberación de los depósitos de calcio intracelulares (mitocondrias y retículo endoplásmico)
+        - Fallo del transporte de calcio a través de la membrana (dependiente de ATP)
+    - Acumulación de ROS
+    - Aumento de permeabilidad de las membranas celulares
+    - Acumulación de ADN dañado y proteínas mal plegadas
+- Cambios morfológicos de la lesión reversible
+    - Edema
+        - Primera manifestación morfológica de la lesión
+        - **Hinchazón celular** : las células no consiguen mantener su equilibrio iónico y de líquidos (Disfunción de las bombas iónicas en la membrana celular)
+        - Cambio hidrópico o degeneración vacuolar
+        - Si se afectan muchas células, se observa palidez, aumento de la consistencia y peso del órgano
+        - ![[Pasted image 20230625101931.png]]
+    - Cambio graso
+        - Presencia de vacuolas lipídicas en el citoplasma
+        - Hepatocitos, células cardíacas (células que participan o dependen de metabolismo lipídico)
+        - Aparece en lesiones hipóxicas, metabólicas y tóxicas (alcohol)
+        - ![[Pasted image 20230625101939.png]]
+- Cambios ultraestructurales de la lesión irreversible
+    - Alteraciones de la membrana plasmática
+        - Formación de vesículas
+        - Borrado o distorsión de las microvellosidades
+        - Aflojamiento de las uniones intercelulares
+    - Cambios mitocondriales
+        - Hinchazón
+        - Aparición de densidades amorfas pequeñas
+    - Dilatación del retículo endoplásmico con separación de los ribosomas
+    - Condensación de la cromatina nuclear
+- Apoptosis
+    - Características
+        - Muerte celular regulada por vías genéticas ⇒ Activación enzimática que degrada el ADN nuclear y proteínas del núcleo y citoplasma
+        - La membrana celular permanece intacta ⇒ Ausencia de respuesta inflamatoria.
+        - La propia célula se da muerte a sí misma. No se asocia necesariamente a lesión celular
+        - Ocurre en situaciones fisiológicas (embriogénesis, involución de tejidos dependientes de hormonas, control de tejidos proliferativos, linfocitos autorreactivos...) y patológicas (daño del ADN, virus, acumulación de proteínas mal plegadas, atrofia de órganos tras obstrucción de conductos)
+    - Morfología
+        - **Retracción celular** ⇒ Bolas redondas u ovales, con un citoplasma intensamente eosinófilo
+        - **Condensación** de la cromatina ⇒ **Fragmentación** del núcleo.
+        - Formación de **cuerpos apoptoicos**: las células se retraen, forman brotes o yemas (vesículas de citosol y citoplasmáticas y se separan organelas delimitadas por membrana)
+        - Fagocitosis de las células apoptoicas por macrófagos u otras células vecinas
+        - ![[Pasted image 20230625101948.png]]![[Pasted image 20230625101955.png]]
+    - Mecanismo
+        - Es un proceso enzimático activo en el que las nucleoproteínas son degradadas y a continuación la célula es fragmentada
+        - El acontecimiento principal es la {{07167924923538171::activación de las caspasas}}
+        - La activación de las caspasas depende de {{1464774077049662::un equilibrio entre las proteínas proapoptoicas y las antiapoptoicas}}
+        - Las caspasas activadas cortan numerosas dianas, que finalmente degradan el ADN y destruyen las nucleoproteínas y las proteínas del citoesqueleto
+    - Fases
+        - Fase inicial
+            - Vía intrínseca (mitocondrial)
+                - Principal mecanismo de la apoptosis
+                - Se desencadena por {{6596886734843737::alteraciones de la permeabilidad membrana mitocondrial y salida al citosol de moléculas proapoptóicas (citocromo C)}}
+                - La familia de proteínas de {{8756048721953484::**bcl-2**}}{{8756048721953484:: }}controla {{33395805927473976::la pemeabilidad mitocondrial y la liberación de proteínas proapoptoicas}}.
+                - Las proteínas proapoptoicas activan la {{21748060865832164::caspasa 9 }}y el resto de la cascada
+                - Sucede por estímulos internos, tales como el daño genético irreparable, concentraciones elevadas de calcio en el citosol o el estrés oxidativo grave (grandes concentraciones de radicales libres de oxígeno).
+            - Vía extrínseca (por receptores de muerte)
+                - Mediada por receptores de la membrana celular (receptores de muerte)
+                - La mayoría son miembros de la familia del receptor de {{1696462601278288::TNF}}
+                - Al unirse al ligando, activan la {{5441123791561171::caspasa 8}} y el resto de la cascada
+                - Implicada en la {{3697702906807432::eliminación de los linfocitos autorreactivos y en la destrucción de las células diana por los linfocitos T citotóxicos}}
+                - Esta vía puede ser inhibida por la proteína FLIP, que se une a la procaspasa 8
+        - Fase de ejecución
+            - La vía extrínseca e intrínseca convergen
+            - Activa la maquinaria enzimática responsable de los cambios celulares
+            - Las caspasas ejecutoras son la {{25034066857096526::3, 6 y 7}}
+            - Las células sufren varios cambios en sus membranas, que promueven su **fagocitosis**
+            - Se facilita una rápida eliminación de las células muertas, antes de que sufran daño de las membranas y liberen sus contenidos celulares
+- Diferencias entre necrosis y apoptosis
+	- ![[Pasted image 20230625102118.png]]

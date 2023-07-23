@@ -1,0 +1,122 @@
+- Fisiología
+    - Características del bazo
+        - Localización: hipocondrio izquierdo, bajo el diafragma
+        - Peso: 150-250 g  Eje longitudinal: 5-13cm  Estructura: o Pulpa blanca (25%): tejido linfoide (linfocitos y monocitos). En ella distinguimos una zona marginal, una zona folicular y una zona con células T. o Pulpa roja (75%): Sinusoides y cuerdas (entre los sinusoides)  Circulación de la sangre a través del bazoDos modalidades: o Rápida: 1-2min o Lenta: 60 mins, más predominante en esplenomegalias.
+    - Funciones del bazo
+        - a) Hemocaterética= destrucción de las células senescentes (eritrocitos, plaquetas, leucocitos)
+        - b) Eliminación de eritrocitos con partículas anormales, como pueden ser con cuerpos de Heinz, Howell-Jolly, gránulos sideróticos ⇒ esferocitos (por disminución de superficie membrana)
+        - c) **Reservorio de plaquetas** y quizás eritrocitos, los cuales en casos de estrés se van a liberar (en esplenomegalias gigantes aumenta pool plaquetario y eritrocitario esplénicos)
+        - d) Funciones inmunológicas y fagocíticas: El bazo tiene dos funciones inmunológicas muy importantes:
+            - Eliminación de microorganismos circulantes, CIC, células opsonizadas y partículas antigénicas del torrente sanguíneo
+            - Síntesis de **IgG, properdina y tuftsina**
+        - e) Función endocrina: controla producción de eritrocitos, leucocitos y plaquetas, aunque esta función no se conoce muy bien
+        - f) Hematopoyética en embrión y en condiciones patológicas en el adulto (hematopoyesis extramedular).
+    - Patología esplénica
+        - Estructural: aumento del tamaño (ESPLENOMEGALIA) o disminución/ausencia de bazo (agenesias, ausencia por cirugía...)
+        - Funcional: hiperfunción= hiperesplenismo o hipofunción=hipoesplenismo. Hiperesplenismo no es lo mismo que esplenomegalia a pesar de que la mayoría de las esplenomegalias cursan con hiperesplenismo.
+- Esplenomegalia
+    - Definición
+        - Un bazo normal pesa 200g y aproximadamente mide 11cm craneocaudalmente
+        - El bazo no se palpa fácilmente (los que sobrepasan el reborde costal y se palpan es porque pesan ya 750-1000g)
+        - Esplenomegalia: bazo mayor de 400-500g. Esplenomegalia masiva: bazo mayor de 1000g.
+    - Etiología
+        - Esplenomegalia inflamatoria
+            - Necesidad de eliminar más antígenos de la sangre Aumento en el número de células del sistema retículo endotelial en el bazo Aumento de la producción de anticuerpos Hiperplasia linfoide
+            - En todas las enfermedades que cursan con activación del sistema inmune puede aparecer esplenomegalia (lupus, purpura trombótica idiopática, artritis reumatoide, enfermedades infecciosas...) Inflamación Aumento de las actividades defensivas en el organismo Agrandamiento del bazo
+        - Esplenomegalia hiperplásica
+            - Necesidad de eliminar células anómalas de la circulación (células con problemas intrínsecos, células opsonizadas por anticuerpos, hematopoyesis extramedular (síndromes mieloproliferativos)
+            - Aumento de la cantidad de trabajo que debe realizar el bazo ⇒ Hipertrofia
+        - Esplenomegalia congestiva
+            - Debida a hipertensión portal. Cualquier aumento de la presión portal genera un aumento de la resistencia y un acumulo de sangre en el bazo. La causa más frecuente de hipertensión portal es la cirrosis, pero también puede haber oclusión de la vena esplénica o fallo congestivo del corazón (aumento de la presión venosa)
+        - Esplenomegalia infiltrativa
+            - debido al aumento de los macrófagos con materiales que no pueden digerir en su interior. El ejemplo más típico es la enfermedad de Gaucher, aunque también podemos nombrar a amiloidosis y las metástasis malignas
+        - Infecciones
+            - El filtrado de patógenos de la sangre (especialmente de organismos encapsulados) por parte del bazo lleva a la formación de abscesos. Muchos de los abscesos esplénicos pueden ser indoloros cuando aparecen. Conforme el absceso aumenta, aumenta también el tamaño del bazo. La esplenomegalia infecciosa por abscesos es un proceso poco común pero que debemos saber reconocer y tratar. Ejemplos de esplenomegalias infecciosas son aquellas causadas por el virus de Epstein- Barr (mononucleosis infecciosa), paludismo, brucelosis, sífilis secundaria...
+        - Causas comunes
+            - Infecciosas⇒ Paludismo, Brucelosis, TBC
+                - Mononucleosis infecciosa (EBV o CMV): causada por el Virus de Epstein Barr. En los adolescentes y adultos jóvenes por lo general se manifiesta como ardor de garganta con granos blanquecinos (exudado), como se muestra en la fotografía. También es común que se presente agrandamiento de los ganglios linfáticos y fatiga
+                - b) Otras infecciones virales
+                - c) Infecciones parasitarias
+                - d) Enfermedades por arañazo de gato
+                - e) Infecciones bacterianas (brucelosis, sífilis, endocarditis, salmonela tifoidea, etc)
+            - Enfermedades que involucran el hígado
+                - a) Cirrosis (obstrucción de la vena portal, hipertensión portal)
+                - b) Colangitis esclerosante
+                - c) Atresia biliar
+                - d) Fibrosis quística
+            - Anemias hemolíticas
+                - a) Talasemias
+                - b) Hemoglobinopatías
+                - c) Anemia hemolítica por deficiencia G-6-PD
+                - d) Anemia hemolítica idiopática autoinmune
+                - e) Anemia hemolítica inmune
+            - Cáncer
+                - Leucemias agudas: son transformaciones tumorales de células muy poco diferenciadas. Uno de los órganos donde típicamente infiltran las células tumorales es en el bazo
+                - Leucemias crónicas: leucemia linfoide crónica, tricoleucemia, leucemia prolinfocítica (trastornos de los linfocitos B caracterizado por la acumulación progresiva de linfocitos maduros), leucemia mieloide crónica
+                - Linfoma de Hodgkin: Células gigantes malignas que se originan de linfocitos B
+                - Linfoma NO Hodgkin: La esplenomegalia o hiperesplenismo aparece con frecuencia durante la evolución del linfoma no hodgkiniano. La esplenectomía está indicada en los pacientes con un LNH con esplenomegalia masiva que provoca dolor abdominal, saciedad temprana y sensación de plenitud.
+            - Otras
+                - Sarcoidosis, Síndrome de Banti, Síndrome de Felty
+            - Tumor esplénico
+                - Los tumores primarios son sumamente infrecuentes
+                - Metástasis esplénicas de mama, melanoma y pulmón en 7% de las autopsias
+                - Los tumores vasculares son los más frecuentes
+                - Hemangiomas, linfangiomas, hamartomas, hemangiosarcomas, linfomas
+                - Tratamiento: esplenectomía
+    - Clínica
+        - Dolor abdominal LIGERO: El aumento de volumen es referido como pequeñas molestias de tensión. A veces el aumento de volumen es referido como: vivo o punzante (infartos esplénicos) e inflamación de la cápsula (a la auscultación, roce)
+        - Aumento del contorno abdominal (aunque es menos común)
+        - El paciente rápidamente se sacia debido a que hay un desplazamiento gástrico por una esplenomegalia masiva
+        - Síntomas asociados a la etiología:
+            - Fiebre infección
+            - Palidez, disnea, moratones, petequias Proceso hemolítico
+            - Enfermedad hepática Esplenomegalia congestiva
+            - Pérdida de peso, síndrome constitucional Neoplasia
+            - Pancreatitis Trombosis de la vena esplénica
+            - Alcoholismo, hepatitis, aterixis,, ictericia, telangiectasias, ginecomástica, cabeza de medusa, ascitis Cirrosis
+            - Murmullo cardiaco Endocarditis, fallo congestivo
+            - Ictericia en la esclera Esferocitosis, cirrosis
+            - Petequias Cualquier causa de trombocitopenia
+            - Piel con úlceras. Trepanocitosis
+    - Diagnóstico
+        - El tamaño del bazo no es fiable como guía para saber cómo se encuentra la función esplénica, ya que no siempre un bazo palpable es un bazo patológico. Por ejemplo, pacientes con EPOC o diafragmas bajos pueden tener un bazo palpable. La palpación del bazo se hace con el paciente tumbado decúbito lateral derecho con las rodillas hacia arriba y caderas flexionadas. Para palpar el bazo debemos presionar la zona mientras el paciente inspira (el bazo se moviliza con la respiración porque el diafragma lo empuja)
+        - El uso de la posición Trendelenburg reversa puede ayudar a poner en contacto el bazo con los dedos del examinador. Esto último es especialmente útil en pacientes con obesidad mórbida. Con excepción de quistes y tumores del bazo que pueden alterar su conformación las demás causas mantienen crecimiento uniforme
+        - Si la masa es bazo: - Se moviliza con la respiración. - Eje mayor dirigido hacia abajo y adentro. - Puede palparse un borde anterior abollonado. - Anula el área de timpanismo de Traube - No presenta el peloteo renal característico
+        - Ante todo **traumatismo abdominal** se debe sospechar **rotura de bazo**
+- Hiperesplenismo
+    - Definición
+        - Es una **pancitopenia** con médula ósea celular
+        - Aumento de la función esplénica ⇒ Muerte exagerada y acelerada de hematíes, plaqetas y leucocitos ⇒ Anemia, leucopenia y trombopenia= Pancitopenia
+        - La hematopoyesis está aumentada, por lo que hay una **médula ósea hipercelular**
+        - La capacidad destructiva por parte del bazo supera a la capacidad de formación por parte de la médula ósea
+        - Cualquier causa de **esplenomegalia** puede cursar con hiperesplenismo
+    - Diagnóstico
+        - Anemia, leucopenia o trombocitopenia (no necesariamente las 3, pueden combinarse)
+        - **Trombocitopenia** (50.000-150.000/mL): aproximadamente el 30% del total de plaquetas forman parte de un pool esplénico. El aumento del pool esplénico de plaquetas es la causa primaria de trombocitopenia en el hiperesplenismo. En pacientes con hiperesplenismo, hasta el 90% del total de plaquetas puede encontrarse en el bazo
+        - **Anemia**: como resultado del secuestro de hematíes y la hemodilución
+        - **Leucopenia** como resultado del aumento del secuestro y destrucción de leucocitos. Se relaciona con neutropenia ( PMN <2000)
+        - Médula ósea hipercelular con % reticulocitos normal o aumentado
+        - Esplenomegalia
+        - Mejoría del paciente tras esplectomia
+- Hipoesplenismo
+    - ETIOLOGÍA: Alteraciones hematológicas e inmunitarias que aparecen como consecuencia de las alteraciones fisiopatológicas secundarias
+        - Ausencia congénita de bazo
+        - Extirpación quirúrgica (causa más frecuente)
+        - Destrucción por radioterapia
+        - Isquémico por infartos repetidos.
+    - Clínica
+        - a) Alteraciones hematológicas: **Morfológicas**
+        - b) Leucocitosis y trombocitosis **TRANSITORIA**
+        - c) Alteraciones inmunitarias: Riesgo de infecciones graves por gérmenes encapsulados (Haemofilus influenzae y neumococo ⇒ ↓ fagocitosis y ↓IgM
+    - Hemograma
+        - Aumento de plaquetas y leucocitos circulantes
+        - Inclusiones Howell-Jolly
+        - Dianocitos y células “Burr”
+        - Aumento de reticulocitos
+- Pruebas de imagen
+    - Rx simple de abdomen: Muy poco útil a no ser que haya calcificaciones
+    - Ecografía: gold-estándar. Es una técnica no invasiva, muy sensible y muy específica para el estudio del bazo. Permite observar el tamaño y homo/heterogeneidad del contenido esplénico
+    - Gammagrafía
+    - TAC: segunda prueba fundamental. Es muy útil para medir el volumen esplénico, excluir nódulos linfáticos en el hilio y detectar bazos accesorios, abscesos esplénicos y periesplenitis. Se trata de la técnica de elección para identificar cambios inflamatorios. Es muy sensible para detectar masas, infartos y quistes
+    - Esplenoportografía
+    - Angiografia.

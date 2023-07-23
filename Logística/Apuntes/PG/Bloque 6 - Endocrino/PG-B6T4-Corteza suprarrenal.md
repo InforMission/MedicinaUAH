@@ -1,0 +1,145 @@
+- Fisiología
+    - Histología de la glándula suprarrenal
+        - Cápsula
+        - Capa glomerular ⇒ Mineralocorticoides (Aldosterona)
+        - Capa reticular ⇒ Glucocorticoides (Cortisol)
+        - Capa fascicular ⇒ Andrógenos (DHEA)
+        - Médula ⇒ Catecolaminas
+    - Regulación de corticoesteroides
+        - Glucocorticoides y andrógenos ⇒ Eje hipotálamo-hipofisario ⇒ CRH ⇒ ACTH
+        - Mineralocorticoides ⇒ SRAA, **Kalemia**
+    - Efectos del cortisol
+        - **Hiperglucemia**, ↑ Peso
+        - Catabolismo proteico ⇒ Osteoporosis
+        - Retención de Na+ y Agua
+        - **Antiinflamación** : Asma, Vasculitis
+        - **Neutrofilia**, Eosinopenia
+        - SNC : Euforia, Irritabilidad
+    - Efectos de la aldosterona
+        - Reabsorción de Na+
+        - Excreción de K+ (hipokalemia)
+        - Secreción de H+ (alcalosis metabólica)
+- Anamnesis y exploración
+    - Pruebas basales ⇒ ACTH, Cortisol de 8 y 19 horas, Cortisol libre en orina, Aldosterona, Actividad renina, DHEA-Sulfato
+    - Pruebas de supresión ⇒ Dexametasona (↓ACTH), Sobrecarga de volumen (↓SRAA)
+    - Pruebas de estimulación ⇒ CRF, ACTH, Furosemida (↑SRAA)
+- Corteza suprarrenal
+    - Enfermedad de Addison
+        - Etiología
+            - Hipofunción suprarrenal **primaria** (siempre)
+            - **Adrenalitis autoinmunitaria** (75%)
+            - Tuberculosis
+            - Infecciones, Hemorragia suprarrenal (Waterhouse-Friederischen), Depósitos
+        - Semiología
+            - **Astenia orgánica** (cansancio ↑ durante el día) muy llamativa
+            - **Hipotensión arterial** muy llamativa
+            - **Hiperpigmentación** cutaneomucosa (↑ACTH)
+            - **Hipocalcemia**, **Hiperpotasemia**, **Eosinofila**, Hipoglucemia
+            - ↓ Peso, Náuseas, Vómitos, Diarrea, Dolor abdominal
+            - Amenorrea, Caída de vello
+            - Irritabilidad, ↓ Libido
+        - Diagnóstico
+            - ↓ Cortisol en plasma y orina
+            - ↑ ACTH plasmático
+            - Respuesta disminuida a ACTH
+            - ↓ Aldosterona ↑ Renina
+    - Déficit de glucocorticoides
+        - Etiología
+            - Hipofunción suprarrenal **secundaria**
+            - Fracaso del hipotálamo (↓CRF) o la hipófisis (↓ACTH)
+        - Semiología
+            - Similar a la enfermedad de Addison (insuficiencia primaria)
+            - Menor hipotensión arterial
+            - No hiperpotasemia, No hipocalcemia
+            - Sin hiperpigmentación (↓ACTH)
+        - Diagnóstico
+            - ↓ACTH
+            - Aldosterona normal
+    - Déficit de mineralocorticoides
+        - Semiología
+            - **Hiperpotasemia**
+        - Diagnóstico
+            - Hipoaldosteronismo **hiporreninémico**
+            - ↓ Aldosterona ↓ Renina
+    - Síndrome de Cushing
+        - Etiología
+            - Causa más frecuente : Cortisol iatrógeno
+            - ACTH dependiente : Adenoma hipofisario, Carcinoma microcítico de pulmón
+            - ACTH independiente : Adenoma adrenal, Carcinoma adrenal, Hiperplasia micronodular
+        - Semiología
+            - Obesidad centrípeta (80-95%)
+            - Cara luna llena (50-94%)
+            - Intolerancia a la glucosa (40-90%)
+            - Miopatía proximal (30-90%)
+            - Hipertensión arterial (75-90%)
+            - Cambios psicológicos (30-85%)
+            - Cambios en la piel (25-80%): fragilidad capilar, equimosis, estrías abdominales
+            - Hiperpigmentación ⇒ Cushing ACTH dependiente
+            - Hirsutismo en la mujer (65-80%)
+            - Virilización en la mujer ⇒ Carcinoma adrenal
+            - Trastornos menstruales (55-80%)
+            - Impotencia (55-80%)
+            - Osteoporosis vertebral (40-50%) ⇒ Efecto secundario más importante a la administración de glucocorticoides
+            - Predisposición a infecciones.
+        - Diagnóstico
+            - ↑ Cortisol
+            - ↑ ACTH si es dependiente, ↓ ACTH si es independiente
+            - Respuesta a DXM disminuida
+    - Hiperaldosteronismo primario
+        - Etiología
+            - Adenoma solitario (S. Conn) : 30-50%
+            - Hiperplasia nodular bilateral : 30-60%
+                - ↑ Sensibilidad a Antiogensina II ⇒ ↑ Aldosterona
+            - Carcinoma suprarrenal : 1-4%
+                - ↑ Andrógenos
+        - Semiología
+            - **Hipopotasemia** ⇒ Debilidad muscular, Poluria, Calambres, **Aplanamiento** de onda T
+            - **Hipertensión** arterial, Retención de sodio y agua **sin edema**
+            - **Alcalosis** metabólica
+        - Diagnóstico
+            - ↑ Aldosterona
+            - ↓ Renina plasmática
+            - Prueba de supresión por volumen negativa
+    - Hiperfunción de la secreción de andrógenos
+        - Etiología
+            - Hiperplasia suprarrenal congénita
+                - ↓ 21-hidroxilasa
+                    - Impide el paso de desoxicortisol-cortisol ⇒ ↓Cortisol
+                    - Impide la síntesis de **DOCA** y aldosterona ⇒ ↓Aldosterona
+                - ↓ 11-hidroxilasa
+                    - ↓Glucocorticoides
+                    - **No ↓Cortisol** : Efecto mineralocorticoide de la **DOCA**
+                - ↓ Cortisol **↑ACTH** ⇒ Estimulación de la glándula suprarrenal ⇒ ↑ andrógenos
+            - Carcinoma suprarrenal
+            - Síndrome de Cushing
+        - Semiología
+            - Mujeres
+                - Intrauterino ⇒ Hipertrofia del clítoris, labios mayores rugosos y fusionados, fusión de vagina y uretra.
+                - Infancia ⇒ Crecimiento rápido, cierre epifisario precoz, caracteres sexuales secundarios masculinos, crecimiento del clítoris
+                - Adulto ⇒ Hirsutismo, voz grave, calvicie, hipertrofia muscular
+            - Hombres
+                - Intrauterino ⇒ Hiperpigmentación escroto y aumento del tamaño del pene
+                - Infancia ⇒ Crecimiento rápido, cierre epifisario precoz, caracteres sexuales secundarios sin desarrollo testicular (seudopubertad precoz)
+                - Adulto ⇒ Pasa inadvertido
+        - Diagnóstico
+            - ↑ DHEA-S plasmática ↑ACTH↔Hiperplasia suprarrenal congénita, S. Cushing
+            - ↑ DHEA-S plasmática ↓ACTH↔Carcinoma suprarrenal
+            - 21-hidroxilasa↔↑ DHEA-S plasmática ↑ 17-OH Progesterona
+            - 11-hidroxilasa↔↑ DHEA-S plasmática ↑ DOCA
+- Médula suprarrenal
+    - Feocromocitoma
+        - Etiología
+            - Tumor secretor de catecolaminas derivado de células cromafines
+            - Médula suprarrenal (80-85%), Paragangliomas (15-20%)
+        - Epidemiología
+            - Edad de presentación : {{33177502357133015::**30-35**}} **años**
+            - Esporádicos (75%) o Hereditarios asociados a **MEN2** (25%)
+            - Una de las principales causas secundarias de {{936475051234213::**HTA**}}
+        - Semiología
+            - Dato clínico fundamental : **HTA**
+            - Episodios **paroxísticos**
+            - Tríada : **Cefalea, Sudoración, Palpitaciones**
+            - Crisis : Palidez, Temblor, Hipertermia, Hiperglucemia, Leucoctiosis
+            - **Hipotensión ortostática**
+        - Diagnóstico
+            - ↑ Catecolaminas y metanefrinas (metabolitos) en sangre y orina

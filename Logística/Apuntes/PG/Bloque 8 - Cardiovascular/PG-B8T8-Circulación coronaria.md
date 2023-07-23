@@ -1,0 +1,78 @@
+- Dos perfiles de insuficiencia coronaria
+    - **Mujer** de 82 años, **diabética** y con **HTA**
+    - **Varón** de 58 años, **fumador**, con **colesterol** de 250 y **TAS** de 160 mmHg
+    - Ambos pacientes acuden a urgencias con el mismo síntoma: dolor opresivo en el pecho. Sin embargo, estos dos pacientes padecen dos problemas distintos.
+    - El riesgo de muerte por enfermedad cardiovascular para ambos es del **10% a 10 años**. Este riesgo se calcula mediante unas tablas europeas llamadas tablas Score
+    - Existen otras tablas que se llaman tablas del riesgo de Framingan que calculan el riesgo global (no solo de enfermedad cardiovascular)
+    - Mujer ⇒ AAS , cita en cardiología, casa
+    - Varón ⇒ AAS, UVI, cateterismo urgente
+- Fisiopatología del endotelio
+    - Funciones fisiológicas
+        - **Regulación de la inflamación**. El endotelio separa la sangre del resto de tejidos, y es capaz de regular la inflamación debido a que expresa moléculas de adhesión (para que se unan las células inflamatorias) y expresa factores de migración y crecimiento (para que estas células penetren en los tejidos y crezcan)
+        - **Regulación de la hemostasia**. En condiciones normales, secreta antiagregantes para que no se formen coágulos. Para ello, secreta prostaglandinas (PGI2 y TXA2), el factor tisular subendotelial activador del plasminógeno tisular (TPA). También secreta factores fibrinolíticos para que, si se forma un trombo, se pueda lisar
+        - **Regulación de la circulación**. Secreta prostaglandinas, oxido nítrico (NO) y endotelina. Las prostaglandinas y el NO son vasodilatadoras (y la endotelina es vasoconstrictora)
+    - Funciones patológicas (respuesta al daño)
+        - Acción **proagregante**. Para que se fijen las plaquetas, cerrar la herida, y evitar que nos desangremos
+        - Acción **proinflamatoria**. Para que en esa zona de ruptura se expresen los factores de inflamación
+        - Acción **vasoconstrictora**. Para cerrar el vaso
+    - Factores de riesgo coronario
+        - **Envejecimiento**
+        - **Sexo varón**. Esto es debido a las hormonas **masculinas**. Las mujeres, pasan a tener el mismo riesgo que los hombres cuando tienen la **menopausia**
+        - **Tabaquismo**. El tabaco provoca que el endotelio se contraiga. Cuando se realiza una prueba de función endotelial, es necesario que el paciente no haya fumado en 6 horas
+        - **Hiperlipidemia**, sobre todo las **LDL oxidasas**. El **colesterol** también es altamente tóxico para el endotelio. Con un colesterol de LDL de **100** desarrollamos ateroesclerosis todos
+        - **Daño mecánico, por hipertensión**
+            - Las personas de raza negra, debido a que viven en climas muy cálidos, se ha demostrado que tienen una mutación que les permite retener mucho sodio y mucha agua, para poder sobrevivir en esos climas. Sin embargo, son los mayores hipertensos del planeta debido a esa misma mutación y a la retención natural de sodio que realizan
+        - **Agentes infecciosos**, entre otros Chlamydia pneumoniae y citomegalovirus
+        - **Procesos autoinmunes**
+        - **Diabetes mellitus**. Algunas poblaciones, como los “indios pigma” debido a donde vivían, desarrollaron unas mutaciones que les hacía tener un manejo de la glucosa distinto (ya que pasaban mucha hambre). La población de Canarias y de México procede de estos indios y es por eso (entre otras razones) que son las poblaciones con más diabéticos y del mundo
+        - Cuando el endotelio es agredido, provoca **inflamación**, estado **protrombótico** y **vasoconstricción**
+        - Si el endotelio se daña, el endotelio se abre y se vuelve permeable, permitiendo el paso de monocitos y macrófagos, lo que es necesario. Pero, si hay mucho colesterol circulante, el colesterol también pasa entre las células endoteliales y se acumula en el subendotelio junto con las células inflamatorias. Como el colesterol hemos dicho que era tóxico, los monocitos y macrófagos atacan al colesterol y se convierten en células **espumosas** (que son células inflamatorias cargadas de grasa)
+        - El daño al endotelio (y por tanto la inflamación, trombosis, vasoconstricción, acumulación de células espumosas, etc), aunque sucede de manera global, sucede más en aquellos sitios en los que el flujo de la sangre es turbulento. Estos sitios son las **bifurcaciones**.
+    - Ateroesclerosis
+        - Cuando el endotelio es agredido, se produce ateroesclerosis por el acúmulo de células espumosas (por el mecanismo ya explicado), que a su vez producen placas de ateroma y ateroesclerosis. Hay dos tipos de ateroesclerosis
+        - **Remodelado excéntrico del vaso**. La placa de ateroma crece sin que se modifique la luz del vaso, ya que crece dentro de la pared. Esto implica que se puede acumular una gran cantidad del grasa sin que el vasos se estreche en absoluto. Si realizamos un cateterismo, vemos el vaso perfecto. Como no se estrecha la luz del vaso, los pacientes con estas placas (que pueden ser gigantes, pero no las vemos) serán asintomáticos. Estas placas inicialmente crecerán en la pared, pero cuando la placa de ateroma sea muy grande, empezará a hacer protrusión dentro del vaso. La protrusión dentro del vaso lo ira obstruyendo poco a poco a medida que se acumule colesterol
+        - Si el crecimiento se produce con una gran cantidad de **lípidos** y de **células inflamatorias** (porque tengas un colesterol muy alto y además tengas una proteína C reactiva muy alta ya que fumas, eres diabético, eres varón etc), las placas tendrán muchos lípidos y muchas células inflamatorias. Las células inflamatorias lo que hacen es que la placa se ablande (porque fagocitan a los lípidos). Como las células inflamatorias son proteolíticas, van a destruir toda la matriz de la placa (el colágeno) y van a formar una placa blanda. La placa blanda es muy fácil que se rompa ya que es una placa inestable
+        - Por el contrario, si hay poco colesterol y poca inflamación (debido a que hay factores de riesgo, pero no mucho colesterol ni inflamación) la placa va creciendo poco a poco. Los miocitos de la túnica media del vaso se transforman en fibroblastos, migran al interior de la placa, e intentan repara la lesión. En su intento de reparación, generan matriz de colágeno y estabilizan la placa (que incluso se puede calcifica). Esta placa al ser dura y ser más estable es muy dificil que se rompa
+        - Cuando se repente se produce un incremento súbito de la tensión arterial, si la placa es susceptible de romperse, se romperá, y formará un trombo
+        - Mujer de 82 años, diabética y con HTA ⇒ Placa **estable**, en la que el dolor aumenta con el esfuerzo y cesa si cesa el esfuerzo. Su placa ha ido creciendo poco a poco y es muy poco probable que se rompa ya que su placa es estable. Su dolor opresivo en el pecho y que se irradia hacia el brazo aparece con el frío, el esfuerzo, la digestión y a primera hora de la mañana.
+        - Varón de 58 años, fumador, con colesterol de 250 y TAS de 160 mmHg ⇒ Debido a su alto **colesterol**, a todo lo que ha fumado, etc, tiene una placa **inestable**. A poco que aumente su actividad inflamatoria (como por ejemplo por un episodio gripal), su placa se romperá y sentado (sin que aumente el esfuerzo, al contrario que en el caso de paca), notará el dolor opresivo en el pecho, que se irradia hacia el brazo. Este trombo se ha soltado y si llevaba un tiempo sin fumar, puede que su plasma tenga suficiente actividad fibrinolítica para lisas el trombo por sí mismo y no vuelva a tener ningún síntoma más.
+        - El músculo cardiaco aprende a defenderse de la isquemia por un mecanismo. Este mecanismo se basa en que la energía se almacena en ATP. Cuando no llega la sangre (y por tanto no llega a los cardiomiocitos glucosa ni oxígeno), no generan ATP, y el ATP pasa a ADP, a AMP y de ahí a **adenosina**
+        - La **adenosina** es el **vasodilatador** más potente que hay en el cuerpo. Así en la situación de isquemia se genera un vasodilatador que compensa en parte la isquemia. Esto se denomina **precondicionamiento isquémico**. Esta es la explicación de que el dolor en los pacientes con la placa estable se dé solo a primera horas de la mañana. Estos pacientes tienen una mortalidad de entorno al 7% al año.
+        - Sin embargo, cuando la placa se rompe, la obstrucción no depende del consumo miocárdico sino de que el vaso está obstruido, con lo que **el dolor no depende del esfuerzo**
+        - No siempre la isquemia cardiaca se va a deber a problemas endoteliales, puede deberse a otras situaciones como que haya una hemoglobina muy baja (por la razón que sea), pero es muchísimo menos frecuente
+- Isquemia miocárdica
+    - La isquemia es que la oferta metabólica no es suficiente para la demanda metabólica. Es decir, que el corazón va a sufrir isquemia en dos situaciones distintas:
+        - Si el aporte metabólico no es suficiente. **Hipoxia**. Si tenemos una saturación de oxígeno del **40%** podemos tener angina, aunque tengamos las arterias coronarias perfectas, Anemia. Si tenemos una hemoglobina de 6g/dl podemos tener angina, aunque tengamos las arterias coronarias perfectas. • **Espasmo** coronario. • **Embolia** coronaria. • **Vasculitis**. • Ateroesclerosis. Es la causa más frecuente.
+        - Si las necesidades metabólicas están aumentadas. • Taquicardia. • HTA. • Incremento del stress parietal.
+    - Cascada de la isquemia
+        - Alteraciones metabólicas :
+            - **Disminución del ATP**, ya que, si no tenemos ni glucosa ni oxígeno, no podemos formarlo
+            - **Acidosis**, debido a que, si no hay glucosa, se desacopla el ciclo de Krebs y se produce lactato y protones
+            - **Sobrecarga de calcio**, dado que se intentan sacar los protones de la célula porque son tóxicos y se intercambian por calcio
+        - Alteración de la relajación
+        - Alteración de la contracción
+        - Cambios eléctricos ⇒ Alteración de la repolarización
+            - Descenso del complejo S-T. Es típico del problema isquémico en el que el vaso no está ocluido (es decir, que, aunque está algo taponado, sigue pasando algo de sangre). Si es un síndrome coronario agudo lo llamamos síndrome coronario agudo sin elevación del S-T
+            - Elevación del S-T. Indica que el vaso está totalmente ocluido. Puede ser por un espasmo o por un trombo
+        - Dolor torácico. Es un poco más tardío
+        - Lesión celular. Si el vaso pasa más de 20 minutos ocluidos, los cardiomiocitos comienzan a consumir los ácidos grasos de las membranas para mantener la energía, se destruyen las membranas, y el miocito se muere
+        - Necrosis
+        - En el momento en que en el electrocardiograma observamos un cambio que indique infarto, debemos tratar al paciente en menos de 20 minutos. Esto es lo que se denomina código infarto. Si estamos ante un código infarto, hay que avisar al SUMA y al cardiólogo y hemodinamista de guardia y hacer un cateterismo urgente
+    - Reserva coronaria
+        - Solo si hay una obstrucción mecánica del vaso, podemos tratar al paciente de forma mecánica, eliminando la obstrucción. Sin embargo, si tenemos un conjunto de múltiples pequeñas lesiones, que me obstruyen un 40% de la circulación coronaria del paciente, mecánicamente no podemos actuar (ya que no podemos cambiar una arteria coronaria entera). Además, si la placa es inestable, es mejor no actuar sobre ella de manera mecánica ya que podemos liberarla y formar un trombo. En estos casos, le damos al paciente estatinas para reducir el colesterol, volver la placa más dura, y hacer así que sea más estable.
+        - Si por la razón que sea tenemos que hacer un cateterismo a un paciente con una placa estable, le ponemos un doble antiagregante (que tiene riesgo de hemorragia)
+        - El concepto de reserva coronaria significa que, si aumenta la demanda metabólica, las arterias coronarias se dilatan para poder recibir más cantidad de flujo. Cuando el endotelio funciona mejor, porque haces deporte y tienes más vasodilatación, etc; más reserva coronaria tienes. Un deportista puede llegar a una reserva coronaria de 4, mientras que un sedentario se va a quedar en una reserva de 2,7.
+        - Cuando se forma una lesión con una placa, gracias a la reserva coronaria, el endotelio distal a la obstrucción se dilata para poder aceptar más sangre. Así, las obstrucciones no dan problemas hasta que no se agota esa capacidad de reserva que tenemos. La reserva coronaria se agota cuando la obstrucción es del 70%, aunque es algo variable ya que en los pacientes diabéticos (entre otros factores de riesgo), la reserva coronaria se agota antes
+    - Regulación de la función coronaria
+        - Presiones intra y extravasculares
+            - Favorecen la perfusión ⇒ Presión **diastólica**
+            - Dificultan la perfusión ⇒ Presión diastólica **<50mmHg**, Taquicardia, ↑Presión telediastólica, Compresión sistólica: compromiso subendocárdico
+        - Regulación del flujo coronario. Las arterias epicárdicas son vasos de conductancia, que regulan poco el flujo. Aún así, pueden regularlo dilatándose por la acción de los nitratos (como el NO) y contrayéndose por el estímulo alfa-adrenérgico. Pero son las arterias intramurales y las arteriolas las que aportan la resistencia
+        - Regulación del flujo de las arterial murales
+            - 1. Metabólico. La adenosina liberada por isquemia actúa como vasodilatador
+            - 2. Humoral: -Plaquetaria: por la acción del ADP y la serotonina. -Terminaciones nerviosas: por el VIP (péptido intestinal vasoactivo y el Na+). -Glándulas endocrinas: por la secreción de adrenalina y vasopresina. -Endotelio: Por la secreción de NO, endotelina y tromboxanos/prostaciclinas
+            - 3. Autorregulación del flujo (mantener el mismo flujo para una tensión arterial diastólica cambiante). -Secreción de NO cuando el flujo es escaso. -Control miogénico, por constricción, para aumentar el flujo
+            - 4. Control neural, con inervación simpática y parasimpática
+                - Receptores α1 y α2 ⇒ La noradrenalina provoca vasoconstricción
+                - Receptores β ⇒ La noradrenalina provoca vasodilatación
+                - Receptores colinérgicos ⇒ Provocan vasodilatación en vasos pequeños

@@ -1,0 +1,89 @@
+- Fisiología
+    - Las purinas y las pirimidinas son compuestos aromáticos heterocíclicos llamados también bases nitrogenadas, que junto con los grupos azúcar y fosfato, forman los nucleótidos
+    - Los nucleótidos participan en numerosos procesos celulares
+        - Función estructural: Cuando se combinan forman los ácidos nucleicos (ADN y ARN), unidades fundamentales de expresión genética y de la división celular
+        - Función de almacenamiento y generación de energía: Proporcionan energía a la célula, a través de la formación de ATP (adenosíntrifosfofato: adenina-ribosa-P-P-P)
+        - Función coenzimática en reacciones bioquímicas: participan en el catabolismo celular
+        - Actúan como mensajeros químicos: AMPc (adenosin monofosfato cíclico) es mediador en procesos hormonales
+    - Bases nitrogenadas
+        - • Purinas: Guanina y Adenina • Pirimidinas: Timina, Citosina y Uracilo • Bases menores: Hipoxantina y Xantina
+        - Adenina y Guanina: Sistema plano formado por 4 nitrógenos y 5 carbonos • Contienen la información genética • El ser humano puede sintetizarlas a partir de intermediarios: Purinas endógenas • El principal lugar de síntesis es el hígado • Los ácidos nucleicos tras ser ingeridos, se degradan en el tracto gastrointestinal debido a la fosfatasa alcalina y otras enzimas: Purinas exógenas • Las purinas se degradan a ácido úrico y son eliminados por el riñón
+        - No son esenciales en la dieta
+    - Metabolismo de las purinas
+        - Síntesis de nucleótidos de purinas
+        - Catabolismo de purinas
+        - Alteraciones del metabolismo de las purinas →  Hiperuricemia, Hipouricemia
+    - Síntesis de Nucleótidos de purina
+        - La síntesis de nucleótidos de purina se realiza a partir de moléculas simples: aminoácidos, carbono y bicarbonato
+        - Se realiza a partir de dos mecanismos
+        - Síntesis de novo: consta de 10 pasos
+            - Comienza con el **fosforribosilpirofosfato (PRPP)**, y tras varios procesos, se forma inosina 5 ́-monofosfato (IMP), que posee la base **hipoxantina**
+            - Del IMP derivan el AMP y el GMP
+            - PRPP: fosforribosil pirofosfato sintetasa
+            - PRA: 5-fosforribosilamina
+            - GAR: ribonucleótido de glicinamida
+            - FGAR: ribonucleótido de formilglicinamida
+            - FGAM: ribonucleótido de formilglicinamidina
+            - AIR: ribonucleótido de 5aminoimidazol
+            - AICAR: ribonucleótido de 5aminoimidazol-4-carboxamida
+            - SAICAR: ribonucleótido de 5aminoimidazol-4-(Nsuccinilcarboxamida)
+            - THF: tetrahidrofolato
+            - IMP: inosina monofosfato
+        - Recuperación de purinas
+            - Generación de nucleótidos a partir de la descomposición de ácidos nucleicos
+            - Las purinas libres vuelven a transformarse en nucleótidos a través de una vía de reciclaje
+            - Esta vía es importante en tejidos como el cerebro • Economiza energía
+            - Dos enzimas
+            - **Adenina fosforribosil-transferasa**
+                - Adenina + PRPP------- AMP + PPi
+            - **Hipoxantina-guanina fosforribosiltransferasa**
+                - Hipoxantina + PRPP----- IMP + PPi
+                - Guanina + PRPP---------- GMP + PPi
+    - Catabolismo de purinas
+        - Los ácidos nucleicos ADN/ARN se descomponen en nucleótidos mediante las nucleasas • Después, los nucleótidos pierden la ribosa • La adenosina y la guanosina se transforman en ácido úrico
+        - La **URICASA** presente en los mamíferos transforma el ácido úrico en un producto hidrosoluble. • Los primates superiores y los humanos no poseen uricasa
+        - El producto final del catabolismo de purinas es el **ÁCIDO ÚRICO** ⇒ Excreción intestinal 30%, renal 70%
+    - Reabsorción de urato en los riñones
+        - Se filtra el 100%
+        - Se reabsorbe un 91-94%
+        - Se excreta un 6-9%
+        - Un aumento de la reabsorción tubular de urato resulta en una disminución del aclaramiento renal
+        - {{416815368478453::**URAT1**}} es el transportador más importante implicado en la reabsorción
+- Hiperuricemia
+    - La **hiperuricemia** se define como una concentración de **AUs** {{4406816136299678::**>6,8 mg/dl (404 μmol/l)**}}
+    - Umbral de solubilidad del AUs 6,8 mg/dl (0,40 μmol/l) ⇒ Cristales
+    - Etiología
+        - Eliminación renal ineficaz (80-90%)
+            - Insuficiencia renal
+            - Fármacos: tiacidas, salicilatos
+            - Nefropatía por plomo (gota **saturnina**)
+            - Hiperparatiroidismo
+            - Hipotiroidismo
+            - Sarcoidosis
+        - Hiperproducción de urato
+            - Trastornos enzimáticos
+                - Deficiencia de Glucosa-6-fosfatasa (Glucogenosis tipo I)
+                - Déficit de hipoxantinaguanina-fosforribosil transferasa (Sd de LeschNyhan)
+                - Hiperactividad de la fosforribosilpirofosfato sintetasa
+            - Ingesta de alcohol, purinas
+            - Neoplasias
+    - Patogenia
+        - Hiperuricemia persistente ⇒ Cristales de urato monosódico ⇒ Desprendimiento ⇒ Inflamosoma ⇒ Inflamación ⇒ Artritis aguda, Gota tofácea
+    - Déficit de hipoxantina-guanina-fosforribosil transferasa (**Sd de Lesch-Nyhan**)
+        - Defecto genético autosómico recesivo ligado al cromosoma X • Déficit de hipoxantina-guanina-fosforribosil transferasa. • Cursa con producción y excreción excesiva de AU y de hipoxantina y xantina. • Cursa con hiperuricemia, gota y alteraciones neurológicas: espasticidad, retraso mental, alteraciones del comportamiento, hostilidad y automutilaciones. • Muerte antes de los 20 años
+    - Inmunodeficiencia combinada severa
+        - **Déficit de ADA** (Adenosina desaminasa)
+        - Los niveles de adenosina y de AMP se elevan en plasma y orina, aumenta el ATP sobre todo en linfocitos: niveles con toxicidad celular
+        - Conlleva inmunodeficiencia combinada grave (LT y LB) ⇒ “niños burbuja”
+- Hipouricemia
+    - Deficiencia de Xantino-oxidasa (XO)
+    - Aumento de excreción de hipoxantina y xantina
+    - Puede aparecer en casos graves litiasis por xantina ⇒ la xantina forma pequeños cristales que ocasionalmente dan lugar a cálculos renales
+    - Estos cálculos pueden provocar insuficiencia renal
+    - Dolor abdominal, infecciones recurrentes del tracto urinario y hematuria
+    - Con menos frecuencia, los cristales de xantina se acumulan en los músculos, causando dolor y calambres.
+- Trastornos hereditarios
+    - **Gota** ⇒ ↓PPRP sintetasa ligado al X ⇒ Exceso de purinas
+    - **Síndrome de Lesch-Nyhan** ⇒ HGPRTasa ligado al X ⇒ Exceso purinas
+    - **IDCS** ⇒ ↓ADA recesiva ⇒ Inmunodeficiencia LT y LB
+    - **Xantinuria** ⇒ Xantina oxidasa recesiva ⇒ **Litiasis renal**

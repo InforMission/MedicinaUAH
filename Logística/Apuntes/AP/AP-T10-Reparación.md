@@ -1,0 +1,63 @@
+- Regeneración : Crecimiento de células y tejidos para reemplazar estructuras perdidas. Raro en mamíferos
+- Reparación→Repuesta tisular frente lesión con pérdida tisular, en órganos incapaces de regenerar. Siempre conlleva una reacción fibrosa
+- La mayoría de los procesos de regeneración de los órganos son crecimientos compensadores, que implican hipertrofia e hiperplasia celular
+- El prototipo es la ==regeneración hepática==
+    - Mediante replicación de hepatocitos produciendo crecimiento compensador, pero no lóbulos resecados
+    - De forma sincronizada se sigue la regeneración no parenquimatosa
+    - La regeneración se desencadena por acciones de factores de crecimiento y citocinas producidas por células hepáticas no parenquimatosas. Especialmente TNF, IL-6, HGF y TGF alfa
+- Elementos primordiales en la regeneración y reparación tisular
+    - Tejido conectivo
+    - Células madre
+        - Embrionarias : Pluripotenciales
+        - Adultas : Multipotenciales
+    - Factores estimulantes del crecimiento celular
+        - **TGF beta**
+        - **VEGF**
+        - **PDGF**
+        - **FGF**
+        - EGF
+        - HGF
+- La {{16411662869477395::**regeneración**}} requiere que {{09785932506311523::el andamio que proporciona el conectivo se halle intacto}}
+- La {{7242125713232188::**reparación**}} se produce cuando la trama tisular conectiva, sobre todo la matriz extracelular, se halle alterada
+- En tejidos adulto el resultado de la regeneración y crecimiento celular es consecuencia del equilibrio entre→Proliferación celular- Diferenciación- Apoptosis
+    - Tejidos lábiles→Epitelios y tejidos hematopoyéticos
+    - Tejidos estables→Hígado, riñones, páncreas, fibroblastos, músculo liso, células endoteliales, condroblastos y osteoblastos.
+    - Tejidos permanentes→Músculo esquelético y cardíaco, neuronas
+- Angiogénesis
+    - El tejido de granulación contiene vasos de nueva formación.
+    - VEGF
+        - Estimulación de NO ⇒ Vasodilatación y permeabilidad vascular ⇒ Exudación
+        - Depósitos de proteínas plasmáticas en la MEC, con fibrinógeno y fibronectina plasmática
+        - Aporta un estroma provisional para el crecimiento de fibroblastos y células endoteliales
+        - Red capilar muy frágil que se estabiliza con pericitos y células musculares lisas (PDGF) y con MEC (TGF beta)
+- Fibrogénesis
+    - Factores de crecimiento y citocinas ⇒ Inducen proliferación migración de fibroblastos
+    - Fibroblastos ⇒ Forman colágena y MEC
+- Remodelación
+    - La acumulación neta de colágeno no solo depende de su formación si no también del nivel de su degradación.
+    - Se lleva a cabo por la acción de {{8492209851483303::**metaloproteinasas**}}
+- Reparación tisular por cicatrización
+    - Respuesta inflamatoria a la pérdida tisular ⇒ Sangre y fibrina en el foco, Células inflamatorias, Citoquinas
+    - Proliferación y migración de células parenquimatosas y tejido conectivo
+    - Angiogénesis
+    - Proliferación fibroblástica
+- Cicatriz por 1ª intención
+- Cicatriz por 2ª intención
+- Defecto de la cicatrización : Heridas crónicas
+    - Ulceras venosas→Hipertensión venosa crónica
+    - Ulceras arteriales→Arteriosclerosis
+    - Ulceras diabéticas→Isquemia y neuropática
+    - Ulceras por presión ⇒ Compresiones prolongadas
+- Cicatrización excesiva
+    - Cicatriz hipertrófica
+        - Lesion térmica o traumática con afectación dérmica profunda
+        - Acumulación excesiva de colágeno ⇒ Contiene abundantes miofibroblastos
+        - **Tienden a retroceder**
+        - ![[Pasted image 20230625102848.png]]
+    - Queloide
+        - El tejido cicatricial se extiende mas allá de la herida
+        - Hay susceptibilidad individual
+        - **No retrocede**
+        - ![[Pasted image 20230625102903.png]]
+![[Pasted image 20230625102936.png]]
+![[Pasted image 20230625102945.png]]

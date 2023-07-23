@@ -1,0 +1,356 @@
+- Patología tubulointersticial
+    - Definición ⇒ Procesos patológicos renales en los que predomina el daño tubular que puede acompañarse de caída del FG
+    - Generalidades
+        - Fisiología de la nefrona
+            - Túbulo proximal ↓
+                - Reabsorbe el 65% del **Na+** filtrado, Cl-, **HCO3⁻**, K+
+                - Reabsorbe el 100% de la **Glucosa** y **Aminoácidos**
+                - Secreción de ácidos orgánicos, bases, iones H+
+            - Rama descendente fina ↓
+                - Reabsorción de agua
+            - Rama ascendente gruesa ↓
+                - Reabsorbe el 25% del **Na+** filtrado, Cl-, Mg++
+                - Secreción de **H+**
+            - Túbulo distal ↓
+                - Reabsorbe Na+, Cl-, Mg++
+                - Impermeable al agua y la urea
+            - Túbulo colector ↓
+                - Células principales : Reabsorben Na+ y secretan **K+** por control de {{**Aldosterona**}}
+                - Células intercaladas : Reabsorben K+, HCO3-, **H20** por control de {{**ADH**}} y secretan H+
+        - Mecanismos básicos de daño
+            - Alteraciones en la reabsorción y/o secreción de sustancias
+                - Pérdida de bicarbonato ⇒ Acidosis tubular renal proximal
+                - Pérdida de un nutriente ⇒ Aminoaciduria, Glucosuria
+                - Secreción de una sustancia tóxica ⇒ Cistinuria
+                - Respuesta compensadora a pérdidas ⇒ Raquitismo hipofosfatémico
+            - Falta de respuesta tubular ante estimulo hormonal
+        - Patologías tubulointersticiales por localización
+            - Túbulo contorneado proximal
+                - **Síndrome de Fanconi**
+                - Diabetes fosfatada
+                - Mutaciones de contransportadores Na/Pi
+                - **Acidosis tubular proximal** (tipo 2)
+                - Cistinuria-lisinuria
+                - Glucosuria hereditaria
+                - Intolerancia a proteínas dibásicas
+                - Harnup
+                - Glucosuria aislada
+                - Fanconi-Bickel
+            - Asa de Henle
+                - **Síndrome de Bartter**
+                - Anomalías del receptor sensible al calcio
+                - Hipomagnesemia familiar con hipercalciuria y nefrocalcinosis
+            - Túbulo contorneado distal
+                - **Síndrome de Gittelman**
+                - Hipomagnesemia hereditaria
+                - Síndromes de afectación renal-diabetes **MODY5**
+                - Síndrome SeSAME(EAST)
+                - Seudohipoaldosteronismo tipo 2 (síndrome de Gordon)
+            - Túbulo colector cortical
+                - Acidosis tubular distal (tipo 1)
+                - Seudohipoaldosteronismo tipo 2
+                - **Diabetes insípida nefrogénica**
+                - Síndrome nefrogénico de diuresis inapropiada
+            - Afectación de todos los segmentos tubulares
+                - Cistinosis (lisosoma)
+        - Formas clínicas
+            - ↓Concentración de la orina : Isostenuria, Poliuria, Nicturia
+            - Acidosis tubular renal
+            - Defectos de reabsorción tubular proximal ⇒ Síndrome de Fanconi
+            - Alteraciones endocrinas ⇒ Hipoaldosteronismo hiporreninémico, Osteodistrofia renal, Anemia
+            - Sedimento patológico, Proteinuria (↓PM, B2Mgb)
+        - Clínica de las formas hereditarias
+            - Polidipsia, poliuria
+            - Alteración del crecimiento estatural y ponderal, raquitismo
+            - Nefro-calcinosis
+            - Deshidratación aguda (que puede producir episodios febriles inexplicados) o crónica
+            - Anorexia, trastornos digestivos (diarrea, estreñimiento, vómitos), calambres, fatigabilidad muscular
+            - Hipoacusia, Dismorfia, Anomalías oculares o neurológicas
+        - Etiología
+            - Genética
+            - Secundarias a toxicidad por metales pesados, fármacos, sustancias químicas, cadenas ligeras
+    - Tubulopatías simples
+        - Afectación del procesamiento renal de una única sustancia
+        - Glucosuria renal pura
+            - Etiología ↓
+                - ↑ Umbral máximo de reabsorción del cotransportador Na+/glucosa del túbulo proximal (SGLT-2) por mutación de SLC5A2
+            - Semiología ↓
+                - **Glucosuria constante**, Glucemia {{**normal**}}
+                - Manejo **normal** de los hidratos de carbono
+                - Ausencia de otras anomalías tubulares
+                - Poliuria osmótica benigna : ↑predisposición a deshidratación
+                - **Infrecuente** poliuria-polidipsia
+        - Aminoacidurias
+            - Fisiopatología
+                - Se reabsorben prácticamente en su totalidad en el túbulo proximal (salvo histidina, serina y glicina)
+                - Dibásicos : Lisina, Arginina, Ornitina
+                - Dicarboxílicos : Glutamato, Aspartato
+                - Prolina e hidroxiprolina
+                - Beta-aminados : Taurina, beta-alanina, beta-aminobutírico
+            - Mecanismos de aminoaciduria
+                - Saturación del transporte tubular: ↑ [ ] plasmática del aminoácido (aminoaciduria por desbordamiento)
+                - Competición entre la reabsorción de varios aminoácidos (aminoaciduria específica)
+                - Anormalidad selectiva: Deficiencia en el transporte de uno o varios aa (aminoaciduria renal específica)
+                - Anormalidad generalizada: Afectación no específica del túbulo (aminoaciduria renal no específica)
+            - Cistinuria
+                - Trastorno hereditario del transporte tubular renal e intestinal de** **{{**cistina, ornitina, arginina y lisina**}}{{ (cistina + dibásicos)}}
+                - Etiología
+                    - Herencia **autosómica recesiva**
+                    - Alteración genética del **transportador de alta afinidad rBAT** del túbulo **proximal** renal y del intestino delgado
+                    - Cistinuria tipo A: Mutación de ambos alelos del gen **SLC3A1** (Cromosoma 2), heterocigotos aminoaciduria normal.
+                    - Cistinuria tipo B: Mutación de ambos alelos del gen **SLC7A9** (Cromosoma 19), heterocigotos cistina y aa dibásicos en orina (86%)
+                - Semiología
+                    - Formación de cálculos de cistina cuando la concentración de esta en orina supera los **250mg/g** de creatinina
+                    - La cistina es más soluble en **pH **{{**alcalino**}}
+        - Fosfaturia
+            - Fisiopatología ↓
+                - 80-85% del Pi filtrado ⇒ **Reabsorbido** en el túbulo **proximal** por un transportador específico Na+ dependiente (**NTP2a**)
+                - La **PTH** **inhibe** el transporte por NTP2a
+                - La reabsorción de fosfato es dependiente de la cantidad ingerida
+            - Etiología ↓
+                - Déficit del transportador sodio-dependiente **NTP2a** en túbulo proximal
+                - Hiperparatiroidismo (↓NTP2a)
+            - Hipofosfatemia familiar (Raquitismo resistente a vitamina D)
+                - Etiología
+                    - Causa genética más frecuente de hiperfosfaturia aislada
+                    - Herencia dominante ligada al sexo (Xp22.1)
+                    - Alteraciones del gen PHEX ⇒ Degradación del FGF-23 ⇒ ↑ {{**fosfatonina**}} ⇒ **↓ Reabsorción tubular de Pi**
+                - Clínica ↓
+                    - 6-12 meses de edad : **Raquitismo resistente a VitD**, retraso del crecimiento, deformidades óseas (genu varum) y en ocasiones sordera nerviosa
+                    - Adultos : Silentes, secuelas de baja talla y deformidades
+                - Semiología ↓
+                    - {{Hipo}}fosfatemia, {{Normo}}calcemia
+                    - PTH normal, Calcitonina ligeralmente↓
+                    - ↑ Fosfatasa alcalina
+            - Pseudohipoparatiroidismo
+                - Etiología ↓
+                    - Mutación AD en proteína G o en PKA en la transducción de señal del **receptor de PTH** del túbulo renal
+                    - {{Hiper}}fosfatemia, {{Hipo}}calcemia, ↑ PTH
+                - Semiología ↓
+                    - {{**Hipo**}}calcemia, {{Hiper}}fosforemia
+                    - **↑AMPc** en orina
+                - Clínica ↓
+                    - Deformidades óseas (osteodistrofia hereditaria de Albright)
+            - Raquitismo dependiente de vitamina D
+                - Etiología ↓
+                    - Autosómica recesiva
+                    - Tipo 1 : Mutación de la 1-alfa-hidroxilasa
+                    - Tipo 2 : Mutación del VDR
+                - Semiología ↓
+                    - {{**Hipo**}}calcemia, {{**Hipo**}}fosforemia, ↑ PTH
+                    - Raquitismo y tetania
+    - Tubulopatías complejas
+        - Afectación del transporte de varias moléculas
+        - Síndrome de Fanconi
+            - **Afectación global del TCP** con pérdida de Na+, K+, Pi, Ca++, HCO3⁻, Urato, Glucosa, Aminoácidos y Proteínas <60 kDa
+            - Etiología
+                - Daño no específico de la célula tubular proximal
+                - Fanconi primario : AD, AR o ligado al sexo, la mayoría **casos esporádicos**
+                - Fanconi secundario : Fármacos (lifosfamida,cisplatino), Metales (plomo,cadmio), Transplante renal, VIH nefritis, cadenas ligeras
+            - Fisiopatología ↓
+                - ↓Tasa de Reabsorción de Fosfato : **Fosfaturia**
+                - ↓K+ : Debilidad, Fatiga, Parálisis
+                - ↓Na+ : Poliuria
+            - Clínica ↓
+                - Riesgo óseo : Raquitismo, osteomalacia, deformaciones, retraso del crecimiento, anomalías dentales
+                    - Niños ⇒ Retraso de crecimiento y raquitismo resistente a vitamina D
+                    - Adultos ⇒ Lesiones óseas
+                - Debilidad muscular,  Fatiga, Parálisis
+                - Poliuria, Fiebre, Deshidratación inexplicada
+            - Diagnóstico
+                - Analítica en sangre ↓
+                    - **Hipofosfatemia con normocalcemia**
+                    - **Acidosis** metabólica hiperclorémica (del túbulo proximal)
+                    - Seguimiento de afección ósea→↑ **fosfatasa alcalina total**
+                    - Hipopotasemia, Hipouricemia, Hiponatremia
+                - Analítica en orina ↓
+                    - Glucosuria, Hiperaminoaciduria generalizada
+                    - Proteinuria tubular
+                    - Hiperfosfaturia
+                    - Hiperuricosuria
+        - Acidosis tubular renal
+            - RTA 1 (**Distal**)
+                - Etiología ↓
+                    - **↓Secreción de H+** en el TCD
+                    - Primaria : Idiopática, Esporádica, AD, AR
+                    - Autoinmune : **Síndrome de Sjögren**, LES, AR
+                    - **Hipercalciuria** hereditaria, **Hiperparatiroidismo**
+                    - Hipergammaglobulinemia
+                    - Fármacos : **Anfotericina B**, Ifosfamida, Litio
+                    - **Anemia falciforme**
+                    - Hepatitis crónica
+                    - Transplante renal
+                - Fisiopatología ↓
+                    - **Acúmulo de H+** en sangre : Acidosis metabólica
+                    - **Secreción de K+** a cambio de H+ : Hipokalemia
+                    - pH urinario > 5.5
+                    - Hipercalciuria : Litiasis renal
+                - Semiología ↓
+                    - **pH urinario **{{**> 5.5**}}{{ }}
+                    - {{**Hipo**}}**kalemia**
+                    - **Acidosis** hiperclorémica
+                    - **Hipercalciuria** ⇒ Nefrolitiasis
+                    - Hipocalcemia ⇒ Osteoporosis, Retraso del crecimiento
+                    - Sed, Poliuria
+            - RTA 2 (**Proximal**)
+                - Etiología ↓
+                    - ↓Reabsorción de HCO3⁻ en el TCP
+                    - **Síndrome de Fanconi**
+                    - Primaria : Cistinosis, Tirosinemia, Wilson, Lowe
+                        - Mutación dominante en NHE3
+                        - Mutación recesiva en NBC1
+                        - Mutación recesiva en AC-II
+                    - Secundaria : Mieloma múltiple, **Acetazolamida**, Metales pesados, Amiloidosis
+                - Fisiopatología
+                    - Umbral de reabsorción de HCO3⁻ : 26 mEq/L
+                    - HCO3⁻ basolateral NBC1 ⇔ H+ apical NHE3
+                - Semiología ↓
+                    - **pH urinario **{{**< 5.5**}}{{ }}(inicialmente ↑)
+                    - {{**Hipo**}}**kalemia** moderada o valores normales
+                    - **Acidosis** hiperclorémica
+                    - **Bicarbonaturia**
+                    - **No**  hipercalciuria
+            - RTA 4 (**Hipoaldosteronismo o acidosis hiporreninémica**)
+                - Etiología ↓
+                    - **↓Renina **o ↑Resistencia tubular a la Aldosterona
+                    - ↓Secreción de H+ y K+ en el TCC ⇒ Acidosis hiperkalémica
+                    - Fármacos : **Espironolactona**, Tacrolimus, AINES, IECA, ARA-II, Heparinas
+                    - Anemia falciforme, LES, Amiloidosis, Diabetes
+                - Fisiopatología ↓
+                    - ↓Función de intercambio **Na+/K+/H+**  : ↑H+ ↑K+
+                    - Hiperpotasemia ⇒ **↓Secreción NH4⁺** ⇒ **pH urinario ácido**
+                - Semiología ↓
+                    - **pH urinario < 5.5**
+                    - {{**Hiper**}}**kalemia** con **Acidosis** hiperclorémica (Anion gap normal)
+        - Tubulopatías "pierde sal"
+            - Síndrome de Bartter (furosemida)
+                - Etiología
+                    - Bartter clásico (III)⇒ Mutación para el canal de Cloro CLC-Kb
+                    - Hipokalemia familiar crónica (I)⇒ Mutación de **NaKCC2** autosómica recesiva
+                    - Bartter IV y VI ⇒ Sordera neurosensorial
+                - Fisiopatología ↓
+                    - **↓Reabsorción NaCl **⇒ ↓Volumen extracelular
+                    - **↑SRAA** ⇒ Hiperaldosteronismo secundario ⇒ ↓K+ ↓H+
+                    - **↑PGE2 **⇒ Hiperrreninismo con hiperaldosteronismo sin HTA
+                    - ↓Capacidad dilutora , **↓Concentración**
+                    - Hiperplasia del aparato yuxtaglomerular
+                - Semiología ↓
+                    - **↓Concentración urinaria** ⇒ Poliuria, Polidipsia marcadas
+                    - {{**Alcalosis**}} metabólica {{**hipo**}}**potasémica** (debilidad,arritmias)
+                    - **Hipotensión** arterial
+                    - **Hipercalciuria** (litiasis), Hipercloruria, Hipermagnesuria
+                    - Hiperuricemia ⇒ Artritis gotosa en adultos
+            - Síndrome de Gittelman (tiazida)
+                - Etiología
+                    - Mutación autosómica recesiva de SLC12A3 para el transportador NaCl sensible a tiazidas (NCCT) del TCD
+                - Fisiopatología ↓
+                    - ↓Reabsorción NaCl ⇒ ↓Volumen extracelular
+                    - ↑SRAA ⇒ Hiperaldosteronismo secundario ⇒ **↓K+ ↓H+**
+                    - ↓Capacidad dilutora , Concentración preservada
+                - Semiología ↓
+                    - **Hipotensión** arterial
+                    - {{**Alcalosis**}} metabólica {{**hipo**}}**kalémica**
+                    - **Hipocalciuria ⇒ Tetania**, Hipomagnesemia
+            - Síndrome de Liddle (amilorida inversa)
+                - Etiología ↓
+                    - ↑Expresión de **ENaC** (Canal de Na+ sensible a Amilorida) del TCC
+                    - Mutación autosómica dominante del extremo carboxiterminal de la subunidad beta o gamma del ENaC
+                - Fisiopatología ↓
+                    - ↑Volumen ⇒ ↓SRAA (hiporreninemia) con HTA
+                    - ↑ Reabsorción Na+ ⇒ ↓K+ ↓H+
+                - Semiología ↓
+                    - **HTA** grave de aparición temprana
+                    - {{**Alcalosis**}} metabólica con {{**hipo**}}**potasemia**
+            - Hiperaldosteronismo primario
+                - Etiología ↓
+                    - Mutación autosómica recesiva
+                    - Déficit de la 11-beta-hidroxiesteroide deshidrogenasa-2 que **desactiva el cortisol** a cortisona : **↑Efecto mineralocorticoide**
+                - Diagnóstico diferencial con síndrome de Liddle
+                    - Síndrome de Liddle↔Resistente Espironolactona, Sensible a **Amilorida**
+                    - Déficit de 11beta-HSD-2↔Resistente a **Amilorida y Espironolactona. **Buena respuesta a DXM
+        - Diabetes insípida nefrogénica
+            - Etiología ↓
+                - Respuesta deficiente a ADH
+                - Anomalía del receptor V2 de vasopresina ligada al X
+                - Anomalía del gen de AQP2 autosómica recesiva o dominante
+            - Semiología ↓
+                - Síndrome poliúrico (> 1L/m²) ⇒ **Acuaresis**
+                - Hipernatremia y Orina <200 mOsm/kg, que persiste en la prueba de restricción hídrica
+                - Respuesta a desmopresina nula o escasa (dd. DI central)
+        - Pseudohipoaldosteronismo
+            - Cuadros con resistencia a la acción de la aldosterona
+            - Tipo 1 (Espironolactona)
+                - Etiología ↓
+                    - AD : Mutación del gen del receptor mineralocorticoide ⇒ Tubulopatía
+                    - AR : Mutaciones de las 3 subunidades del ENaC ⇒ Afección sistémica (colon, pulmón, glándulas salivales/sudoríparas)
+                - Semiología ↓
+                    - **Hiponatremia**, Hiperpotasemia y ↑SRAA
+            - Tipo 2 (Síndrome de Gordon)
+                - Etiología ↓
+                    - Mutaciones activadoras de los genes de dos isoformas de WNK serina-treonina cinasas (WNK1 y WNK4)
+                    - ↑ Reabsorción de NaCl, inhibición la excreción de K+ a nivel del TCD
+                - Semiología ↓
+                    - HTA (↑Na+), Hiperpotasemia, ↓SRAA
+                    - Acidosis metabólica hiperclorémica
+            - Adquiridos
+                - Enfermedades autoinmunitarias
+                - Transplante renal, especialmente al usar anticalcineurinas
+                - IECa, ARAII, Ahorradores del potasio, AINEs, Ciclosporina
+            - Clínica
+                - Vómitos, Anorexia, Deshidratación, Fiebre, Hiponatremia, Hiperpotasemia
+        - Diagnóstico diferencial a considerar en polidipsia
+            - Diabetes mellitus
+            - Diabetes insípida central
+            - Ciliopatías (nefronoptisis, síndrome de Bardet-Biedl)
+            - Anomalías congénitas del desarrollo
+            - Potomanía
+            - Ciertas exposiciones farmacológicas
+        - Fármacos que simulan tubulopatías
+            - Acetazolamida↔Acidosis tubular II tipo Fanconi
+            - Furosemida↔Bartter
+            - Tiazidas↔Gittelman
+            - Amilorida o Espironolactona↔Pseudohipoaldosteronismo
+            - Tolvaptán↔Diabetes insípida nefrogénica
+    - Síndrome tubulointersticial
+        - Fisiopatología ↓
+            - **Acidosis** metabólica hiperclorémica
+            - Hipertensión arterial {{**tardía**}}
+            - {{↓FG}} en mayor proporción que en síndromes glomerulares
+            - ↓Concentración $H_2O$ ⇒** Poliuria, Nicturia, Polidipsia**
+            - **↓NaCl** ⇒ Hipovolemia, Hiperpotasemia, {{**↑**}}**FeNa**
+            - Alteración endocrina renal ⇒ Hipoaldosteronismo hiporreninémico, Osteodistrofia renal, Anemia
+            - **Proteinuria escasa** (b2Mgb) y leucocituria
+            - ![](local:///home/yan/remnote/remnote-6360f76b0ae23204999e2647/files/sHd-mfsiR2tXLMs1FUhArhT3lw7-qvCJ5PeavHjWUCEddWyH31uDMj21dyiNCAjOEFteHBs_N1B_vuY4nRghYPugM8qkBDcvstISjI8Frd-9OHfPgbMl6D2taAADK04Y.png)
+        - Pielonefritis
+            - Patocronia aguda o crónica
+            - Vías de llegada de las bacterias
+                - Hematógena (lesión renal previa)
+                - Ascendente ⇒ Reflujo veico‒ureteral, Reflujo intrarrenal
+            - Lesiones renales de la pielonefritis ↓
+                - Edema intersticial, Infiltrado de {{**neutrófilos**}} ⇒ Obstrucción tubular ⇒ **Cilindros**
+                - Destrucción del parénquima ⇒ **Microabscesos**
+                - Necrosis papilar, Fibrosis, Atrofia tubular ⇒ **Deformación de cálices y papilas**
+            - Clínica
+                - Fiebre, Escalofríos, Lumbalgia, Disuria, Poliaquiuria, Leucocituria ,Hematuria, Bacteriuria, Cilindruria
+        - Daño tubulointerstical por fármacos
+            - Etiología
+                - Toxicidad dosis-dependiente : ↑Concentración en el túbulo ⇒ Daño tubulointersticial ⇒ Necrosis tubular
+                - Hipersensibilidad : Respuesta inmune mediada por {{linfocitos T}} ⇒ Infiltrado linfocitario intersticial ⇒ Necrosis tubular
+                - Necrosis tubular aguda ⇒ Aminoglucósidos
+                - Necrosis tubular crónica ⇒ Litio, Analgésicos
+            - Nefritis intersticial aguda
+                - Semiología ↓
+                    - 1-2 semanas tras la exposición
+                    - Hipersensibilidad mediada por** **{{**linfocitos T**}}** **
+                    - Fiebre, Rash, **Eosinofilia**, Artralgias
+                    - Sedimentos ⇒ Leucocitos, Cilindros, **Eosinofiluria**, Hematuria, Proteinuria **no nefrótica** (excepto {{AINEs}})
+                    - **FeNa **{{**> 1**}}{{ }}
+                    - Infiltrado linfocitario intersticial ⇒ {{**Necrosis tubular**}}{{ }}
+        - Obstrucción
+            - Intratubular
+                - Cadenas ligeras (mieloma)
+                - Fármacos
+                - Urato
+            - Dilatación proximal de vías urinarias
+                - Hidronefrosis
+        - Enfermedad poliquística

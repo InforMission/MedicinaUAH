@@ -1,0 +1,127 @@
+- Factores etiológicos
+    - Físicos
+        - Radiaciones ionizantes
+        - Traumatismos repetidos
+        - Quemaduras o microquemaduras repetidas
+            - Kairo (Himalaya) cánceres en los que portan pequeñas estufas a la espalda
+            - Fumadores de cigarrillos al revés en Chutta (Venezuela)
+            - Colilla en la comisura de la boca
+    - Químicos
+        - Hidrocarburos aromáticos policíclicos
+        - Aminas aromáticas
+        - Agentes alquilantes ⇒ Algunos se unen directamente al ADN (diaminopiridina)
+        - Nitrosaminas (ENU)
+        - Humo del tabaco
+        - Aflatoxina (Aspergilus flaveus)
+        - Metales (Ni, Pb, Cd, Be, Arsénico)
+        - Amianto
+        - DHM, diaminobencidina
+    - Biológicos
+        - Virus RNA
+            - Virus de leucemia T humana tipo 1 ⇒ Transcriptasa invertasa
+        - Virus ADN ⇒ Integración del genoma
+            - HPV : Cuello de útero
+            - VEB : Linfoma
+            - VHB : Cáncer hepático
+            - HVH8 : Sarcoma de Kaposi
+        - Helicobacter Pylori ⇒ Linfoma MALT
+    - Endógenos
+        - Estrógenos, Andrógenos, TSH
+        - Genéticos
+            - Autosómica dominante
+                - Poliposis familiar
+                - Retinoblastoma
+                - Neurofibromatosis tipo 1 y 2
+                - Síndrome Von Hippel Lindau
+            - Cánceres de predisposición familiar
+                - Mama : BRCA 1 y 2
+                - Ovario
+                - Colon : Síndrome de Lynch (cáncer colorrectal hereditario no polipósico)
+                - Xeroderma pigmentosum : Acantosis nigricans
+- Bases moleculares del cáncer
+    - Hipótesis genética del cáncer
+        - Las {{2662090164055704::**alteraciones genéticas (no letales)**}}{{2662090164055704:: }}son la causa del cáncer.
+        - Pueden ser **adquiridas** (más frecuente) por agentes ambientales o **heredadas** por línea germinal
+        - Neoplasia ⇒ **Expansión clonal** de una sola célula progenitora que ha sufrido una alteración genética ⇒ {{03966260199400229::**Monoclonalidad**}}
+        - La carcinogénesis es un **proceso** {{9098215461259056::**progresivo**}} tanto a nivel fenotípico como genotípico
+        - Neoplasia maligna ⇒ Crecimiento excesivo, invasión local, capacidad de metásasis ⇒ Se adquieren progresivamente por mutaciones que dan lugar a {{8902343039376568::**subclones**}} celulares
+        - Cáncer pleomorfo ⇒ Tiene varios clones
+    - Se suceden distintas mutaciones a lo largo del tiempo
+    - El tumor es monoclonal pero {{6497925353960341::**heterogéneo**}} por la aparición de {{6497925353960341::**subclones**}}
+    - Persisten los subclones que evaden las defensas del huésped. Probablemente los más agresivos
+        - Colagenasa→Salir del vaso y hacer metástasis
+        - Capacidad infiltrativa
+        - Angiogénesis
+- Carcinogénesis : Oncogenes
+    - Virus del **sarcoma de Rous** productor de tumor en ratones
+        - Proteína fosforilada pp60v-src (fosfoproteína, de 60 kd vírica del sarcoma de rous)
+        - Tiene capacidad de fosforilar otras proteínas que intervienen en la regulación de proliferación
+        - Esta proteína está codificiada por el _**gen v-src ⇒**_ **Oncogén**
+    - Todaro sugirió que los oncogenes se hallaban en todas las células normales pero inactivos : concepto de {{5040765305358217::**Protooncogén**}}
+    - Protooncogenes→Genes que codifican proteínas relacionadas con la recepción o trasdución de señales de la división celular, y pueden hacerse oncógenos (oncogenes) por la acción de virus u otros carcinógenos
+    - Oncogenes→Genes anormales que proceden de un **protooncogén alterado** y actúan sobre la vía que se encarga de traducción de señales
+- Tipos de genes relacionados con la carcinogénesis
+    - Oncogenes : Protooncogenes alterados
+    - Protooncogenes **estimuladores** del crecimiento↔Oncogenes **dominantes** en los que solo es necesaria la mutación de un alelo
+    - Genes **supresores** de la división (antioncogenes)↔Oncogenes **recesivos** : Se deben inactivar los dos alelos
+    - Genes reparadores ⇒ Genes que no funcionan (no arreglan el protooncogen)
+        - **Síndrome de Lynch** ⇒ Hay genes reparadores que no funcionan (MSH1, 2)
+    - Genes que regulan la apoptosis
+- Oncogenes
+    - **Pueden codificar proteínas similares a factores de crecimiento celular** como ocurre con el c-sis que codifica una proteína similar al factor PDGF
+    - Receptores de los factores de crecimiento : EGF, cer-B1, cer-B2, cer-B3
+    - Protooncogenes que codifican proteínas cinasas de la membrana : c-neu, c-fms
+    - Protoncogenes y sus oncogenes correspondientes de la familia ras (H-ras, K-ras, N-RAS), codifican una proteína de 21kd que se une a nuceleótidos de la guanina gtp y gdp activando al apmc que a su vez activa las cinasas y estas la división
+- Activación de los protooncogenes
+    - **Mutaciones puntuales** : solo la mutación de un alelo es suficiente
+    - Por **amplificación genética** (reduplicación de un gen)
+    - **Reordenamientos** cromosómicos ⇒ Gen de la{{19855550474678885:: }}{{19855550474678885::**ciclina D1**}}{{19855550474678885:: }}cambia de locus en el linfoma del manto
+- Inactivación de genes supresores
+    - Delecciones (pérdidas en los 2 alelos), metilaciones, mutaciones (en los dos alelos) (LOH pérdida de heterocigocidad)
+    - Genes supresores
+        - P53
+        - Rb
+        - P16
+        - P21
+        - BRC1 y 2
+        - APC
+- Genes reparadores
+    - Genes capaces de reparar. En el cáncer se produce una mutación en estos genes por lo que no se reparan aquellas células mutadas.
+    - hMSH2 y hMLH1 (Síndrome de cáncer de colon hereditario sin poliposis : {{6834869127186731::Síndrome de Lynch}})
+- Genes reguladores de la apoptosis
+    - Antiapoptóticos ⇒{{548806259865797:: }}{{548806259865797::**Bcl-2**}}{{548806259865797:: }}(si hay mucha {{548806259865797::bcl-2}} expresada el tumor progresa porque no se produce apoptosis)
+    - Estimuladores de la apoptosis ⇒ bax, bcl-Xs, bad, protooncogen c-myc
+    - La {{5953622773992047::P53}} estimula la {{18775729902976335::Bax}} ⇒ no estimula la vía de la apoptosis y además es un gen supresor
+- Telómero
+    - Las células tienen un número de divisiones máximas
+    - Con cada división se acorta el telómero ⇒ Secuencias repetitivas de pares de bases en el extremo de los cromosomas
+    - En las células germinales el telómero se recompone por la acción de la {{2783698197405291::**Telomerasa**}} (enzima que regenera el telómero) ⇒ Célula inmortal
+    - Muchas células neoplásicas sintetizan telomerasa
+    - Es una diana terapéutica (antitelomerasas)
+- Etapas del cáncer
+    - Protooncogén (Kras, cmyc, cerb, nmyc) ⇒ Receptores de membrana ⇒ Mitosis
+        - Genes reparadores
+        - Genes supresores
+            - P53 ⇒ 17p13
+            - P16 ⇒ 9p21 ⇒ Ciclina D1
+            - FHIT ⇒ 3p14
+    - Carcinógeno ⇒ Convierte protooncogén en oncogén
+        - Estimulación de la división
+        - Delección,hipermetilación, mutaciones ⇒ Inactivación de genes supresores
+        - P-53-Bax ⇒ Apoptosis
+            - Si producen Bcl-2 ⇒ antiapoptosis (bcl2 positivos)
+    - Expansión clonal
+        - Mutaciones adicionales ⇒ Heterogeneidad tumoral
+        - VEGF ⇒ Angiogénesis ⇐ Anti VEGF
+        - Telomerasa ⇒ Inmortalidad
+        - Capacidad colagenasa ⇒ Invasión ⇒ Metástasis a distancia
+        - Escape inmunitario
+            - Los cánceres con {{18366545843346205::**muchos NK**}} **responden** {{8270171063100624::**mejor**}} al tratamiento por inmunoterapia
+- Características de la célula neoplásica
+    - Autosuficiencia con respecto a señales de crecimiento
+    - Insensibilidad a señales inhibidoras del crecimiento
+    - Escape de la apoptosis
+    - Reparación defectuosa del ADN
+    - Capacidad ilimitada de multiplicación celular
+    - Angiogénesis mantenida
+    - Capacidad infiltrativa y metastásica

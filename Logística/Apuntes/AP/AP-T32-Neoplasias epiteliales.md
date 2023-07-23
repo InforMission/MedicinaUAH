@@ -1,0 +1,91 @@
+- Papiloma escamoso de laringe
+    - Ramificaciones con estroma y vasos en el centro, revestidas de epitelio plano poliestratificado
+    - Tumores benignos
+    - Excrecencias blandas y aframbuesadas
+    - Único o múltiple
+    - Milimétricas
+    - Proyecciones digitiformes
+    - Epitelio típico (no hay atipia)
+    - Asociación a cepas de **HPV**
+    - Asociación neoplásica infrecuente
+- Pólipo adenomatoso de colon
+    - Neoplasias frecuentes
+    - Antes de los 40 ⇒ 20-30%
+    - Después de los 60 ⇒ 40-50%
+    - Predisposición familiar
+    - **Pediculados** ⇒ Nacen de una raíz
+    - **Sésiles**⇒ Crecen de forma plana
+    - Adenoma ⇒ Proliferación displásica del epitelio leve, moderada o severa ⇒ Carcinoma
+    - Microscopía
+        - Tubulares ⇒ Forma predominantemente túbulos (75%)
+        - Vellosos ⇒ Proyecciones digitiformes, no suelen formar glándulas
+        - Tubulovellosos ⇒ Adenoma velloso que forma glándulas parcialmente (25-50%)
+    - Displasia : Núcleos cromáticos, Hipertrofiados, Poliseriados, Figuras de mitosis, Pérdida de secreción en citoplasma, Los núcleos se hacen apicales
+- Adenoma velloso de colon
+    - Personas de edad más avanzada
+    - Sésiles
+    - No forma glándulas (velloso) ⇒ Faltan células caliciformes
+- Adenocarcinoma de colon
+    - Alta incidencia ⇒ 98% de los tumores de colon
+    - Nacen sobre pólipos
+    - En estadíos precoces ⇒ Generalmente curables con la extirpación
+    - Esporádicos 99% ⇒ Síndromes familiares
+- Metástasis hepática de adenocarcinoma de colon
+    - Hay más metástasis que tumores primarios en hígado
+    - Mama, Pulmón, Colon
+    - Implantes múltiples
+    - Hepatomegalia
+    - Nódulos de crecimiento rápido ⇒ Necrosis central
+- Adenoma folicular de tiroides
+    - Lesiones tumorale únicas y bien delimitadas
+    - Derivan del epitelio folicular
+    - difícil distinción clínica entre hiperplasias y carcinomas
+    - Redondeados
+    - Rodeados por una cápsula fina ( si se rompe es un adenocarcinoma)
+    - Áreas de hemorragia, fibrosi y o calcificación
+    - ECO y PAAF
+    - Duagnóstico definitivo : pieza quirúrgica
+- Carcinoma epidermoide de pulmón
+    - Más frecuente en varones
+    - Fuertemente relacionada al hábito tabáquico
+    - Bronquios centrales
+        - Metaplasia ⇒ Displasia ⇒ Carcinoma in situ ⇒ Carcinoma invasivo
+    - Suelen tener extensión local ⇒ Metástasis más tardía
+    - Definición de un carcinoma epidermoide ⇒ Queratina (perlas córneas) y Puentes intercelulares
+    - Nidos de células epidermoides
+- Carcinoma transicional de vejiga
+    - Varones > Mujeres
+    - 50-80 años
+    - Asociación al tabaquismo
+    - Hematuria
+    - 90% de los tumores de vejiga
+    - Muchos son multifocales al diagnóstico
+    - Morfología papilar, sólida o mixta
+    - Grados de malignidad histológica (ISUP): Bajo grado o Alto grado
+- Carcinoma ductal de mama
+    - Carcinoma invasivo de mama de tipo no especial
+    - 75%-80% de carcinomas de mama
+    - Origen epitelial mamario tanto por morfología como por IH
+    - Factores pronóstico - Edad, estadio, ganglio slinfáticos, grado istológico, biomarcadores, expresión genética
+    - Clasificación nottingham : Formación tubular, Nulear pleomorphism, Mitosis
+- Carcinoma lobulillar in situ de mama
+    - Proliferación neoplásica
+    - no invasiva
+    - Irigen en unidad ductulotubular terminal
+    - Rellena y dilata los acinos
+    - Pérdida de expresión de E-cadherina
+    - Multicéntrico y-o bilateral
+    - Si no hay glándulas puede ser un ductal poco diferenciado (alto grado) o uno lobulillar
+- Carcinoma lobulillar intiltrante de mama
+    - Carcinoma invasivo de origen mamario con pérdida de la adhesión celular
+    - 10% de los carcinomas mamarios invasivos
+    - Disposición de células
+- Carcinoma anaplásico
+    - Neoplasia altamente agresiva
+    - rápido crecimiento
+    - Invasión local y metástasis a distancia al diagnostico
+    - Superviviencia de poco s meses
+    - Morfología
+        - Sarcomatoide : Células parecidas a las mesenquinales (alargadas, como los músculos, no redonditas como el epitelio)
+        - Células gigantes
+        - Epitelioide

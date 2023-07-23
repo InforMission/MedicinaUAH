@@ -1,0 +1,84 @@
+- Grupo de enfermedades que tiene en común el depósito de proteína anormalmente plegada
+- Amiloide : Sustancia proteica patológica en plegaminto beta que se deposita en el espacio extracelular de diversos tejidos y órganos, que produce una amplia variedad de manifestaciones clínicas
+- Patogenia
+    - Depósito de proteínas con plegamiento en lámina beta (anómalo), que puede ser normal en hiperproducción o mutada
+    - Las proteínas mal plegadas e inestables tienden a agregarse ⇒ Forman fibrillas no ramificadas y se depositan en el intersticio
+- Propiedades tintoriales
+    - Sustancia hialina, eosinófila, amorfa y acelular
+    - Metacromasia : Cambio que ocurre en el color que exhiben ciertos colorantes al unirse a determinadas sustancias (cromotropos) de los tejidos
+    - Tinción de Rojo Congo, Tioflavina
+    - Birrefigencia verde manzana de la tinción rojo congo bajo luz polarizada
+- Propiedades físicas
+    - Fibrillas largas no ramificadas de longitud variable y diámetro de 7,5 a 10 nm
+    - El 95% son proteínas fibrilares, el resto son una glucoproteína (componente P) y glicosaminoglucanos
+    - Láminas beta plegadas (cristalografía con RX)
+        - Responsable de la birrefringencia con rojo Congo
+        - Resistentes a la eliminación por los sistemas enzimáticos proteolíticos
+        - Condiciona la actividad biológica
+- Clasificación
+    - Etiología
+        - Adquiridas
+            - Primaria - AL
+            - Sistémica reactiva - AA
+            - Asociada a hemodiálisis - Ab2M
+            - Senil - ATTR
+        - Hereditarias
+            - Amiloidosis por Transtirretina mutada
+            - Amiloidosis por Gelsolina
+            - Amiloidosis por Fibrinógeno
+            - Amiloidosis por Apolipoproteína
+    - Proteína depositada
+        - AL→Cadena ligera Ig sintetizada por células plasmáticas. Forma más común.
+        - AA→Amilode A sérico. Proteína no Ig formada en el hígado (SAA)
+        - A-beta-2M→Microglobulina beta2. Componente del MHCI y una proteína sérica normal
+        - ATTR→Transtirretina o prealbúmina. Proteína transportadora de la tiroxina y retinol
+        - AH→Cadena pesada Ig
+        - AapoA-I→Apolipoproteína A-I
+        - A-beta→Proteína beta-amiloide. Formada por proteólisis de una proteína transmembranosa PPA (proteína precursora del amiloide)
+        - Amiloide endocrino→Amiloidederivado de hormonas polipeptídicas (calcitonina, polipéptido amiloideo insular)
+- Manifestaciones clínicas
+    - Patología general
+        - Depósito extracelular : Incremento del tamaño del órgano, compresión y atrofia del parénquima adyacente ⇒ Insuficiencia
+        - Depósito en la pared vascular : Estenosis, Isquemia local, Hemorragias
+    - Patología renal
+        - Afección potencialmente más grave
+        - Depósito arterial y arteriolar
+        - Depósito mesangial ⇒ Aumento del tamaño glomerular
+        - Depósito intersticial ⇒ Atrofia tubular
+        - El órgano aumenta al principio de tamaño y luego se contrae
+        - Síndrome nefrótico, Insuficiencia renal
+    - Patología cardíaca
+        - En cualquier tipo de amiloidosis sistémica
+        - Depósitos en intersticio y pared vascular
+        - Afectación miocárdica ⇒ Atrofia fibrilar y subendocárdica en algunas fibras, hipertrofia compensadora en otras ⇒ Miocardiopatía restrictiva
+        - Puede producir trastornos de conducción
+    - Tubo digestivo
+        - Desde la boca al ano : Muy frecuente en el recto
+        - Depósito vascular o intersticial
+        - Depósito en lámina propia del ID ⇒ Síndrome de malabsorción
+    - Hígado-Bazo
+        - Suele haber hepato-esplenomegalia muy precoz, con función respetada generalmente
+        - Hígado ⇒ Primero afecta el espacio de Disse y envuelve a hepatocitos y sinusoides
+        - Bazo
+            - Depósito en folículos→Granulación en superficie (bazo en sagú)
+            - Depósito en senos→Bazo lardáceo
+- Amiloidosis localizada
+    - Localizada en múltiples órganos : {{08477971409738605::AL}}
+        - Depósitos nodulares en pulmón, tráquea, laringe, piel, vejiga, lengua y periocular
+        - ![[Pasted image 20230625103532.png]] ![[Pasted image 20230625103539.png]] ![[Pasted image 20230625103548.png]]![[Pasted image 20230625103600.png]]
+    - Atrial : {{3190337047612861::AANF}}
+        - Factor natriurético atrial (ANF)
+        - Arritmia
+    - Páncreas : {{7635639611341076::AIAPP}}
+        - Polipéptido amiloide de los islotes (IAPP o amilina)
+        - Amiloidosis de los islotes pancreáticos ⇒ DM-II e insulinoma
+    - Tiroides : {{10495924091018316::Acal}}
+        - Amiloide de calcitonina
+        - En carcinoma medular de la tiroides
+    - Encefalopatía espongiforme : APrP
+    - Angiopatía amiloide cerebral↔Abeta40
+        - Depósito vascular en las arterias leptomenígneas y corticales
+        - Hemorragias cerebrales
+    - Alzheimer↔Abeta42
+        - Placas neuríticas extracelulares : Núcleo central de amiloide rodeado de células nerviosas degeneradas
+        - Demencia

@@ -1,0 +1,205 @@
+- Moléculas
+    - Factores de crecimiento mieloides y linfoides
+        - Glicoproteínas que actúan jerárquicamente a baja concentración
+        - Frecuentemente producidas por muchos tipos celulares
+        - Frecuentemente activas en stem/progenitoras y en las celulas últimamente diferenciadas aumentando su actividad
+        - Frecuentemente muestran interacción aditiva o sinérgica con otros factores de crecimiento
+        - A menudo actúan sobre el equivalente neoplásico de una celula normal
+        - Poseen acciones múltiples: Proliferación, Diferenciación, Maduración, Prevención de apoptosis y Activación funcional
+        - Células estromales ⇒ IL-1, TNF
+        - Células stem pluripotentes ⇒ SCF, Flt-L
+        - Células progenitoras multipotentes ⇒ IL-3, GM-CSF, IL-6, G-CSF, Trombopoyetina
+        - Células progenitoras condicionadas ⇒ G-CSF, M-CSF, IL-5 (Eo-CSF), Eritropoyetina, Trombopoyetina
+    - Proteínas de fase aguda
+        - Proteína C reactiva
+            - Protína pentamérica capaz de unirse a la lisofosfatidilcolina de la superficie bacteriana
+            - Activación del complemento vía C1q, opsonización
+        - MBL
+            - Proteína oligomérica perteneciente al subgrupo de las **colectinas tipo C** de la superfamilia de lectinas
+            - Une patrones de la superficie de los microbios
+            - Activación del complemento por la **vía de las lectinas**
+        - SP-A y SP-D
+            - Unión de LPS, glucanos fúngicos y residuos de manosa
+            - Opsonización, ↑ aclaramiento de patógenos pulmonares
+        - L, H y M-ficolinas
+            - Relacionadas con el subgrupo de collectinas de las lectinas C
+            - Reconocen un gran rango de patrones glucídicos y activan la **vía de las lectinas**
+        - Proteínas plasmáticas que se asocian a una infección o lesión tisular, aumentando (positivas) o disminuyendo (negativas) y teniendo efectos pro o anti-inflamatorios
+        - Proteínas cuya concentración plasmática {{7115123707105453::aumenta }}{{7115123707105453::**>25%**}} en respuesta a citoquinas proinflamatorias IL-1beta, IL-6 y TNF-alfa
+        - Deficiencia de alfa1-antitripsina→Diagnóstico de **enfisema congénito**
+    - Complemento
+        - Vía clásica
+            - Activación por complejos Ac-Ag
+            - C1q, C1r, C1s ⇒ **C2, C4** ⇒ **C4b2b**, C4a, C2a
+            - C4b2b ⇒ C3
+            - **C4b2b3b** ⇒ MAC, C5a
+        - Vía de las lectinas
+            - **MBL, MASP** ⇒ **C2, C4** ⇒ C4b2b
+            - C3, MAC
+        - Vía alternativa
+            - LPS ⇒ ↓Inhibidores C3b (Factor I, Factor H)
+            - C3b, Factor B, Factor D ⇒ **C3bBb** (Estabilizado por factor P o Properdina)
+            - C3bBb3b ⇒ MAC
+        - Proteínas reguladoras del complemento
+            - C1 inhibidor ⇒ ↓C1qrs ⇒ ↓C4a
+            - Factor I, Factor H ⇒ ↓C3bBb
+            - CD59, CD55(DAF) ⇒ ↓MAC
+        - Receptores de complemento
+            - CR1, CR3, CR4→Opsonización
+            - CR1 (CD35)→Eritrocitos (transporte de inmunocomplejos al hígado y bazo para la eliminación)
+            - CR2 (CD21)↔Correceptor de células B, receptor de EBV
+            - CR3 (CD11b/CD18)
+            - CR4 (CD11c/CD18)
+            - C5aR (CD88)
+    - Interleuquinas
+    - Inferferón
+    - TNFalfa
+    - Quimioquinas
+- Receptores
+    - Estructuras reconocibles
+        - Antígenos
+        - Patrones moleculares asociados a patógenos o productos de necrosis celular
+    - Citoquinas
+        - ![[Pasted image 20230625105639.png]]
+        - **JAK3** y **TYK2** son importantes para las respuestas inmunes
+    - PRR
+        - TLR
+            - TLR2 ⇒ Peptidoglicano y ácido lipoteicoico de **Gram+**
+            - TLR3 ⇒ dsRNA
+            - TLR4 ⇒ **LPS** de **Gram-**
+            - TLR5 ⇒ Flagelina
+            - TLR6
+            - TLR7 ⇒ Compuestos antivirales
+            - TLR8
+            - TLR9 ⇒ CpG DNA
+        - NLR
+        - RLR
+        - ALR
+- Linfopoyesis
+    - Los leucocitos derivan de la médula ósea
+    - La hematopoyesis se regula por factores de crecimiento, citoquinas y células del estroma
+- Órganos linfoides
+    - Médula ósea
+    - Timo
+    - Bazo
+    - Ganglios linfáticos
+        - ![[Pasted image 20230625105651.png]]
+    - MALT
+- Serie mieloide
+    - Macrófagos/Monocitos
+        - Los monocitos de la sangre se diferencian en macrófagos tisulares a las pocas horas del reclutamiento por interleuquinas como IL-1 y TNF-alfa
+        - Función : Fagocitosis, Secreción de citocinas, APC
+        - Como los neutrófilos, reconocen inmunoglobulinas y complemento (opsinización)
+        - Pueden secretar enzimas, producir factores de coagulación y proteínas para el sistema de complemento
+        - Secreción : IL-1, IL-6, IL-8, IL-12, TNF-alfa, PDGF, TGF-beta
+    - Células dendríticas
+        - ![[Pasted image 20230625105659.png]]
+    - Neutrófilos (PMN)
+        - Son atraídos por péptidos bacterianos, complemento y citoquinas
+        - Migran desde la sangre hacia el tejido inflamado por diapédesis mediada por moléculas de adhesión
+        - Fagocitosis de elementos cubiertos de complemento o inmunoglobulinas
+        - Liberación de enzimas proteolíticas en el medio extracelular que produce daño a microbios pero también inflamación y lesión tisular
+        - Reclutamiento al sinovio por partículas extrañas y formación de cristales difícilmente digeridos
+    - Eosinófilos
+        - ![[Pasted image 20230625105707.png]]
+        - Asociados con respuestas alérgicas e infecciones parasíticas
+        - Reclutados desde la sangre a los tejidos por quimiocinas, PAF y vasoconstrictores potentes (leucotrienos)
+        - Contienen la proteína básica principal y la proteína catiónica ⇒Toxicidad para parásitos, Activación de PMN y mastocitos
+    - Basófilos
+    - Mastocitos
+        - Células residentes en los tejidos imporantes en la respuesta de hipersensibilidad tipo I mediada por IgE
+        - Pueden responder a muchas citoquinas y proteínas de complemento
+        - Contiene proteasas, induce vasodilatación (importante fuente de prostaglandinas), inflamación, activación plaquetaria
+    - Plaquetas
+        - Migran a áreas de lesión en respuesta a PAF, inmunoglobulinas, proteínas de complemento y proteína C reactiva
+        - Aumentan la respuesta inflamatoria a través de la coagulación, vasoconstricción (5-HT), PDGF y TGF-beta
+        - Si se sobreactivan pueden tener un papel en la patogénesis de algunas enfermedades reumáticas afectando a la vasculatura.
+- Serie linfoide
+    - Linfocitos T
+        - TCR
+            - Sólo péptidos cortos, > rigidez molecular, 1 sitio de unión para Ag, no se secreta, no hay isotipos
+            - Complejo funcional : TCR + CD3 (δ, ε, γ, ζ)
+        - CD4 (MHCII restringidas)
+            - Th1
+                - **IFNG, IL-12** ⇒ T-bet, STAT-1
+                - IL-2, IL-12, IFNG, TNFa ⇒ Antiviral, Antibacteriana
+            - Th2
+                - **IL-4, IL-10** ⇒ STAT-6, GATA-3
+                - IL-4, IL-5, IL-10, IL13, IL-15 ⇒ Antiparasitaria
+            - Th17
+                - **IL-6, IL-21,** CXCL13 ⇒ RORgammaT, STAT-3
+                - IL-21,22,24,26, IL-17A, IL-17F ⇒ Inflamación, Autoinmune
+            - ThFh
+                - **Citoquinas** ⇒ Bcl-6, STAT-3
+                - IL-21, IL-6, IL-10 ⇒ Cambio de isotipo BCR
+        - CD8 (MHCI restringidas)
+            - Perforinas (Asociado a inhibidor calreticulina)
+            - Granzimas
+                - A y K : Triptasas
+                - B y H : Quimasas caspasa dependientes
+                - C, D, E, F, G y M : Metasas
+            - Catepsinas (enzimas lisosomales)
+            - FasL
+    - Linfocitos B
+        - BCR
+            - Isotipo ⇒ Determinantes que distinguen las diferentes clases y subclases de inmunoglobulinas de una especie
+            - Alotipo ⇒ Distinciones sutiles en la codificación de regiones constantes entre individuos de una misma especie
+            - Idiotipo ⇒ Distintas combinaciones generadas por la secuencia de aminoácidos de la cadena ligera y pesada
+        - Inmunoglobulinas
+            - {{6434426698663289::IgG1, 2 y 4}} atraviesan la placenta
+            - {{752745236651396::IgG3}} ⇒ Activador más efectivo del complemento
+                - IgG3 > IgG1 > IgG2 > IgG4 (inactivo)
+            - IgA ⇒ Inmunoglobulina predominante en secreciones externas
+    - Linfocitos NKT
+        - Linfocitos con marcadores NK y T
+        - TCR semi-invariante con repertorio limitado ⇒ Lípidos, Glucolípidos presentados por CD1
+    - Células NK
+        - ![[Pasted image 20230625105725.png]]
+        - ![[Pasted image 20230625105721.png]]
+- Mecanismos inmunológicos
+    - Respuesta innata
+        - Anticuerpos, que activan el C’, la fagocitosis y la ADCC
+        - Citocinas que activan a cel. NK (IL-2), macrófagos (IFNγ), hematopoyesis (M-, GM-CSF) o fibroblastos (IL-17).
+        - Abundantes elementos preformados actúan frente al agente agresor
+        - Número similar de elementos frente al agresor (No expansión clonal)
+        - Abundantes elementos, iguales a los anteriores, actúan frente a otro agresor
+    - Respuesta adaptativa
+        - Presentación del Ag, para activar a la célula T o para generar linfocitos reguladores
+        - El Complemento contribuye a formar el “correceptor” de la célula B para el Ag
+        - Citocinas (IL-1β, TNFα, IL-6, IL-12, IL-18, quimiocinas)
+        - Escasos elementos frente al agente agresor
+        - Abundantes elementos frente al mismo agente (iguales a los anteriores= expansión clonal)
+        - Escasos elementos, distintos a los anteriores, frente al nuevo agresor
+    - NETosis
+        - Habilidad de neutrófilos, eosinófilos y mastocitos de expulsar hilos derivados de **cromatina** para **inmovilizar** patógenos
+        - Inactivación de patógenos con elastasas, catepsina G, histonas (↑afinidad por ADN), Fagocitosis
+        - La netosis **no produce muerte** de los neutrófilos
+        - Bucle de NET ⇒ Fibras de cromatina con diámetro 15-17 nm
+    - Inflamación
+        - Desencadenamiento, Desarrollo, Ampliación, Resolución/Cronificación
+        - ![[Pasted image 20230625105735.png]]
+        - ![[Pasted image 20230625105740.png]]
+    - Inflamosoma
+        - Unidad de proceso inflamatorio que puede formarse infección o lesión tisular
+        - PAMPs/DAMPs ⇒ TLR (extracelular, endosoma) y NLR (intracelular) ⇒ MyD88B, TRIF ⇒ NFĸB ⇒ **TNF, IL6, pro-IL1, pro-IL18**
+        - **Caspasa 1**↔Activación de IL-1, IL-18, **Inducción de piroptosis**
+        - Formación de fagolisosomas ⇒Liberación de componentes lisosomales (Catepsina B) ⇒ **NLRP3** (participación de ASC)
+        - PAMPs/DAMPs pueden entrar directamente a través de poros derivados de los microbios (pantexina-1) y activar **NLRP3**
+    - Piroptosis
+        - Muerte celular **programada** diferente a la apoptosis ⇒ Rotura de la membrana plasmática, liberación de DAMPs y citoquinas proinflamatorias
+    - Fagocitosis
+        - Es la capacidad de células especializadas, fagocitos (principalmente neutrófilos y macrófagos), para internalizar objetos del “no-yo”, del “antiguo yo” e incluso del “yo” y destruirlos.
+        - La fagocitosis incompleta es la incapacidad de los fagocitos (principalmente macrófagos) para destruir patógenos internalizados cuando estos patógenos persisten y pueden diseminarse por todo el cuerpo
+        - La autofagia es la fagocitosis fisiológica y, en casos raros, patológica y el desensamblaje de células propias innecesarias para reciclar componentes celulares.
+        - It is a mechanism of innate immunity, which is characterized by ingesting microbes, various cells, and particles by
+            - (1) professional phagocytes (mainly neutro-phils and macrophages), which have specialized sensing receptors – (2) nonprofes-sional phagocytes (e.g., endotheliocytes, etc) – When a site of infection or inflammation occurs, neutrophils very rapidly move to the site. The process of their directed movement is called chemotaxis, which is the first phase of phagocytosis – In comparison to neutrophils, macrophages migrate slower and exert their phagocytic qualities more slowly too.
+        - Quimiotaxis ⇒ Opsonización y adhesión ⇒ Endocitosis y citotoxicidad ⇒ Degradación del patógeno y exocitosis
+        - Anión superóxido ⇒ Oxígeno singlete ⇒ Hidroperoxil ⇒ Peróxido de hidrógeno ⇒ Sistema Mieloperoxidasa-H2O2-halógeno ⇒ Ciclo del óxido nítrico
+    - MHC (HLA)
+        - Locus en Cromosoma 6 que codifica la compatibilidad inmunológica de la superficie celular
+        - MHCI ⇒ Todas las células nucleadas
+        - MHCII ⇒ APC, Macrófagos, DC, linfocitos
+        - MHCIII ⇒ Sistema de complemento
+    - Sinapsis inmunológica
+        - Señales activadoras↔ICOS (ICOS-L), CD28 (CD80)
+        - Señales inhibidoras↔CTLA4 (B7), PD1 (PD-L1
