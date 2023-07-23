@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diario/2023-07-23.md",
+                "file": "0. Índices/Index 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diario/2023-07-23.md",
+                "file": "0. Índices/Index 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diario/2023-07-23.md",
+                "file": "0. Índices/Index 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diario/2023-07-23.md"
+                "file": "0. Índices/Index 0.md"
               }
             }
           }
@@ -150,14 +150,18 @@
   },
   "active": "334fd14c3497b32f",
   "lastOpenFiles": [
+    "3. PEOPLE (IRA)/Index 0 (IRA).md",
     "0. Índices/Index 0.md",
-    "1. PRODUCT (ABCDE)/Index 0 (ABCDE).md",
-    "2. PLAN (OMLTE)/Qué es ABCDE.md",
     "2. PLAN (OMLTE)/Index 0 (OMLTE).md",
     "2. PLAN (OMLTE)/Create Index.md",
-    "1. PRODUCT (ABCDE)/ABCDE/Qué es ABCDE.md",
     "1. PRODUCT (ABCDE)/ABCDE/Pasted image 20230722110037.png",
+    "1. PRODUCT (ABCDE)/Index 0 (ABCDE).md",
+    "1. PRODUCT (ABCDE)/ABCDE/Qué es ABCDE.md",
+    "Templates/Index.md",
+    "0. Índices/Untitled.md",
+    "3. PEOPLE (IRA)/Yan.md",
     "Diario/2023-07-23.md",
+    "2. PLAN (OMLTE)/Qué es ABCDE.md",
     "README.md",
     "Logística/Zotero",
     "Logística/Apuntes",
@@ -168,7 +172,6 @@
     "Logística/Artículos",
     "Logística",
     "Templates/Crear documentación.md",
-    "3. PEOPLE (IRA)/Yan.md",
     "Diario/2023-07-22.md",
     "3. PEOPLE (IRA)/Kei.md",
     "Templates/IRA.md",
@@ -182,9 +185,6 @@
     "Inbox/Index 0.md",
     "Inbox/Desarrollo",
     "Inbox",
-    "3. PEOPLE (IRA)/Index 0 (IRA).md",
-    "Templates/ABCDE.md",
-    "Templates/Dataview.md",
-    "Inicio.md"
+    "Templates/ABCDE.md"
   ]
 }

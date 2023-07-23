@@ -7,6 +7,10 @@ Bievenido al índice 0. Aquí se encuentra un hipervínculo hacia cualquier part
 |---|---|---|
 |[[Index 0 (ABCDE)]]|[[Index 0 (OMLTE)]]|[[Index 0 (IRA)]]|
 
+```dataview
+TABLE autor, tipo
+WHERE Tipo="Index"
+```
 
 # Contenidos
 
