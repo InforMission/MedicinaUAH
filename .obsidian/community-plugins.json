@@ -3,5 +3,7 @@
   "obsidian-excalidraw-plugin",
   "dataview",
   "obsidian-plugin-toc",
-  "extract-highlights-plugin"
+  "extract-highlights-plugin",
+  "obsidian-zotero-desktop-connector",
+  "flashcards-obsidian"
 ]
