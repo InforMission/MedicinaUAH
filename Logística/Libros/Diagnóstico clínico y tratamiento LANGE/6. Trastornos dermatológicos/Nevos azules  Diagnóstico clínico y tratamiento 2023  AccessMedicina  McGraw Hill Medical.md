@@ -1,0 +1,7 @@
+Estos nevos son lesiones pequeñas, un poco elevadas, de color negro azuloso (fig. 6–3), que aparecen casi siempre en el dorso de las manos; son frecuentes en personas de origen asiático y un solo individuo puede tener varios de ellos. Si no muestran alteraciones durante muchos años, estas lesiones pueden considerarse benignas, ya que son infrecuentes los nevos azules malignos. Sin embargo, las pápulas y nódulos de color azuloso-negruzco nuevos o que aumentan de tamaño, deben valorarse para descartar un melanoma nodular.
+
+###### FIGURA 6–3.
+
+Nevo azul en la mejilla izquierda, una mácula azul negruzca oscura con cierto parecido a un melanoma debido a su pigmentación oscura. (Reproducida con autorización de Richard P. Usatine, MD, en Usatine RP, Smith MA, Mayeaux EJ Jr, Chumley H, Tysinger J. _The Color Atlas of Family Medicine._ McGraw-Hill, 2009.)
+
+![image](https://mgh.silverchair-cdn.com/mgh/content_public/book/3323/m_amed.cmdt23_ch6_f003-1_1682436323.04443.png?Expires=1693242813&Signature=hniFSQLE3UPXLSMTXGR53yaxDhvMoErtuf33a9r2smXssdhkgZnHmoEWrNk5pSoW80fyRpVP~sgnshG5SwI3HXGuhXkCwEpt929YdKm7UvGbAGNCOCww-8geQ6J2jGt4e9suVZtHCLamtEpG1vg0MKgWvkllqFyNW23wqGt5oStMK9WKfYEMer5hjwIL3DqE77w4FVSZru7rKlRka~rplgs9DvNu29roV1lKmdcqgdKwGECqULstaZAsq0~8tnDrl5Xb9j0pBDQdnt-vVHdKvstbu5toT1n2qPQtOSDIjmpQu8Ux5kUZsvfWzAxv6UObit604SnfdPuda0ldHeA2pA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
