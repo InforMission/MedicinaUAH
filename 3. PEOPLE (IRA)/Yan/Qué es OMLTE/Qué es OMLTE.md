@@ -10,6 +10,7 @@ fecha: 2023-07-24
 
 # A
 
+- [ ] esto es un issue
 
 # B
 

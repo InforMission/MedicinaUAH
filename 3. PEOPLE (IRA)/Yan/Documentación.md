@@ -40,8 +40,6 @@ Index
 
 ## Metadata
 
-^13a19c
-
 Curso
 Asignatura
 Sistema

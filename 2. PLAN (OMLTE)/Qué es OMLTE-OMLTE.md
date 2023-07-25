@@ -21,6 +21,12 @@ fecha: 2023-07-24
 	- [ ] Función 
 	- [ ] Formato
 
+```dataview
+LIST
+WHERE contains(file.folder, this.file.folder)
+```
+
+
 - [ ] E
 	- [ ] 
 - - -
