@@ -1,4 +1,0 @@
-La mejora en las técnicas quirúrgicas, anestésicas y de monitorización ha contribuido a la disminución en la morbilidad y mortalidad perioperatorias. Las funciones preoperatorias tradicionales de los médicos consultantes o del médico de atención primaria incluyen la valoración de la gravedad y estabilidad de las enfermedades concurrentes, valoración del riesgo de complicaciones médicas, especificar si está indicado realizar pruebas adicionales para valorar el riesgo preoperatorio y recomendar medidas para reducir el riesgo de complicaciones perioperatorias. Podría pedirse al médico consultante que ofrezca tratamiento para aspectos relacionados con la atención posoperatoria, incluida la valoración y tratamiento de complicaciones médicas.
-
-Fierbinţean vici  C  et al. Medical and surgical co-management—a strategy of improving the quality and outcomes of perioperative care. Eur J Intern Med. 2019;61:44.  
-[PubMed: 30448097]
