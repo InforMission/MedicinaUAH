@@ -7,26 +7,29 @@ fecha: 2023-07-24
 ---
 
 
-## Information
+# Information
 - - -
-	UAH student 4º
-
-## Rol
+- UAH student 4º
+- Caballero Alférez Cadete 1º CIA ACD Medicina Sin Titulación
+- IX Promoción
+![[IMG_20230628_132715_531.jpg|250]]
+# Rol
 - - -
-	[[Qué es IRA]]
-	[[Qué es OMLTE]]
-	[[Qué es ABCDE]]
-	[[Workflow]]
-	[[Documentación]]
-	[[Plan de material]]
 
-### Availability
+```dataview
+LIST
+WHERE contains(file.folder, this.file.folder)
+```
+fo
 
+# Availability
+- - -
+## Doing 
 ```dataview
 TASK
 WHERE contains(text, this.file.name) AND !completed
 ```
-
+## Done
 ```dataview
 TASK
 WHERE contains(text, this.file.name) AND completed

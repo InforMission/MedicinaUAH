@@ -10,7 +10,7 @@ fecha: 2023-07-23
 
 ```dataview
 TABLE autor, tipo, tags
-WHERE contains(file.folder, this.file.folder) 
+WHERE tipo = "OMLTE" 
 SORT tipo asc
 SORT tags asc
 ```

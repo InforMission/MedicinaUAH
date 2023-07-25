@@ -1,8 +1,8 @@
 ---
-autor:
-tipo:
+autor: Yan
+tipo: ABCDE
 alias:
-tags: 
+tags: sistema
 fecha: 2023-07-24
 ---
 
@@ -10,15 +10,21 @@ fecha: 2023-07-24
 
 # A
 
-- [ ] esto es un issue
+- [ ] Resumen
 
 # B
 
 
 # C
+Esto forma parte de [[Documentación]]
+
+- [ ] Partes del OMLTE (formato)
+- [ ] Qué función tiene cada parte
+- [ ] Cuándo y dónde debe haber un OMLTE
 
 
 # D
 
+- [ ] Scrum
 
 # E

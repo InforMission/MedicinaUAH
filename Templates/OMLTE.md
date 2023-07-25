@@ -3,7 +3,7 @@
 autor:
 tipo: OMLTE
 alias:
-tags: 
+tags: sistema
 fecha: {{date}}
 ---
 
@@ -19,7 +19,10 @@ fecha: {{date}}
 
 - [ ] T
 	- [ ] 
-
+```dataview
+TASK
+WHERE file.name = "Título del ABCDE" AND !completed
+```
 - [ ] E
 	- [ ] 
 - - -

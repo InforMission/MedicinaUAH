@@ -6,22 +6,20 @@ tags:
 fecha: 2023-07-24
 ---
 
+## Todo
+
+```dataview
+TABLE autor, tags
+WHERE tipo =  "ABCDE"
+```
+
 ## Logística
 
-[[Documentación]]
-[[3. PEOPLE (IRA)/Yan/Workflow]]
-[[Index 0 (ABCDE)]]
-[[Index 0 (OMLTE)]]
-[[Index 0 (IRA)]]
+```dataview
+TABLE autor, tags
+WHERE tipo =  "ABCDE" AND tags = "sistema"
+```
 
-## Cursos
-- - -
-1º curso
-2º curso
-3º curso
-4º curso
-5º curso
-6º curso
 
 ## Sistemas
 - - -

@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. PLAN (OMLTE)/Qué es OMLTE-OMLTE.md",
+                "file": "Diario/2023-07-25.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#persona",
+                "query": "tag:#2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,11 +66,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 332.5
   },
   "right": {
     "id": "c04f731de5485e96",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. PLAN (OMLTE)/Qué es OMLTE-OMLTE.md",
+                "file": "Diario/2023-07-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. PLAN (OMLTE)/Qué es OMLTE-OMLTE.md",
+                "file": "Diario/2023-07-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. PLAN (OMLTE)/Qué es OMLTE-OMLTE.md"
+                "file": "Diario/2023-07-25.md"
               }
             }
           },
@@ -143,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,56 +157,57 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "publish:Publish changes...": false,
       "extract-highlights-plugin:Extract Highlights": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "flashcards-obsidian:Generate flashcards": false,
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "f1ac7bf9d98b7970",
   "lastOpenFiles": [
-    "2. PLAN (OMLTE)/Qué es OMLTE-OMLTE.md",
-    "3. PEOPLE (IRA)/Yan/Qué es OMLTE/Qué es OMLTE.md",
-    "3. PEOPLE (IRA)/Yan/Documentación.md",
-    "3. PEOPLE (IRA)/Yan/Qué es IRA/Qué es IRA.md",
-    "Diario/2023-07-25.md",
-    "3. PEOPLE (IRA)/Yan/Untitled.md",
-    "3. PEOPLE (IRA)/Kei/Kei.md",
-    "Diario/2023-07-24.md",
-    "2. PLAN (OMLTE)/Documentación-OMLTE.md",
-    "Diario/2023-07-23.md",
+    "3. PEOPLE (IRA)/Yan/Plan de material/Plan de material.md",
     "3. PEOPLE (IRA)/Yan/Yan.md",
-    "2. PLAN (OMLTE)/Qué es ABCDE-OMLTE.md",
-    "0. Índices/Index 0.md",
-    "Templates/Daily.md",
-    "3. PEOPLE (IRA)/Kei/Git Docs/Repositorios.png",
-    "3. PEOPLE (IRA)/Kei/Git Docs/Git Docs.md",
-    "3. PEOPLE (IRA)/Kei/Git Docs/Fork.png",
-    "3. PEOPLE (IRA)/Kei/Git Docs/Commit.png",
-    "3. PEOPLE (IRA)/Kei/Git Docs/Branch.png",
-    "3. PEOPLE (IRA)/Kei/Git Docs",
-    "3. PEOPLE (IRA)/Kei/Flashcards.md",
-    "Logística/Libros/Diagnóstico clínico y tratamiento LANGE/Diagnóstico clínico y tratamiento LANGE.md",
-    "Logística/Libros/Diagnóstico clínico y tratamiento LANGE/2. Síntomas comunes/Síntomas comunes.md",
-    "Logística/Libros/Diagnóstico clínico y tratamiento LANGE/2. Síntomas comunes/Disnea  Diagnóstico clínico y tratamiento 2023  AccessMedicina  McGraw Hill Medical.md",
-    "Templates/Week.md",
-    "Templates/IRA.md",
-    "Templates/OMLTE.md",
-    "Templates/Metadata.md",
-    "Templates/Index.md",
-    "Logística/Libros/Harrison/Parte 2 - Signos cardinales/Signos cardinales.md",
-    "Logística/Libros/Harrison/Harrison.md",
-    "Logística/Libros/Harrison/Parte 2 - Signos cardinales/Sección 9 - Alteraciones hematológicas/Trastornos de los granulocitos y monocitos  Harrison. Principios de Medicina Interna, 21e  AccessMedicina  McGraw Hill Medical/m_amedhpim21e_ch64_f010-1_1659107512.05269.png",
-    "Logística/Libros/Harrison/Parte 2 - Signos cardinales/Sección 9 - Alteraciones hematológicas/Trastornos de los granulocitos y monocitos  Harrison. Principios de Medicina Interna, 21e  AccessMedicina  McGraw Hill Medical/m_amedhpim21e_ch64_f009-1_1659107511.94274.png",
-    "Logística/Libros/Harrison/Parte 2 - Signos cardinales/Sección 9 - Alteraciones hematológicas/Trastornos de los granulocitos y monocitos  Harrison. Principios de Medicina Interna, 21e  AccessMedicina  McGraw Hill Medical/m_amedhpim21e_ch64_f008-1_1659107511.83174.png",
-    "Logística/Libros/Harrison/Parte 2 - Signos cardinales/Sección 9 - Alteraciones hematológicas/Trastornos de los granulocitos y monocitos  Harrison. Principios de Medicina Interna, 21e  AccessMedicina  McGraw Hill Medical/m_amedhpim21e_ch64_f007-1_1659107511.81673.png",
-    "Logística/Libros/Harrison/Parte 2 - Signos cardinales/Sección 9 - Alteraciones hematológicas/Trastornos de los granulocitos y monocitos  Harrison. Principios de Medicina Interna, 21e  AccessMedicina  McGraw Hill Medical/m_amedhpim21e_ch64_f006-1_1659107511.80173.png",
-    "Logística/Libros/Harrison/Parte 2 - Signos cardinales/Sección 9 - Alteraciones hematológicas/Trastornos de los granulocitos y monocitos  Harrison. Principios de Medicina Interna, 21e  AccessMedicina  McGraw Hill Medical/m_amedhpim21e_ch64_f005-1_1659107511.79172.png",
-    "Logística/Libros/Harrison/Parte 2 - Signos cardinales/Sección 9 - Alteraciones hematológicas/Trastornos de los granulocitos y monocitos  Harrison. Principios de Medicina Interna, 21e  AccessMedicina  McGraw Hill Medical",
-    "Logística/Libros/Harrison/Parte 2 - Signos cardinales/Sección 9 - Alteraciones hematológicas/Interpretación del frotis de sangre periférica  Harrison. Principios de Medicina Interna, 21e  AccessMedicina  McGraw Hill Medical",
-    "Logística/Libros/Harrison/Parte 2 - Signos cardinales/Sección 9 - Alteraciones hematológicas/Anemia y policitemia  Harrison. Principios de Medicina Interna, 21e  AccessMedicina  McGraw Hill Medical",
-    "Logística/Libros/Harrison/Parte 2 - Signos cardinales/Sección 9 - Alteraciones hematológicas",
-    "Logística/Libros/Harrison/Parte 2 - Signos cardinales/Sección 8 - Enfermedades de la piel/Reacciones cutáneas desencadenadas por fármacos  Harrison. Principios de Medicina Interna, 21e  AccessMedicina  McGraw Hill Medical",
-    "Logística/Libros/Harrison/Parte 2 - Signos cardinales/Sección 8 - Enfermedades de la piel/Fotosensibilidad y otras reacciones a la luz solar  Harrison. Principios de Medicina Interna, 21e  AccessMedicina  McGraw Hill Medical",
-    "Logística/Libros/Harrison/Parte 2 - Signos cardinales/Sección 8 - Enfermedades de la piel/Estudio del paciente con enfermedades de la piel  Harrison. Principios de Medicina Interna, 21e  AccessMedicina  McGraw Hill Medical",
-    "Logística/Libros/Harrison/Parte 2 - Signos cardinales/Sección 8 - Enfermedades de la piel/Enfermedades de la piel mediadas por mecanismos inmunitarios  Harrison. Principios de Medicina Interna, 21e  AccessMedicina  McGraw Hill Medical",
-    "Logística/Libros/Harrison/Parte 2 - Signos cardinales/Sección 8 - Enfermedades de la piel/Eccema, psoriasis infecciones de la piel, acné y otras enfermedades cutáneas comunes  Harrison. Principios de Medicina Interna, 21e  AccessMedicina  McGraw Hill Medical"
+    "Logística/Libros/Boron/Boron.md",
+    "Logística/Libros/Boron/Transducción de señales /Transducción de señales - Fisiología médica.md",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-9.jpg",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-8.jpg",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-7.jpg",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-6.jpg",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-5.jpg",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-4.jpg",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-3.jpg",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-2.jpg",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-16.jpg",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-15.jpg",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Ventilación y perfusión de los pulmones - Fisiología médica.md",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images",
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones ",
+    "Logística/Libros/Boron/Transporte del potasio /Transporte del potasio - Fisiología médica.md",
+    "Logística/Libros/Boron/Transporte del potasio /Images",
+    "Logística/Libros/Boron/Transporte del potasio ",
+    "Logística/Libros/Boron/Transporte de urea, glucosa, fosfato, calcio, magnesio y solutos orgánicos /Transporte de urea, glucosa, fosfato, calcio, magnesio y solutos orgánicos - Fisiología médica.md",
+    "Logística/Libros/Boron/Transporte de urea, glucosa, fosfato, calcio, magnesio y solutos orgánicos /Images",
+    "Logística/Libros/Boron/Transporte de urea, glucosa, fosfato, calcio, magnesio y solutos orgánicos ",
+    "Logística/Libros/Boron/Transporte de solutos y agua /Transporte de solutos y agua - Fisiología médica.md",
+    "Logística/Libros/Boron/Transporte de solutos y agua /Images",
+    "Logística/Libros/Boron/Transporte de solutos y agua ",
+    "Logística/Libros/Boron/Transporte de sodio y cloro /Transporte de sodio y cloro - Fisiología médica.md",
+    "Logística/Libros/Boron/Transporte de sodio y cloro /Images",
+    "Logística/Libros/Boron/Transporte de sodio y cloro ",
+    "Logística/Libros/Boron/Transporte de oxígeno y dióxido de carbono en la sangre /Transporte de oxígeno y dióxido de carbono en la sangre - Fisiología médica.md",
+    "Logística/Libros/Boron/Transporte de ácidos y bases /Transporte de ácidos y bases - Fisiología médica.md",
+    "Logística/Libros/Boron/Transmisión sináptica y unión neuromuscular /Transmisión sináptica y unión neuromuscular - Fisiología médica.md",
+    "Logística/Libros/Boron/Transmisión sináptica en el sistema nervioso /Transmisión sináptica en el sistema nervioso - Fisiología médica.md",
+    "Logística/Libros/Boron/Transducción sensorial /Transducción sensorial - Fisiología médica.md",
+    "Logística/Libros/Boron/Sistema reproductor masculino /Sistema reproductor masculino - Fisiología médica.md",
+    "Logística/Libros/Boron/Sistema reproductor femenino /Sistema reproductor femenino - Fisiología médica.md",
+    "Logística/Libros/Boron/Sistema nervioso autónomo /Sistema nervioso autónomo - Fisiología médica.md",
+    "Logística/Libros/Boron/Regulación endocrina del crecimiento y la masa corporal /Regulación endocrina del crecimiento y la masa corporal - Fisiología médica.md",
+    "Logística/Libros/Boron/Regulación de la temperatura corporal /Regulación de la temperatura corporal - Fisiología médica.md",
+    "Logística/Libros/Boron/Regulación de la presión arterial y del gasto cardíaco /Regulación de la presión arterial y del gasto cardíaco - Fisiología médica.md",
+    "Logística/Libros/Boron/Regulación de la expresión génica /Regulación de la expresión génica - Fisiología médica.md",
+    "Logística/Libros/Boron/Páncreas y glándulas salivales /Páncreas y glándulas salivales - Fisiología médica.md",
+    "Logística/Libros/Boron/Organización funcional de la célula /Organización funcional de la célula - Fisiología médica.md",
+    "Logística/Libros/Boron/Organización del sistema urinario /Organización del sistema urinario - Fisiología médica.md",
+    "Logística/Libros/Boron/Organización del sistema nervioso /Organización del sistema nervioso - Fisiología médica.md",
+    "Logística/Libros/Boron/Organización del sistema gastrointestinal /Organización del sistema gastrointestinal - Fisiología médica.md"
   ]
 }
