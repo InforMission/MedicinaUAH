@@ -48,7 +48,7 @@ fecha: 2023-07-24
 		- [ ] Asturias
 		- [ ] CTO
 		- [ ] Exámenes MIR reales
-			- [ ] Descargar un año para probar -> [[Yan]]
+			- [x] Descargar un año para probar -> [[Yan]]
 	- [ ] Apuntes y diapositivas
 		- [ ] Agrupar diapositivas por curso
 		- [ ] Agrupar apuntes por curso

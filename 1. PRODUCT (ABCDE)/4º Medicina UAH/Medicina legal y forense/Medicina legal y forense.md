@@ -2,7 +2,7 @@
 autor:
 tipo: index
 alias:
-tags: 6
+tags: 4
 fecha: 2023-07-25
 ---
 

@@ -1,4 +1,3 @@
-
 ---
 autor:
 tipo: index
