@@ -2,5 +2,6 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "publish"
-  ]
+  ],
+  "theme": "obsidian"
 }

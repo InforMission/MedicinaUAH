@@ -19,7 +19,7 @@ fecha: 2023-07-24
 
 - [ ] T
 	- [ ] Libros  -> [[Yan]]
-		- [ ] Descargar libros Elsevier
+		- [x] Descargar libros Elsevier
 			- [x] Descargar 10 libros clave
 				- [x] Boron
 				- [x] Moore
@@ -31,7 +31,7 @@ fecha: 2023-07-24
 				- [x] Haines
 				- [x] Guyton
 				- [x] Janeway
-			- [ ] Generar lista de prioridades para más descargas
+			- [x] Generar lista de prioridades para más descargas
 		- [x] Descargar libros de flashcards
 			- [x] Generar el plugin de descarga
 			- [x] Ejecutar la descarga
@@ -44,10 +44,10 @@ fecha: 2023-07-24
 			- [x] Ganong
 	- [ ] MIR
 		- [ ] AMIR
-			- [ ] Meter libro gordo
+			- [x] Meter libro gordo
 		- [ ] Asturias
 		- [ ] CTO
-		- [ ] Exámenes MIR reales
+		- [x] Exámenes MIR reales
 			- [x] Descargar un año para probar -> [[Yan]]
 	- [ ] Apuntes y diapositivas
 		- [ ] Agrupar diapositivas por curso
@@ -65,5 +65,5 @@ fecha: 2023-07-24
 		- [ ] Generar un workflow de conexión entre preguntas y ABCDEs
 
 - [ ] E
-	- [ ] 
+	- [ ] Ver cómo meter el MIR de 2016 en adelante
 - - -

@@ -2,7 +2,7 @@
 autor: Yan
 tipo: persona
 alias:
-tags: 4
+tags: 4, alumno
 fecha: 2023-07-24
 ---
 
@@ -12,7 +12,7 @@ fecha: 2023-07-24
 - UAH student 4º
 - Caballero Alférez Cadete 1º CIA ACD Medicina Sin Titulación
 - IX Promoción
-![[IMG_20230628_132715_531.jpg|250]]
+![[IMG_20230628_132715_531.jpg|200]]
 # Rol
 - - -
 
@@ -20,7 +20,6 @@ fecha: 2023-07-24
 LIST
 WHERE contains(file.folder, this.file.folder)
 ```
-fo
 
 # Availability
 - - -

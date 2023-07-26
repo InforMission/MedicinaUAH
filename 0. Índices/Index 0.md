@@ -1,10 +1,4 @@
 
-# Todo
-```dataview
-TABLE autor, tipo, tags
-WHERE tipo = "index"
-SORT tags asc
-```
 # Cursos
 - - -
 ## 1º curso
@@ -58,4 +52,9 @@ Microbiología : MIC
 # Disciplinas
 
 
-
+# Exámenes
+```dataview
+TABLE autor, tags
+FROM #examen 
+WHERE tipo = "index"
+```

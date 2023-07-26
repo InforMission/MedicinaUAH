@@ -3,5 +3,9 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "3. PEOPLE (IRA)/Yan",
   "attachmentFolderPath": "./Imágenes",
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": false,
+  "spellcheckLanguages": [
+    "es-ES"
+  ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diario/2023-07-25.md",
+                "file": "0. Índices/Index 0.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diario/2023-07-25.md",
+                "file": "0. Índices/Index 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diario/2023-07-25.md",
+                "file": "0. Índices/Index 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diario/2023-07-25.md"
+                "file": "0. Índices/Index 0.md"
               }
             }
           },
@@ -143,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,31 +154,42 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "publish:Publish changes...": false,
       "extract-highlights-plugin:Extract Highlights": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false
     }
   },
   "active": "f1ac7bf9d98b7970",
   "lastOpenFiles": [
-    "3. PEOPLE (IRA)/Yan/Yan.md",
-    "3. PEOPLE (IRA)/Index 0 (IRA).md",
-    "2. PLAN (OMLTE)/Index 0 (OMLTE).md",
+    "Logística/Exámenes/MIR/MIR.md",
     "0. Índices/Index 0.md",
-    "1. PRODUCT (ABCDE)/4º Medicina UAH/Cuarto.md",
-    "1. PRODUCT (ABCDE)/4º Medicina UAH/Patología Médica/Patología Médica.md",
-    "1. PRODUCT (ABCDE)/1º Medicina UAH/Primero.md",
-    "1. PRODUCT (ABCDE)/2º Medicina UAH/Segundo.md",
-    "1. PRODUCT (ABCDE)/4º Medicina UAH/Anatomía Patológica Especial/Anatomía Patológica Especial.md",
-    "Templates/IRA.md",
+    "Logística/Exámenes/MIR/MIR 2005.md",
+    "Logística/Exámenes/MIR/MIR 2016.md",
+    "Logística/Exámenes/MIR",
+    "Logística/Exámenes/MIR/MIR 2004.md",
+    "Logística/Exámenes/MIR/MIR 2003.md",
+    "Logística/Exámenes/Exámenes.md",
+    "3. PEOPLE (IRA)/Yan/Yan.md",
+    "Logística/Exámenes",
+    "3. PEOPLE (IRA)/Yan/Plan de material/Plan de material.md",
+    "Diario/2023-07-26.md",
+    "3. PEOPLE (IRA)/Kei/Kei.md",
     "Diario/2023-07-25.md",
-    "1. PRODUCT (ABCDE)/4º Medicina UAH/Medicina legal y forense/Medicina legal y forense.md",
-    "1. PRODUCT (ABCDE)/4º Medicina UAH/Dermatología/Dermatología.md",
-    "1. PRODUCT (ABCDE)/4º Medicina UAH/Urología/Urología.md",
-    "1. PRODUCT (ABCDE)/4º Medicina UAH/Pediatría/Pediatría.md",
-    "1. PRODUCT (ABCDE)/4º Medicina UAH/Patología Quirúrgica/Patología quirúrgica.md",
-    "1. PRODUCT (ABCDE)/4º Medicina UAH/Obstetricia/Obstetricia.md",
+    "Logística/Planning/Semana 1.md",
+    "Logística/Exámenes/MIR/MIR 2006.md",
+    "Logística/Exámenes/MIR/MIR 2007.md",
+    "Logística/Exámenes/MIR/MIR 2008.md",
+    "Logística/Exámenes/MIR/MIR 2009.md",
+    "Logística/Exámenes/MIR/MIR 2010.md",
+    "Logística/Exámenes/MIR/MIR 2011.md",
+    "Logística/Exámenes/MIR/MIR 2012.md",
+    "Logística/Exámenes/MIR/MIR 2013.md",
+    "Logística/Exámenes/MIR/MIR 2014.md",
+    "Logística/Exámenes/MIR/MIR 2015.md",
+    "3. PEOPLE (IRA)/Yan/MIR 2019.md",
+    "3. PEOPLE (IRA)/Yan/MIR 2017.md",
+    "3. PEOPLE (IRA)/Yan/MIR 2018.md",
     "1. PRODUCT (ABCDE)/4º Medicina UAH/Urología/Untitled",
     "1. PRODUCT (ABCDE)/4º Medicina UAH/Patología Quirúrgica/Untitled",
     "1. PRODUCT (ABCDE)/4º Medicina UAH/Anatomía Patológica Especial/An",
@@ -187,15 +198,6 @@
     "1. PRODUCT (ABCDE)/4º Medicina UAH/Patología Quirúrgica",
     "1. PRODUCT (ABCDE)/4º Medicina UAH/Patología Médica",
     "1. PRODUCT (ABCDE)/4º Medicina UAH/Obstetricia",
-    "1. PRODUCT (ABCDE)/4º Medicina UAH/Medicina legal y forense",
-    "1. PRODUCT (ABCDE)/4º Medicina UAH/Dermatología",
-    "Logística/Libros/Boron/Boron.md",
-    "Logística/Libros/Boron/Electrofisiología de la membrana celular /Electrofisiología de la membrana celular - Fisiología médica.md",
-    "Logística/Libros/Boron/Circulaciones especiales /Circulaciones especiales - Fisiología médica.md",
-    "Logística/Libros/Boron/Excitabilidad eléctrica y potenciales de acción /Excitabilidad eléctrica y potenciales de acción - Fisiología médica.md",
-    "Logística/Libros/Boron/Fundamentos de fisiología /Fundamentos de fisiología - Fisiología médica.md",
-    "3. PEOPLE (IRA)/Yan/Plan de material/Plan de material.md",
-    "Logística/Libros/Boron/Transducción de señales /Transducción de señales - Fisiología médica.md",
     "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-9.jpg",
     "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-8.jpg",
     "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-7.jpg",
@@ -205,8 +207,6 @@
     "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-3.jpg",
     "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-2.jpg",
     "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-16.jpg",
-    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-15.jpg",
-    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Ventilación y perfusión de los pulmones - Fisiología médica.md",
-    "Logística/Libros/Boron/Transporte del potasio /Transporte del potasio - Fisiología médica.md"
+    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-15.jpg"
   ]
 }
