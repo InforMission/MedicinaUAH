@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 216.5
   },
   "right": {
     "id": "c04f731de5485e96",
@@ -143,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,8 +162,12 @@
   },
   "active": "f1ac7bf9d98b7970",
   "lastOpenFiles": [
-    "Logística/Exámenes/MIR/MIR.md",
+    "3. PEOPLE (IRA)/Yan/Documentación/Documentación-OMLTE.md",
+    "Logística/Libros/Boron/Fundamentos de fisiología /Fundamentos de fisiología - Fisiología médica.md",
+    "Logística/Libros/Boron/Fisiología Boron.md",
+    "Logística/Libros/Boron/Transducción de señales /Transducción de señales - Fisiología médica.md",
     "0. Índices/Index 0.md",
+    "Logística/Exámenes/MIR/MIR.md",
     "Logística/Exámenes/MIR/MIR 2005.md",
     "Logística/Exámenes/MIR/MIR 2016.md",
     "Logística/Exámenes/MIR",
@@ -186,10 +190,6 @@
     "Logística/Exámenes/MIR/MIR 2012.md",
     "Logística/Exámenes/MIR/MIR 2013.md",
     "Logística/Exámenes/MIR/MIR 2014.md",
-    "Logística/Exámenes/MIR/MIR 2015.md",
-    "3. PEOPLE (IRA)/Yan/MIR 2019.md",
-    "3. PEOPLE (IRA)/Yan/MIR 2017.md",
-    "3. PEOPLE (IRA)/Yan/MIR 2018.md",
     "1. PRODUCT (ABCDE)/4º Medicina UAH/Urología/Untitled",
     "1. PRODUCT (ABCDE)/4º Medicina UAH/Patología Quirúrgica/Untitled",
     "1. PRODUCT (ABCDE)/4º Medicina UAH/Anatomía Patológica Especial/An",
