@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: true
+---
 
 # Cursos
 - - -
@@ -21,7 +25,6 @@ FROM #3
 TABLE autor, tipo, tags
 FROM #4
 ```
-
 
 # Asignaturas
 

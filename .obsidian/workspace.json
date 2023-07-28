@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f1ac7bf9d98b7970",
+            "id": "986020064e502761",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#FIS",
+                "query": "tag:#devuelve",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 200
   },
   "right": {
     "id": "c04f731de5485e96",
@@ -115,7 +115,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,57 +157,56 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "extract-highlights-plugin:Extract Highlights": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false
     }
   },
-  "active": "f1ac7bf9d98b7970",
+  "active": "986020064e502761",
   "lastOpenFiles": [
-    "3. PEOPLE (IRA)/Yan/Documentación/Documentación-OMLTE.md",
-    "Logística/Libros/Boron/Fundamentos de fisiología /Fundamentos de fisiología - Fisiología médica.md",
-    "Logística/Libros/Boron/Fisiología Boron.md",
-    "Logística/Libros/Boron/Transducción de señales /Transducción de señales - Fisiología médica.md",
+    "Templates/Index.md",
+    "Templates/Daily.md",
+    "3. PEOPLE (IRA)/Yan/Documentación/Documentación.md",
+    "3. PEOPLE (IRA)/Yan/Tutorial/Tutorial.md",
     "0. Índices/Index 0.md",
-    "Logística/Exámenes/MIR/MIR.md",
-    "Logística/Exámenes/MIR/MIR 2005.md",
-    "Logística/Exámenes/MIR/MIR 2016.md",
-    "Logística/Exámenes/MIR",
-    "Logística/Exámenes/MIR/MIR 2004.md",
-    "Logística/Exámenes/MIR/MIR 2003.md",
-    "Logística/Exámenes/Exámenes.md",
-    "3. PEOPLE (IRA)/Yan/Yan.md",
-    "Logística/Exámenes",
-    "3. PEOPLE (IRA)/Yan/Plan de material/Plan de material.md",
-    "Diario/2023-07-26.md",
-    "3. PEOPLE (IRA)/Kei/Kei.md",
-    "Diario/2023-07-25.md",
-    "Logística/Planning/Semana 1.md",
-    "Logística/Exámenes/MIR/MIR 2006.md",
-    "Logística/Exámenes/MIR/MIR 2007.md",
-    "Logística/Exámenes/MIR/MIR 2008.md",
-    "Logística/Exámenes/MIR/MIR 2009.md",
-    "Logística/Exámenes/MIR/MIR 2010.md",
-    "Logística/Exámenes/MIR/MIR 2011.md",
-    "Logística/Exámenes/MIR/MIR 2012.md",
-    "Logística/Exámenes/MIR/MIR 2013.md",
-    "Logística/Exámenes/MIR/MIR 2014.md",
-    "1. PRODUCT (ABCDE)/4º Medicina UAH/Urología/Untitled",
-    "1. PRODUCT (ABCDE)/4º Medicina UAH/Patología Quirúrgica/Untitled",
-    "1. PRODUCT (ABCDE)/4º Medicina UAH/Anatomía Patológica Especial/An",
-    "1. PRODUCT (ABCDE)/4º Medicina UAH/Urología",
-    "1. PRODUCT (ABCDE)/4º Medicina UAH/Pediatría",
-    "1. PRODUCT (ABCDE)/4º Medicina UAH/Patología Quirúrgica",
-    "1. PRODUCT (ABCDE)/4º Medicina UAH/Patología Médica",
-    "1. PRODUCT (ABCDE)/4º Medicina UAH/Obstetricia",
-    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-9.jpg",
-    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-8.jpg",
-    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-7.jpg",
-    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-6.jpg",
-    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-5.jpg",
-    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-4.jpg",
-    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-3.jpg",
-    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-2.jpg",
-    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-16.jpg",
-    "Logística/Libros/Boron/Ventilación y perfusión de los pulmones /Images/Ventilación y perfusión de los pulmones - Fisiología médica - Figura 31-15.jpg"
+    "1. PRODUCT (ABCDE)/Index 0 (ABCDE).md",
+    "4. Material/Libros.md",
+    "4. Material/Libros 1.md",
+    "4. Material/Boron/Fisiología Boron.md",
+    "Diario/2023-07-27.md",
+    "3. PEOPLE (IRA)/Yan/Libros importantes.md",
+    "Logística/Libros/Selección/Diagnóstico diferencial Elsevier/Diagnóstico diferencial Elsevier.md",
+    "Logística/Libros/Selección/Sisinio de Castro patología general/Sisinio de Castro.md",
+    "Logística/Libros/Selección/Moore embriología clínica/Moore embriología clínica.md",
+    "Logística/Libros/Selección/Rang y Dale farmacología/Rang y Dale.md",
+    "Logística/Libros/Selección/Murray microbiología/Murray.md",
+    "Logística/Libros/Selección/Haines principios de neurociencia/Haines principios de neurociencia.md",
+    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Guía visual de enfermedades infecciosas.md",
+    "Logística/Libros/Selección/Gray estudiantes anatomía/Gray anatomía para estudiantes.md",
+    "Logística/Libros/Selección/Casos clínicos medicina interna/Casos clínicos medicina interna.md",
+    "Logística/Libros/Selección/Casos clínicos medicina interna/Copyright - Casos clínicos en Medicina interna/Copyright - Casos clínicos en Medicina interna.md",
+    "Logística/Libros/Flashcards/Flaschards de farmacología/Analgésicos y antimigrañosos - Flashcards de Farmacología básica/Analgésicos y antimigrañosos - Flashcards de Farmacología básica.md",
+    "Logística/Libros/Selección/Farreras Rozman medicina interna/Farreras Rozman.md",
+    "Logística/Libros/Selección/Farreras Rozman medicina interna/Consejos médicos para viajeros - Farreras Rozman. Medicina Interna/Consejos médicos para viajeros - Farreras Rozman. Medicina Interna.md",
+    "Logística/Libros/Selección/Farreras Rozman medicina interna/Arritmias cardíacas - Farreras Rozman. Medicina Interna/Arritmias cardíacas - Farreras Rozman. Medicina Interna.md",
+    "Logística/Libros/Selección/Boron/Transducción de señales /Transducción de señales - Fisiología médica.md",
+    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Ébola - Guía visual de enfermedades infecciosas/Images/Ébola - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg",
+    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Yersiniosis - Guía visual de enfermedades infecciosas/Images/Yersiniosis - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg",
+    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Varicela - Guía visual de enfermedades infecciosas/Images/Varicela - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg",
+    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Viruela - Guía visual de enfermedades infecciosas/Images/Viruela - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg",
+    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Vibriosis - Guía visual de enfermedades infecciosas/Images/Vibriosis - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg",
+    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Vaginitis - Guía visual de enfermedades infecciosas/Images/Vaginitis - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg",
+    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Tétanos - Guía visual de enfermedades infecciosas/Images/Tétanos - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg",
+    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Tularemia - Guía visual de enfermedades infecciosas/Images/Tularemia - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg",
+    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Tuberculosis - Guía visual de enfermedades infecciosas/Images/Tuberculosis - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg",
+    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Triquinosis - Guía visual de enfermedades infecciosas/Images/Triquinosis - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg",
+    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Síndrome pulmonar por hantavirus - Guía visual de enfermedades infecciosas/Images/Síndrome pulmonar por hantavirus - Guía visual de enfermedades infecciosas - Flashcard - 2 (1).jpg.crdownload",
+    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Filariasis - Guía visual de enfermedades infecciosas/Images/Filariasis - Guía visual de enfermedades infecciosas - Flashcard - 4.jpg.crdownload",
+    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Filariasis - Guía visual de enfermedades infecciosas/Images/Filariasis - Guía visual de enfermedades infecciosas - Flashcard - 3.jpg.crdownload",
+    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Fiebre hemorrágica con síndrome renal - Guía visual de enfermedades infecciosas/Images/Fiebre hemorrágica con síndrome renal - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg.crdownload",
+    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Fiebre exantemática de las Montañas Rocosas - Guía visual de enfermedades infecciosas/Images/Fiebre exantemática de las Montañas Rocosas - Guía visual de enfermedades infecciosas - Flashcard - 2 (1).jpg.crdownload",
+    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Estrongiloidosis - Guía visual de enfermedades infecciosas/Images/Estrongiloidosis - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg.crdownload",
+    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Enfermedades transmitidas por garrapatas y garrapatas como vectores - Guía visual de enfermedades infecciosas/Images/Enfermedades transmitidas por garrapatas y garrapatas como vectores - Guía visual de enfermedades infecciosas - Flashcard - 3.jpg.crdownload",
+    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Enfermedades transmitidas por garrapatas y garrapatas como vectores - Guía visual de enfermedades infecciosas/Images/Enfermedades transmitidas por garrapatas y garrapatas como vectores - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg.crdownload",
+    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Enfermedades priónicas encefalopatías espongiformes transmisibles - Guía visual de enfermedades infecciosas/Images/Enfermedades priónicas encefalopatías espongiformes transmisibles - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg.crdownload",
+    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Enfermedad del sueño africana - Guía visual de enfermedades infecciosas/Images/Enfermedad del sueño africana - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg.crdownload"
   ]
 }

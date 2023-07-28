@@ -13,6 +13,7 @@ fecha: 2023-07-24
 - Caballero Alférez Cadete 1º CIA ACD Medicina Sin Titulación
 - IX Promoción
 ![[IMG_20230628_132715_531.jpg|200]]
+
 # Rol
 - - -
 

@@ -8,7 +8,7 @@
 
 ```dataview
 TASK
-FROM "Diario"
+FROM "Diario" 
 WHERE !completed
 ```
 

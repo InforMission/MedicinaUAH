@@ -72,6 +72,7 @@ Año
 	2. Meterlo todo en su sitio
 	3. Hacer pull request
 
+
 ## Obsidian
 
 - [ ] Qué es obsidian
@@ -99,6 +100,8 @@ Año
 - [ ] Qué es anki
 - [ ] Flashcards plugins
 - [ ] Anki webstore
+
+
 
 # D
 - - -
