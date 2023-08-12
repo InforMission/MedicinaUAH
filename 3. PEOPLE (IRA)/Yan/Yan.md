@@ -2,7 +2,7 @@
 autor: Yan
 tipo: persona
 alias:
-tags: 4, alumno
+tags: 4
 fecha: 2023-07-24
 ---
 

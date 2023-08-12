@@ -26,31 +26,6 @@ TABLE autor, tipo, tags
 FROM #4
 ```
 
-# Asignaturas
-
-Anatomía : ANA
-
-Bioquímica : BQU
-
-Fisiología : FIS
-```dataview
-TABLE autor, tipo, tags
-FROM #FIS  
-```
-
-Bioestadística : BST
-
-Anatomía patológica : APA
-
-Anatomía patológica especial : APE
-
-Patología general : PGE
-
-Patología médica : PME
-
-Farmacología : FAR
-
-Microbiología : MIC
 
 # Disciplinas
 

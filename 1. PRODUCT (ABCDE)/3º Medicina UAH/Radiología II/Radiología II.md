@@ -2,8 +2,8 @@
 autor:
 tipo: index
 alias:
-tags: 4, APE
-fecha: 2023-07-25
+tags: RX2
+fecha: 2023-07-29
 ---
 
 ```dataview

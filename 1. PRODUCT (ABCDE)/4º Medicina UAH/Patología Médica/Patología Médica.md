@@ -1,8 +1,8 @@
 ---
 autor:
 tipo: index
-alias: PM
-tags: 4
+alias: PME
+tags: 4, PME
 fecha: 2023-07-25
 ---
 

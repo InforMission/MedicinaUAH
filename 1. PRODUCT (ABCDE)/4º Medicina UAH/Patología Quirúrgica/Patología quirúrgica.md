@@ -1,8 +1,8 @@
 ---
 autor:
 tipo: index
-alias:
-tags: 4
+alias: 
+tags: 4, PQX
 fecha: 2023-07-25
 ---
 

@@ -6,12 +6,6 @@ tags:
 fecha: 2023-07-24
 ---
 
-## Todo
-
-```dataview
-TABLE autor, tags
-WHERE tipo =  "ABCDE"
-```
 
 ## Logística
 
@@ -19,7 +13,6 @@ WHERE tipo =  "ABCDE"
 TABLE autor, tags
 WHERE tipo =  "ABCDE" AND tags = "sistema"
 ```
-
 
 ## Sistemas
 - - -

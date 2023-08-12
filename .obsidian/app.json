@@ -5,7 +5,5 @@
   "attachmentFolderPath": "./Imágenes",
   "promptDelete": false,
   "spellcheck": false,
-  "spellcheckLanguages": [
-    "es-ES"
-  ]
+  "spellcheckLanguages": null
 }

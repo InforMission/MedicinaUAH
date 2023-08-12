@@ -1,9 +1,9 @@
 ---
-autor:
+autor: Yan
 tipo: index
-alias:
-tags: 4, APE
-fecha: 2023-07-25
+alias: APA
+tags: 
+fecha: 2023-07-29
 ---
 
 ```dataview

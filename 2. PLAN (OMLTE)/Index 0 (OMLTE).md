@@ -7,7 +7,6 @@ fecha: 2023-07-23
 ---
 
 
-
 ```dataview
 TABLE autor, tipo, tags
 WHERE tipo = "OMLTE" 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Índices/Index 0.md",
+                "file": "3. PEOPLE (IRA)/Yan/Workflow/Workflow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#devuelve",
+                "query": "tag:#sistema",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c04f731de5485e96",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Índices/Index 0.md",
+                "file": "3. PEOPLE (IRA)/Yan/Workflow/Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Índices/Index 0.md",
+                "file": "3. PEOPLE (IRA)/Yan/Workflow/Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Índices/Index 0.md"
+                "file": "3. PEOPLE (IRA)/Yan/Workflow/Workflow.md"
               }
             }
           },
@@ -139,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -162,51 +163,51 @@
   },
   "active": "986020064e502761",
   "lastOpenFiles": [
-    "Templates/Index.md",
-    "Templates/Daily.md",
+    "3. PEOPLE (IRA)/Yan/Workflow/Imágenes/Pasted image 20230812172642.png",
+    "3. PEOPLE (IRA)/Yan/Workflow/Imágenes",
     "3. PEOPLE (IRA)/Yan/Documentación/Documentación.md",
-    "3. PEOPLE (IRA)/Yan/Tutorial/Tutorial.md",
-    "0. Índices/Index 0.md",
-    "1. PRODUCT (ABCDE)/Index 0 (ABCDE).md",
+    "Diario/2023-08-12.md",
+    "4. Material/Sisinio de Castro patología general/Fisiopatología de la circulación coronaria - Sisinio de Castro. Manual de Patología general/Fisiopatología de la circulación coronaria - Sisinio de Castro. Manual de Patología general.md",
+    "4. Material/Sisinio de Castro patología general/Sisinio de Castro.md",
+    "4. Material/Sisinio de Castro patología general/Conceptos generales - Sisinio de Castro. Manual de Patología general/Conceptos generales - Sisinio de Castro. Manual de Patología general.md",
     "4. Material/Libros.md",
-    "4. Material/Libros 1.md",
-    "4. Material/Boron/Fisiología Boron.md",
-    "Diario/2023-07-27.md",
-    "3. PEOPLE (IRA)/Yan/Libros importantes.md",
-    "Logística/Libros/Selección/Diagnóstico diferencial Elsevier/Diagnóstico diferencial Elsevier.md",
-    "Logística/Libros/Selección/Sisinio de Castro patología general/Sisinio de Castro.md",
-    "Logística/Libros/Selección/Moore embriología clínica/Moore embriología clínica.md",
-    "Logística/Libros/Selección/Rang y Dale farmacología/Rang y Dale.md",
-    "Logística/Libros/Selección/Murray microbiología/Murray.md",
-    "Logística/Libros/Selección/Haines principios de neurociencia/Haines principios de neurociencia.md",
-    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Guía visual de enfermedades infecciosas.md",
-    "Logística/Libros/Selección/Gray estudiantes anatomía/Gray anatomía para estudiantes.md",
-    "Logística/Libros/Selección/Casos clínicos medicina interna/Casos clínicos medicina interna.md",
-    "Logística/Libros/Selección/Casos clínicos medicina interna/Copyright - Casos clínicos en Medicina interna/Copyright - Casos clínicos en Medicina interna.md",
-    "Logística/Libros/Flashcards/Flaschards de farmacología/Analgésicos y antimigrañosos - Flashcards de Farmacología básica/Analgésicos y antimigrañosos - Flashcards de Farmacología básica.md",
-    "Logística/Libros/Selección/Farreras Rozman medicina interna/Farreras Rozman.md",
-    "Logística/Libros/Selección/Farreras Rozman medicina interna/Consejos médicos para viajeros - Farreras Rozman. Medicina Interna/Consejos médicos para viajeros - Farreras Rozman. Medicina Interna.md",
-    "Logística/Libros/Selección/Farreras Rozman medicina interna/Arritmias cardíacas - Farreras Rozman. Medicina Interna/Arritmias cardíacas - Farreras Rozman. Medicina Interna.md",
-    "Logística/Libros/Selección/Boron/Transducción de señales /Transducción de señales - Fisiología médica.md",
-    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Ébola - Guía visual de enfermedades infecciosas/Images/Ébola - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg",
-    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Yersiniosis - Guía visual de enfermedades infecciosas/Images/Yersiniosis - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg",
-    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Varicela - Guía visual de enfermedades infecciosas/Images/Varicela - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg",
-    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Viruela - Guía visual de enfermedades infecciosas/Images/Viruela - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg",
-    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Vibriosis - Guía visual de enfermedades infecciosas/Images/Vibriosis - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg",
-    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Vaginitis - Guía visual de enfermedades infecciosas/Images/Vaginitis - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg",
-    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Tétanos - Guía visual de enfermedades infecciosas/Images/Tétanos - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg",
-    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Tularemia - Guía visual de enfermedades infecciosas/Images/Tularemia - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg",
-    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Tuberculosis - Guía visual de enfermedades infecciosas/Images/Tuberculosis - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg",
-    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Triquinosis - Guía visual de enfermedades infecciosas/Images/Triquinosis - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg",
-    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Síndrome pulmonar por hantavirus - Guía visual de enfermedades infecciosas/Images/Síndrome pulmonar por hantavirus - Guía visual de enfermedades infecciosas - Flashcard - 2 (1).jpg.crdownload",
-    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Filariasis - Guía visual de enfermedades infecciosas/Images/Filariasis - Guía visual de enfermedades infecciosas - Flashcard - 4.jpg.crdownload",
-    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Filariasis - Guía visual de enfermedades infecciosas/Images/Filariasis - Guía visual de enfermedades infecciosas - Flashcard - 3.jpg.crdownload",
-    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Fiebre hemorrágica con síndrome renal - Guía visual de enfermedades infecciosas/Images/Fiebre hemorrágica con síndrome renal - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg.crdownload",
-    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Fiebre exantemática de las Montañas Rocosas - Guía visual de enfermedades infecciosas/Images/Fiebre exantemática de las Montañas Rocosas - Guía visual de enfermedades infecciosas - Flashcard - 2 (1).jpg.crdownload",
-    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Estrongiloidosis - Guía visual de enfermedades infecciosas/Images/Estrongiloidosis - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg.crdownload",
-    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Enfermedades transmitidas por garrapatas y garrapatas como vectores - Guía visual de enfermedades infecciosas/Images/Enfermedades transmitidas por garrapatas y garrapatas como vectores - Guía visual de enfermedades infecciosas - Flashcard - 3.jpg.crdownload",
-    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Enfermedades transmitidas por garrapatas y garrapatas como vectores - Guía visual de enfermedades infecciosas/Images/Enfermedades transmitidas por garrapatas y garrapatas como vectores - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg.crdownload",
-    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Enfermedades priónicas encefalopatías espongiformes transmisibles - Guía visual de enfermedades infecciosas/Images/Enfermedades priónicas encefalopatías espongiformes transmisibles - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg.crdownload",
-    "Logística/Libros/Selección/Guía visual de enfermedades infecciosas/Enfermedad del sueño africana - Guía visual de enfermedades infecciosas/Images/Enfermedad del sueño africana - Guía visual de enfermedades infecciosas - Flashcard - 2.jpg.crdownload"
+    "4. Material/Farreras Rozman medicina interna/Abdomen agudo - Farreras Rozman. Medicina Interna/Abdomen agudo - Farreras Rozman. Medicina Interna.md",
+    "4. Material/Farreras Rozman medicina interna/Farreras Rozman.md",
+    "Diario/2023-08-09.md",
+    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura e17-2 - 8.jpg",
+    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura e17-1 - 4.jpg",
+    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-9 - 12.jpg",
+    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-8 - 11.jpg",
+    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-7 - 10.jpg",
+    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-6 - 9.jpg",
+    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-5 - 7.jpg",
+    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-4 - 6.jpg",
+    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-3 - 5.jpg",
+    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-2 - 3.jpg",
+    "4. Material/Sisinio de Castro patología general/Síndrome de insuficiencia hepatocelular - Sisinio de Castro. Manual de Patología general/Images/Síndrome de insuficiencia hepatocelular - Sisinio de Castro. Manual de Patología general - Figura 42-2 - 5.jpg.crdownload",
+    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general - Figura e40-6 - 11.jpg.crdownload",
+    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general - Figura e40-1 - 2.jpg.crdownload",
+    "4. Material/Sisinio de Castro patología general/Ictericia y colestasis - Sisinio de Castro. Manual de Patología general/Images/Ictericia y colestasis - Sisinio de Castro. Manual de Patología general - Figura 41-1 - 2.jpg.crdownload",
+    "4. Material/Sisinio de Castro patología general/Fisiopatología general del sistema endocrino. Fisiopatología del bloque hipotálamo-hipófisis - Sisinio de Castro. Manual de Patología general/Images/Fisiopatología general del sistema endocrino. Fisiopatología del bloque hipotálamo-hipófisis - Sisinio de Castro. Manual de Patología general - Figura 57-2 - 3.jpg.crdownload",
+    "4. Material/Rang y Dale farmacología/Mecanismos celulares defensa del huésped - Rang y Dale. Farmacología/Images/Mecanismos celulares defensa del huésped - Rang y Dale. Farmacología - Figura 7.2 - 3.jpg.crdownload",
+    "4. Material/Rang y Dale farmacología/Cómo actúan los fármacos aspectos moleculares - Rang y Dale. Farmacología/Images/Cómo actúan los fármacos aspectos moleculares - Rang y Dale. Farmacología - Figura 3.16 - 17.jpg.crdownload",
+    "4. Material/Murray microbiología/Coronavirus y norovirus - Microbiología médica/Images/Coronavirus y norovirus - Microbiología médica - Fig. 47.1 - 2.jpg.crdownload",
+    "4. Material/Murray microbiología/Adenovirus - Microbiología médica/Images/Adenovirus - Microbiología médica - Fig. 42.1 - 2.jpg.crdownload",
+    "4. Material/Sisinio de Castro patología general/Página de créditos - Sisinio de Castro. Manual de Patología general/Página de créditos - Sisinio de Castro. Manual de Patología general.md",
+    "4. Material/Sisinio de Castro patología general/Prefacio - Sisinio de Castro. Manual de Patología general/Prefacio - Sisinio de Castro. Manual de Patología general.md",
+    "4. Material/Sisinio de Castro patología general/Síndromes pulmonares principales. Fisiopatología de las funciones defensivas y metabólicas pulmonares - Sisinio de Castro. Manual de Patología general/Síndromes pulmonares principales. Fisiopatología de las funciones defensivas y metabólicas pulmonares - Sisinio de Castro. Manual de Patología general.md",
+    "4. Material/Sisinio de Castro patología general/Síndromes pleurales y mediastínicos - Sisinio de Castro. Manual de Patología general/Síndromes pleurales y mediastínicos - Sisinio de Castro. Manual de Patología general.md",
+    "4. Material/Sisinio de Castro patología general/Síndromes de la patología renal (II)  Lesión renal aguda y enfermedad renal crónica - Sisinio de Castro. Manual de Patología general/Síndromes de la patología renal (II)  Lesión renal aguda y enfermedad renal crónica - Sisinio de Castro. Manual de Patología general.md",
+    "4. Material/Sisinio de Castro patología general/Síndromes de la patología renal (I)  Glomerulonefrítico, nefrótico, tubulopatías, nefropatía intersticial y vascular renal - Sisinio de Castro. Manual de Patología general/Síndromes de la patología renal (I)  Glomerulonefrítico, nefrótico, tubulopatías, nefropatía intersticial y vascular renal - Sisinio de Castro. Manual de Patología general.md",
+    "4. Material/Sisinio de Castro patología general/Síndrome de insuficiencia hepatocelular - Sisinio de Castro. Manual de Patología general/Síndrome de insuficiencia hepatocelular - Sisinio de Castro. Manual de Patología general.md",
+    "4. Material/Sisinio de Castro patología general/Síndrome de hipertensión portal. Fisiopatología del peritoneo - Sisinio de Castro. Manual de Patología general/Síndrome de hipertensión portal. Fisiopatología del peritoneo - Sisinio de Castro. Manual de Patología general.md",
+    "4. Material/Sisinio de Castro patología general/Semiología pulmonar básica y exploración del aparato respiratorio - Sisinio de Castro. Manual de Patología general/Semiología pulmonar básica y exploración del aparato respiratorio - Sisinio de Castro. Manual de Patología general.md",
+    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general.md",
+    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico del riñón - Sisinio de Castro. Manual de Patología general/Recuerdo anatómico y fisiológico del riñón - Sisinio de Castro. Manual de Patología general.md",
+    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general.md",
+    "4. Material/Sisinio de Castro patología general/Portada - Sisinio de Castro. Manual de Patología general/Portada - Sisinio de Castro. Manual de Patología general.md",
+    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico del corazón. Exploración funcional. Manifestaciones de la patología cardíaca - Sisinio de Castro. Manual de Patología general/Recuerdo anatómico y fisiológico del corazón. Exploración funcional. Manifestaciones de la patología cardíaca - Sisinio de Castro. Manual de Patología general.md",
+    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico del tubo digestivo. Fisiopatología general de la motilidad digestiva. Estudio de las heces - Sisinio de Castro. Manual de Patología general/Recuerdo anatómico del tubo digestivo. Fisiopatología general de la motilidad digestiva. Estudio de las heces - Sisinio de Castro. Manual de Patología general.md",
+    "4. Material/Sisinio de Castro patología general/Patología general de las neoplasias - Sisinio de Castro. Manual de Patología general/Patología general de las neoplasias - Sisinio de Castro. Manual de Patología general.md"
   ]
 }

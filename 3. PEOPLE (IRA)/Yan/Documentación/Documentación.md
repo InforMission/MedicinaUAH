@@ -72,7 +72,6 @@ Año
 	2. Meterlo todo en su sitio
 	3. Hacer pull request
 
-
 ## Obsidian
 
 - [ ] Qué es obsidian

@@ -2,7 +2,7 @@
 autor: Kei
 tipo: persona
 alias:
-tags: ingeniero
+tags: 
 fecha: 2023-07-24
 ---
 
