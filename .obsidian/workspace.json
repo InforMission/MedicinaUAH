@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diario/2023-08-12.md",
+                "file": "3. PEOPLE (IRA)/María/María.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diario/2023-08-12.md",
+                "file": "3. PEOPLE (IRA)/María/María.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diario/2023-08-12.md",
+                "file": "3. PEOPLE (IRA)/María/María.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diario/2023-08-12.md"
+                "file": "3. PEOPLE (IRA)/María/María.md"
               }
             }
           },
@@ -162,14 +162,16 @@
   },
   "active": "986020064e502761",
   "lastOpenFiles": [
-    "Diario/2023-07-27.md",
     "Diario/2023-08-12.md",
+    "3. PEOPLE (IRA)/María/María.md",
+    "3. PEOPLE (IRA)/Yan/Yan.md",
+    "3. PEOPLE (IRA)/María",
+    "Diario/2023-07-27.md",
     "4. Material/Libros.md",
     "4. Material/Farreras Rozman medicina interna/Farreras Rozman.md",
     "Logística/Exámenes/MIR/MIR 2003.md",
     "Logística/Exámenes/MIR/MIR.md",
     "Excalidraw/Flujo de trabajo.png",
-    "3. PEOPLE (IRA)/Yan/Yan.md",
     "Diario/2023-07-25.md",
     "0. Índices/Index 0.md",
     "1. PRODUCT (ABCDE)/4º Medicina UAH/Patología Médica/Patología Médica.md",
@@ -204,9 +206,6 @@
     "4. Material/Sisinio de Castro patología general/Fisiopatología general del sistema endocrino. Fisiopatología del bloque hipotálamo-hipófisis - Sisinio de Castro. Manual de Patología general/Images/Fisiopatología general del sistema endocrino. Fisiopatología del bloque hipotálamo-hipófisis - Sisinio de Castro. Manual de Patología general - Figura 57-2 - 3.jpg.crdownload",
     "4. Material/Rang y Dale farmacología/Mecanismos celulares defensa del huésped - Rang y Dale. Farmacología/Images/Mecanismos celulares defensa del huésped - Rang y Dale. Farmacología - Figura 7.2 - 3.jpg.crdownload",
     "4. Material/Rang y Dale farmacología/Cómo actúan los fármacos aspectos moleculares - Rang y Dale. Farmacología/Images/Cómo actúan los fármacos aspectos moleculares - Rang y Dale. Farmacología - Figura 3.16 - 17.jpg.crdownload",
-    "4. Material/Murray microbiología/Coronavirus y norovirus - Microbiología médica/Images/Coronavirus y norovirus - Microbiología médica - Fig. 47.1 - 2.jpg.crdownload",
-    "4. Material/Murray microbiología/Adenovirus - Microbiología médica/Images/Adenovirus - Microbiología médica - Fig. 42.1 - 2.jpg.crdownload",
-    "4. Material/Sisinio de Castro patología general/Página de créditos - Sisinio de Castro. Manual de Patología general/Página de créditos - Sisinio de Castro. Manual de Patología general.md",
-    "4. Material/Sisinio de Castro patología general/Prefacio - Sisinio de Castro. Manual de Patología general/Prefacio - Sisinio de Castro. Manual de Patología general.md"
+    "4. Material/Murray microbiología/Coronavirus y norovirus - Microbiología médica/Images/Coronavirus y norovirus - Microbiología médica - Fig. 47.1 - 2.jpg.crdownload"
   ]
 }
