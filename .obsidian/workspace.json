@@ -160,13 +160,20 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "986020064e502761",
+  "active": "8dfe78a0547213ed",
   "lastOpenFiles": [
+    "4. Material/Libros.md",
+    "4. Material/Farreras Rozman medicina interna/Farreras Rozman.md",
+    "Logística/Exámenes/MIR/MIR 2003.md",
+    "Logística/Exámenes/MIR/MIR.md",
+    "Diario/2023-08-12.md",
+    "Excalidraw/Flujo de trabajo.png",
+    "Diario/2023-07-27.md",
     "3. PEOPLE (IRA)/Yan/Yan.md",
+    "Diario/2023-07-25.md",
     "0. Índices/Index 0.md",
     "1. PRODUCT (ABCDE)/4º Medicina UAH/Patología Médica/Patología Médica.md",
     "4. Material/Boron/Fisiología Boron.md",
-    "Diario/2023-08-12.md",
     "Templates/ABCDE.md",
     "Templates/Index.md",
     "Templates/Week.md",
@@ -180,9 +187,7 @@
     "4. Material/Sisinio de Castro patología general/Fisiopatología de la circulación coronaria - Sisinio de Castro. Manual de Patología general/Fisiopatología de la circulación coronaria - Sisinio de Castro. Manual de Patología general.md",
     "4. Material/Sisinio de Castro patología general/Sisinio de Castro.md",
     "4. Material/Sisinio de Castro patología general/Conceptos generales - Sisinio de Castro. Manual de Patología general/Conceptos generales - Sisinio de Castro. Manual de Patología general.md",
-    "4. Material/Libros.md",
     "4. Material/Farreras Rozman medicina interna/Abdomen agudo - Farreras Rozman. Medicina Interna/Abdomen agudo - Farreras Rozman. Medicina Interna.md",
-    "4. Material/Farreras Rozman medicina interna/Farreras Rozman.md",
     "Diario/2023-08-09.md",
     "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura e17-2 - 8.jpg",
     "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura e17-1 - 4.jpg",
@@ -192,7 +197,6 @@
     "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-6 - 9.jpg",
     "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-5 - 7.jpg",
     "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-4 - 6.jpg",
-    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-3 - 5.jpg",
     "4. Material/Sisinio de Castro patología general/Síndrome de insuficiencia hepatocelular - Sisinio de Castro. Manual de Patología general/Images/Síndrome de insuficiencia hepatocelular - Sisinio de Castro. Manual de Patología general - Figura 42-2 - 5.jpg.crdownload",
     "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general - Figura e40-6 - 11.jpg.crdownload",
     "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general - Figura e40-1 - 2.jpg.crdownload",
@@ -203,10 +207,6 @@
     "4. Material/Murray microbiología/Coronavirus y norovirus - Microbiología médica/Images/Coronavirus y norovirus - Microbiología médica - Fig. 47.1 - 2.jpg.crdownload",
     "4. Material/Murray microbiología/Adenovirus - Microbiología médica/Images/Adenovirus - Microbiología médica - Fig. 42.1 - 2.jpg.crdownload",
     "4. Material/Sisinio de Castro patología general/Página de créditos - Sisinio de Castro. Manual de Patología general/Página de créditos - Sisinio de Castro. Manual de Patología general.md",
-    "4. Material/Sisinio de Castro patología general/Prefacio - Sisinio de Castro. Manual de Patología general/Prefacio - Sisinio de Castro. Manual de Patología general.md",
-    "4. Material/Sisinio de Castro patología general/Síndromes pulmonares principales. Fisiopatología de las funciones defensivas y metabólicas pulmonares - Sisinio de Castro. Manual de Patología general/Síndromes pulmonares principales. Fisiopatología de las funciones defensivas y metabólicas pulmonares - Sisinio de Castro. Manual de Patología general.md",
-    "4. Material/Sisinio de Castro patología general/Síndromes pleurales y mediastínicos - Sisinio de Castro. Manual de Patología general/Síndromes pleurales y mediastínicos - Sisinio de Castro. Manual de Patología general.md",
-    "4. Material/Sisinio de Castro patología general/Síndromes de la patología renal (II)  Lesión renal aguda y enfermedad renal crónica - Sisinio de Castro. Manual de Patología general/Síndromes de la patología renal (II)  Lesión renal aguda y enfermedad renal crónica - Sisinio de Castro. Manual de Patología general.md",
-    "4. Material/Sisinio de Castro patología general/Síndromes de la patología renal (I)  Glomerulonefrítico, nefrótico, tubulopatías, nefropatía intersticial y vascular renal - Sisinio de Castro. Manual de Patología general/Síndromes de la patología renal (I)  Glomerulonefrítico, nefrótico, tubulopatías, nefropatía intersticial y vascular renal - Sisinio de Castro. Manual de Patología general.md"
+    "4. Material/Sisinio de Castro patología general/Prefacio - Sisinio de Castro. Manual de Patología general/Prefacio - Sisinio de Castro. Manual de Patología general.md"
   ]
 }
