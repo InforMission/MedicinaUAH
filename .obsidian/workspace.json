@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. PEOPLE (IRA)/Yan/Workflow/Workflow.md",
+                "file": "Diario/2023-08-12.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c04f731de5485e96",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. PEOPLE (IRA)/Yan/Workflow/Workflow.md",
+                "file": "Diario/2023-08-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. PEOPLE (IRA)/Yan/Workflow/Workflow.md",
+                "file": "Diario/2023-08-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. PEOPLE (IRA)/Yan/Workflow/Workflow.md"
+                "file": "Diario/2023-08-12.md"
               }
             }
           },
@@ -163,6 +162,13 @@
   },
   "active": "986020064e502761",
   "lastOpenFiles": [
+    "Templates/ABCDE.md",
+    "Templates/Index.md",
+    "Templates/Week.md",
+    "Templates/Zotero.md",
+    "Templates/Metadata.md",
+    "Templates/Daily.md",
+    "3. PEOPLE (IRA)/Yan/Workflow/Workflow.md",
     "3. PEOPLE (IRA)/Yan/Workflow/Imágenes/Pasted image 20230812172642.png",
     "3. PEOPLE (IRA)/Yan/Workflow/Imágenes",
     "3. PEOPLE (IRA)/Yan/Documentación/Documentación.md",
@@ -183,7 +189,6 @@
     "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-5 - 7.jpg",
     "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-4 - 6.jpg",
     "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-3 - 5.jpg",
-    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-2 - 3.jpg",
     "4. Material/Sisinio de Castro patología general/Síndrome de insuficiencia hepatocelular - Sisinio de Castro. Manual de Patología general/Images/Síndrome de insuficiencia hepatocelular - Sisinio de Castro. Manual de Patología general - Figura 42-2 - 5.jpg.crdownload",
     "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general - Figura e40-6 - 11.jpg.crdownload",
     "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general - Figura e40-1 - 2.jpg.crdownload",
@@ -202,12 +207,6 @@
     "4. Material/Sisinio de Castro patología general/Síndrome de insuficiencia hepatocelular - Sisinio de Castro. Manual de Patología general/Síndrome de insuficiencia hepatocelular - Sisinio de Castro. Manual de Patología general.md",
     "4. Material/Sisinio de Castro patología general/Síndrome de hipertensión portal. Fisiopatología del peritoneo - Sisinio de Castro. Manual de Patología general/Síndrome de hipertensión portal. Fisiopatología del peritoneo - Sisinio de Castro. Manual de Patología general.md",
     "4. Material/Sisinio de Castro patología general/Semiología pulmonar básica y exploración del aparato respiratorio - Sisinio de Castro. Manual de Patología general/Semiología pulmonar básica y exploración del aparato respiratorio - Sisinio de Castro. Manual de Patología general.md",
-    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general.md",
-    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico del riñón - Sisinio de Castro. Manual de Patología general/Recuerdo anatómico y fisiológico del riñón - Sisinio de Castro. Manual de Patología general.md",
-    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general.md",
-    "4. Material/Sisinio de Castro patología general/Portada - Sisinio de Castro. Manual de Patología general/Portada - Sisinio de Castro. Manual de Patología general.md",
-    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico del corazón. Exploración funcional. Manifestaciones de la patología cardíaca - Sisinio de Castro. Manual de Patología general/Recuerdo anatómico y fisiológico del corazón. Exploración funcional. Manifestaciones de la patología cardíaca - Sisinio de Castro. Manual de Patología general.md",
-    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico del tubo digestivo. Fisiopatología general de la motilidad digestiva. Estudio de las heces - Sisinio de Castro. Manual de Patología general/Recuerdo anatómico del tubo digestivo. Fisiopatología general de la motilidad digestiva. Estudio de las heces - Sisinio de Castro. Manual de Patología general.md",
-    "4. Material/Sisinio de Castro patología general/Patología general de las neoplasias - Sisinio de Castro. Manual de Patología general/Patología general de las neoplasias - Sisinio de Castro. Manual de Patología general.md"
+    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general.md"
   ]
 }
