@@ -1,12 +1,12 @@
 ---
-autor:
+autor: María
 tipo: persona
 alias:
-tags: 
+tags: 4
 fecha: 2023-08-12
 ---
 
-## Information
+## Information![[Captura de Pantalla 2023-06-19 a las 22.17.20.png]]
 - - -
 
 

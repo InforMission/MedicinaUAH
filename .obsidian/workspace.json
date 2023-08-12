@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. PEOPLE (IRA)/María/María.md",
+                "file": "Diario/2023-08-12.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. PEOPLE (IRA)/María/María.md",
+                "file": "Diario/2023-08-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. PEOPLE (IRA)/María/María.md",
+                "file": "Diario/2023-08-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. PEOPLE (IRA)/María/María.md"
+                "file": "Diario/2023-08-12.md"
               }
             }
           },
@@ -148,23 +148,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "publish:Publicar cambios": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "extract-highlights-plugin:Extract Highlights": false,
-      "flashcards-obsidian:Generate flashcards": false,
-      "publish:Publish changes...": false
+      "flashcards-obsidian:Generate flashcards": false
     }
   },
   "active": "986020064e502761",
   "lastOpenFiles": [
-    "Diario/2023-08-12.md",
     "3. PEOPLE (IRA)/María/María.md",
+    "3. PEOPLE (IRA)/María/Imágenes/Captura de Pantalla 2023-06-19 a las 22.17.20.png",
+    "3. PEOPLE (IRA)/María/Imágenes",
+    "3. PEOPLE (IRA)/Yan/Documentación/Documentación.md",
+    "3. PEOPLE (IRA)/Yan/Imágenes/IMG_20230628_132715_531.jpg",
     "3. PEOPLE (IRA)/Yan/Yan.md",
+    "3. PEOPLE (IRA)/Index 0 (IRA).md",
+    "3. PEOPLE (IRA)/Kei/Kei.md",
+    "2. PLAN (OMLTE)/Index 0 (OMLTE).md",
+    "Diario/2023-08-12.md",
     "3. PEOPLE (IRA)/María",
     "Diario/2023-07-27.md",
     "4. Material/Libros.md",
@@ -185,27 +192,20 @@
     "3. PEOPLE (IRA)/Yan/Workflow/Workflow.md",
     "3. PEOPLE (IRA)/Yan/Workflow/Imágenes/Pasted image 20230812172642.png",
     "3. PEOPLE (IRA)/Yan/Workflow/Imágenes",
-    "3. PEOPLE (IRA)/Yan/Documentación/Documentación.md",
     "4. Material/Sisinio de Castro patología general/Fisiopatología de la circulación coronaria - Sisinio de Castro. Manual de Patología general/Fisiopatología de la circulación coronaria - Sisinio de Castro. Manual de Patología general.md",
     "4. Material/Sisinio de Castro patología general/Sisinio de Castro.md",
-    "4. Material/Sisinio de Castro patología general/Conceptos generales - Sisinio de Castro. Manual de Patología general/Conceptos generales - Sisinio de Castro. Manual de Patología general.md",
-    "4. Material/Farreras Rozman medicina interna/Abdomen agudo - Farreras Rozman. Medicina Interna/Abdomen agudo - Farreras Rozman. Medicina Interna.md",
-    "Diario/2023-08-09.md",
     "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura e17-2 - 8.jpg",
     "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura e17-1 - 4.jpg",
     "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-9 - 12.jpg",
     "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-8 - 11.jpg",
     "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-7 - 10.jpg",
     "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-6 - 9.jpg",
-    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-5 - 7.jpg",
-    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-4 - 6.jpg",
     "4. Material/Sisinio de Castro patología general/Síndrome de insuficiencia hepatocelular - Sisinio de Castro. Manual de Patología general/Images/Síndrome de insuficiencia hepatocelular - Sisinio de Castro. Manual de Patología general - Figura 42-2 - 5.jpg.crdownload",
     "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general - Figura e40-6 - 11.jpg.crdownload",
     "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general - Figura e40-1 - 2.jpg.crdownload",
     "4. Material/Sisinio de Castro patología general/Ictericia y colestasis - Sisinio de Castro. Manual de Patología general/Images/Ictericia y colestasis - Sisinio de Castro. Manual de Patología general - Figura 41-1 - 2.jpg.crdownload",
     "4. Material/Sisinio de Castro patología general/Fisiopatología general del sistema endocrino. Fisiopatología del bloque hipotálamo-hipófisis - Sisinio de Castro. Manual de Patología general/Images/Fisiopatología general del sistema endocrino. Fisiopatología del bloque hipotálamo-hipófisis - Sisinio de Castro. Manual de Patología general - Figura 57-2 - 3.jpg.crdownload",
     "4. Material/Rang y Dale farmacología/Mecanismos celulares defensa del huésped - Rang y Dale. Farmacología/Images/Mecanismos celulares defensa del huésped - Rang y Dale. Farmacología - Figura 7.2 - 3.jpg.crdownload",
-    "4. Material/Rang y Dale farmacología/Cómo actúan los fármacos aspectos moleculares - Rang y Dale. Farmacología/Images/Cómo actúan los fármacos aspectos moleculares - Rang y Dale. Farmacología - Figura 3.16 - 17.jpg.crdownload",
-    "4. Material/Murray microbiología/Coronavirus y norovirus - Microbiología médica/Images/Coronavirus y norovirus - Microbiología médica - Fig. 47.1 - 2.jpg.crdownload"
+    "4. Material/Rang y Dale farmacología/Cómo actúan los fármacos aspectos moleculares - Rang y Dale. Farmacología/Images/Cómo actúan los fármacos aspectos moleculares - Rang y Dale. Farmacología - Figura 3.16 - 17.jpg.crdownload"
   ]
 }
