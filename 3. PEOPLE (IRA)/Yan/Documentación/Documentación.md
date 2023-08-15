@@ -59,7 +59,6 @@ Año
 			-  ![[Pasted image 20230725120452.png|300]]
 		2. Introducir el autor, el link al ABCDE y cambiar el dataview
 			- ![[Pasted image 20230725120531.png]]
-
 		3. Seguir trabajando hasta que no haya más tareas pendientes
 		4. Hacer un merge
 - ### Cómo modificar un documento
@@ -79,7 +78,7 @@ Año
 - [ ] Tags
 - [ ] Metadata
 - [ ] Dataview
-- [ ] Plugins ^053ce3
+- [ ] Plugins 
 - [ ] Templates
 
 ## GitHub

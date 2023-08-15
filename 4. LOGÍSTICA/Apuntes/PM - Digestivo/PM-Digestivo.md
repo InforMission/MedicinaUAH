@@ -1,12 +1,13 @@
 ---
-autor:
+autor: Yan
 tipo: index
 alias:
-tags: examen
-fecha: 2023-07-26
+tags: 4, PME, DIG
+fecha: 2023-08-15
 ---
 
 ```dataview
 LIST
 WHERE contains(file.folder, this.file.folder)
+SORT file.name asc
 ```

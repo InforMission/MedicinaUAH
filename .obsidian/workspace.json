@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diario/2023-08-12.md",
+                "file": "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 01 - Enfermedades del esófago.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sistema",
+                "query": "tag:#4",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 431.51103591918945
   },
   "right": {
     "id": "c04f731de5485e96",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diario/2023-08-12.md",
+                "file": "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 01 - Enfermedades del esófago.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diario/2023-08-12.md",
+                "file": "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 01 - Enfermedades del esófago.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diario/2023-08-12.md"
+                "file": "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 01 - Enfermedades del esófago.md"
               }
             }
           },
@@ -143,69 +143,68 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "publish:Publicar cambios": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "extract-highlights-plugin:Extract Highlights": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "flashcards-obsidian:Generate flashcards": false,
+      "publish:Publish changes...": false
     }
   },
   "active": "986020064e502761",
   "lastOpenFiles": [
-    "3. PEOPLE (IRA)/María/María.md",
-    "3. PEOPLE (IRA)/María/Imágenes/Captura de Pantalla 2023-06-19 a las 22.17.20.png",
-    "3. PEOPLE (IRA)/María/Imágenes",
-    "3. PEOPLE (IRA)/Yan/Documentación/Documentación.md",
-    "3. PEOPLE (IRA)/Yan/Imágenes/IMG_20230628_132715_531.jpg",
-    "3. PEOPLE (IRA)/Yan/Yan.md",
+    "Diario/2023-08-15.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 01 - Enfermedades del esófago.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Digestivo.md",
     "3. PEOPLE (IRA)/Index 0 (IRA).md",
-    "3. PEOPLE (IRA)/Kei/Kei.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/Conceptos",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/Concepto.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 09. Tumores del páncreas, de la vesícula y de la vía biliar.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 08. Pancreatitis aguda y crónica.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 07. Pólipos y cáncer de colon.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 06. Síndrome del intestino irritable.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 05 - Enfermedad inflamatoria intestinal.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 04 - Malabsorción intestinal.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 03 - Tumores del esófago, estómago e ID.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 02 - Enfermedades del estómago.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Seminario 09. Litiasis biliar.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 16. Enfermedades hepáticas metabólicas.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Seminario 07. Endoscopia digestiva y otras técnicas diagnósticas.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Seminario 03 - Diarrea aguda y crónica.md",
     "2. PLAN (OMLTE)/Index 0 (OMLTE).md",
-    "Diario/2023-08-12.md",
-    "3. PEOPLE (IRA)/María",
-    "Diario/2023-07-27.md",
-    "4. Material/Libros.md",
-    "4. Material/Farreras Rozman medicina interna/Farreras Rozman.md",
-    "Logística/Exámenes/MIR/MIR 2003.md",
-    "Logística/Exámenes/MIR/MIR.md",
-    "Excalidraw/Flujo de trabajo.png",
-    "Diario/2023-07-25.md",
-    "0. Índices/Index 0.md",
-    "1. PRODUCT (ABCDE)/4º Medicina UAH/Patología Médica/Patología Médica.md",
-    "4. Material/Boron/Fisiología Boron.md",
-    "Templates/ABCDE.md",
-    "Templates/Index.md",
-    "Templates/Week.md",
-    "Templates/Zotero.md",
-    "Templates/Metadata.md",
-    "Templates/Daily.md",
-    "3. PEOPLE (IRA)/Yan/Workflow/Workflow.md",
-    "3. PEOPLE (IRA)/Yan/Workflow/Imágenes/Pasted image 20230812172642.png",
-    "3. PEOPLE (IRA)/Yan/Workflow/Imágenes",
-    "4. Material/Sisinio de Castro patología general/Fisiopatología de la circulación coronaria - Sisinio de Castro. Manual de Patología general/Fisiopatología de la circulación coronaria - Sisinio de Castro. Manual de Patología general.md",
-    "4. Material/Sisinio de Castro patología general/Sisinio de Castro.md",
-    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura e17-2 - 8.jpg",
-    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura e17-1 - 4.jpg",
-    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-9 - 12.jpg",
-    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-8 - 11.jpg",
-    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-7 - 10.jpg",
-    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico. Exploración funcional del aparato respiratorio. Fisiopatología de la ventilación - Sisinio de Castro. Manual de Patología general - Figura 17-6 - 9.jpg",
-    "4. Material/Sisinio de Castro patología general/Síndrome de insuficiencia hepatocelular - Sisinio de Castro. Manual de Patología general/Images/Síndrome de insuficiencia hepatocelular - Sisinio de Castro. Manual de Patología general - Figura 42-2 - 5.jpg.crdownload",
-    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general - Figura e40-6 - 11.jpg.crdownload",
-    "4. Material/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general - Figura e40-1 - 2.jpg.crdownload",
-    "4. Material/Sisinio de Castro patología general/Ictericia y colestasis - Sisinio de Castro. Manual de Patología general/Images/Ictericia y colestasis - Sisinio de Castro. Manual de Patología general - Figura 41-1 - 2.jpg.crdownload",
-    "4. Material/Sisinio de Castro patología general/Fisiopatología general del sistema endocrino. Fisiopatología del bloque hipotálamo-hipófisis - Sisinio de Castro. Manual de Patología general/Images/Fisiopatología general del sistema endocrino. Fisiopatología del bloque hipotálamo-hipófisis - Sisinio de Castro. Manual de Patología general - Figura 57-2 - 3.jpg.crdownload",
-    "4. Material/Rang y Dale farmacología/Mecanismos celulares defensa del huésped - Rang y Dale. Farmacología/Images/Mecanismos celulares defensa del huésped - Rang y Dale. Farmacología - Figura 7.2 - 3.jpg.crdownload",
-    "4. Material/Rang y Dale farmacología/Cómo actúan los fármacos aspectos moleculares - Rang y Dale. Farmacología/Images/Cómo actúan los fármacos aspectos moleculares - Rang y Dale. Farmacología - Figura 3.16 - 17.jpg.crdownload"
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 15. Tumores del hígado.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 14. Cirrosis hepática.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 13. Enfermedad hepática por alcohol y síndrome metabólico.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 12. Enfermedades colestásicas crónicas.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 11. Hepatotoxicidad.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 10. Hepatitis aguda y crónica.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/Conceptos/Zenker.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo",
+    "4. LOGÍSTICA/Bibliografía/Imágenes",
+    "Personal/Zotero",
+    "Logística",
+    "4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-9-x36-y679.png",
+    "4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-9-x35-y453.png",
+    "4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-9-x34-y593.png",
+    "4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-9-x165-y454.png",
+    "4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-9-x131-y188.png",
+    "4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-7-x38-y93.png",
+    "4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-7-x31-y667.png",
+    "4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-66-x154-y139.png",
+    "4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-64-x37-y245.png",
+    "4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-63-x36-y365.png",
+    "4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO",
+    "4. LOGÍSTICA/Bibliografía",
+    "4. LOGÍSTICA/Diapositivas",
+    "4. LOGÍSTICA/Apuntes",
+    "Personal/Libros/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general - Figura e40-6 - 11.jpg.crdownload"
   ]
 }

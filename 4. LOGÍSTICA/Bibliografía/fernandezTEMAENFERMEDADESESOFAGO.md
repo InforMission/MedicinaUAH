@@ -1,26 +1,13 @@
 
-- [[#TEMA 1. ENFERMEDADES DEL ESÓFAGO: ERGE, TRASTORNOS MOTORES, ESOFAGITIS INFECCIOSA. SEMINARIO 1.|TEMA 1. ENFERMEDADES DEL ESÓFAGO: ERGE, TRASTORNOS MOTORES, ESOFAGITIS INFECCIOSA. SEMINARIO 1.]]
-- [[#TEMA 2. ENFERMEDADES DEL ESTÓMAGO: GASTRITIS, ÚLCERA DUODENAL, DISPEPSIA FUNCIONAL. SEMINARIO 2|TEMA 2. ENFERMEDADES DEL ESTÓMAGO: GASTRITIS, ÚLCERA DUODENAL, DISPEPSIA FUNCIONAL. SEMINARIO 2]]
-- [[#TEMA 3. TUMORES DEL ESÓFAGO, ESTÓMAGO E INTESTINO DELGADO|TEMA 3. TUMORES DEL ESÓFAGO, ESTÓMAGO E INTESTINO DELGADO]]
-- [[#TEMA 4. MALABSORCIÓN INTESTINAL|TEMA 4. MALABSORCIÓN INTESTINAL]]
-- [[#TEMA 5. ENFERMEDAD INFLAMATORIA INTESTINAL. SEMINARIO 5|TEMA 5. ENFERMEDAD INFLAMATORIA INTESTINAL. SEMINARIO 5]]
-- [[#TEMA 6. SÍNDROME DEL INTESTINO IRRITABLE. ENFERMEDAD DIVERTICULAR DEL COLON. ESTREÑIMIENTO|TEMA 6. SÍNDROME DEL INTESTINO IRRITABLE. ENFERMEDAD DIVERTICULAR DEL COLON. ESTREÑIMIENTO]]
-- [[#TEMA 7. PÓLIPOS Y CÁNCER DE COLON|TEMA 7. PÓLIPOS Y CÁNCER DE COLON]]
-- [[#TEMA 8. PANCREATITIS AGUDA Y CRÓNICA|TEMA 8. PANCREATITIS AGUDA Y CRÓNICA]]
-- [[#TEMA 9. TUMORES PANCREÁTICOS Y BILIARES|TEMA 9. TUMORES PANCREÁTICOS Y BILIARES]]
-- [[#TEMA 10. HEPATITIS AGUDA Y CRÓNICA|TEMA 10. HEPATITIS AGUDA Y CRÓNICA]]
-- [[#TEMA 11. HEPATOTOXICIDAD|TEMA 11. HEPATOTOXICIDAD]]
-- [[#TEMA 12. ENFERMEDADES COLESTÁSICAS CRÓNICAS|TEMA 12. ENFERMEDADES COLESTÁSICAS CRÓNICAS]]
-- [[#TEMA 13. ENFERMEDAD HEPÁTICA POR ALCOHOL. ENFERMEDAD HEPÁTICA METABÓLICA GRASA.|TEMA 13. ENFERMEDAD HEPÁTICA POR ALCOHOL. ENFERMEDAD HEPÁTICA METABÓLICA GRASA.]]
-- [[#TEMA 14. CIRROSIS. SEMINARIO 12|TEMA 14. CIRROSIS. SEMINARIO 12]]
-- [[#TEMA 15. TUMORES HEPÁTICOS. SEMINARIO 13. TRANSPLANTE HEPÁTICO|TEMA 15. TUMORES HEPÁTICOS. SEMINARIO 13. TRANSPLANTE HEPÁTICO]]
-- [[#TEMA 16. ENFERMEDADES METABÓLICAS DEL HÍGADO|TEMA 16. ENFERMEDADES METABÓLICAS DEL HÍGADO]]
-	- [[#TEMA 16. ENFERMEDADES METABÓLICAS DEL HÍGADO#2. ENFERMEDAD DE WILSON|2. ENFERMEDAD DE WILSON]]
-- [[#SEMINARIO 9: LITIASIS BILIAR|SEMINARIO 9: LITIASIS BILIAR]]
-- [[#SEMINARIO 7. ENDOSCOPIA DIGESTIVA.|SEMINARIO 7. ENDOSCOPIA DIGESTIVA.]]
-- [[#SEMINARIO 3. DIARREA AGUDA Y CRÓNICA|SEMINARIO 3. DIARREA AGUDA Y CRÓNICA]]
-	- [[#SEMINARIO 3. DIARREA AGUDA Y CRÓNICA#DIARREA AGUDA:|DIARREA AGUDA:]]
+---
+Year: Error: `format` can only be applied to dates. Tried for format object
+tags: Source
+Authors: Aurora Gil Fernández
+---
 
+Title:: PM-Digestivo
+URL: 
+Zotero Link: [Fernández - TEMA 1. ENFERMEDADES DEL ESÓFAGO ERGE, TRASTORNOS.pdf](zotero://select/groups/4986718/items/79H2AAEP)
 
 
 # TEMA 1. ENFERMEDADES DEL ESÓFAGO: ERGE, TRASTORNOS MOTORES, ESOFAGITIS INFECCIOSA. SEMINARIO 1.
@@ -62,9 +49,7 @@ Si está barrera falla, hay reflujo que pasa al esófago y daña su mucosa, ocas
 Etiología (multifactorial):
 
 
-
-
-![[image-1-x37-y481.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-1-x37-y481.png]]
 
 
 Hernia de hiato: Una parte del estómago asciende por encima del diafragma (desplazándose el EEI, perdiéndose el alineamiento de los esfínteres y la barrera antirreflujo), formando un saco herniario que acumula ácido y pepsina. Al verse alterada la barrera antirreflujo, al inspirar aparece reflujo gastroesofágico. Es una de las causas de pirosis postprandial y nocturna. No tiene por qué haber ERGE si hay hernia de hiato.
@@ -148,7 +133,7 @@ Si hay síntomas de alarma, NO se hace el ensayo terapéutico. Se necesitan SIEM
 No es la 1ºopción para diagnosticar ERGE. Se hace para ver si la ERGE es erosiva (si hay lesiones o complicaciones) o no erosiva. En la mayoría de los pacientes con ERGE (50-75%), la endoscopia es normal. La intensidad de los síntomas no guarda relación con la gravedad de las lesiones endoscópicas, una persona puede tener síntomas intensos y no presentar esofagitis y viceversa
 
 
-![[image-2-x200-y624.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-2-x200-y624.png]]
 
 
 Indicaciones:
@@ -157,10 +142,10 @@ Indicaciones:
 o Si no hay respuesta a los IBP o Si responde bien al tto de la esofagitis grave o Si tiene ERGE frecuentemente o Clínica atípica (síntomas respiratorios, faringolaríngeos, dolor torácico o síntomas ambiguos) o Si hay síntomas de alarma o Si es un varón obeso >50años con ERGE desde hace más de 10 años.
 
 
-![[image-2-x395-y432.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-2-x395-y432.png]]
 
 
-![[image-2-x74-y435.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-2-x74-y435.png]]
 
 
 3) Otras pruebas
@@ -172,7 +157,7 @@ pHmetría ambulatoria de 24h: Se coloca un electrodo 5 cm por encima del EEI. La
 Indicaciones:
 
 
-o Antes de cirugía por ERGE tras fracasar el tto con IBP o Tras la cirugía si persisten los síntomas o Pacientes con síntomas típicos, pero con endoscopia normal y no respondedores al tto con IBP.
+o Antes de cirugía por ERGE tras fracasar el tto con IBP o Tras la cirugía si persisten los síntomas o Pacientes con síntomas típicos, pero con endoscopia normal y no respondedores al tto con IBP. 
 o Pacientes con síntomas atípicos (extraesofágicos): Se les hace una pHmetría doble (se les pone un segundo electrodo unos 20 cm por encima del EEI, para ver si el reflujo asciende mucho y puede explicar los síntomas ORL)
 
 
@@ -188,7 +173,7 @@ Radiología con contraste: No sirve para diagnosticar ERGE. Se usa para ver si a
 Impedanciometría+ pHmetría 24h (S90%, E100%): Gold Estándar*, sirve para detectar reflujos alcalinos y de aire. Cualquier valor pH<4 indica patología
 
 
-![[image-2-x340-y178.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-2-x340-y178.png]]
 
 
 Indicaciones:
@@ -215,15 +200,15 @@ Sus objetivos son aliviar/eliminar los síntomas, curar las lesiones instauradas
 No farmacológico (vida y alimentación): Perder peso, no obesidad, dieta pobre en grasas, comidas poco voluminosas, no tomar alcohol, chocolate y café; evitar ácidos, después de comer no tumbarse ni hacer ejercicio hasta 1h30min más tarde, dormir con la cabeza elevada para evitar reflujo.
 
 
-Farmacológico: Procinéticos (domperidona, el más eficaz), sucralfato, IBP, antisecretores anti-H2 (ranitidina).
+Farmacológico: Procinéticos (domperidona, el más eficaz), sucralfato, IBP, antisecretores anti-H2 (ranitidina). 
 Objetivo: pH≥4 durante 21h/día durante 8 semanas tomando IBP a dosis estándar, 30-60min antes del desayuno. Los síntomas mejoran un 70-80% en ERGE erosiva y un 50% en ERGE no erosiva. Como el ERGE es una enfermedad crónica, suele haber recidivas, siendo necesario un tto de mantenimiento e ir reevaluando al paciente. Los IBPs actúan sobre la secreción ácida pero no son curativos
 
 
-Tto de mantenimiento: Se da siempre que haya recidivas tras el tto inicial/ ERGE erosiva o complicada/ o sean pacientes grado C o D.
+Tto de mantenimiento: Se da siempre que haya recidivas tras el tto inicial/ ERGE erosiva o complicada/ o sean pacientes grado C o D. 
 Puede ser continuo (IBP todos los días, en ERGE complicadas y no complicadas persistentes, intermitente (en ERGE no complicada) o a demanda (no sirve en ERGE erosiva o complicada)
 
 
-Quirúrgico (funduplicatura de Nissen total o parcial): Si fracasa el tto médico, aunque la cirugía en ocasiones puede no ser eficaz y necesitar de otra.
+Quirúrgico (funduplicatura de Nissen total o parcial): Si fracasa el tto médico, aunque la cirugía en ocasiones puede no ser eficaz y necesitar de otra. 
 Es mejor la funduplicatura parcial (estómago rodea el esófago) sin apretar mucho, pues el riesgo de disfagia es menor
 
 
@@ -233,7 +218,7 @@ Indicaciones:
 o Pacientes con resistencia a IBP y que tienen que tomar cada vez mayores dosis de IBP o Pacientes que quieran operarse para no medicarse de forma crónica o Pacientes con regurgitaciones como síntoma predominante (IBP alivian la pirosis, pero el reflujo se sigue produciendo, por eso se hace Qx) o Pacientes con complicaciones incontrolables.  o Otros: Edad joven/ bajo riesgo quirúrgico/ preferencia del paciente por la cirugía/ financiación medicación/ bajo o ningún cumplimiento del tto médico (pacientes Down o psiquiátricos)
 
 
-![[image-3-x171-y360.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-3-x171-y360.png]]
 
 
 2. TRASTORNOS MOTORES DEL ESÓFAGO
@@ -245,7 +230,7 @@ El esófago es muy importante en el proceso de deglución. Existen dos fases: Fa
 El esófago es muy importante en el proceso de deglución. Existen dos fases: Fase orofaríngea (con fase voluntaria e involuntaria), fase esofágica (toda involuntaria).  La fase esofágica comienza cuando se origina la onda peristáltica primaria. Este peristaltismo deglutorio es progresivo, secuencial y coordinado.
 
 
-![[image-4-x38-y670.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-4-x38-y670.png]]
 
 
 La disfagia indica que hay alguna patología orgánica que impide tragar y por ello requiere un diagnóstico urgente (15 días).
@@ -254,7 +239,7 @@ La disfagia indica que hay alguna patología orgánica que impide tragar y por e
 La disfagia indica que hay alguna patología orgánica que impide tragar y por ello requiere un diagnóstico urgente (15 días)
 
 
-![[image-4-x40-y669.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-4-x40-y669.png]]
 
 
 DISFAGIA ALTA U OROFARÍNGEA
@@ -302,8 +287,8 @@ Reeducación de la deglución, miotomía del m.cricofaríngeo, alimentar por otr
 Síndrome de Plummer Vinson (raro): Hay disfagia alta mecánica por membrana en esófago superior. Suele afectar a mujeres postmenopaúsicas y cursa con anemia sideropénica y glositis.
 
 
-Divertículo de Zenker: El músculo cricofaríngeo está hipertónico y hace que la hipofaringe sobresalga inmediatamente por encima, formando una protrusión laterocervical izquierda que comprime estructuras vecinas como el esófago.
-Síntomas: Disfagia alta progresiva extrínseca, halitosis, aspiración y regurgitaciones.
+Divertículo de Zenker: El músculo cricofaríngeo está hipertónico y hace que la hipofaringe sobresalga inmediatamente por encima, formando una protrusión laterocervical izquierda que comprime estructuras vecinas como el esófago. 
+Síntomas: Disfagia alta progresiva extrínseca, halitosis, aspiración y regurgitaciones. 
 Tto: Miotomía del m.cricofaríngeo por endoscopia, miotomía del m.cricofaríngeo y diverticulotomía por cirugía cervical abierta.
 
 
@@ -361,7 +346,7 @@ Se produce por degeneración de las células ganglionares productoras de óxido 
 Desencadenantes: Predisposición genética (HLA- DQw1), mutación autosómica recesiva (síndrome Algrove), infección viral, anticuerpos antineurales (antiHU), síndromes paraneoplásicos.
 
 
-Clínica: Disfagia para sólidos y líquidos, pirosis, dificultad para eructar (95%), dolor torácico (40%), regurgitación nocturna, aspiración.
+Clínica: Disfagia para sólidos y líquidos, pirosis, dificultad para eructar (95%), dolor torácico (40%), regurgitación nocturna, aspiración. 
 Ese dolor torácico indica hiperperistaltismo, y sucede en los pacientes con acalasia vigorosa o espástica tipo III, donde el cuerpo esofágico no es aperistáltico, sino que se contrae todo a modo de espasmo. La manometría nos permite diagnosticar este tipo de acalasia.
 
 
@@ -371,12 +356,12 @@ Complicaciones (por mucosa irritada): Carcinoma epidermoide de esófago*, esofag
 Diagnóstico: Endoscopia (normal en el 40% de los pacientes, para descartar acalasia secundaria) y manometría. En la Rx baritada veríamos que el esófago termina en pico de ave.
 
 
-Tratamiento: No podemos corregir la aperistalsis ni devolver la motilidad, pero sí relajar el EEI mediante rotura o relajación de su capa muscular.
-o Dilatación neumática: Es el tto de elección.  o Esofagomiotomía de Heller por laparoscopia: Se cortan las fibras del EEI, y para evitar un ERGE grave se hace también una funduplicatura parcial.
+Tratamiento: No podemos corregir la aperistalsis ni devolver la motilidad, pero sí relajar el EEI mediante rotura o relajación de su capa muscular. 
+o Dilatación neumática: Es el tto de elección.  o Esofagomiotomía de Heller por laparoscopia: Se cortan las fibras del EEI, y para evitar un ERGE grave se hace también una funduplicatura parcial. 
 Estas dos técnicas al cabo de 10 años pueden perder eficacia, corrigiéndose con: Miotomía per oral endoscópica (POEM), inyección perendoscópica de toxina botulínica (elección en ancianos), fármacos relajantes del EEI.
 
 
-![[image-4-x334-y272.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-4-x334-y272.png]]
 
 
 TRASTORNOS ESPÁSTICOS DEL MÚSCULO LISO DEL ESÓFAGO
@@ -403,7 +388,7 @@ Tratamiento: Fármacos relajantes del m.liso (nitritos orgánicos), dilatación 
 ESCLERODERMIA: Se fibrosa la capa mucosa y submucosa, perdiéndose la contractibilidad.
 
 
-![[image-5-x168-y443.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-5-x168-y443.png]]
 
 
 3. TIPOS DE ESOFAGITIS
@@ -460,7 +445,7 @@ Diagnóstico: Endoscopia y biopsia. En la endoscopia se ven anillos esofágicos,
 Tratamiento:
 
 
-o Ver que no hay alergias alimentarias, sobre todo en niños, y llevar a cabo una dieta eliminando dichas comidas.
+o Ver que no hay alergias alimentarias, sobre todo en niños, y llevar a cabo una dieta eliminando dichas comidas. 
 o IBP durante 2 meses y repetir biopsia. Si no responde a los IBP, se dan esteroides tópicos para ingerir (fluticasona* o budesonida)
 
 
@@ -476,17 +461,17 @@ ESOFAGITIS PÉPTICA (por ERGE)
 # TEMA 2. ENFERMEDADES DEL ESTÓMAGO: GASTRITIS, ÚLCERA DUODENAL, DISPEPSIA FUNCIONAL. SEMINARIO 2
 
 
-1. ENFERMEDAD ULCEROSA PÉPTICA (EUP)
+## 1. ENFERMEDAD ULCEROSA PÉPTICA (EUP)
 
 
-La erosión se convierte en úlcera cuando el ácido/pepsina gástricos traspasan la lámina propia hasta alcanzar la submucosa. Normalmente, las úlceras suelen estar en el bulbo duodenal (90%), pero también pueden ubicarse en el antro del estómago, esófago y divertículo de Meckel (conducto entre intestino-ombligo).
+La erosión se convierte en úlcera cuando el ácido/pepsina gástricos traspasan la lámina propia hasta alcanzar la submucosa. Normalmente, las úlceras suelen estar en el bulbo duodenal (90%), pero también pueden ubicarse en el antro del estómago, esófago y divertículo de Meckel (conducto entre intestino-ombligo). 
 Afecta a un 5-10% de la población, siendo cada vez menor la incidencia y hospitalización por úlceras debido al consumo de IBP, menos casos de H.pylori, y uso responsable de AINEs.
 
 
 Clínica:
 
 
-- Dolor abdominal o péptico: Dispepsia (ulcerosa/no ulcerosa) que se manifiesta como malestar o sensación de hambre en el epigastrio, sobre todo por la noche. Menos del 30% de los pacientes con dispepsia presentan úlceras en la endoscopia.
+- Dolor abdominal o péptico: Dispepsia (ulcerosa/no ulcerosa) que se manifiesta como malestar o sensación de hambre en el epigastrio, sobre todo por la noche. Menos del 30% de los pacientes con dispepsia presentan úlceras en la endoscopia. 
 - Hemorragia sin síntomas previos (20-50%) - Náuseas y pérdida de peso, sobre todo en úlcera gástrica - Los síntomas son recurrentes si persiste el agente causal (H.pylori o AINEs)
 
 
@@ -529,7 +514,7 @@ Otras lesiones: Linfoma gástrico MALT, cáncer, úlcera y gastritis.
 ¿Por qué en unos pacientes se forman úlceras y en otros hay gastritis crónica multifocal y cáncer gástrico?
 
 
-Estómago con buena salud (paciente joven país desarrollado)= H.pylori infecta el antro, no el cuerpo del estómago, produciendo una gastritis crónica activa NO atrófica (antro dañado ↓células D productoras de somastostatina, ↑gastrina, ↑secreción ácida por células parietales del cuerpo gástrico). Hay hipergastrinemia e hipersecreción de ácido que llega al duodeno y causa una úlcera duodenal.
+Estómago con buena salud (paciente joven país desarrollado)= H.pylori infecta el antro, no el cuerpo del estómago, produciendo una gastritis crónica activa NO atrófica (antro dañado ↓células D productoras de somastostatina, ↑gastrina, ↑secreción ácida por células parietales del cuerpo gástrico). Hay hipergastrinemia e hipersecreción de ácido que llega al duodeno y causa una úlcera duodenal. 
 También hay riesgo de cáncer duodenal (metaplasia gástrica en duodeno).
 
 
@@ -554,27 +539,27 @@ No siempre que se tomen AINEs y AAS hay que tomar IBP como profilaxis. Solo se t
 OTRAS CAUSAS DE EUP
 
 
-- Infección: CMV, HSV en inmunodeprimidos.
-- Fármacos/ toxinas - Miscelánea: Obstrucción duodenal* (porque causa hipergastrinemia), isquemia, radioterapia, sarcoidosis, Crohn.
-- Estados de hipersecreción ácida: Gastrinoma (=Zollinger Ellison), mastocitosis, enfermedad mieloproliferativa (policitemia vera, basofilia).
+- Infección: CMV, HSV en inmunodeprimidos. 
+- Fármacos/ toxinas - Miscelánea: Obstrucción duodenal* (porque causa hipergastrinemia), isquemia, radioterapia, sarcoidosis, Crohn. 
+- Estados de hipersecreción ácida: Gastrinoma (=Zollinger Ellison), mastocitosis, enfermedad mieloproliferativa (policitemia vera, basofilia). 
 - Enfermedades crónicas relacionadas con EUP: EPOC, IRC, enfermedad coronaria, pancreatitis crónica (porque hay menos bicarbonato), hiperparatiroidismo (a ↑Ca2+ hay ↑ácido)
 
 
-TRATAMIENTO DE LA ÚLCERA PÉPTICA:
+### TRATAMIENTO DE LA ÚLCERA PÉPTICA:
 
 
-Las úlceras se diagnostican por endoscopia, y viendo sus características podemos saber si son benignas o malignas.  Úlceras gástricas: Es bastante probable que sean malignas, por eso es fundamental hacer biopsias de los bordes y no solo limitarse a la endoscopia.  Además, como un 5-10% de las úlceras biopsiadas dan falsos negativos (falsa benignidad), se debe corroborarse el resultado con otra nueva biopsia a las 8-12 semanas.  Úlcera duodenal: Rara vez son malignas, por lo que no está indicada la toma de biopsias ni el control de la cicatrización, salvo que se trate de personas mayores, pacientes con clínica insidiosa, o sean úlceras grandes o de aspecto dudoso.
+Las úlceras se diagnostican por endoscopia, y viendo sus características podemos saber si son benignas o malignas.  Úlceras gástricas: Es bastante probable que sean malignas, por eso es fundamental hacer biopsias de los bordes y no solo limitarse a la endoscopia.  Además, como un 5-10% de las úlceras biopsiadas dan falsos negativos (falsa benignidad), se debe corroborarse el resultado con otra nueva biopsia a las 8-12 semanas.  Úlcera duodenal: Rara vez son malignas, por lo que no está indicada la toma de biopsias ni el control de la cicatrización, salvo que se trate de personas mayores, pacientes con clínica insidiosa, o sean úlceras grandes o de aspecto dudoso. 
 Las causas más frecuentes de úlcera son los AINEs, H.pylori y el estrés.
 
 
-![[image-7-x31-y667.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-7-x31-y667.png]]
 
 
 ¿Cómo saber si la úlcera está causada por H.pylori?
 
 
-Métodos directos (invasivos): Endoscopia+ biopsia (cultivo, histología, prueba de la ureasa, tinción Gram).
-o Cultivo tiene una especificidad del 100% .
+Métodos directos (invasivos): Endoscopia+ biopsia (cultivo, histología, prueba de la ureasa, tinción Gram). 
+o Cultivo tiene una especificidad del 100% . 
 o La prueba de la ureasa es positiva si después de 20min-1h, la muestra cambia de amarillo a rojo.
 
 
@@ -590,14 +575,14 @@ Objetivo del tratamiento: Aliviar los síntomas, curar la lesión ulcerosa y pre
 Tratamiento de la úlcera si hay infección por H.pylori:
 
 
-- Terapia cuádruple de 1º línea: IBP+ Metronidazol + Claritromicina + Amoxicilina (14 días) / IBP+ Pylera (Metronidazol + Bismuto + Tetraciclina) (10 días).
+- Terapia cuádruple de 1º línea: IBP+ Metronidazol + Claritromicina + Amoxicilina (14 días) / IBP+ Pylera (Metronidazol + Bismuto + Tetraciclina) (10 días). 
 - Si la úlcera es >1cm, se mantiene el tratamiento con IBP otras 4-8 semanas después de finalizar la antibioterapia.
 
 
 Tratamiento de la úlcera si no hay infección por H.pylori:
 
 
-Se dan antisecretores gástricos (antagonistas H2 o IBP) para favorecer la cicatrización de la úlcera.  o Dosis: Omeprazol 20 mg, lansoprazol 30 mg, pantoprazol 40 mg, rabeprazol 20 mg, esomeprazol 20 mg.
+Se dan antisecretores gástricos (antagonistas H2 o IBP) para favorecer la cicatrización de la úlcera.  o Dosis: Omeprazol 20 mg, lansoprazol 30 mg, pantoprazol 40 mg, rabeprazol 20 mg, esomeprazol 20 mg. 
 o Duración del tto: Úlcera gástrica 8 sem, úlcera duodenal 4 sem, úlcera gástrica gigante (>3cm) 12 semanas con dosis de IBP dobles.
 
 
@@ -613,16 +598,16 @@ Tratamiento de la HDA debida a úlcera:
 El tratamiento endoscópico hemostático está indicado en todos los casos de HDA según la clasificación Forrest, salvo en IIC y III.
 
 
-![[image-7-x38-y93.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-7-x38-y93.png]]
 
 
-2. GASTRITIS Y GASTROPATÍAS AGUDAS
+## 2. GASTRITIS Y GASTROPATÍAS AGUDAS
 
 
 En una gastritis hay inflamación, mientras que en una gastropatía no hay inflamación. La mayoría de las gastritis agudas son de causa infecciosa, y estas sí que duelen
 
 
-GASTRITIS AGUDAS:
+### GASTRITIS AGUDAS:
 
 
 Clínica: Dolor en epigastrio, náuseas, enfermedad de base (infección, p.ej).
@@ -631,12 +616,12 @@ Clínica: Dolor en epigastrio, náuseas, enfermedad de base (infección, p.ej).
 Clasificación:
 
 
-- Por infección aguda por H.pylori (gastritis aguda evoluciona a crónica), otras bacterias, virus, , parásitos, anisakis, flemonosa (bacteria piógena) - Por estrés: El estrés produce erosiones y úlceras en el estómago que causan una gastritis aguda hemorrágica. Este tipo de gastritis es bastante frecuente en los pacientes ingresados en la UVI o críticos (con ventilación mecánica, coagulopatías, quemados=úlcera de Curling, con trauma cerebral= úlcera de Cushing), siendo el mejor tratamiento la profilaxis con IBP vía IV.
-- Fármacos: AAS, AINEs, alcohol, cocaína.
+- Por infección aguda por H.pylori (gastritis aguda evoluciona a crónica), otras bacterias, virus, , parásitos, anisakis, flemonosa (bacteria piógena) - Por estrés: El estrés produce erosiones y úlceras en el estómago que causan una gastritis aguda hemorrágica. Este tipo de gastritis es bastante frecuente en los pacientes ingresados en la UVI o críticos (con ventilación mecánica, coagulopatías, quemados=úlcera de Curling, con trauma cerebral= úlcera de Cushing), siendo el mejor tratamiento la profilaxis con IBP vía IV. 
+- Fármacos: AAS, AINEs, alcohol, cocaína. 
 - Agentes físicos: Isquemia, radiación, trauma local, cáusticos.
 
 
-GASTRITIS CRÓNICAS:
+### GASTRITIS CRÓNICAS:
 
 
 a) GASTRITIS POR HELICOBACTER PYLORI (GASTRITIS DE TIPO B):
@@ -645,7 +630,7 @@ a) GASTRITIS POR HELICOBACTER PYLORI (GASTRITIS DE TIPO B):
 Gastritis atrófica multifocal (forma asociada a Hp): En infecciones de larga evolución por Hp. Aparecen focos de metaplasia intestinal en el estómago que pueden evolucionar a displasia y adenocarcinoma gástrico. Inicialmente, la bacteria se fija al antro del estómago (gastritis tipo B) y con el tiempo aumenta la atrofia y disminuye la secreción gástrica, extendiéndose la infección al cuerpo del estómago (gastritis tipo A/B, pangastritis con predominio antral).
 
 
-Gastritis crónica activa: Existe un infiltrado inflamatorio crónico de linfocitos y polimorfonucleares a nivel antral que desaparece con el tratamiento.
+Gastritis crónica activa: Existe un infiltrado inflamatorio crónico de linfocitos y polimorfonucleares a nivel antral que desaparece con el tratamiento. 
 No suele haber folículos linfoides. En los pacientes jóvenes con celiaquía que se infectan por Hp podemos ver un subtipo llamada gastritis linfocítica varioliforme, donde hay una intensa infiltración linfocítica y sí hay folículos linfoides.
 
 
@@ -712,13 +697,13 @@ TRATAMIENTO DE LAS GASTROPATÍAS POR AINEs:
 Lesiones/ efectos secundarios causados por AINEs:
 
 
-![[image-9-x36-y679.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-9-x36-y679.png]]
 
 
 Factores de riesgo evidentes/gastropatía AINE-AAS:
 
 
-![[image-9-x34-y593.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-9-x34-y593.png]]
 
 
 Estrategia a emplear en pacientes que necesitan AINES/AAS, para evitar la aparición de enteropatías:
@@ -730,13 +715,13 @@ Para evitar una enteropatía por AINEs, lo ideal sería no tomar AINEs, pero si 
 Riesgo gastrointestinal:
 
 
-![[image-9-x35-y453.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-9-x35-y453.png]]
 
 
 Riesgo cardiovascular:
 
 
-![[image-9-x165-y454.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-9-x165-y454.png]]
 
 
 Pasos a seguir
@@ -754,7 +739,7 @@ Pasos a seguir
 Se debe usar siempre que se pueda inhibidores selectivos de COX-2, antes que AINEs clásicos, pues son más eficaces y seguros a nivel gastrointestinal.  Si damos IBP+ COX-2, la protección es aún mayor.
 
 
-![[image-9-x131-y188.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-9-x131-y188.png]]
 
 
 3. DISPEPSIA
@@ -832,7 +817,7 @@ Tratamiento empírico (dura 4-6-8 semanas): En función de la sintomatología pr
 SIEMPRE QUE NO HAYA RESPUESTA AL TTO EMPÍRICO Y LA DISPEPSIA SEA RECURRENTE (CON O SIN SÍNTOMAS DE ALARMA), SE HACE UNA PANENDOSCOPIA
 
 
-![[image-10-x391-y75.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-10-x391-y75.png]]
 
 
 TRATAMIENTO DISPEPSIA FUNCIONAL
@@ -853,13 +838,13 @@ Antiácidos -Fcos inhibidores de la secreción gástrica: antagonistas H2*, IBP 
 # TEMA 3. TUMORES DEL ESÓFAGO, ESTÓMAGO E INTESTINO DELGADO
 
 
-![[image-11-x125-y592.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-11-x125-y592.png]]
 
 
-![[image-11-x125-y475.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-11-x125-y475.png]]
 
 
-![[image-11-x129-y340.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-11-x129-y340.png]]
 
 
 El PET no es útil ni en el cáncer de esófago ni en los linfomas
@@ -886,13 +871,13 @@ Diagnóstico: Endoscopia oral+ BIOPSIA.
 Tratamiento:
 
 
-![[image-11-x37-y108.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-11-x37-y108.png]]
 
 
 2. TUMORES DE ESTÓMAGO
 
 
-![[image-12-x44-y672.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-12-x44-y672.png]]
 
 
 2.1. ADENOCARCINOMA GÁSTRICO
@@ -913,7 +898,7 @@ Etiopatogenia multifactorial del adenocarcinoma antral:
 Este tumor sigue la secuencia de Correa= Mucosa normal pasa a estar inflamada por H.pylori, sal, nitratos de ahumados→ se produce atrofia (gastritis atrófica) y aclorhidira →hay sobrecrecimiento bacteriano ( ↑producción de nitratos) y déficit vitamina C, generándose una situación muy oxidativa que favorece el paso de atrofia a metaplasia intestinal →displasia →adenocarcinoma.
 
 
-Factores ambientales favorecedores: Infección por H.pylori (riesgo x3-6 de cáncer sobre todo si se adquiere siendo muy joven, pero solo un 0,5% de los infectados lo desarrollan), mala higiene, sal, ahumados (ricos en nitratos), tabaco (riesgo x2).
+Factores ambientales favorecedores: Infección por H.pylori (riesgo x3-6 de cáncer sobre todo si se adquiere siendo muy joven, pero solo un 0,5% de los infectados lo desarrollan), mala higiene, sal, ahumados (ricos en nitratos), tabaco (riesgo x2). 
 Las frutas y verduras son antioxidantes y disminuyen el riesgo de cáncer.
 
 
@@ -929,7 +914,7 @@ Pacientes con poliposis proximal del estómago que desarrollan un adenocarcinoma
 Pacientes con las siguientes enfermedades (Lynch, PAF, pólipos de Peutz-Jehers) tienen riesgo de sufrir cáncer colorrectal hereditario.
 
 
-![[image-12-x158-y323.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-12-x158-y323.png]]
 
 
 Entidades premalignas con posible progresión a adenocarcinoma gástrico:
@@ -938,7 +923,7 @@ Entidades premalignas con posible progresión a adenocarcinoma gástrico:
 Gastritis crónica atrófica:
 
 
-o Gastritis atrófica multifocal tipo B= Por H.pylori.
+o Gastritis atrófica multifocal tipo B= Por H.pylori. 
 o Gastritis atrófica corporal difusa tipo A= Hay hipoclorhidria y anemia perniciosa. La IDCV causa este tipo de gastritis
 
 
@@ -966,7 +951,7 @@ Clínica inespecífica: Pérdida de peso, dolor abdominal y anorexia
 Clínica según el lugar de metástasis:
 
 
-![[image-12-x34-y53.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-12-x34-y53.png]]
 
 
 Diagnóstico adenocarcinoma gástrico: Endoscopia+ biopsia (precisión del 95%).
@@ -984,14 +969,14 @@ Pronóstico
 Depende de TNM. Ecoendoscopia es lo mejor para el estadiaje
 
 
-- Tis: No es adenocarcinoma, sino displasia de alto grado o tumor intraepitelial que afecta a la parte más superficial de la mucosa.
+- Tis: No es adenocarcinoma, sino displasia de alto grado o tumor intraepitelial que afecta a la parte más superficial de la mucosa. 
 - T1: Mucosa y submucosa - T2: Muscular - T3: Serosa, sin peritoneo visceral - T4: Peritoneo visceral o vísceras
 
 
 Tratamiento:
 
 
-Enfermedad local sin metástasis: Qx de resección o Gastrectomía total+ esofagoyeyunostomía en Y de Roux= Si el tumor está en cardias, fundus o cuerpo.
+Enfermedad local sin metástasis: Qx de resección o Gastrectomía total+ esofagoyeyunostomía en Y de Roux= Si el tumor está en cardias, fundus o cuerpo. 
 o Gastrectomía subtotal+ gastroyeyunostomía de Billroth II= Si el tumor está en antro o píloro.
 
 
@@ -1004,7 +989,7 @@ Enfermedad con metástasis: Quimioterapia.
 Suelen ser asintomáticos. Si son grandes pueden causar obstrucción. Si se ulceran puede haber hemorragia. Si miden >1cm se extirpan por endoscopia
 
 
-![[image-13-x40-y402.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-13-x40-y402.png]]
 
 
 PÓLIPOS HAMARTOMOSOS (pólipos de Peutz- Jehers)= Mutación STK11.
@@ -1016,8 +1001,8 @@ PÓLIPOS HAMARTOMOSOS (pólipos de Peutz- Jehers)= Mutación STK11.
 Los linfomas se originan en los folículos linfoides de la submucosa digestiva. Habrá más folículos en las zonas de mayor inflamación.
 
 
-Linfomas gástricos: Es la localización extraganglionar más frecuente de los linfomas (75%). El 70% de los linfomas gástricos son no Hodgkin B de tipo MALT, y su aparición se asocia a infección crónica por H.pylori.
-Los linfomas gástricos tipo MALT suelen ser linfomas localizados, con bajo riesgo de diseminación, estadio precoz y muy buen pronóstico. En este caso los folículos linfoides están formados por linfocitos B maduros que causan una lesión local tipo masa (lesión linfoepitelial).
+Linfomas gástricos: Es la localización extraganglionar más frecuente de los linfomas (75%). El 70% de los linfomas gástricos son no Hodgkin B de tipo MALT, y su aparición se asocia a infección crónica por H.pylori. 
+Los linfomas gástricos tipo MALT suelen ser linfomas localizados, con bajo riesgo de diseminación, estadio precoz y muy buen pronóstico. En este caso los folículos linfoides están formados por linfocitos B maduros que causan una lesión local tipo masa (lesión linfoepitelial). 
 No obstante, un 15% de los linfomas gástricos MALT no están localizados (tumores multifocales) y se diseminan por el resto de tejido MALT digestivo, en este caso hablamos de un linfoma difuso MALT donde hay linfoblastos en vez de linfocitos, y no hay lesión tipo masa al ser difuso.
 
 
@@ -1033,8 +1018,8 @@ Enfermedad inmunoproliferativa del intestino delgado/ linfoma mediterráneo/ enf
 Factores de riesgo de linfoma:
 
 
-- Inmunodeficiencia congénita o adquirida (VIH, trasplante, autoinmunidad).
-- Enfermedad de Crohn: El paciente tiene inflamción e inmunosupresión, por lo que es susceptible de sufrir adenocracinoma y linfoma intestinal.
+- Inmunodeficiencia congénita o adquirida (VIH, trasplante, autoinmunidad). 
+- Enfermedad de Crohn: El paciente tiene inflamción e inmunosupresión, por lo que es susceptible de sufrir adenocracinoma y linfoma intestinal. 
 - Enfermedad celíaca: En esta enfermedad se da un linfoma no Hodgkin de células T.
 
 
@@ -1068,7 +1053,7 @@ Está formado por células fusiformes que expresan el antígeno CD-117 (mutació
 Clínica:
 
 
-- A diferencia del linfoma, los GIST son grandes masas SIN adenopatías.
+- A diferencia del linfoma, los GIST son grandes masas SIN adenopatías. 
 - Asintomáticos si miden <3cm. El 70% son SINTOMÁTICOS: Compresión, dolor abdominal, obstrucción intestinal, ulceración con hemorragia y anemia.
 
 
@@ -1081,7 +1066,7 @@ Depende del tamaño (<5cm) y del nº de mitosis.
 Tratamiento:
 
 
-- Tto de elección: Qx de resección sin linfadenectomía.
+- Tto de elección: Qx de resección sin linfadenectomía. 
 - Si hay metástasis o es maligno: Imatinib.
 
 
@@ -1091,25 +1076,25 @@ Tratamiento:
 En el intestino delgado la posibilidad de neoplasias es muy baja (hay muy pocas bacterias y tiene un tránsito más o menos rápido), son más destacables los problemas de malabsorción.
 
 
-![[image-14-x37-y416.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-14-x37-y416.png]]
 
 
-![[image-14-x37-y306.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-14-x37-y306.png]]
 
 
 # TEMA 4. MALABSORCIÓN INTESTINAL
 
 
-La malabsorción se puede dar por problemas en la digestión (a nivel luminal, o en la mucosa) o en el transporte de los nutrientes (sangre o linfa).
+La malabsorción se puede dar por problemas en la digestión (a nivel luminal, o en la mucosa) o en el transporte de los nutrientes (sangre o linfa). 
 Este trastorno, que puede afectar a uno o varios principios inmediatos, originará a veces diarrea (esteatorrea) por un mecanismo osmótico.
 
 
 Causas de malabsorción:
 
 
-- Maldigestión: Pancreatitis crónica, obstrucción biliar, cirugía gástrica, síndrome de Zollinger Ellison.
-- Alteración del ciclo enterohepático (pérdida o inactivación de sales biliares): Enfermedad hepato-biliar, sobrecrecimiento bacteriano, enfermedad o resección ileal, colecistectomía.
-- Anomalías de la mucosa intestinal: Déficit de disacaridasas, alteración en el trasporte de monosacáridos, enfermedad celíaca, Whipple, amiloidosis, enf de Crohn, agammaglobulinemia, abetalipoproteinemia, Enf de Hartnup, cistinuria.
+- Maldigestión: Pancreatitis crónica, obstrucción biliar, cirugía gástrica, síndrome de Zollinger Ellison. 
+- Alteración del ciclo enterohepático (pérdida o inactivación de sales biliares): Enfermedad hepato-biliar, sobrecrecimiento bacteriano, enfermedad o resección ileal, colecistectomía. 
+- Anomalías de la mucosa intestinal: Déficit de disacaridasas, alteración en el trasporte de monosacáridos, enfermedad celíaca, Whipple, amiloidosis, enf de Crohn, agammaglobulinemia, abetalipoproteinemia, Enf de Hartnup, cistinuria. 
 - Disminución de la superficie intestinal: Síndrome de intestino corto, bypass yeyuno ileal - Obstrucción linfática: Linfoma, tuberculosis, linfangiectasias - Malabsorciones específicas: B12.
 
 
@@ -1122,15 +1107,15 @@ La esteatorrea consiste la presencia de secreciones lipídicas en las heces, sie
 1. Demostrar que hay esteatorrea:
 
 
-o Tinción de las heces con Sudan III: Prueba cualitativa donde puede haber falsos negativos.
-o Prueba del aliento con trioleína 14C: Si no hay 14CO2 en el aire espirado, hay malabsorción de grasas. Esta prueba no es útil en trastornos hepáticos, pulmonares, tiroideos y en diabéticos.
+o Tinción de las heces con Sudan III: Prueba cualitativa donde puede haber falsos negativos. 
+o Prueba del aliento con trioleína 14C: Si no hay 14CO2 en el aire espirado, hay malabsorción de grasas. Esta prueba no es útil en trastornos hepáticos, pulmonares, tiroideos y en diabéticos. 
 o Prueba de van de Kamer (gold standard): Tomar 100g de grasa y recoger las heces durante 3 días. Kamer+ si >6g/grasa/24h.
 
 
 2. Ver el mecanismo patogénico: Prueba de la D-xilosa para ver si la integridad de la mucosa, ya que es una pentasacárido de absorción directa.
 
 
-o Prueba normal (hay D-xilosa en orina): Hay malabsorción (insuficiencia pancreática o biliar).
+o Prueba normal (hay D-xilosa en orina): Hay malabsorción (insuficiencia pancreática o biliar). 
 o Prueba anormal: La mucosa está mal (enteropatía difusa) o hay sobrecrecimiento bacteriano. Para saber la causa hacemos la prueba de D- xilosa 14C o lactosa/H.
 
 
@@ -1146,7 +1131,7 @@ Es una enfermedad malabsortiva de mecanismo inmunológico que se presenta en ind
 ntre las causas de la enfermedad celiaca se encuentran:
 
 
-- Factores ambientales: Por la gliadina y las prolaminas presentes en el gluten (trigo, centeno, cebada, avena. NO en arroz, maíz o la soja).
+- Factores ambientales: Por la gliadina y las prolaminas presentes en el gluten (trigo, centeno, cebada, avena. NO en arroz, maíz o la soja). 
 - Factores genéticos: Hay un 95% de personas celiacas portadoras del alelo de la clase II HLA-DQ-2 y HLA-DQ8 (agrupación familiar).
 
 
@@ -1165,13 +1150,13 @@ Se trata de una enfermedad que daña la mucosa intestinal, sobre todo en el duod
 Fases del espectro lesional de la enfermedad:
 
 
-![[image-15-x37-y85.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-15-x37-y85.png]]
 
 
 Clasificación Marsh de las lesiones de la mucosa intestinal:
 
 
-![[image-15-x371-y82.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-15-x371-y82.png]]
 
 
 Clínica: La celiaquía es la enfermedad crónica intestinal más frecuente (1 de cada 80-100 recién nacidos vivos nacen con la predisposición de acabar manifestando la enfermedad). Existen tres formas de presentación de la celiaquía:
@@ -1180,67 +1165,67 @@ Clínica: La celiaquía es la enfermedad crónica intestinal más frecuente (1 d
 Clínica:
 
 
-- En niños, al incorporar el gluten a la dieta.
-- Adultos en la 3º y 4º década de la vida.
+- En niños, al incorporar el gluten a la dieta. 
+- Adultos en la 3º y 4º década de la vida. 
 - En familiares de celiacos y en pacientes con dermatitis herpetiforme.
 
 
 Clínicamente se caracteriza por
 
 
-- Manifestaciones digestivas: Malabsorción (origina diarrea por esteatorrea, a lo que se suma déficit de lactasa y malabsorción de ácidos biliares si se afecta el íleon). En otras ocasiones cursa con estreñimiento. Al existir malabsorción, los principios inmediatos no absorbidos sufren la fermentación colónica, originando distensión abdominal, gases y eructos. También, por la malabsorción, tienen pérdida de peso.
+- Manifestaciones digestivas: Malabsorción (origina diarrea por esteatorrea, a lo que se suma déficit de lactasa y malabsorción de ácidos biliares si se afecta el íleon). En otras ocasiones cursa con estreñimiento. Al existir malabsorción, los principios inmediatos no absorbidos sufren la fermentación colónica, originando distensión abdominal, gases y eructos. También, por la malabsorción, tienen pérdida de peso. 
 - Manifestaciones extradigestivas secundarias a déficits nutricionales y de vitaminas.
 
 
 Dentro de la enfermedad celiaca, existen distintas FORMAS CLÍNICAS:
 
 
-![[image-16-x37-y548.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-16-x37-y548.png]]
 
 
 Enfermedades asociadas a la celiaquía:
 
 
-- La dermatitis herpetiforme: Con lesiones papulovesiculares características.
+- La dermatitis herpetiforme: Con lesiones papulovesiculares características. 
 - La DM insulinodependiente (DM1) - El déficit de IgA (10%)
 
 
 Entre las complicaciones se encuentran:
 
 
-- El linfoma intestinal y el adenocarcinoma intestinal.
-- El esprúe colágeno: debido al depósito de colágeno superficial (en la submucosa intestinal) que, al ser impermeable, origina la malabsorción de los nutrientes y por lo tanto diarrea.
+- El linfoma intestinal y el adenocarcinoma intestinal. 
+- El esprúe colágeno: debido al depósito de colágeno superficial (en la submucosa intestinal) que, al ser impermeable, origina la malabsorción de los nutrientes y por lo tanto diarrea. 
 - Úlceras intestinales y estenosis (cuando son oclusivos).
 
 
 Diagnóstico:
 
 
-- Inmunología: Detección de anticuerpos IgA antitransglutaminasa (son los más sensibles y específicos). También se encuentran los Ac.antiendomisio o antigliadina (no usar). Aquellas personas con celiaquía y déficit de IgA (el 10%) NO pueden presentar los anticuerpos antitransglutaminasa (son IgA).  Por tanto, en estos pacientes se determinarán los Ac.antitransglutaminasa tipo IgG (si son positivos hay una probabilidad intermedia de padecer la enfermedad mientras si son negativos la probabilidad es baja).
-- Biopsia: Tomando muestras de duodeno (junto al yeyuno proximal son los lugares más afectados) por gastroscopia (antes se usaba la cápsula de Crosby en niños, actualmente también se hace endoscopia).
-- Genético: Se basa en la detección de los MCH de clase II HLA-DQ2 y HLA-DQ8. Sin embargo, el estudio de los haplotipos no vale para hacer el diagnóstico debido a su escasa especificidad (el 25-30% de la población general es portadora) sin embargo si tienen un alto valor predictivo negativo (si son negativos, el 99% no tienen la enfermedad). Por tanto, es realmente de utilidad cuando sale un resultado negativo. También es útil en: o Caso de sospecha clínica si los resultados histológicos/inmunológicos son dudosos.  o Selección de grupos de riesgo.
+- Inmunología: Detección de anticuerpos IgA antitransglutaminasa (son los más sensibles y específicos). También se encuentran los Ac.antiendomisio o antigliadina (no usar). Aquellas personas con celiaquía y déficit de IgA (el 10%) NO pueden presentar los anticuerpos antitransglutaminasa (son IgA).  Por tanto, en estos pacientes se determinarán los Ac.antitransglutaminasa tipo IgG (si son positivos hay una probabilidad intermedia de padecer la enfermedad mientras si son negativos la probabilidad es baja). 
+- Biopsia: Tomando muestras de duodeno (junto al yeyuno proximal son los lugares más afectados) por gastroscopia (antes se usaba la cápsula de Crosby en niños, actualmente también se hace endoscopia). 
+- Genético: Se basa en la detección de los MCH de clase II HLA-DQ2 y HLA-DQ8. Sin embargo, el estudio de los haplotipos no vale para hacer el diagnóstico debido a su escasa especificidad (el 25-30% de la población general es portadora) sin embargo si tienen un alto valor predictivo negativo (si son negativos, el 99% no tienen la enfermedad). Por tanto, es realmente de utilidad cuando sale un resultado negativo. También es útil en: o Caso de sospecha clínica si los resultados histológicos/inmunológicos son dudosos.  o Selección de grupos de riesgo. 
 - Pruebas de malabsorción: Tránsito intestinal (“en nevada, moulage”).
 
 
 Tratamiento:
 
 
-- Dejar de tomar gluten: Tras la eliminación desaparecen los síntomas (a las 2 semanas), la serología se normaliza (en 6-12 meses) y las vellosidades intestinales se recuperan a los 2 años.
-- Inicialmente retirar leche y derivados: por la pérdida de lactasa en el enterocito tras la respuesta inmune.
+- Dejar de tomar gluten: Tras la eliminación desaparecen los síntomas (a las 2 semanas), la serología se normaliza (en 6-12 meses) y las vellosidades intestinales se recuperan a los 2 años. 
+- Inicialmente retirar leche y derivados: por la pérdida de lactasa en el enterocito tras la respuesta inmune. 
 - La corrección de déficits nutricionales o de vitaminas.
 
 
 2. ENFERMEDAD DE WHIPPLE/ ESPRÚE TROPICAL
 
 
-Es una infección ocasionada por la Tropheryma whipleii (grampositivo). Clínicamente, tiene una afectación sistémica: - Fiebre - Diarrea (esteatorrea) - Artralgias migratorias de grandes articulaciones.
+Es una infección ocasionada por la Tropheryma whipleii (grampositivo). Clínicamente, tiene una afectación sistémica: - Fiebre - Diarrea (esteatorrea) - Artralgias migratorias de grandes articulaciones. 
 - Patología del SNC: La demencia es un signo de mal pronóstico - Afectación cardiaca
 
 
 Diagnostico:
 
 
-- Por anatomía patológica: Se observan macrófagos con material PAS positivo correspondientes a los bacilos. Se encuentran en intestino y en órganos afectados.
+- Por anatomía patológica: Se observan macrófagos con material PAS positivo correspondientes a los bacilos. Se encuentran en intestino y en órganos afectados. 
 - Por PCR: Permite la confirmación.
 
 
@@ -1262,7 +1247,7 @@ Clínicamente se caracteriza por una diarrea acuosa con pH ácido (por la fermen
 El diagnóstico se basa en:
 
 
-- Prueba de tolerancia a la glucosa: Seguir los niveles de glucemia tras la ingesta de leche (varios inconvenientes).
+- Prueba de tolerancia a la glucosa: Seguir los niveles de glucemia tras la ingesta de leche (varios inconvenientes). 
 - Prueba del aliento lactosa/H: Si existe intolerancia, las bacterias fermentarán la lactosa intestinal originando H+ que difundirá a la sangre siento expulsado y medido durante la respiración.
 
 
@@ -1284,7 +1269,7 @@ Retirada de la lactosa.
 Quitar el estómago conlleva un síndrome de malabsorción por:
 
 
-Mezcla inadecuada del bolo gástrico con las sales biliares y jugo pancreático, por el tránsito rápido de los alimentos al intestino o por una escasa estimulación pancreática (como es el caso de un Billroth II, donde el bolo no pasa por la 2º porción duodenal).
+Mezcla inadecuada del bolo gástrico con las sales biliares y jugo pancreático, por el tránsito rápido de los alimentos al intestino o por una escasa estimulación pancreática (como es el caso de un Billroth II, donde el bolo no pasa por la 2º porción duodenal). 
 - Sobrecrecimiento bacteriano en asas ciegas.
 
 
@@ -1297,7 +1282,7 @@ Se trata de una alteración del ciclo enterohepático tras diversas situaciones 
 Diagnóstico:
 
 
-- Prueba de la colicina14C, no válido en sobrecrecimiento bacteriano.
+- Prueba de la colicina14C, no válido en sobrecrecimiento bacteriano. 
 - Prueba del 75SeHCAT (ácido tauroselcólico)
 
 
@@ -1316,17 +1301,17 @@ Consiste en el paso de bacterias al intestino delgado, que en condiciones normal
 Esta penetración puede ser por
 
 
-- Anomalías del intestino: Divertículos múltiples.
-- Alteraciones motoras: Esclerodermia, diabetes mellitus.
-- Asas ciegas (quirúrgicas).
-- Comunicaciones del intestino delgado–intestino grueso (fistulas): Quirúrgicas, inflamatorias (enf. de Crohn), tumorales.
+- Anomalías del intestino: Divertículos múltiples. 
+- Alteraciones motoras: Esclerodermia, diabetes mellitus. 
+- Asas ciegas (quirúrgicas). 
+- Comunicaciones del intestino delgado–intestino grueso (fistulas): Quirúrgicas, inflamatorias (enf. de Crohn), tumorales. 
 - Cirugía de la válvula ileocecal: Resecciones
 
 
 Clínica:
 
 
-- Estatorrea: Diarrea por la desconjugación de las sales biliares por los gérmenes que han invadido el intestino delgado, no formándose micelas.
+- Estatorrea: Diarrea por la desconjugación de las sales biliares por los gérmenes que han invadido el intestino delgado, no formándose micelas. 
 - Anemia macrocítica: Por déficit de vitamina B12
 
 
@@ -1342,7 +1327,7 @@ Tratamiento:
 Corregir la causa del sobrecrecimiento bacteriano. Si no es posible, se dan antibioterapia en forma de ciclos (rifaximina).
 
 
-# TEMA 5. ENFERMEDAD INFLAMATORIA INTESTINAL. SEMINARIO 5
+TEMA 5. ENFERMEDAD INFLAMATORIA INTESTINAL. SEMINARIO 5
 
 
 El término EII engloba 2 enfermedades: Enfermedad de Crohn (EC) y colitis ulcerosa (CU). Las EII son enfermedad inflamatorias crónicas recurrentes, cuya causa es desconocida/idiopática (si se conoce la causa de la inflamación, p.ej.:tuberculosis, entonces no se trata de una EII)
@@ -1351,20 +1336,20 @@ El término EII engloba 2 enfermedades: Enfermedad de Crohn (EC) y colitis ulcer
 En España es más frecuente la CU (8x105hab/año)> EC (6x105hab/año)
 
 
-- Prevalencia EII: 60x105hab/ año.
+- Prevalencia EII: 60x105hab/ año. 
 - Afecta hombres=mujeres - Incidencia (2 picos)= 20-30 años, 60-80 años
 
 
 DIFERENCIAS EC Y CU
 
 
-![[image-18-x36-y242.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-18-x36-y242.png]]
 
 
 CLÍNICA:
 
 
-![[image-18-x37-y138.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-18-x37-y138.png]]
 
 
 Fisiopatología de la diarrea
@@ -1373,20 +1358,20 @@ Fisiopatología de la diarrea
 - Por daño en el colon (↓absorción, ↑secreción) - Por malabsorción de solutos: Por diarrea colerética, sobrecrecimiento bacteriano, esteatorrea - Por infección por enteropatógenos: Las personas con EII tienen mayor riesgo de sufrir infecciones, sobre todo por C.difficile.
 
 
-![[image-18-x147-y140.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-18-x147-y140.png]]
 
 
 Pruebas de laboratorio:
 
 
-- Alteraciones hematológicas: Anemia, trombocitosis, leucocitosis - Alteraciones bioquímicas: Hipoalbuminemia, ↑PCR.
+- Alteraciones hematológicas: Anemia, trombocitosis, leucocitosis - Alteraciones bioquímicas: Hipoalbuminemia, ↑PCR. 
 - Anticuerpos: anti-citoplasma de neutrófilos (pANCA) en CU, anti-Saccharomyzes cerevisae en EC
 
 
 COMPLICACIONES EXTRAINTESTINALES DE LAS EII
 
 
-![[image-19-x38-y682.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-19-x38-y682.png]]
 
 
 ETIOPATOGENIA (idiopática)
@@ -1398,7 +1383,7 @@ Factores genéticos
 o Mayor incidencia en judíos alemanes.
 
 
-o Antecedentes familiares, sobre todo de enfermedad celíaca y cáncer de colon (↑x10 el riesgo de EII en familiares de 1º grado).  § Asociación a síndromes genéticos: Turner, glucogenosis 1b, hipogammaglobulinemia, déficit de IgA, angioedema hereditario.
+o Antecedentes familiares, sobre todo de enfermedad celíaca y cáncer de colon (↑x10 el riesgo de EII en familiares de 1º grado).  § Asociación a síndromes genéticos: Turner, glucogenosis 1b, hipogammaglobulinemia, déficit de IgA, angioedema hereditario. 
 § EC tiene un gran componente genético, siendo la concordancia en gemelos monocigóticos del 70%, y del 8% en gemelos dicigóticos.
 
 
@@ -1453,10 +1438,10 @@ En la CU, predomina el infiltrado de PMN, por lo que el daño estará causado so
 Al ser enfermedades de BASE INMUNOLÓGICA, el uso de anticuerpos supone una gran diana terapéutica
 
 
-![[image-19-x72-y79.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-19-x72-y79.png]]
 
 
-![[image-20-x305-y49.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-20-x305-y49.png]]
 
 
 DIAGNÓSTICO:
@@ -1465,7 +1450,7 @@ DIAGNÓSTICO:
 - Historia clínica - Histología compatible - Pruebas de imagen (endoscopia, radiología):
 
 
-o Ver si hay lesiones características estructurales (fístulas en EC) y en la mucosa (congestión y friabilidad= CU, úlceras aftoides y empedrado= EC).
+o Ver si hay lesiones características estructurales (fístulas en EC) y en la mucosa (congestión y friabilidad= CU, úlceras aftoides y empedrado= EC). 
 o Ver la distribución de la inflamación (localización y extensión) o Ver si hay complicaciones extramurales (abscesos y fístulas= EC)
 
 
@@ -1475,13 +1460,13 @@ ENEMA ÓPACO Y COLONOSCOPIA CONTRAINDICADOS EN EL BROTE AGUDO DE COLITIS
 Un 10% de las colitis son indeterminadas (ni EC ni CU). Para diagnosticar EII, hay que hacer un diagnóstico diferencial con las enterocolitis por infecciones agudas y con la tuberculosis ileocecal.
 
 
-![[image-20-x416-y592.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-20-x416-y592.png]]
 
 
-![[image-20-x39-y438.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-20-x39-y438.png]]
 
 
-- Fluoroscopia con enema de bario: “Signo de la cuerda” en EC con afectación íleo-colónica.
+- Fluoroscopia con enema de bario: “Signo de la cuerda” en EC con afectación íleo-colónica. 
 - TC y RM: Engrosamiento de la pared del íleo en EC.
 
 
@@ -1494,20 +1479,20 @@ La EII es una enfermedad recurrente, que cursa con brotes (fases de enfermedad a
 Siempre, antes de empezar cualquier tto, hay que evaluar al paciente:
 
 
-- Gravedad del brote: Para valorar la gravedad, utilizamos el índice de Truelove y Witts en la CU; para la EC utilizamos el índice Crohn Disease Activity Index (CDAI) que tienen en cuenta la clínica y evalúa la respuesta al tratamiento de los pacientes.
+- Gravedad del brote: Para valorar la gravedad, utilizamos el índice de Truelove y Witts en la CU; para la EC utilizamos el índice Crohn Disease Activity Index (CDAI) que tienen en cuenta la clínica y evalúa la respuesta al tratamiento de los pacientes. 
 - Extensión/localización - Complicaciones - Estado nutricional - Desencadenantes: Siempre que nos llegue un paciente con un brote, hay que descartar una infección por C.difficile y otros enteropatógenos.
 
 
-![[image-20-x427-y253.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-20-x427-y253.png]]
 
 
 El objetivo del tto es inducir la remisión de la inflamación (brote) y mantener dicha remisión. Para ello, podemos utilizar fcos o cirugía.
 
 
-![[image-20-x326-y144.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-20-x326-y144.png]]
 
 
-![[image-20-x36-y55.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-20-x36-y55.png]]
 
 
 FÁRMACOS
@@ -1519,10 +1504,10 @@ FÁRMACOS
 - Personas que dependen de corticoides - Personas que toman mesalazina como mantenimiento pero sufren una recaída - Para mantener la remisión después un brote grave - En casos de refractariedad. Cuando hay refractariedad a glucocorticoides en un brote grave se da infliximab (en EC) o ciclosporina (en CU), y al mismo tiempo se da azatioprina, que tarda en hacer efecto 2-3 meses, para que cuando el primer fco deje de hacer efecto, la azatioprina ya sea efectiva.
 
 
-![[image-21-x302-y524.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-21-x302-y524.png]]
 
 
-![[image-21-x31-y518.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-21-x31-y518.png]]
 
 
 Tratamiento de EC perianal:
@@ -1540,7 +1525,7 @@ Aspiración nasogástrica + nutrición parenteral + antibiótico IV + corticoide
 Efectos adversos:
 
 
-![[image-21-x37-y292.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-21-x37-y292.png]]
 
 
 CIRUGÍA
@@ -1576,24 +1561,24 @@ ENFERMEDAD INFLAMATORIA INTERSTINAL EN EMBARAZADAS
 CÁNCER DE COLON Y COLITIS ULCERSOSA (Y ENFERMEDAD DE CROHN)
 
 
-- Hay más riesgo en la colitis universal que en la colitis izquierda.
-- Riesgo de cáncer: o ↑ riesgo a ↑extensión y duración de la colitis o Asociación a colangitis esclerosante primaria (CEP) o Historial familiar.
-- A mayor grado de inflamación, mayor riesgo de displasia y cáncer. Un 40-60% de las displasias de alto grado dan lugar a carcinomas.
+- Hay más riesgo en la colitis universal que en la colitis izquierda. 
+- Riesgo de cáncer: o ↑ riesgo a ↑extensión y duración de la colitis o Asociación a colangitis esclerosante primaria (CEP) o Historial familiar. 
+- A mayor grado de inflamación, mayor riesgo de displasia y cáncer. Un 40-60% de las displasias de alto grado dan lugar a carcinomas. 
 - Para la detección precoz de cáncer, se hacen colonoscopias periódicas cada 2 años en CU y colitis izquierdas; y cada año si hay CEP.
 
 
 EXAMEN:
 
 
-- Una vez remitido el brote, ¿debemos mantener al paciente con corticoides? NO, porque tienen muchos efectos adversos; así que hemos buscado soluciones para evitar la dependencia de corticoides: la azatioprina. Se va bajando poco a poco la dosis de corticoides y se va aumentando la de azatioprina. Hay pacientes que esto lo toleran fenomenal y otros que tienen que tomar corticoides toda su vida.
-- Corticoides nunca de mantenimiento.
-- Infliximab es de elección en la enfermedad fistulosa (tratamiento crónico).
-- Infliximab: reactivación de tuberculosis y hepatitis B.
-- Cáncer de colon está asociado a la colangitis esclerosante primaria (CEP).
+- Una vez remitido el brote, ¿debemos mantener al paciente con corticoides? NO, porque tienen muchos efectos adversos; así que hemos buscado soluciones para evitar la dependencia de corticoides: la azatioprina. Se va bajando poco a poco la dosis de corticoides y se va aumentando la de azatioprina. Hay pacientes que esto lo toleran fenomenal y otros que tienen que tomar corticoides toda su vida. 
+- Corticoides nunca de mantenimiento. 
+- Infliximab es de elección en la enfermedad fistulosa (tratamiento crónico). 
+- Infliximab: reactivación de tuberculosis y hepatitis B. 
+- Cáncer de colon está asociado a la colangitis esclerosante primaria (CEP). 
 - La EII puede causar la muerte si origina una sepsis de origen abdominal, o un cáncer intestinal.
 
 
-# TEMA 6. SÍNDROME DEL INTESTINO IRRITABLE. ENFERMEDAD DIVERTICULAR DEL COLON. ESTREÑIMIENTO
+TEMA 6. SÍNDROME DEL INTESTINO IRRITABLE. ENFERMEDAD DIVERTICULAR DEL COLON. ESTREÑIMIENTO
 
 
 1. SÍNDROME DEL INTESTINO IRRITABLE
@@ -1608,12 +1593,12 @@ Para diagnosticar un intestino irritable debemos basarnos en los criterios Roma 
 Epidemiología:
 
 
-- El 50% de los casos comienzan en adultos jóvenes (<40 años), aunque también puede ocurrir en la vejez (a partir de 60- 65 años). En este último caso, nunca debemos pensar en primer lugar en un Síndrome de Intestino irritable, sino que la primera sospecha diagnóstica debe ser cáncer.
-- El 15% de la población padece SII, siendo una causa muy frecuente de consulta extrahospitalaria.
+- El 50% de los casos comienzan en adultos jóvenes (<40 años), aunque también puede ocurrir en la vejez (a partir de 60- 65 años). En este último caso, nunca debemos pensar en primer lugar en un Síndrome de Intestino irritable, sino que la primera sospecha diagnóstica debe ser cáncer. 
+- El 15% de la población padece SII, siendo una causa muy frecuente de consulta extrahospitalaria. 
 - Relación 2:1 mujer-varón.
 
 
-![[image-23-x363-y621.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-23-x363-y621.png]]
 
 
 Clínica:
@@ -1622,11 +1607,11 @@ Clínica:
 - Dolor abdominal:
 
 
-o Puede ser episódico y cólico (más frecuente) o de fondo constante y sordo.
-o Intensidad variable (de leve hasta poder interferir con la actividad cotidiana).
-o Localización variable y difusa. Fundamental se localiza en flanco izquierdo y/o hipogastrio (más común). En el 10% puede aparecer en flanco derecho y/o epigastrio (donde habrá que hacer diagnóstico diferencial con úlcera y colelitiasis).
-o Se exacerba con estrés o comida o Se alivia con defecación y ventoseo.
-o Nunca aparece de noche; aparece en vigilia.
+o Puede ser episódico y cólico (más frecuente) o de fondo constante y sordo. 
+o Intensidad variable (de leve hasta poder interferir con la actividad cotidiana). 
+o Localización variable y difusa. Fundamental se localiza en flanco izquierdo y/o hipogastrio (más común). En el 10% puede aparecer en flanco derecho y/o epigastrio (donde habrá que hacer diagnóstico diferencial con úlcera y colelitiasis). 
+o Se exacerba con estrés o comida o Se alivia con defecación y ventoseo. 
+o Nunca aparece de noche; aparece en vigilia. 
 o La causa de dolor es la distensión de la luz colónica
 
 
@@ -1654,21 +1639,21 @@ El SII se puede dar por alteraciones de la motilidad colónica (sobre todo hiper
 Diagnóstico:
 
 
-![[image-23-x38-y179.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-23-x38-y179.png]]
 
 
 El estudio debe ser más completo si se trata de:
 
 
-- Mayores de 50 años - Hay síntomas de alarma: Inicio SII >50 años, pérdida de peso, diarrea nocturna, anemia, sangre en heces.
+- Mayores de 50 años - Hay síntomas de alarma: Inicio SII >50 años, pérdida de peso, diarrea nocturna, anemia, sangre en heces. 
 - Antecedentes familiares de CCR, celiaca, EII
 
 
 Hacer DD con:
 
 
-- Diarrea crónica: Celiaquía, hipertiroidismo, EII, diarrea infecciosa, giardia lambia, intolerancia a lactosa, fcos como diazepam o metformina.
-- Estreñimiento: Fcos e hipotiroidismo - Dolor en meso/hipogastrio: Enfermedad diverticular del colon, EII, carcinoma de colon.
+- Diarrea crónica: Celiaquía, hipertiroidismo, EII, diarrea infecciosa, giardia lambia, intolerancia a lactosa, fcos como diazepam o metformina. 
+- Estreñimiento: Fcos e hipotiroidismo - Dolor en meso/hipogastrio: Enfermedad diverticular del colon, EII, carcinoma de colon. 
 - Dolor en epigastrio/hipocondrio: Colelitiasis, úlcera péptica, cáncer de estómago o páncreas.
 
 
@@ -1732,9 +1717,9 @@ o DIVERTICULITIS AGUDA= SIMPLE= NO COMPLICADA (5%): Consiste en una microperfora
 o DIVERTICULITIS COMPLICADA: Se produce una macroperforación
 
 
-§ Absceso: Masa dolorosa persistente y/o fiebre. Se diagnostica mediante TAC.
-§ Fístula (colovesical, colovaginal): Clínica de ITU recurrente, pneumaturia, fecaluria (primer síntoma en un 25% de los pacientes, sin otra clínica previa).
-§ Peritonitis generalizada: Por perforación de un divertículo o rotura de un absceso. Hay aire libre intraperitoneal.
+§ Absceso: Masa dolorosa persistente y/o fiebre. Se diagnostica mediante TAC. 
+§ Fístula (colovesical, colovaginal): Clínica de ITU recurrente, pneumaturia, fecaluria (primer síntoma en un 25% de los pacientes, sin otra clínica previa). 
+§ Peritonitis generalizada: Por perforación de un divertículo o rotura de un absceso. Hay aire libre intraperitoneal. 
 § Obstrucción intestinal
 
 
@@ -1756,20 +1741,20 @@ Tratamiento diverticulitis simple
 Cirugía diverticulitis
 
 
-Formas leves: - Manejo ambulatorio.
-- Dieta líquida baja en residuos.
+Formas leves: - Manejo ambulatorio. 
+- Dieta líquida baja en residuos. 
 - Antibioterapia oral de amplio espectro 7-10 días: Metronidazol + ciprofloxacino (o amoxicilina- clauvulánico).
 
 
-Formas graves: - Dieta absoluta, SNG si obstrucción o íleo.
-- Antibioterapia IV (metronidazol + ciprofloxacino, metronidazol + cefalosporina 3ºgen ceftriaxona).
-- Si el paciente no responde al tratamiento o empeora, se repite el TAC, y consulta a cirugía para drenaje (percutáneo o quirúrgico) del absceso, si lo presenta.
+Formas graves: - Dieta absoluta, SNG si obstrucción o íleo. 
+- Antibioterapia IV (metronidazol + ciprofloxacino, metronidazol + cefalosporina 3ºgen ceftriaxona). 
+- Si el paciente no responde al tratamiento o empeora, se repite el TAC, y consulta a cirugía para drenaje (percutáneo o quirúrgico) del absceso, si lo presenta. 
 - Solo se requiere una cirugía urgente en <10% de los casos.
 
 
-Hospitalización en caso de: - No tolerancia a alimentación oral.
-- Dolor intenso que requiere opiáceos.
-- Progresión a pesar del tratamiento ambulatorio.
+Hospitalización en caso de: - No tolerancia a alimentación oral. 
+- Dolor intenso que requiere opiáceos. 
+- Progresión a pesar del tratamiento ambulatorio. 
 - Puede que derive en una diverticulitis complicada.
 
 
@@ -1782,14 +1767,14 @@ Electivo: - En episodios repetidos (2 episodios, 1 con hospitalización) - Prime
 Hemorragia diverticular (3%): Es una lesión no inflamatoria del vaso arterial paradiverticular. No tiene nada que ver con la inflamación, se da sin necesidad de que haya diverticulitis asociada, simplemente sucede por lesionarse el vaso adyacente al pseudodivertículo.
 
 
-- Es una hemorragia aguda, no crónica (no hay anemia) - Indolora - Moderada a masiva (30%), siendo un sangrado macroscópico - Aunque hay más divertículos en el colon izquierdo, los divertículos del colon derecho son los que generan más hemorragia.  - Factores de riesgo: AINEs y AAS.
+- Es una hemorragia aguda, no crónica (no hay anemia) - Indolora - Moderada a masiva (30%), siendo un sangrado macroscópico - Aunque hay más divertículos en el colon izquierdo, los divertículos del colon derecho son los que generan más hemorragia.  - Factores de riesgo: AINEs y AAS. 
 - El 80% de los sangrados ceden espontáneamente - 20% son recurrentes
 
 
 En >60 años las principales causas de hemorragia digestiva baja grave son (en orden): Diverticulosis → angiodisplasia → carcinoma → isquemia.
 
 
-# TEMA 7. PÓLIPOS Y CÁNCER DE COLON
+TEMA 7. PÓLIPOS Y CÁNCER DE COLON
 
 
 1. PÓLIPOS
@@ -1801,7 +1786,7 @@ Son protuberancias en la luz del colon que nacen desde la mucosa. Pueden ser ped
 1.1. PÓLIPOS NO NEOPLÁSICOS (núcleos sin atipia)
 
 
-![[image-26-x36-y559.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-26-x36-y559.png]]
 
 
 1.2. PÓLIPOS NEOPLÁSICOS/ PÓLIPOS ADENOMATOSOS (núcleos atípicos, criptas pierden polaridad)
@@ -1831,14 +1816,14 @@ Lugar: Colon
 Forma: Sesiles en la mayoría de los casos
 
 
-Tipos: o Adenoma aserrado tradicional: Es pediculado. Frecuentes en el colon distal.
+Tipos: o Adenoma aserrado tradicional: Es pediculado. Frecuentes en el colon distal. 
 o Adenoma aserrado sesil: El más frecuente. En AP se ven criptas aserradas con forma de Y o T invertida. Frecuentes en el colon proximal.
 
 
 2. SÍNDROMES POLIPÓSICOS
 
 
-![[image-26-x36-y243.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-26-x36-y243.png]]
 
 
 2.1. POLIPOSIS ADENOMATOSA FAMILIAR
@@ -1850,33 +1835,33 @@ Enfermedad autosómica dominante que se produce por mutación en el gen supresor
 - Penetrancia completa: Todos los enfermos de PAF tienen esta mutación en el gen APC.  - Expresión fenotípica variable:
 
 
-o PAF atenuada: Está mutada la región 5´del gen APC. El 69% desarrollará CCR.
+o PAF atenuada: Está mutada la región 5´del gen APC. El 69% desarrollará CCR. 
 o PAF clásico o síndrome de Gardner: La mutación está en la región central del gen APC. El 100% de los afectados tendrá CCR a los 40-50 años. PAF supone solo un 1% de los casos de CCR. Habrá otros síntomas como hipertrofia pigmentaria de la retina, osteomas mandibulares, tumores desmoides.
 
 
-![[image-26-x373-y87.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-26-x373-y87.png]]
 
 
 Clínica: Hay más de 100 pólipos en el colon y/o recto, intestino delgado, estómago.  Esta mutación del gen APC (5q21-22), causa el síndrome de Turcot, donde hay pólipos y meduloblastomas.
 
 
-![[image-27-x21-y663.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-27-x21-y663.png]]
 
 
-![[image-27-x22-y533.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-27-x22-y533.png]]
 
 
 3. CÁNCER COLORRECTAL
 
 
-Es la segunda neoplasia más frecuente después del cáncer de pulmón en el varón y del cáncer de mama en la mujer, y la primera si no se hace distinción por sexos (>25.000 casos/ año en España). Es el segundo cáncer que más muertes provoca y cada vez es más mortal.
+Es la segunda neoplasia más frecuente después del cáncer de pulmón en el varón y del cáncer de mama en la mujer, y la primera si no se hace distinción por sexos (>25.000 casos/ año en España). Es el segundo cáncer que más muertes provoca y cada vez es más mortal. 
 Aunque el cáncer de colon y el de recto (por debajo de la reflexión peritoneal) son iguales histológicamente, hace falta separarlos porque el tto y el pronóstico varían
 
 
 El CCR es uno de los tumores con mayor alteración y carga genética:
 
 
-- Esporádicos (la mayoría): Edad >50años.
+- Esporádicos (la mayoría): Edad >50años. 
 - Hereditario (3-4%): o Poliposis familiares o CCHNP (cáncer de colon hereditario no polipoide) / síndrome de Lynch - Otras causas de CCR: Ureterosigmodectomía, acromegalia, tabaco, bacteriemia por Streptococcus bovis.
 
 
@@ -1886,7 +1871,7 @@ La mayoría de los casos de CCR surgen a partir de pólipos adenomatosos (70-80%
 Localización: Recto- sigma (55%) MUCHOS DIAGNOSTICABLES POR TACTO RECTAL, colon transverso (15%), ciego (13%), colon descendente (12%), colon ascendente (9%).
 
 
-Clínica de CCR: - Tenesmo.  - Hemorragia digestiva baja - Dolor abdominal pseudoclusivo u obstrucción intestinal - Anemia ferropénica no explicable - Síntomas generales: pérdida de peso, astenia.
+Clínica de CCR: - Tenesmo.  - Hemorragia digestiva baja - Dolor abdominal pseudoclusivo u obstrucción intestinal - Anemia ferropénica no explicable - Síntomas generales: pérdida de peso, astenia. 
 - Rectorragia con cambio de ritmo intestinal (frecuencia aumentada o menor consistencia) - Masa abdominal o rectal palpable - Metástasis: Cáncer de colon metastatiza a ganglios linfáticos, peritoneo, hígado primero y pulmón después. El cáncer de recto, por drenaje venoso, puede metastatizar primero en pulmón.
 
 
@@ -1896,14 +1881,14 @@ Clínica predominante según lado afecto: - Lado derecho: Anemia ferropénica - 
 Factores de riesgo de CCR:
 
 
-- Dieta rica en grasa, pobre en fibra - Edad >50 años (↑riesgo ↑edad) - Antecedentes personales de adenomas, CCR, CCHNP, colitis ulcerosa con >15años de evolución (pancolitis ulcerosa), síndromes polipósicos (PAF, Turcot, Muir-Torre, S.Peutz-Jeghers, poliposis juvenil familiar).
+- Dieta rica en grasa, pobre en fibra - Edad >50 años (↑riesgo ↑edad) - Antecedentes personales de adenomas, CCR, CCHNP, colitis ulcerosa con >15años de evolución (pancolitis ulcerosa), síndromes polipósicos (PAF, Turcot, Muir-Torre, S.Peutz-Jeghers, poliposis juvenil familiar). 
 - Familiares de primer grado con CCR
 
 
 Tipos de tumores en el IG:
 
 
-![[image-28-x36-y715.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-28-x36-y715.png]]
 
 
 3.1. CÁNCER COLORRECTAL POLIPÓSICO
@@ -1912,16 +1897,16 @@ Tipos de tumores en el IG:
 Proceso: Mucosa normal → pólipo adenomatoso (displasia) → neoplasia (CCR). Esta transformación es lenta (8-10 años), lo que permite prevenir y detectar precozmente el CCR
 
 
-![[image-28-x30-y572.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-28-x30-y572.png]]
 
 
 Niveles de invasión tumores en los pólipos: HAGGITT
 
 
-® PÓLIPOS PEDICULADOS: - Nivel 0: Invasión de la mucosa superficial hasta la muscular de la mucosa (carcinoma in situ).
-- Nivel 1: Invasión de la submucosa localizada en la cabeza del pólipo.
-- Nivel 2: Invasión submucosa cuello.
-- Nivel 3: Invasión submucosa pedículo.
+® PÓLIPOS PEDICULADOS: - Nivel 0: Invasión de la mucosa superficial hasta la muscular de la mucosa (carcinoma in situ). 
+- Nivel 1: Invasión de la submucosa localizada en la cabeza del pólipo. 
+- Nivel 2: Invasión submucosa cuello. 
+- Nivel 3: Invasión submucosa pedículo. 
 - Nivel 4: Invasión submucosa más allá del pedículo, sin llegar a la muscular propia.
 
 
@@ -1931,11 +1916,11 @@ Niveles de invasión tumores en los pólipos: HAGGITT
 3.2. CÁNCER COLORRECTAL HEREDITARIO NO POLIPÓSICO (CCHNP)/ SÍNDROME DE LYNCH
 
 
-Clínica: - CCR aparece antes de los 48 años - Afecta al colon proximal (70% de los casos son cerca del ángulo esplénico).
-- Los adenomas de los que procede el cáncer, suelen ser planos y vellosos.
-- Son muy frecuentes en el CCHNP las neoplasias sincrónicas y metacrónicas (sincrónica= hay varios CCR en el momento de Dg; metacrónica= aparecen más CCR después de haber diagnosticado ya uno).
-- Los tumores que se forman están menos diferenciados que los CCR esporádicos, pero aún así tienen mejor supervivencia.
-- Son enfermedades polimalformativas: o Síndrome de Lynch tipo II: Alta incidencia de tumores extracolónicos, sobre todo de endometrio.
+Clínica: - CCR aparece antes de los 48 años - Afecta al colon proximal (70% de los casos son cerca del ángulo esplénico). 
+- Los adenomas de los que procede el cáncer, suelen ser planos y vellosos. 
+- Son muy frecuentes en el CCHNP las neoplasias sincrónicas y metacrónicas (sincrónica= hay varios CCR en el momento de Dg; metacrónica= aparecen más CCR después de haber diagnosticado ya uno). 
+- Los tumores que se forman están menos diferenciados que los CCR esporádicos, pero aún así tienen mejor supervivencia. 
+- Son enfermedades polimalformativas: o Síndrome de Lynch tipo II: Alta incidencia de tumores extracolónicos, sobre todo de endometrio. 
 o Síndrome de Muir–Torre (algunos desarrollan CCHNP): Asocia tumores de glándulas sebáceas.
 
 
@@ -1945,8 +1930,8 @@ Diferencias con los tumores de origen polipósico:
 - Menos diferenciados - Producen moco en exceso - Gran infiltración de linfocitos e incluso hay nódulos linfoides - Carcinogénesis veloz, el cáncer aparece en 2-3 años
 
 
-Diagnóstico genético de CCHNP: - En el enfermo: Ver la inestabilidad de los satélites en el tumor.
-- En parientes: Tomar una muestra de sangre periférica y ver si hay mutaciones en los genes MMR (hMLH1, hMLH2).
+Diagnóstico genético de CCHNP: - En el enfermo: Ver la inestabilidad de los satélites en el tumor. 
+- En parientes: Tomar una muestra de sangre periférica y ver si hay mutaciones en los genes MMR (hMLH1, hMLH2). 
 - En pacientes con criterios Amsterdam pero sin alteraciones MMR, tienen cáncer colorrectal familiar tipo X.
 
 
@@ -1956,27 +1941,27 @@ Diagnóstico genético de CCHNP: - En el enfermo: Ver la inestabilidad de los sa
 Diagnóstico clínico de CCHNP utilizando los criterios Amsterdam y Bethesda:
 
 
-![[image-28-x37-y54.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-28-x37-y54.png]]
 
 
-![[image-28-x279-y64.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-28-x279-y64.png]]
 
 
 Vía mutadora: Fallan los mecanismos de reparación del ADN y se acumulan mutaciones en los microsatélites de los cromosomas. Esto supone la formación de adenomas de muy alto riesgo, que fácilmente evolucionarán a adenocarcinomas. Esta vía sucede en: - 90% casos de CCHNP - >15% de los CCR esporádicos
 
 
-![[image-28-x410-y466.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-28-x410-y466.png]]
 
 
 ¿CÓMO SE DIAGNOSTICA Y ESTADIA EL CCR?
 
 
-1 Clínica y exploración: TACTO RECTAL.
-2 Hemograma y pruebas de función hepática, Rx tórax.
-3 Sangre oculta en heces (TSOH): utilidad como screening 4 Marcador CEA (antígeno carcinoembrionario): baja sensibilidad y especificidad (no válido para diagnóstico y cribado). Útil una vez hecho el diagnóstico para pronóstico y seguimiento.
-5. COLONOSCOPIA Y BIOPSIA: Para ver si coexisten pólipos colónicos o hay un segundo cáncer sincrónico (colonoscopia total) y actuar en consecuencia.
-6. TAC ABDOMINO-PELVICO / ECOGRAFIA: para valorar la extensión. En el TAC aparece el signo del “corazón de manzana” que es el CCR que aparece como una masa ulcerada.  7. COLONOSCOPIA VIRTUAL (COLO-TAC): si no es posible completar la colonoscopia en el momento del diagnóstico por estenosis.
-8. ECOENDOSCOPIA EN CANCER DE RECTO: Esencial para conocer la profundidad de la invasión y afectación linfática (sustituible por RMN).
+1 Clínica y exploración: TACTO RECTAL. 
+2 Hemograma y pruebas de función hepática, Rx tórax. 
+3 Sangre oculta en heces (TSOH): utilidad como screening 4 Marcador CEA (antígeno carcinoembrionario): baja sensibilidad y especificidad (no válido para diagnóstico y cribado). Útil una vez hecho el diagnóstico para pronóstico y seguimiento. 
+5. COLONOSCOPIA Y BIOPSIA: Para ver si coexisten pólipos colónicos o hay un segundo cáncer sincrónico (colonoscopia total) y actuar en consecuencia. 
+6. TAC ABDOMINO-PELVICO / ECOGRAFIA: para valorar la extensión. En el TAC aparece el signo del “corazón de manzana” que es el CCR que aparece como una masa ulcerada.  7. COLONOSCOPIA VIRTUAL (COLO-TAC): si no es posible completar la colonoscopia en el momento del diagnóstico por estenosis. 
+8. ECOENDOSCOPIA EN CANCER DE RECTO: Esencial para conocer la profundidad de la invasión y afectación linfática (sustituible por RMN). 
 9. Enema baritado con doble contraste
 
 
@@ -1989,7 +1974,7 @@ Clasificación de Dukes para el CCR:
 Clasificación TNM:
 
 
-![[image-29-x72-y346.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-29-x72-y346.png]]
 
 
 Clasificación por ecoendoscopia del cáncer de RECTO (limitado en tumores estenosantes):
@@ -2001,10 +1986,10 @@ ESTADIO T1: mucosa y submucosa ESTADIO T2:capa muscular sin sobrepasar serosa o 
 UNA VEZ DG EL CCR, HAY QUE HACER UNA COLONOSCOPIA COMPLETA (SI NO SE HA HECHO YA), PARA DESCARTAR MÁS TUMORES, MASAS…
 
 
-![[image-30-x436-y74.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-30-x436-y74.png]]
 
 
-# TEMA 8. PANCREATITIS AGUDA Y CRÓNICA
+TEMA 8. PANCREATITIS AGUDA Y CRÓNICA
 
 
 1. PANCREATITIS AGUDA
@@ -2016,38 +2001,38 @@ Para diagnosticar una pancreatitis aguda, deben cumplirse 2 de los siguientes cr
 Fisiopatología:
 
 
-![[image-30-x26-y449.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-30-x26-y449.png]]
 
 
-Clínica: - Dolor abdominal (100%): Dolor iriente, continuo, de instauración y acmé rápido (30-60min, DD con isquemia y perforación), mal localizado en epigastrio/ hemiabdomen superior, que se irradia a la espalda en el 50% de los casos. El dolor mejora al flexionar el tronco, y empeora al estar de pie.  Hay muy poca irritación peritoneal, pues el páncreas es retroperitoneal.
+Clínica: - Dolor abdominal (100%): Dolor iriente, continuo, de instauración y acmé rápido (30-60min, DD con isquemia y perforación), mal localizado en epigastrio/ hemiabdomen superior, que se irradia a la espalda en el 50% de los casos. El dolor mejora al flexionar el tronco, y empeora al estar de pie.  Hay muy poca irritación peritoneal, pues el páncreas es retroperitoneal. 
 - Náuseas y vómitos (50-90%) - Distensión abdominal e íleo - Fiebre baja (<38º) en ausencia de infección (SIEMPRE descartar la infección) - Signo de Cullen (ombligo), Turner (flancos).
 
 
 Diagnóstico:
 
 
-- Amilasa sérica: Muy útiles en las primeras 24h, pero a partir de las 48h es mejor la lipasa (S80 lipasa vs S30 amilasa). Se elimina rápidamente por el riñón.
-- Lipasa sérica: Más específica que la amilasa y tarda más tiempo en eliminarse por el riñón.
+- Amilasa sérica: Muy útiles en las primeras 24h, pero a partir de las 48h es mejor la lipasa (S80 lipasa vs S30 amilasa). Se elimina rápidamente por el riñón. 
+- Lipasa sérica: Más específica que la amilasa y tarda más tiempo en eliminarse por el riñón. 
 - Leucocitosis - Aumento del hematocrito por hemoconcentración - Hiperglucemia - Hipocalcemia (se consume por su saponificación con la grasa necrótica del páncreas) - Hipoalbuminemia - Pruebas de función hepática: ↑bilirrubina (<3mg/dl), ↑ALT >150UI/l AMILASA Y LIPASA COMBINADAS TIENEN UNA SENSIBILIDAD Y ESPECIFICIDAD DEL 95%
 
 
-![[image-30-x38-y84.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-30-x38-y84.png]]
 
 
-![[image-30-x251-y85.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-30-x251-y85.png]]
 
 
-![[image-30-x290-y424.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-30-x290-y424.png]]
 
 
-![[image-30-x369-y695.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-30-x369-y695.png]]
 
 
 Técnicas diagnósticas:
 
 
-- US abdominal: Hacer a todos los pacientes al ingreso para descartar colelitiasis. Sirve para detectar una litiasis biliar.
-- TC abdominal: o Útil para descartar otras causas de dolor (perforación, infarto intestinal…) o Ver complicaciones locales o Valorar la gravedad de la pancreatitis: Tamaño del páncreas, inflamación peripancreática, colecciones abdominales y necrosis pancreática.
+- US abdominal: Hacer a todos los pacientes al ingreso para descartar colelitiasis. Sirve para detectar una litiasis biliar. 
+- TC abdominal: o Útil para descartar otras causas de dolor (perforación, infarto intestinal…) o Ver complicaciones locales o Valorar la gravedad de la pancreatitis: Tamaño del páncreas, inflamación peripancreática, colecciones abdominales y necrosis pancreática. 
 o Para diferenciar la pancreatitis aguda intersticial de la necrotizante (S90%): Se hace un TAC con contraste IV después de las primeras 48h de la pancreatitis (no antes), pues se puede infravalorar el grado de necrosis. En el TAC con contraste, el área necrótica no capta contraste y aparecen colecciones líquidas en el espacio perirrenal.
 
 
@@ -2063,27 +2048,27 @@ Patogenia y complicaciones:
 Score BISAP
 
 
-![[image-31-x38-y146.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-31-x38-y146.png]]
 
 
-![[image-31-x36-y52.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-31-x36-y52.png]]
 
 
-![[image-31-x32-y433.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-31-x32-y433.png]]
 
 
-![[image-31-x458-y546.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-31-x458-y546.png]]
 
 
 Complicaciones locales de la pancreatitis aguda:
 
 
-![[image-32-x37-y579.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-32-x37-y579.png]]
 
 
-® NECROSIS PANCREÁTICA INFECTADA: o La necrosis se infecta por Gram- (puede estar encapsulada o no, se empieza a “organizar”/ encapsular a partir de las 3 semanas).
-o Sospechar de infección si: Fiebre, SIRS, fracaso orgánico.
-o Diagnóstico de la necrosis por TC con contraste IV.  o Diagnóstico de la infección por PAAF para posterior Gram y cultivo.
+® NECROSIS PANCREÁTICA INFECTADA: o La necrosis se infecta por Gram- (puede estar encapsulada o no, se empieza a “organizar”/ encapsular a partir de las 3 semanas). 
+o Sospechar de infección si: Fiebre, SIRS, fracaso orgánico. 
+o Diagnóstico de la necrosis por TC con contraste IV.  o Diagnóstico de la infección por PAAF para posterior Gram y cultivo. 
 o Tto: ATB, drenaje endoscópico de la necrosis
 
 
@@ -2093,18 +2078,18 @@ o Tto: ATB, drenaje endoscópico de la necrosis
 Tipos: § Pseudoquiste § Necrosis pancreática encapsulada (la mayoría de las colecciones encapsuladas)
 
 
-Causas: § Pancreatitis aguda necrotizante: El tejido (peri)pancreático sufre necrosis y luego sufre licuefacción, organizándose y encapsulándose el tejido necrótico, que puede estar más o menos comunicado con el conducto pancreático.
-§ Pancreatitis crónica, por brote de PA u obstrucción: Se rompe el conducto pancreático.
+Causas: § Pancreatitis aguda necrotizante: El tejido (peri)pancreático sufre necrosis y luego sufre licuefacción, organizándose y encapsulándose el tejido necrótico, que puede estar más o menos comunicado con el conducto pancreático. 
+§ Pancreatitis crónica, por brote de PA u obstrucción: Se rompe el conducto pancreático. 
 § Traumatismo cerrado o penetrante (incluida la cirugía, 10%): Se rompe el conducto pancreático.
 
 
-Consecuencias: § Ninguna § Si hay expansión: Dolor, obstrucción (duodenal, biliar o vascular).
-§ Fistulización: Hacia víscera adyacente, abdomen (ascitis pancreática con LA rico en proteínas >3gr/dl, gradiente albúmina <1,1; y mucha amilasa), pericardio, tórax (y causar un derrame pleural).
+Consecuencias: § Ninguna § Si hay expansión: Dolor, obstrucción (duodenal, biliar o vascular). 
+§ Fistulización: Hacia víscera adyacente, abdomen (ascitis pancreática con LA rico en proteínas >3gr/dl, gradiente albúmina <1,1; y mucha amilasa), pericardio, tórax (y causar un derrame pleural). 
 § Infección bacteriana, convirtiéndose en un absceso § Rotura: Shock, dolor, hemorragia variable (↓Hto) § Rotura de un pseudoaneurisma por digestión de un vaso: Se da en un 10% de las pancreatitis agudas, siendo más frecuente en las arterias esplénicas y duodenales, produciéndose una hemorragia intraabdominal, intraquística o en el conducto pancreático (tubo digestivo).
 
 
-Tratamiento (variable, dependiente de la clínica, localización y complicaciones): § Expectante (80% de los casos): Si no hay síntomas ni complicaciones, independientemente del tamaño de la colección.
-§ Drenaje endoscópico (percutáneo o quirúrgico): Si hay síntomas.
+Tratamiento (variable, dependiente de la clínica, localización y complicaciones): § Expectante (80% de los casos): Si no hay síntomas ni complicaciones, independientemente del tamaño de la colección. 
+§ Drenaje endoscópico (percutáneo o quirúrgico): Si hay síntomas. 
 § Embolización de pseudoaneurismas
 
 
@@ -2120,9 +2105,9 @@ Proceso: PA → recurrencia → PA → PC
 Histología:
 
 
-- Pérdida de células acinares, infiltración de mononucleares y fibrosis.
-- Inflamación crónica, que conlleva la formación de pseudoquistes y más fibrosis.
-- La fibrosis se produce por la activación de las células intersticiales estrelladas.
+- Pérdida de células acinares, infiltración de mononucleares y fibrosis. 
+- Inflamación crónica, que conlleva la formación de pseudoquistes y más fibrosis. 
+- La fibrosis se produce por la activación de las células intersticiales estrelladas. 
 En la etapa final de la enfermedad, se produce una pérdida de todo el tejido secretor, desaparición de las células inflamatorias y fibrosis intensa.
 
 
@@ -2132,7 +2117,7 @@ Causas (TIGAR-O):
 La mayoría de los casos de PC son debidos a más de una causa.
 
 
-![[image-33-x35-y493.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-33-x35-y493.png]]
 
 
 Clínica:
@@ -2144,7 +2129,7 @@ La PC es una enfermedad de la 4º- 5º década de la vida, que generalmente afec
 Síntomas: o Dolor (en el 90%, como ppal síntoma), episodios constantes o 1 vez por semana.  o Miedo a comer y pérdida de peso o Ausencia de otros síntomas o Eritema ab gine
 
 
-Fallo pancreático: o Esteatorrea (insuficiencia exocrina): Para que haya esteatorrea tiene que haberse destruido muchísimo páncreas (pérdida de >95% de los acinos pancreáticos exocrinos).
+Fallo pancreático: o Esteatorrea (insuficiencia exocrina): Para que haya esteatorrea tiene que haberse destruido muchísimo páncreas (pérdida de >95% de los acinos pancreáticos exocrinos). 
 o Diabetes (insuficiencia endocrina): Puede preceder, seguir o suceder al mismo tiempo que se desarrolla la esteatorrea.
 
 
@@ -2157,29 +2142,29 @@ La mortalidad de la PC es bastante alta, el 50% de los pacientes muere en los pr
 Diagnóstico:
 
 
-- Test de la secretina (test directo): Se inyecta secretina y se supone que deberían aumentar los niveles de bicarbonato. Es una prueba muy sensible, ya que lo primero que disminuye cuando el páncreas se altera es la producción de HCO3 .
+- Test de la secretina (test directo): Se inyecta secretina y se supone que deberían aumentar los niveles de bicarbonato. Es una prueba muy sensible, ya que lo primero que disminuye cuando el páncreas se altera es la producción de HCO3 . 
 - Elastasa fecal (test indirecto): Es el test indirecto más sensible y especifico que hay, y se hace cuando hay un poco de sospecha. En formas leves de PC, tiene S90% y S60%
 
 
-- Pruebas de imagen (desestructuración del conducto pancreático y presencia de calcio en el páncreas): o Rx simple de abdomen o ERCP o TC: Para valorar parénquima, ver calcificaciones y cambios más avanzados.
-o RMN: Valora cambios ductales y del parénquima. La CPRM aumenta la precisión diagnóstica y permite cuantificar la función exocrina.
+- Pruebas de imagen (desestructuración del conducto pancreático y presencia de calcio en el páncreas): o Rx simple de abdomen o ERCP o TC: Para valorar parénquima, ver calcificaciones y cambios más avanzados. 
+o RMN: Valora cambios ductales y del parénquima. La CPRM aumenta la precisión diagnóstica y permite cuantificar la función exocrina. 
 o MRCP o EUS: Gran sensibilidad en patologías de conducto pequeño. Valora cambios ductales y del parénquima. Mediante EUS podemos hacer una PAAF para descartar cáncer de páncreas.
 
 
 Tratamiento:
 
 
-- Analgesia - Terapia con micronutrientes para prevenir ataques recurrentes - Corregir el déficit de enzimas: Dar lipasa. Dar insulina si hay diabetes (nunca glucagón).
+- Analgesia - Terapia con micronutrientes para prevenir ataques recurrentes - Corregir el déficit de enzimas: Dar lipasa. Dar insulina si hay diabetes (nunca glucagón). 
 - Endoscopia: Transmural (si no hay conexión con el conducto pancreático), transpapilar (si hay conexión con el conducto).
 
 
-# TEMA 9. TUMORES PANCREÁTICOS Y BILIARES
+TEMA 9. TUMORES PANCREÁTICOS Y BILIARES
 
 
 1. TUMORES PRIMARIOS DEL PÁNCREAS EXOCRINO
 
 
-![[image-34-x38-y694.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-34-x38-y694.png]]
 
 
 ADENOCARCINOMA DUCTAL
@@ -2197,7 +2182,7 @@ Factores de riesgo
 Localización:
 
 
-- 70% cabeza: Se diagnostican antes porque cuando llegan a los 3cm obstruyen la vía biliar (ictericia), pancreática e incluso el duodeno, generando clínica.  - 20% cola, 10% cola: Dan clínica cuando tienen 5-7cm. Como tardan tanto en dar síntomas, cuando se diagnostican ya son muy grandes y el pronóstico es peor.
+- 70% cabeza: Se diagnostican antes porque cuando llegan a los 3cm obstruyen la vía biliar (ictericia), pancreática e incluso el duodeno, generando clínica.  - 20% cola, 10% cola: Dan clínica cuando tienen 5-7cm. Como tardan tanto en dar síntomas, cuando se diagnostican ya son muy grandes y el pronóstico es peor. 
 - 10% en toda la glándula.
 
 
@@ -2207,21 +2192,21 @@ Al ser un cáncer que generalmente se diagnostica en estadios avanzados, las met
 Clínica:
 
 
-- Dolor abdominal - Ictericia obstructiva (si el tumor está en la cabeza): ↑bilirrubina (>12, sobre todo la directa), FA, GGT, transaminasas, TP, heces acólicas y coluria.
-- Pérdida de peso - Ataques de pancreatitis aguda por obstrucción ductal - Obstrucción en el duodeno, obstruyéndose el tracto de salida del estómago - Trombosis venosa superficial y profunda: Siempre que no encontremos una causa de trombosis, hay descartar un cáncer.  - Signo de Courvoisier: La vesícula biliar se dilata y se palpa como consecuencia de una obstrucción maligna de la vía biliar (solo en el 20%).
+- Dolor abdominal - Ictericia obstructiva (si el tumor está en la cabeza): ↑bilirrubina (>12, sobre todo la directa), FA, GGT, transaminasas, TP, heces acólicas y coluria. 
+- Pérdida de peso - Ataques de pancreatitis aguda por obstrucción ductal - Obstrucción en el duodeno, obstruyéndose el tracto de salida del estómago - Trombosis venosa superficial y profunda: Siempre que no encontremos una causa de trombosis, hay descartar un cáncer.  - Signo de Courvoisier: La vesícula biliar se dilata y se palpa como consecuencia de una obstrucción maligna de la vía biliar (solo en el 20%). 
 - Paniculitis (eritema nodoso) - Depresión - DM: Puede ser tanto causa como consecuencia. En el momento del diagnóstico, está presente en el 25% de los pacientes.
 
 
-![[image-34-x159-y190.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-34-x159-y190.png]]
 
 
 Diagnóstico:
 
 
-- TAC abdominal trifásico: Técnica de elección para el diagnóstico de cáncer de páncreas. Sirve para hacer el estadiaje del tumor (local y metástasis), y para valorar la resecabilidad con un 80% de exactitud. Se puede utilizar el TAC como guía para biopsias percutáneas.
-- USE: Para el estadiaje local y ver la invasión vascular. También útil en biopsias.
-- CPRE: Signo de doble estenosis indica cáncer de cabeza y cuerpo por afectación de la vía biliar y pancreática.  - PET-TAC: Para ver metástasis a distancia y recurrencia.
-- CA19.9: Antígeno siálico del grupo Lewis. No sirve para el screening de cáncer de páncreas, pues es poco específico (sintetizado por las células del conducto pancreático y biliar en enfermedades benignas y malignas), y poco sensible (no todos los afectados lo tienen. Valores >1000-2000IU/L predicen irresecabilidad).
+- TAC abdominal trifásico: Técnica de elección para el diagnóstico de cáncer de páncreas. Sirve para hacer el estadiaje del tumor (local y metástasis), y para valorar la resecabilidad con un 80% de exactitud. Se puede utilizar el TAC como guía para biopsias percutáneas. 
+- USE: Para el estadiaje local y ver la invasión vascular. También útil en biopsias. 
+- CPRE: Signo de doble estenosis indica cáncer de cabeza y cuerpo por afectación de la vía biliar y pancreática.  - PET-TAC: Para ver metástasis a distancia y recurrencia. 
+- CA19.9: Antígeno siálico del grupo Lewis. No sirve para el screening de cáncer de páncreas, pues es poco específico (sintetizado por las células del conducto pancreático y biliar en enfermedades benignas y malignas), y poco sensible (no todos los afectados lo tienen. Valores >1000-2000IU/L predicen irresecabilidad). 
 o Se utiliza de forma complementaria a otras técnicas, no de forma aislada, para valorar la existencia de cáncer de páncreas.  o Para monitorizar la quimioterapia y detectar recurrencias
 
 
@@ -2231,11 +2216,11 @@ Tratamiento:
 Resecabilidad (10%):
 
 
-o Cirugía: § En la cabeza: Técnica de Whipple (pancreatoduodenectomía cefálica) § En cuerpo y cola: Pancreatectomía distal con esplenectomía o Drenaje biliar preoperatorio solo en pacientes con colangitis, insuficiencia hepática o prurito.  o Tratamiento adyuvante (post-cirugía): Gemcitabina para evitar recurrencias.
+o Cirugía: § En la cabeza: Técnica de Whipple (pancreatoduodenectomía cefálica) § En cuerpo y cola: Pancreatectomía distal con esplenectomía o Drenaje biliar preoperatorio solo en pacientes con colangitis, insuficiencia hepática o prurito.  o Tratamiento adyuvante (post-cirugía): Gemcitabina para evitar recurrencias. 
 o Tratamiento neoadyuvante (pre-cirugía): Gemcitabina en tumores borderline para disminuir el estadio y poder resercarlos.
 
 
-![[image-35-x260-y653.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-35-x260-y653.png]]
 
 
 No resecable (90%): o Enfermedad localmente avanzada o no resecable (30%): Gemcitabina o Enfermedad metastásica (60%): Gemcitabina o Paliativos: Drenaje vía biliar, tratar el dolor y las obstrucciones gástricas (stents duodenales, PEG)
@@ -2247,7 +2232,7 @@ TUMORES QUÍSTICOS DEL PÁNCREAS
 No son tumores malignos, son masas sólidas que pueden evolucionar o no a cáncer y que se diagnostican atendiendo a la clínica, morfología y estudiando su contenido líquido por PAAF.
 
 
-![[image-35-x145-y360.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-35-x145-y360.png]]
 
 
 2. TUMORES DE LA VÍA BILIAR
@@ -2262,11 +2247,11 @@ Es un tumor muy similar al del páncreas, de naturaleza desmoplásica (con estro
 Colangiocarcinoma intrahepático (10%): Aparece en los pequeños conductos biliares de dentro del hígado. Se trata de una MASA (indistinguible de un hepatocarcinoma) que no van a dar síntomas hasta que alcanzan un gran tamaño, manifestándose con dolor abdominal inespecífico y sintomatología sistémica. La ictericia no suele producirse porque afecta a una pequeña porción del hígado, pero sí produce alteración de las enzimas de colestasis.
 
 
-Colangiocarcinoma del epitelio ductal: Se manifiesta clínicamente antes que el anterior porque OBSTRUYE la vía biliar, apareciendo ictericia indolora (ictericia maligna) en un 90%, colangitis en un 10% y síntomas sistémicos en un 56% de los casos. Pueden ser: o Perihiliares o tumor de Klatskin (40%): Tienen mejor pronóstico que los de grandes vías biliares.
+Colangiocarcinoma del epitelio ductal: Se manifiesta clínicamente antes que el anterior porque OBSTRUYE la vía biliar, apareciendo ictericia indolora (ictericia maligna) en un 90%, colangitis en un 10% y síntomas sistémicos en un 56% de los casos. Pueden ser: o Perihiliares o tumor de Klatskin (40%): Tienen mejor pronóstico que los de grandes vías biliares. 
 o Del sistema ductal extrahepático distal (de conducto cístico a ampolla, 50%)
 
 
-![[image-35-x146-y143.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-35-x146-y143.png]]
 
 
 Factores de riesgo
@@ -2275,7 +2260,7 @@ Factores de riesgo
 Enfermedades crónicas de la vía biliar
 
 
-o Colangitis Esclerosante Primaria (CEP): Ppal FR.
+o Colangitis Esclerosante Primaria (CEP): Ppal FR. 
 o Hepatolitiasis (colangiohepatitis oriental) o Parásitos (Opistorchis viverrini y Clonorchis sinersis) o Enfermedad fibropoliquística hígado: Enfermedad de Caroli y quistes de colédoco o Anastomosis bilio-entéricas
 
 
@@ -2294,7 +2279,7 @@ Primero hacer una ecografía, para ver si hay litiasis y si la vía biliar está
 Tratamiento:
 
 
-- Si no hay metástasis a distancia= Cirugía o Perihiliar: Extirpación de lóbulo hepático y de vía biliar con linfadenectomia regional y hepaticoyeyunostomía en Y de Roux.
+- Si no hay metástasis a distancia= Cirugía o Perihiliar: Extirpación de lóbulo hepático y de vía biliar con linfadenectomia regional y hepaticoyeyunostomía en Y de Roux. 
 o Distal: Whipple - Si hay metástasis a distancia o no es posible la cirugía= Quimioterapia, stents, drenajes…
 
 
@@ -2304,7 +2289,7 @@ CARCINOMA AMPULAR (AMPULOMA)
 Está recubierto de epitelio intestinal de la segunda porción de duodeno y más interiormente de los colangiocitos, de hecho es la zona de intestino donde es más frecuente la transformación maligna.
 
 
-- El ampuloma es más una neoplasia intestinal (adenocarcinoma=tumor glandular) que neoplasia pancreatobiliar (colangiocarcinoma).
+- El ampuloma es más una neoplasia intestinal (adenocarcinoma=tumor glandular) que neoplasia pancreatobiliar (colangiocarcinoma). 
 - Son raros, se suelen dar en personas mayores de 60-70 años, pero no es algo excepcional - El riesgo aumenta en pacientes con poliposis adenomatosa familiar y en la enfermedad de Peutz-Jeghers - Por su localización produce ictericia obstructiva maligna, pero también al ser parte de la mucosa intestinal produce sangrado gastrointestinal, tanto aguda (melenas), como crónica (anemia). Puede cursar también con una pancreatitis aguda por obstrucción del conducto pancreático. ICTERICIA+ ANEMIA= AMPULOMA
 
 
@@ -2323,7 +2308,7 @@ Tratamiento (=tumor cabeza de páncreas):
 Pronóstico: Más fácilmente resecable que el colangiocarcinoma y el 30-50% sobrevive a los 5 años.
 
 
-# TEMA 10. HEPATITIS AGUDA Y CRÓNICA
+TEMA 10. HEPATITIS AGUDA Y CRÓNICA
 
 
 1. HEPATITIS AGUDA
@@ -2344,10 +2329,10 @@ HEPATITIS A:
 Características:
 
 
-- Enterovirus con RNA de cadena única y sin envoltura.
-- Se han descrito 7 genotipos.
-- Es sensible a la ebullición y los rayos UV.
-- Su infección produce el anticuerpo anti-VHA (IgG e IgM), que genera una inmunidad permanente.
+- Enterovirus con RNA de cadena única y sin envoltura. 
+- Se han descrito 7 genotipos. 
+- Es sensible a la ebullición y los rayos UV. 
+- Su infección produce el anticuerpo anti-VHA (IgG e IgM), que genera una inmunidad permanente. 
 o IgM → indica que hay infección aguda.  o IgG → indica protección frente al VHA.  - Durante la fase de infección, el VHA se localiza en el citoplasma del hepatocito.
 
 
@@ -2360,35 +2345,35 @@ Epidemiología:
 Clínica:
 
 
-- Tiene un periodo de incubación de 15-45 días - Puede producir desde un cuadro asintomático hasta fulminante - Solo produce infección aguda (hepatitis aguda), nunca cronifica.
-- Normalmente, el paciente se infecta y elimina virus por las heces antes de que haya síntomas (mayor probabilidad de contagio porque todavía no está diagnosticado). Después, se elevan las transaminasas, pudiendo aparecer o no ictericia. Al hacer una serología, veremos que tiene IgM+ y, cuando se haya curado, veremos IgG+ de por vida.
+- Tiene un periodo de incubación de 15-45 días - Puede producir desde un cuadro asintomático hasta fulminante - Solo produce infección aguda (hepatitis aguda), nunca cronifica. 
+- Normalmente, el paciente se infecta y elimina virus por las heces antes de que haya síntomas (mayor probabilidad de contagio porque todavía no está diagnosticado). Después, se elevan las transaminasas, pudiendo aparecer o no ictericia. Al hacer una serología, veremos que tiene IgM+ y, cuando se haya curado, veremos IgG+ de por vida. 
 - El curso clínico y el pronóstico están relacionados con la edad de adquisición de la infección, siendo mayor la gravedad cuanto mayor sea la edad
 
 
 HEPATITIS B
 
 
-Características: - Hepadnavirus con DNA de doble cadena y con envoltura.
-- Presenta una alta tasa de mutaciones debido a una alta replicación viral y a que la polimerasa del VHB carece de función correctora de errores. De este modo, aparecen virus mutantes, como la variante precore, la cual no produce el Ag HBe.
-- Se han descrito unos 10 genotipos, que se nombran por letras, siendo A y D más frecuentes en España. Estos genotipos tienen distinta prevalencia, distintas vías de contagio y distinta historia natural.
+Características: - Hepadnavirus con DNA de doble cadena y con envoltura. 
+- Presenta una alta tasa de mutaciones debido a una alta replicación viral y a que la polimerasa del VHB carece de función correctora de errores. De este modo, aparecen virus mutantes, como la variante precore, la cual no produce el Ag HBe. 
+- Se han descrito unos 10 genotipos, que se nombran por letras, siendo A y D más frecuentes en España. Estos genotipos tienen distinta prevalencia, distintas vías de contagio y distinta historia natural. 
 - Cuando el VHB infecta un hepatocito, su ADN se convierte en ADNccc que se integra en el ADN del hepatocito, siendo ya muy difícil erradicar el virus del organismo. Después de la infección, en la sangre del paciente encontraremos el virus completo, el Ag HBe y el Ag HBs.  - Como es un virus muy difícil de erradicar y con una elevada tasa de mutaciones, los tratamientos y la tasa de resistencias son elevados
 
 
 Epidemiología:
 
 
-- El único reservorio para infectar al ser humano es el ser humano.
-- La prevalencia cambia de unas zonas a otras, por lo que hay que tener presente las migraciones.
+- El único reservorio para infectar al ser humano es el ser humano. 
+- La prevalencia cambia de unas zonas a otras, por lo que hay que tener presente las migraciones. 
 - Vías de contagio: Sexual, sangre (sobre todo en trasfusiones y hemoderivados realizados antes de 1980), vertical, horizontal (cuchillas, cortaúñas…), nosocomial.  - No se transmite ni por el aire ni por el agua, ni a través de animales o insectos (como los mosquitos), ni por heces, alimentos, sudor o lágrimas, a no ser que estén contaminados de sangre.
 
 
 Clínica:
 
 
-- El periodo de incubación varia desde 60-180 días.
-- Puede producir desde un cuadro asintomático hasta fulminante.
-- Produce infección crónica en el 5% de los adultos y en el 90% de los niños.
-- Puede producir un hepatocarcinoma directamente sin pasar por fase de cirrosis (virus oncogénico), pues hay pacientes que son inmunotolerantes.  Esto quiere decir que son pacientes con altas cargas de VHB, pero que no desarrollan hepatitis; por lo que no se lesiona su hígado (no hay cirrosis).  Suele producirse en infecciones de la infancia con muy altas cargas virales y que a los 20-30 años desarrollan un hepatocarcinoma sobre un hígado sano.
+- El periodo de incubación varia desde 60-180 días. 
+- Puede producir desde un cuadro asintomático hasta fulminante. 
+- Produce infección crónica en el 5% de los adultos y en el 90% de los niños. 
+- Puede producir un hepatocarcinoma directamente sin pasar por fase de cirrosis (virus oncogénico), pues hay pacientes que son inmunotolerantes.  Esto quiere decir que son pacientes con altas cargas de VHB, pero que no desarrollan hepatitis; por lo que no se lesiona su hígado (no hay cirrosis).  Suele producirse en infecciones de la infancia con muy altas cargas virales y que a los 20-30 años desarrollan un hepatocarcinoma sobre un hígado sano. 
 - Produce manifestaciones extrahepáticas, generalmente asociadas a procesos inmunes.
 
 
@@ -2398,7 +2383,7 @@ HEPATITIS D
 Es un virus RNA defectuoso sin envoltura que necesita la presencia del VBH para poder infectar y replicarse. Por tanto, para que podamos determinar la infección del VHD, el paciente tiene que tener una infección activa por VHB (Ag HBs+). Se replica en los hepatocitos y precisa la capsula del VHB para su diseminación a otra célula.
 
 
-Las vías de transmisión son idénticas a las del VHB y podemos encontrarnos ante dos situaciones: - La coinfección (infección simultánea de ambos virus): Mayor riesgo de hepatitis fulminante.
+Las vías de transmisión son idénticas a las del VHB y podemos encontrarnos ante dos situaciones: - La coinfección (infección simultánea de ambos virus): Mayor riesgo de hepatitis fulminante. 
 - La sobreinfección (infección previa por VHB): Mayor riesgo de hepatitis crónica (90%) y cirrosis.
 
 
@@ -2408,18 +2393,18 @@ Marcadores: - Antígeno - Ac anti-VDH (IgM e IgG): Indica contacto, no protecci�
 HEPATITIS C
 
 
-Características: - Flavivirus con RNA de hebra positiva y con cápsula lipídica.
-- Hay varios genotipos: 1a, 1b, 1c, 2a...6. Los genotipos más frecuentes en España son el 1b y el 3 en drogadictos.
-- Es de distribución mundial y su prevalencia es variable (1-15%).  - Aparece normalmente de forma aislada.
-- Vías de transmisión: Parenteral, contacto sexual, perinatal.
-- Tiene un periodo de incubación de 14-160 días.
+Características: - Flavivirus con RNA de hebra positiva y con cápsula lipídica. 
+- Hay varios genotipos: 1a, 1b, 1c, 2a...6. Los genotipos más frecuentes en España son el 1b y el 3 en drogadictos. 
+- Es de distribución mundial y su prevalencia es variable (1-15%).  - Aparece normalmente de forma aislada. 
+- Vías de transmisión: Parenteral, contacto sexual, perinatal. 
+- Tiene un periodo de incubación de 14-160 días. 
 - Marcadores de laboratorio: Ac anti-VHC (indican contacto, no protección) y RNA-VHC.
 
 
 Si esta hepatitis C aguda se resuelve, las transaminasas vuelven a sus valores normales, el RNA-VHC en sangre se vuelve negativo y se mantiene positivo el Ac anti-VHC.  Si el paciente tiene una hepatitis C crónica, los niveles de transaminasas son fluctuantes, pudiendo tener periodos en los que están normales. Por tanto, la única forma de saber que estamos ante una hepatitis C crónica es determinando el RNA-VHC positivo.
 
 
-![[image-38-x467-y251.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-38-x467-y251.png]]
 
 
 HEPATITIS E
@@ -2428,53 +2413,53 @@ HEPATITIS E
 Características:
 
 
-- Es un virus RNA que pertenece al género hepeviridae.
-- Cada vez se diagnostican más casos de hepatitis E.
-- Es un virus estable en el medioambiente (aguas contaminadas) y sensible al calor (71ºC x 20min) y a la cloración (aguas cloradas). La ebullición o fritura del virus durante 5min lo inactiva.
-- Se denomina virus E por ser de transmisión entérica y causar epidemias.
-- Su periodo de incubación es de 4-5 semanas (2-10 semanas).
-- Se elimina por las heces.
-- Vías de transmisión: Fecal-oral, persona-persona, transmisión zoonótica, transfusiones sanguíneas, transmisión vertical.
-o La transmisión fecal-oral se produce por aguas contaminadas, por marisco (almejas/ostras), por frutas y verduras frescas... Es típica de los genotipos 1-2 y produce epidemias.
-o La transmisión zoonótica se produce por carnes poco o nada guisadas (cerdo, jabalí, ciervos), trabajadores agrícolas, veterinarios... Es típica de los genotipos 3-4 y produce casos esporádicos.
+- Es un virus RNA que pertenece al género hepeviridae. 
+- Cada vez se diagnostican más casos de hepatitis E. 
+- Es un virus estable en el medioambiente (aguas contaminadas) y sensible al calor (71ºC x 20min) y a la cloración (aguas cloradas). La ebullición o fritura del virus durante 5min lo inactiva. 
+- Se denomina virus E por ser de transmisión entérica y causar epidemias. 
+- Su periodo de incubación es de 4-5 semanas (2-10 semanas). 
+- Se elimina por las heces. 
+- Vías de transmisión: Fecal-oral, persona-persona, transmisión zoonótica, transfusiones sanguíneas, transmisión vertical. 
+o La transmisión fecal-oral se produce por aguas contaminadas, por marisco (almejas/ostras), por frutas y verduras frescas... Es típica de los genotipos 1-2 y produce epidemias. 
+o La transmisión zoonótica se produce por carnes poco o nada guisadas (cerdo, jabalí, ciervos), trabajadores agrícolas, veterinarios... Es típica de los genotipos 3-4 y produce casos esporádicos. 
 - Si el Ac anti-VHE (IgM) nos da negativo, podemos tratar de demostrar la infección buscando el ARN-VHE (en sangre= fase precoz, en heces= si la infección es tardía)
 
 
-![[image-38-x317-y732.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-38-x317-y732.png]]
 
 
 En un 0,5% de los casos, se produce una infección oculta en la que el Ac anti- HBc + y el Ag HBs –, pero hay DNA a títulos bajos. Esto ocurre con cepas mutantes que no producen Ag HBs, por lo que en estos casos la vacuna no sería efectiva.
 
 
-![[image-38-x36-y661.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-38-x36-y661.png]]
 
 
-![[image-38-x35-y563.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-38-x35-y563.png]]
 
 
 Proceso:
 
 
-1) Tras la infección lo primero que encontramos en DNA viral, AgHBe, AgHBs.
+1) Tras la infección lo primero que encontramos en DNA viral, AgHBe, AgHBs. 
 2) Luego aparecen los síntomas de la hepatitis aguda y se elevan las transaminasas 3) Aparecen IgM, pero si fuese una infección crónica habría IgG anti-HBc 4) Más tarde se elevan los Ac anti-HBe y se van negativizando los AgHBe 5) El AgHBs se mantiene elevado en sangre el tiempo que dure la infección y desaparece 1-2 meses después de iniciarse los síntomas. Si persisten los AgHBs más de 6 meses, se trata de una hepatitis crónica
 
 
-![[image-39-x36-y702.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-39-x36-y702.png]]
 
 
 CLÍNICA Y DIAGNÓSTICO HEPATITIS AGUDAS VIRALES
 
 
-El cuadro clínico es muy variado, pudiendo ir desde asintomática a fulminante. La mayor probabilidad de hepatitis fulminante es por coinfección de VHB y VHD.
-- Puede aparecer un cuadro prodrómico previo con vómitos, astenia, anorexia, fiebre o no fiebre.  - Ictericia y coluria (10%).
-- Hepatomegalia (por la inflamación de los lobulillos hepáticos) - ↑↑↑ transaminasas (por citólisis) - ↑ bilirrubina (si hay destrucción de los sinusoides).
+El cuadro clínico es muy variado, pudiendo ir desde asintomática a fulminante. La mayor probabilidad de hepatitis fulminante es por coinfección de VHB y VHD. 
+- Puede aparecer un cuadro prodrómico previo con vómitos, astenia, anorexia, fiebre o no fiebre.  - Ictericia y coluria (10%). 
+- Hepatomegalia (por la inflamación de los lobulillos hepáticos) - ↑↑↑ transaminasas (por citólisis) - ↑ bilirrubina (si hay destrucción de los sinusoides). 
 Las hepatitis agudas de origen viral se diagnostican con los marcadores serológicos según la etiología. La mayoría de las hepatitis agudas pasan infradiagnosticadas porque se comportan como un cuadro viral inespecífico. Solo se diagnostican cuando el paciente presenta una clínica de ictericia, coluria, HEM...
 
 
 TRATAMIENTO HEPATITIS AGUDAS VIRALES
 
 
-Las hepatitis agudas normalmente no requieren ingreso hospitalario. Criterios de ingreso: o Insuficiencia hepática grave: § INR alargado > 1,6 (el INR se puede alargar por déficit de vit.K, pero si después de cubrir el déficit el INR sigue alto, quiere decir que el hígado está muy afectado y hay riesgo de hepatitis fulminante).
+Las hepatitis agudas normalmente no requieren ingreso hospitalario. Criterios de ingreso: o Insuficiencia hepática grave: § INR alargado > 1,6 (el INR se puede alargar por déficit de vit.K, pero si después de cubrir el déficit el INR sigue alto, quiere decir que el hígado está muy afectado y hay riesgo de hepatitis fulminante). 
 § Bilirrubina total > 10 mg/dl § Encefalopatía hepática o Intolerancia oral total o Edad avanzada (> 75 años) o Comorbilidad importante o Escaso soporte social
 
 
@@ -2496,8 +2481,8 @@ Vacunas: o Hepatitis A: 2 dosis (0 y 1 mes) o Hepatitis B: 3 dosis (0, 1 y 6 mes
 Consiste en una insuficiencia hepática grave con/sin encefalopatía donde el hígado sano deja de funcionar de forma súbita (no estaba cirrótico). El hígado falla en <8 semanas y produce un fallo multiorgánico grave
 
 
-- Fulminante < 2 semanas.
-- Subfulminante 2-8 semanas.  - Hiperagudo (0-7 días).  - Agudo (8-28 días).
+- Fulminante < 2 semanas. 
+- Subfulminante 2-8 semanas.  - Hiperagudo (0-7 días).  - Agudo (8-28 días). 
 - Subagudo (29-72 días).
 
 
@@ -2519,7 +2504,7 @@ Tratamiento:
 3. HEPATITIS CRÓNICA
 
 
-Hay cambios degenerativos, necrosis, infiltración inflamatoria y fibrosis durante un largo periodo de tiempo (> 6 meses).
+Hay cambios degenerativos, necrosis, infiltración inflamatoria y fibrosis durante un largo periodo de tiempo (> 6 meses). 
 La producen distintos agentes patógenos, lo que condiciona su evolución y tratamiento, por lo que es muy importante buscar la etiología.
 
 
@@ -2544,20 +2529,20 @@ Causas de hipertransaminasemia (ALT) crónica (>6 m): - Hepatitis viral crónica
 DIAGNÓSTICO DE HEPATITIS AUTOINMUNE
 
 
-- ↑ predominante de ALT - Globulinas totales o Ig G >x1.5.
+- ↑ predominante de ALT - Globulinas totales o Ig G >x1.5. 
 - Auto-anticuerpos (>1:80): -Tipo 1: ANA, AML -Tipo 2: anti-LKM-1 (anticuerpos antimicrosomales tipo 1 de hígado y riñón) - Serología viral negativa - Histología: hepatitis de la interfase y células plasmáticas
 
 
 HEPATITIS VIRALES
 
 
-![[image-41-x37-y152.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-41-x37-y152.png]]
 
 
 Valores normales: IgG (650-1600) IgM (55-300) IgA (40-350) GOT (AST)/ aspartato aminotransferasa= 10-34 GPT (ALT)/ alanino aminotransferasa= 5-60 GGT= 5-80 FA= 45-150 Bilirrubina total <1 - Bilirrubina directa= 0-0,3 - Bilirrubina indirecta= 0,3-1,9 Albúmina= 3,4- 5,4
 
 
-![[image-41-x330-y206.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-41-x330-y206.png]]
 
 
 TRATAMIENTO VHC
@@ -2566,7 +2551,7 @@ TRATAMIENTO VHC
 Utilizamos antivirales de accion directa: - Inhibidores de la polimerasa: Sofosbuvir - Inhibidor del NS5A: Ledipasvir, velpatasvir, pibrentasvir, elbasvir - Inhibidor de la proteasa NS3/4ª: Glecaprevir y grazoprevir Con el virus C el objetivo es CURAR la infección. El concepto de curación es que 12 semanas después de haber retirado el tratamiento el DNA-VHC sea negativo, es decir, que no haya replicación viral.
 
 
-![[image-42-x336-y634.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-42-x336-y634.png]]
 
 
 TRATAMIENTO VHB
@@ -2575,7 +2560,7 @@ TRATAMIENTO VHB
 El objetivo del tratamiento es: - Inhibir la replicación viral o reducir su velocidad: conseguir DNA-VHB – - Pérdida de HBeAg en HBe Ag + (5-10% en 5 años) - Pérdida de HBsAg en HBeAg– (20% en un año) - Mejorar la lesión histológica y mejorar la bioquímica - NO BUSCA LA CURACIÓN, SINO VHB “RESUELTA”
 
 
-Indicaciones de tratamiento: - DNA-VHB > 20000 UI/ml mantenidas Y/O transaminasas elevadas (ALT) - DNA-VHB+ y cirrosis.
+Indicaciones de tratamiento: - DNA-VHB > 20000 UI/ml mantenidas Y/O transaminasas elevadas (ALT) - DNA-VHB+ y cirrosis. 
 - DNA-VHB= 2000-20.000 UI/ml y ↑ALT / lesión hepática (fibroscan o biopsia > F2)
 
 
@@ -2585,14 +2570,14 @@ Se dan antirretrovirales: Tenofovir, Entecavir
 Duración del tto: - Pérdida de HBsAg - Hasta 1 año después de pérdida de HBeAg - En la práctica, indefinido
 
 
-Hablamos de infección resuelta cuando conseguimos que el DNA del virus quede recluido dentro del hepatocito sin replicarse. El sistema inmune es el encargado de mantener esta situación. Sin embargo, hay situaciones que pueden precipitar la reactivación del virus: - Situaciones que aumentan la replicación viral: resistencia al tratamiento, detención del tratamiento antiviral, o reactivación espontánea.
+Hablamos de infección resuelta cuando conseguimos que el DNA del virus quede recluido dentro del hepatocito sin replicarse. El sistema inmune es el encargado de mantener esta situación. Sin embargo, hay situaciones que pueden precipitar la reactivación del virus: - Situaciones que aumentan la replicación viral: resistencia al tratamiento, detención del tratamiento antiviral, o reactivación espontánea. 
 - Situaciones que disminuyen la respuesta inmune: inmunosupresión espontánea, VIH, trasplante de órganos, enfermedad hemática, enfermedad autoinmune.
 
 
 Factores de riesgo que contribuyen a que se produzca la reactivación en función de los marcadores de los pacientes:
 
 
-![[image-42-x36-y191.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-42-x36-y191.png]]
 
 
 TRATAMIENTO VHD
@@ -2601,52 +2586,52 @@ TRATAMIENTO VHD
 - Tto infección por VHD: PEG-interferón-⍺, 12 meses - Tto infección por VHB (si DNA VHB+): Tenofovir y entecavir
 
 
-![[image-43-x32-y561.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-43-x32-y561.png]]
 
 
-![[image-43-x31-y274.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-43-x31-y274.png]]
 
 
-![[image-43-x33-y50.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-43-x33-y50.png]]
 
 
-![[image-44-x24-y419.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-44-x24-y419.png]]
 
 
-![[image-44-x23-y42.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-44-x23-y42.png]]
 
 
-# TEMA 11. HEPATOTOXICIDAD
+TEMA 11. HEPATOTOXICIDAD
 
 
-La mayoría de los fcos requieren un metabolismo hepático para poder eliminarse del organismo por vía biliar o renal. El metabolismo hepático de los fármacos ocurre en dos fases: - Fase I: Fase oxidativa, en la que interviene el citocromo P-450, el cual también metaboliza el alcohol.
-- Fase II: Fase de conjugación y neutralización de los metabolitos, en la que intervienen el glutatión, los glucurónidos o los sulfatos.
-Existen una serie de factores moduladores del metabolismo hepático de los fármacos: Genética, edad, sexo, dieta, tabaco, alcohol, enfermedades asociadas y consumo simultáneo de varios fármacos.
+La mayoría de los fcos requieren un metabolismo hepático para poder eliminarse del organismo por vía biliar o renal. El metabolismo hepático de los fármacos ocurre en dos fases: - Fase I: Fase oxidativa, en la que interviene el citocromo P-450, el cual también metaboliza el alcohol. 
+- Fase II: Fase de conjugación y neutralización de los metabolitos, en la que intervienen el glutatión, los glucurónidos o los sulfatos. 
+Existen una serie de factores moduladores del metabolismo hepático de los fármacos: Genética, edad, sexo, dieta, tabaco, alcohol, enfermedades asociadas y consumo simultáneo de varios fármacos. 
 Los principales causantes de hepatitis tóxicas son: AINES, analgésicos, anestésicos, hormonas sexuales, anticonvulsivantes, antimicrobianos, agentes cardiovasculares, psicótropos, antidiabéticos orales, productos de herbolario/naturales. EL PPAL CAUSANTE DE HEPATITIS TÓXICA EN NUETSRO MEDIO ES LA AMOXICILINA-CLAVULÁNICO
 
 
 Hay dos tipos de RAM farmacológicas: - Predecibles o intrínsecas: Tetracloruro de carbono (CCI4), Paracetamol (> 8g).  - Impredecibles o idiosincrásicas: Isoniacida, amiodarona, amoxicilina-clavulánico. Tipos de RAM idiosincráticas: o Hipersensibilidad: Fiebre, erupción y eosinofilia o Lesión autoinmune inducida: Al tomar fcos se inicia una enfermedad autoinmune que sintetiza distintos tipos de anticuerpos: ANA, AMA, p-ANCAs, c-ANCAs, AML.
 
 
-¿Cómo se diagnostican? El diagnóstico es complicado, hace falta hacer una buena anamnesis (qué ha tomado en los últimos 3-6 meses), mucha sospecha clínica y excluir otras causas de hepatitis.  - Clínica de hipersensibilidad - Efecto de retirada: Al quitar el fármaco, la hepatitis se resuelve.
+¿Cómo se diagnostican? El diagnóstico es complicado, hace falta hacer una buena anamnesis (qué ha tomado en los últimos 3-6 meses), mucha sospecha clínica y excluir otras causas de hepatitis.  - Clínica de hipersensibilidad - Efecto de retirada: Al quitar el fármaco, la hepatitis se resuelve. 
 - Efecto de reexposición - Biopsia hepática
 
 
 Tipos de lesiones histológicas:
 
 
-![[image-45-x33-y176.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-45-x33-y176.png]]
 
 
-Tratamiento: En la inmensa mayoría no hay tratamiento específico, por lo que se debe retirar el fármaco sospechoso y dar tratamiento de soporte. Esto resulta complicado en pacientes polimedicados, pues muchos de los fármacos que toman son esenciales para su supervivencia. En estos casos, hay que retirar aquel fármaco del que tengamos mayor sospecha de hepatotoxicidad o aquel cuya retirada perjudique menos al paciente.
-El único fármaco que produce hepatitis tóxica y que tiene tratamiento específico es el paracetamol (> 5-8 g/día): se administra N-acetilcisteína IV de forma precoz y se realiza un lavado gástrico. También se miden las concentraciones de paracetamol en sangre.
+Tratamiento: En la inmensa mayoría no hay tratamiento específico, por lo que se debe retirar el fármaco sospechoso y dar tratamiento de soporte. Esto resulta complicado en pacientes polimedicados, pues muchos de los fármacos que toman son esenciales para su supervivencia. En estos casos, hay que retirar aquel fármaco del que tengamos mayor sospecha de hepatotoxicidad o aquel cuya retirada perjudique menos al paciente. 
+El único fármaco que produce hepatitis tóxica y que tiene tratamiento específico es el paracetamol (> 5-8 g/día): se administra N-acetilcisteína IV de forma precoz y se realiza un lavado gástrico. También se miden las concentraciones de paracetamol en sangre. 
 Las intoxicaciones por Amanita phalloides se tratan con penicilina G y sibilina.
 
 
-# TEMA 12. ENFERMEDADES COLESTÁSICAS CRÓNICAS
+TEMA 12. ENFERMEDADES COLESTÁSICAS CRÓNICAS
 
 
-![[image-46-x142-y710.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-46-x142-y710.png]]
 
 
 Tipos de colestasis
@@ -2655,11 +2640,11 @@ Tipos de colestasis
 Colestasis intrahepática
 
 
-o Colestasis hepatocelular: Problemas en la producción/ excreción de bilis por los hepatocitos.
+o Colestasis hepatocelular: Problemas en la producción/ excreción de bilis por los hepatocitos. 
 o Colestasis colangiocelular: Problemas en el tránsito de la bilis desde el canalículo biliar hasta los conductos biliares.
 
 
-![[image-46-x110-y485.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-46-x110-y485.png]]
 
 
 Colestasis extrahepática: Problemas en el tránsito de la bilis por los grandes conductos biliares hasta la ampolla de Vater del dudodeno.
@@ -2671,43 +2656,43 @@ Colestasis extrahepática: Problemas en el tránsito de la bilis por los grandes
 Es una enfermedad autoinmune de causa desconocida donde se sintetizan anticuerpos antimitocondriales (AMA M2+) que solo atacan a la E2 de la piruvato deshidrogenasa de los conductos biliares intrahepáticos, glándulas lacrimales y salivares. En esta enfermedad los anticuerpos son muy específicos (>1:40) y destruyen los conductos biliares intrahepáticos, causando ductopenia → colestasis (sin conductos no hay flujo, ↑FA) → inflamación del hígado por el acúmulo de bilis → necrosis y fibrosis → cirrosis hepática de origen biliar (hipertensión portal, insuficiencia hepática)
 
 
-Al principio de la enfermedad no hay cirrosis, pero con el tiempo, aumenta la inflamación, el daño y es mayor el riesgo.  Suele darse sobre todo en mujeres (1:10) de entre 50-60 años, siendo rara en España (se da más en nórdicos). Es decir, no nacemos con esta patología, sino que la formación de anticuerpos tiene que ser desencadenada por algún estímulo externo (por reacción cruzada tras una ITUs por E.Coli, o tras consumir xenobióticos/fcos que modifican la E2 y se pierde la tolerancia de los LT) en etapas avanzadas de la vida. Tras el estímulo, los LB se activan y producen anticuerpos, y los LTc son los encargados de destruir los conductos.
+Al principio de la enfermedad no hay cirrosis, pero con el tiempo, aumenta la inflamación, el daño y es mayor el riesgo.  Suele darse sobre todo en mujeres (1:10) de entre 50-60 años, siendo rara en España (se da más en nórdicos). Es decir, no nacemos con esta patología, sino que la formación de anticuerpos tiene que ser desencadenada por algún estímulo externo (por reacción cruzada tras una ITUs por E.Coli, o tras consumir xenobióticos/fcos que modifican la E2 y se pierde la tolerancia de los LT) en etapas avanzadas de la vida. Tras el estímulo, los LB se activan y producen anticuerpos, y los LTc son los encargados de destruir los conductos. 
 Como la cirrosis se da en fases avanzadas, para estudiar la enfermedad necesitamos valorar el nivel de fibrosis, aunque también es útil en el pronóstico los niveles de bilirrubina.
 
 
-Fases de la enfermedad: - Preclínica: No hay síntomas, pero aumentan progresivamente los niveles de anticuerpos AMA M2.
-- Asintomática: Avanza la ductopenia y la colestasis, ↑FA y GGT.
-- Sintomática: Además de lo anterior, hay síntomas como prurito y astenia.
+Fases de la enfermedad: - Preclínica: No hay síntomas, pero aumentan progresivamente los niveles de anticuerpos AMA M2. 
+- Asintomática: Avanza la ductopenia y la colestasis, ↑FA y GGT. 
+- Sintomática: Además de lo anterior, hay síntomas como prurito y astenia. 
 - Descompensada: ↑bilirrubina (sobre todo la directa/conjugada)
 
 
-Clínica: La mayoría de los pacientes diagnosticados son asintomáticos (se les diagnostica por la analítica alterada), pero al cabo de 5 años el 66% desarrollará síntomas.  - Astenia/fatiga (80%): Con somnolencia diurna. Hay poca correlación grado de astenia- intensidad de enfermedad.
-- Prurito: En fases avanzadas de la enfermedad, antes de la ictericia, por estimulación de los receptores opioides.
-- Desmineralización ósea (osteopenia): Excepto en las mujeres que toman suplementos de calcio y vit.D.
-- Esteatorrea y déficit vitaminas liposolubles (A,D,E,K) - Hipercolesterolemia - Cirrosis: Puede haber HIPERTENSIÓN PORTAL PRESINUSOIDAL PREVIA A LA CIRROSIS.
-- Otras enfermedades autoinmunes: o Keratoconjuntivitis seca o xerostomía (síndrome de Sjogren): Ojos rojos y secos.
+Clínica: La mayoría de los pacientes diagnosticados son asintomáticos (se les diagnostica por la analítica alterada), pero al cabo de 5 años el 66% desarrollará síntomas.  - Astenia/fatiga (80%): Con somnolencia diurna. Hay poca correlación grado de astenia- intensidad de enfermedad. 
+- Prurito: En fases avanzadas de la enfermedad, antes de la ictericia, por estimulación de los receptores opioides. 
+- Desmineralización ósea (osteopenia): Excepto en las mujeres que toman suplementos de calcio y vit.D. 
+- Esteatorrea y déficit vitaminas liposolubles (A,D,E,K) - Hipercolesterolemia - Cirrosis: Puede haber HIPERTENSIÓN PORTAL PRESINUSOIDAL PREVIA A LA CIRROSIS. 
+- Otras enfermedades autoinmunes: o Keratoconjuntivitis seca o xerostomía (síndrome de Sjogren): Ojos rojos y secos. 
 o Tiroides autoinmune o Síndrome de Raynaud o Esclerodermia y celiaquía
 
 
-Diagnóstico: AMA M2+ (>1:40), ↑enzimas colestásicas (FA y GGT). Solo si todo lo anterior es negativo (5-10% de los pacientes) y hay gran sospecha, se podría biopsiar para ver histología (granulomas y LT destruyendo conducto biliar interlobulillar). La biopsia no es imprescindible para el Dg.
+Diagnóstico: AMA M2+ (>1:40), ↑enzimas colestásicas (FA y GGT). Solo si todo lo anterior es negativo (5-10% de los pacientes) y hay gran sospecha, se podría biopsiar para ver histología (granulomas y LT destruyendo conducto biliar interlobulillar). La biopsia no es imprescindible para el Dg. 
 Si hubiese solapamiento con una hepatitis autoinmune (HAI), habría AMA+, AML+ (>1:80), ↑ALT, ↑IgG. En este caso, solo si hubiese también HAI, se darían corticoides.
 
 
-Tratamiento: - Específico contra la cirrosis: o 1º línea: Ácido ursodesoxicólico (eficaz en un 60% de los afectados, disminuyendo la FA y bilirrubina. No sobrepasar la dosis de 13-15mg/kg, ya que puede causar diarrea).
-o 2º línea: Ácido obeticólico, bezafibrato - No específico, solo contra los síntomas: o Prurito: Colestiramina VO, rifampicina, antagonistas opioides (naltrexona), ISRS, anti-H1.
-o Osteopenia/ osteoporosis: Densitometrías óseas cada 2-3 años, carbonato cálcico, vitamina D3 oral.
-- Si hay prurito refractario o enfermedad hepática avanzada, se puede recurrir al trasplante hepático (alta tasa de recurrencia).
+Tratamiento: - Específico contra la cirrosis: o 1º línea: Ácido ursodesoxicólico (eficaz en un 60% de los afectados, disminuyendo la FA y bilirrubina. No sobrepasar la dosis de 13-15mg/kg, ya que puede causar diarrea). 
+o 2º línea: Ácido obeticólico, bezafibrato - No específico, solo contra los síntomas: o Prurito: Colestiramina VO, rifampicina, antagonistas opioides (naltrexona), ISRS, anti-H1. 
+o Osteopenia/ osteoporosis: Densitometrías óseas cada 2-3 años, carbonato cálcico, vitamina D3 oral. 
+- Si hay prurito refractario o enfermedad hepática avanzada, se puede recurrir al trasplante hepático (alta tasa de recurrencia). 
 NO RESPONDEDOR A ÁCIDO URSODESOXICÓLICO, DAR ÁCIDO URSODESOXICÓLICO+ÁCIDO OBETICÓLICO / ÁCIDO URSODESOXICÓLICO+BEZAFIBRATO
 
 
 2. COLANGITIS ESCLEROSANTE PRIMARIA (CEP)
 
 
-Es una enfermedad autoinmune de causa desconocida donde hay inflamación crónica de toda la vía biliar (intrahepática y extrahepática, predominando la afectación de los conductos de pequeño calibre) y mucha fibrosis, por ello evoluciona a cirrosis y fallo hepático. En un 60-80% de los casos se suele asociar a EII, especialmente a colitis ulcerosa. La CEP tiene un curso independiente de la CU, por lo que su intensidad no depende del grado de EII. Por la fibrosis y la inflamación en distintos puntos de la vía biliar, la CEP hace que los conductos tengan aspecto de chorizos, con zonas dilatadas y otras estenosadas (observable mediante colangio-RM).
+Es una enfermedad autoinmune de causa desconocida donde hay inflamación crónica de toda la vía biliar (intrahepática y extrahepática, predominando la afectación de los conductos de pequeño calibre) y mucha fibrosis, por ello evoluciona a cirrosis y fallo hepático. En un 60-80% de los casos se suele asociar a EII, especialmente a colitis ulcerosa. La CEP tiene un curso independiente de la CU, por lo que su intensidad no depende del grado de EII. Por la fibrosis y la inflamación en distintos puntos de la vía biliar, la CEP hace que los conductos tengan aspecto de chorizos, con zonas dilatadas y otras estenosadas (observable mediante colangio-RM). 
 Suele afectar a hombres de entre 30-40 años, sobre todo nórdicos, que tienen una CU (rara vez en Crohn). Los pacientes con CU+CEP, tienen una EII donde la inflamación del colon respeta el recto y afecta especialmente al lado derecho, de hecho, la inflamación suele ser subclínica (asintomática).
 
 
-![[image-47-x148-y433.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-47-x148-y433.png]]
 
 
 Clínica: Sospechar en varones con analítica alterada (↑FA y GGT), CU de base y AMA-. Hay una fase asintomática muy larga y luego una sintomática (=síntomas que CBP).
@@ -2716,7 +2701,7 @@ Clínica: Sospechar en varones con analítica alterada (↑FA y GGT), CU de base
 Complicaciones: - Episodios frecuentes de colangitis bacteriana - Coledocolitiasis - ↑riesgo de cáncer (colangiocarcinoma, CCR sobre todo derecho, vesícula biliar, hepatocarcinoma, páncreas) - Estenosis dominante - Colestasis crónica - Cirrosis biliar
 
 
-![[image-47-x151-y118.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-47-x151-y118.png]]
 
 
 Diagnóstico:
@@ -2728,66 +2713,66 @@ Diagnóstico:
 - Tipo 1: ANA+, AML+ y ↑IgG.  - Tipo 2: anti-LKM+.
 
 
-![[image-48-x49-y679.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-48-x49-y679.png]]
 
 
 4. HIPERBILIRRUBINEMIAS CONJUGADAS HEREDITARIAS
 
 
-![[image-48-x36-y558.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-48-x36-y558.png]]
 
 
 5. COLESTASIS CRÓNICA INFANTIL/ JUVENIL. DUCTOPENIA DEL ADULTO
 
 
-A diferencia de la CBP, la ductopenia que se produce en estos casos no está asociada a inflamación. Se produce por causas desconocidas y, en función de la gravedad, la enfermedad se manifestará en la niñez o adultez.
-Se puede dividir en: - Forma no sindrómica: Gravedad variable.
+A diferencia de la CBP, la ductopenia que se produce en estos casos no está asociada a inflamación. Se produce por causas desconocidas y, en función de la gravedad, la enfermedad se manifestará en la niñez o adultez. 
+Se puede dividir en: - Forma no sindrómica: Gravedad variable. 
 - Forma sindrómica: Asociada a malformaciones, como la displasia arteriohepática, también llamada enfermedad de Alaguille.
 
 
 DISPLASIA ARTERIOHEPÁTICA O ENFERMEDAD DA ALAGUILLE
 
 
-Consiste en una mutación en el gen JAG1 (70%) de transmisión autosómica dominante donde existe una colestasis que se inicia en la infancia/adolescencia con ductopenia e inflamación que, habitualmente se detiene (en un 15% progresa hacia cirrosis).
+Consiste en una mutación en el gen JAG1 (70%) de transmisión autosómica dominante donde existe una colestasis que se inicia en la infancia/adolescencia con ductopenia e inflamación que, habitualmente se detiene (en un 15% progresa hacia cirrosis). 
 Se caracterizan por: - Estenosis de la arteria pulmonar (por ecocardiograma) - Embriotoxon posterior - Vértebras en mariposa - Facies característica de duende
 
 
-# TEMA 13. ENFERMEDAD HEPÁTICA POR ALCOHOL. ENFERMEDAD HEPÁTICA METABÓLICA GRASA.
+TEMA 13. ENFERMEDAD HEPÁTICA POR ALHOCOL. ENFERMEDAD HEPÁTICA METABÓLICA GRASA.
 
 
-![[image-49-x37-y650.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-49-x37-y650.png]]
 
 
 ENFERMEDAD HEPÁTICA POR ALCOHOL (ALD)
 
 
-El alcohol es una hepatotoxina directa que daña los hepatocitos, pero solo causa ALD en el 10-20% de los alcohólicos. El alcohol está íntimamente relacionado con la enfermedad hepática y la cirrosis (causa el 50% de los casos).
+El alcohol es una hepatotoxina directa que daña los hepatocitos, pero solo causa ALD en el 10-20% de los alcohólicos. El alcohol está íntimamente relacionado con la enfermedad hepática y la cirrosis (causa el 50% de los casos). 
 El alcohol (etanol) se absorbe muy fácilmente, alcanzando altos niveles en sangre. El 95% del etanol se metaboliza (90% hígado, 10% estómago) y el 5% restante se elimina sin metabolizar por el pulmón y riñón. En su metabolismo intervienen enzimas como la alcohol deshidrogenasa (enz. citosólica), aldehído deshidrogenasa (enz. mitocondrial), sistema microsomal MEOS (del RE), ↓NAD+ ↑NADH.
 
 
 - Transformación etanol en acetaldehído: o En bebedores ocasionales: 90% alcohol deshidrogenasa (ADH, NAD+ →NADH), 10% MEOS (NADPH→NADP+ +O2) o En bebedores crónicos: 50% ADH, 50%MEOS - Transformación acetaldehído en acetato: Aldehído deshidrogenasa (NAD+ →NADH)
 
 
-Las mujeres tienen mayor riesgo de toxicidad que los hombres porque su ADH gástrica es menos activa (↓metabolismo alcohol ↑niveles sanguíneos de etanol).
+Las mujeres tienen mayor riesgo de toxicidad que los hombres porque su ADH gástrica es menos activa (↓metabolismo alcohol ↑niveles sanguíneos de etanol). 
 Los chinos se emborrachan más fácilmente y con menos cantidad de alcohol porque tienen una ADH gástrica metaboliza muy rápido el etanol y tienen poca aldehído deshidrogenasa (transformación rápida del etanol en acetaldehído, ↑↑↑acetaldehído, causante de los síntomas tontorrones del alcohol)
 
 
 PROCESO LESIVO:
 
 
-El hígado se va a dañar por los metabolitos tóxicos del alcohol y por la activación de mecanismos inflamatorios e inmunitarios: - Desequilibrio redox por ↓NAD+ ↑NADH: Este desequilibrio se vuelve irreversible si se consume de forma crónica alcohol, pues se daña la membrana mitocondrial.  - Estrés oxidativo (por el desequilibrio redox, ↑O2 en MEOS, movilización del hierro, activación células inflamatorias y ↓antioxidantes): Se agrava el daño de la membrana mitocondrial, peroxidación lipídica y fibrosis hepática por activación de las células estrelladas de Ito.
+El hígado se va a dañar por los metabolitos tóxicos del alcohol y por la activación de mecanismos inflamatorios e inmunitarios: - Desequilibrio redox por ↓NAD+ ↑NADH: Este desequilibrio se vuelve irreversible si se consume de forma crónica alcohol, pues se daña la membrana mitocondrial.  - Estrés oxidativo (por el desequilibrio redox, ↑O2 en MEOS, movilización del hierro, activación células inflamatorias y ↓antioxidantes): Se agrava el daño de la membrana mitocondrial, peroxidación lipídica y fibrosis hepática por activación de las células estrelladas de Ito. 
 - Acetaldehído: Daño membrana mitocondrial, formación neoantígenos y balonización hepatocitos (alt. citoesqueleto y la secreción proteica de los hepatocitos) Además de todo esto, el alcohol aumenta la permeabilidad de la barrera intestinal, permitiendo el paso de “bichos” al organismo. Las endotoxinas bacterianas (LPS) y los neoantígenos formados desencadenarán una respuesta inmune que activará las células de Kupffer del hígado, que producirán IL-6, TNF⍺ y	TGFb, citoquinas proinflamatorias que aumentarán la respuesta inmune y activarán las células estrelladas.
 
 
-FACTORES DE RIESGO DE ALD: - Sexo: Mujeres (↑riesgo de sufrir una ADL más rápida y grave porque el etanol alcanza mayores niveles plasmáticos) - Tener otras enfermedades hepáticas crónicas: Cirrosis mixta, mutación HFE, infección por VHC (25% de los alcohólicos tiene está infección).
-- Factores genéticos: Polimorfismos en ADH, aldehído DH, CYP450.
+FACTORES DE RIESGO DE ALD: - Sexo: Mujeres (↑riesgo de sufrir una ADL más rápida y grave porque el etanol alcanza mayores niveles plasmáticos) - Tener otras enfermedades hepáticas crónicas: Cirrosis mixta, mutación HFE, infección por VHC (25% de los alcohólicos tiene está infección). 
+- Factores genéticos: Polimorfismos en ADH, aldehído DH, CYP450. 
 - Malnutrición: Para desarrollar ALD no hace falta tener malnutrición, pero su presencia facilita la enfermedad.
 
 
 FASES DE LA ENFERMEDAD:
 
 
-Consumo crónico alcohol → esteatosis hepática macrovesicular (90-95%)→ fibrosis (20-40%) →cirrosis (8-20%)→ HCC (3-10%).
+Consumo crónico alcohol → esteatosis hepática macrovesicular (90-95%)→ fibrosis (20-40%) →cirrosis (8-20%)→ HCC (3-10%). 
 Además de esta secuencia, puede aparecer durante la enfermedad una hepatitis aguda alcohólica, sobre todo durante la fase de fibrosis (80-100%) o incluso en la de cirrosis.
 
 
@@ -2803,8 +2788,8 @@ Histología: Siempre hay esteatosis macrovesicular y fibrosis, y 1 de los siguie
 Clínica (variable)
 
 
-- Asintomática - Forma clásica: Paciente con cirrosis progresiva de aparición espontánea (bilirrubina >3mg/dl), que ha consumido de forma abusiva alcohol durante más de 6 meses (>50g hombres, >40g mujeres) y que tiene la analítica alterada (AST/ALT >1.5, AST>50, ALT<400, bilirrubina >3).
-- Forma colestásica: ↑FA - Con complicaciones de la cirrosis: Ascitis, hemorragia digestiva, esclerosis venas centrolobulillares.
+- Asintomática - Forma clásica: Paciente con cirrosis progresiva de aparición espontánea (bilirrubina >3mg/dl), que ha consumido de forma abusiva alcohol durante más de 6 meses (>50g hombres, >40g mujeres) y que tiene la analítica alterada (AST/ALT >1.5, AST>50, ALT<400, bilirrubina >3). 
+- Forma colestásica: ↑FA - Con complicaciones de la cirrosis: Ascitis, hemorragia digestiva, esclerosis venas centrolobulillares. 
 - Síndrome de Zieve: Hepatitis aguda alcohólica, esteatosis masiva, hiperlipidemia, hemólisis por acantocitos
 
 
@@ -2814,11 +2799,11 @@ Indican inflamación (dif con la esteatosis)
 Tratamiento:
 
 
-- Medidas generales: o Valorar la gravedad de la hepatitis mediante escalas (Maddrey y MELD) o Tener en cuenta que estos pacientes tienen un gran riesgo de sufrir infecciones (hacer screening sistemático) e ir (evitar nefrotóxicos).
+- Medidas generales: o Valorar la gravedad de la hepatitis mediante escalas (Maddrey y MELD) o Tener en cuenta que estos pacientes tienen un gran riesgo de sufrir infecciones (hacer screening sistemático) e ir (evitar nefrotóxicos). 
 o ABSTINENCIA ALCOHOL
 
 
-- Medidas específicas: Prednisona VO 40mg/ día durante 1 mes. No obstante, debido al alto riesgo de infecciones, solo damos prednisona a aquellos pacientes graves que necesitan sí o sí corticoesteroides. Para estimar la gravedad del paciente y ver el pronóstico a corto plazo, utilizamos índices: o Maddrey: Valora la bilirrubina, PT/INR. Dar corticoides si es >32 (alto riesgo de muerte).
+- Medidas específicas: Prednisona VO 40mg/ día durante 1 mes. No obstante, debido al alto riesgo de infecciones, solo damos prednisona a aquellos pacientes graves que necesitan sí o sí corticoesteroides. Para estimar la gravedad del paciente y ver el pronóstico a corto plazo, utilizamos índices: o Maddrey: Valora la bilirrubina, PT/INR. Dar corticoides si es >32 (alto riesgo de muerte). 
 o MELD: Valora la bilirrubina, PT/INR, creatinina/urea (grado de IR). Dar corticoides si >18
 
 
@@ -2834,64 +2819,64 @@ Hígado graso no alcohólico/ esteatosis hepática metabólica (EHmet)/ MAFLD:
 Es la enfermedad hepática crónica más frecuente, pues está relacionada con el sobrepeso, obesidad y diabetes (enfermedades en aumento), aunque también afecta a personas con un IMC normal. En verdad EHMG no es una enfermedad en sí, sino la manifestación hepática del síndrome metabólico.
 
 
-En caso de IMC normal debe haber al menos 2 alteraciones metabólicas de riesgo: - Circunferencia cintura >102 hombres, >88 mujeres.
+En caso de IMC normal debe haber al menos 2 alteraciones metabólicas de riesgo: - Circunferencia cintura >102 hombres, >88 mujeres. 
 - TA >130/85 mmHg - TG >150 - HDL <40-50 - Prediabetes (glucosa ayunas 100-125) - HOMA >2,5 - PCR >2
 
 
-FASES DE LA ENFERMEDAD: Esteatosis macrovesicular → Esteatohepatitis no alcohólica (NASH, 10-20%) con fibrosis→ Fibrosis avanzada y cirrosis (5-10%).
-Estas fases NO son secuenciales al igual que en ALD, es decir, se puede pasar de una fase a otra sin seguir el orden.  El pronóstico viene determinado por el grado de fibrosis, no por el grado de inflamación (excepto en la hepatitis alcohólica). La fibrosis, no la esteatohepatitis, causa muerte de origen hepático en MAFLD. Por eso es importante no solo detectar a los gordos, sino a los gordos con fibrosis.
-- Gordos sin fibrosis= Morirán por problemas cardiovasculares y cáncer.
+FASES DE LA ENFERMEDAD: Esteatosis macrovesicular → Esteatohepatitis no alcohólica (NASH, 10-20%) con fibrosis→ Fibrosis avanzada y cirrosis (5-10%). 
+Estas fases NO son secuenciales al igual que en ALD, es decir, se puede pasar de una fase a otra sin seguir el orden.  El pronóstico viene determinado por el grado de fibrosis, no por el grado de inflamación (excepto en la hepatitis alcohólica). La fibrosis, no la esteatohepatitis, causa muerte de origen hepático en MAFLD. Por eso es importante no solo detectar a los gordos, sino a los gordos con fibrosis. 
+- Gordos sin fibrosis= Morirán por problemas cardiovasculares y cáncer. 
 - Gordos con fibrosis (NASH o cirrosis)= Morirán por problemas cardiovasculares, cáncer y por enfermedad relacionada con el hígado.
 
 
 FACTORES DE RIESGO DE DESARROLLO DE FIBROSIS EN MAFLD: - Modificables: o Diabetes o Síndrome metabólico o Obesidad o Comorbilidades hepáticas: alcohol, virus C, sobrecarga férrica - No modificables: o Edad o Sexo: mujer en postmenopausia o Genética
 
 
-- Antecedentes de ingesta abusiva crónica de alcohol: >20-40g/día hombre, >10-20g/día mujer durante 10 años.  Cálculo de gramos: Usar UBE (=10g) o fórmula (ml x grados x 0,8 /100) - Marcadores de ingesta crónica de alcohol (si no tomase alcohol, estarían normales): o ↑GGT (x2-3, es inespecífica, normal tras 4sem de abstinencia). GGT↑colestasis y alcohol o AST/ALT>2 o AST>50 o ALT <300-400 o Macrocitosis (↑VCM) - Clínica (muchas veces silente): De esteatosis, hepatitis alcohólica o cirrosis.
-- Pruebas de imagen: Ecografía sobre todo (ver esteatosis, signos de cirrosis y HTP) o TAC.
-- Biopsia hepática solo en hepatitis alcohólica.
+- Antecedentes de ingesta abusiva crónica de alcohol: >20-40g/día hombre, >10-20g/día mujer durante 10 años.  Cálculo de gramos: Usar UBE (=10g) o fórmula (ml x grados x 0,8 /100) - Marcadores de ingesta crónica de alcohol (si no tomase alcohol, estarían normales): o ↑GGT (x2-3, es inespecífica, normal tras 4sem de abstinencia). GGT↑colestasis y alcohol o AST/ALT>2 o AST>50 o ALT <300-400 o Macrocitosis (↑VCM) - Clínica (muchas veces silente): De esteatosis, hepatitis alcohólica o cirrosis. 
+- Pruebas de imagen: Ecografía sobre todo (ver esteatosis, signos de cirrosis y HTP) o TAC. 
+- Biopsia hepática solo en hepatitis alcohólica. 
 - TTO: Abstinencia alcohol.
 
 
-CLÍNICA: Persona con una enfermedad metabólica de base (DM, obesidad o síndrome metabólico) que tiene enfermedad hepática (analítica y pruebas de imagen alteradas).
+CLÍNICA: Persona con una enfermedad metabólica de base (DM, obesidad o síndrome metabólico) que tiene enfermedad hepática (analítica y pruebas de imagen alteradas). 
 - Analítica (normal o hipertransaminasemia leve): GGT <100, ALT <100, (AST/ALT>1 si hay fibrosis) - Esteatosis en la ecografía (TAC o RM) - Signos de cirrosis e HTP en las pruebas de imagen.
 
 
-DIAGNÓSTICO: Persona con enfermedad metabólica y esteatosis hepática en la ecografía.
-- Hay que descartar otras causas de enfermedad hepática: Serología VHB-VHC, autoanticuerpos, ferritina/IST, ceruloplasmina, fármacos.
-- Biopsia hepática en caso de duda. Es el mejor método para diferenciar una esteatosis de una hepatoesteatosis.
-- Ecografía/TAC para ver signos de HTP.
-- Paneles serológicos (índice FIB-4 y APRI) para predecir el grado de fibrosis: o FIB-4: Plaquetas, AST, ALT, edad o APRI: Plaquetas, albúmina, AST/ALT, glucosa, edad.
+DIAGNÓSTICO: Persona con enfermedad metabólica y esteatosis hepática en la ecografía. 
+- Hay que descartar otras causas de enfermedad hepática: Serología VHB-VHC, autoanticuerpos, ferritina/IST, ceruloplasmina, fármacos. 
+- Biopsia hepática en caso de duda. Es el mejor método para diferenciar una esteatosis de una hepatoesteatosis. 
+- Ecografía/TAC para ver signos de HTP. 
+- Paneles serológicos (índice FIB-4 y APRI) para predecir el grado de fibrosis: o FIB-4: Plaquetas, AST, ALT, edad o APRI: Plaquetas, albúmina, AST/ALT, glucosa, edad. 
 - Elastografía de transición (Fibroscan) para ver el grado de fibrosis.
 
 
-TRATAMIENTO (para prevenir la fibrosis y la muerte cardiovascular): - Cambiar el estilo de vida (menos grasa, más ejercicio) - Evitar el alcohol y fructosa - Cirugía bariátrica si falla la dieta y el ejercicio - Fcos (no usados como tratamiento primario): Ácido obeticólico, estatinas y metformina.
+TRATAMIENTO (para prevenir la fibrosis y la muerte cardiovascular): - Cambiar el estilo de vida (menos grasa, más ejercicio) - Evitar el alcohol y fructosa - Cirugía bariátrica si falla la dieta y el ejercicio - Fcos (no usados como tratamiento primario): Ácido obeticólico, estatinas y metformina. 
 (Estatinas son seguras en MAFLD y disminuyen el riesgo cardiovascular. Metformina aumenta la sensibilidad a la insulina).
 
 
-# TEMA 14. CIRROSIS. SEMINARIO 12
+TEMA 14. CIRROSIS. SEMINARIO 12
 
 
 La cirrosis consiste en una fibrosis extensa del hígado con formación de nódulos de regeneración. Puede producirse por distintas enfermedades que conllevan daño hepático crónico. Es una enfermedad que avanza por distintos estadios (espectro continuo), y aunque no es completamente reversible, si que mejora la cirrosis si se elimina el agente lesivo. La cirrosis va en aumento y está muy infraestimada, pues no se suele diagnosticar a menos que haya clínica
 
 
-Proceso: Necrosis hepatocitos, fibrosis del parénquima (perisinusoidal=capilarización de sinusoides por células de Ito en espacio de Disse, septal=shunts portosistémicos e insuficiencia hepática funcional), regeneración nodular (↑riesgo de hepatocarcinoma).
+Proceso: Necrosis hepatocitos, fibrosis del parénquima (perisinusoidal=capilarización de sinusoides por células de Ito en espacio de Disse, septal=shunts portosistémicos e insuficiencia hepática funcional), regeneración nodular (↑riesgo de hepatocarcinoma). 
 En el proceso de fibrogénesis intervienen las células estrelladas de Ito, que sintetizan y liberan colágeno al espacio de Disse, formándose una barrera que dificulta el flujo sanguíneo por los sinusoides (constricción de los sinusoides y ↑resistencia flujo portal) e impide al hígado llevar a cabo su función metabólica.
 
 
 Otras pruebas para el diagnóstico: Elastografía para ver la rigidez hepática (fibrosis), y biopsia hepática (es el GOLD STAND para el diagnóstico de la cirrosis y para evaluar el grado de inflamación y fibrosis, pero se usa solo en caso de duda diagnóstica o como medida terapéutica en Wilson y HAI).
 
 
-![[image-51-x37-y409.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-51-x37-y409.png]]
 
 
-![[image-51-x367-y222.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-51-x367-y222.png]]
 
 
 Es muy importante el gradiente de hipertensión portal (GPVH). Al principio, cuando el paciente tiene inflamación y fibrosis leve (F0-F3), el GPVH aún está bajo (<5); pero ya cuando hay mucha fibrosis (F4) y se forman nódulos (cirrosis), el gradiente se eleva >6.
 
 
-![[image-51-x37-y533.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-51-x37-y533.png]]
 
 
 Para que aparezcan varices (indicativo de HTP clínicamente significativa), es obligatorio que el GPVH>10. No obstante, que el gradiente sea >10 no quiere decir que vaya a tener sí o sí varices.
@@ -2903,7 +2888,7 @@ La cirrosis compensada es aquella cirrosis asintomática o con síntomas inespec
 La descompensada (complicada) es cuando GPVH>12 y aparecen síntomas específicos de cirrosis (ascitis, hemorragia por varices y encefalopatía). Si GPVH>16, entonces se trata de una cirrosis gravemente descompensada y le queda poco de vida.
 
 
-![[image-51-x38-y80.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-51-x38-y80.png]]
 
 
 ¿CÓMO ACTUAMOS ANTE UN POSIBLE PACIENTE CON CIRROSIS?
@@ -2912,7 +2897,7 @@ La descompensada (complicada) es cuando GPVH>12 y aparecen síntomas específico
 1) Diagnosticar la cirrosis: a. Ver clínica y analítica b. Pruebas de imagen (eco/TAC), fibroscan 2) Estadiaje de la fibrosis 3) Buscar la causa de la cirrosis 4) Tratamiento etiológico 5) Prevenir las complicaciones por descompensación (hemorragia y otras) 6) Si hay cirrosis, hacer ecografías abdominales cada 6 meses para detectar precozmente el hetapocarcinoma celular 7) Pronóstico (estadios Child-Pugh, MELD)
 
 
-![[image-51-x360-y307.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-51-x360-y307.png]]
 
 
 CAUSAS DE CIRROSIS:
@@ -2921,7 +2906,7 @@ CAUSAS DE CIRROSIS:
 Alcohol (40%) -Ingesta abusiva crónica de alcohol (>20-40g/día hombre, >10-20g/día mujer) -VHC asociado en el 25% -Con frecuencia clínica silente -Abstinencia alcohol: Analítica normal -No abstinencia: ↑GGT, AST/ALT>2, AST>50, ALT <300-400, macrocitosis, ecografía hiperecogénica
 
 
-Hígado graso no alcohólico (30-40%)= por EHMG o disfunción metabólica Solo 10% EHMG progresan a cirrosis.
+Hígado graso no alcohólico (30-40%)= por EHMG o disfunción metabólica Solo 10% EHMG progresan a cirrosis. 
 - Analítica normal o hipertransaminasemia leve (GGT<100, ALT<100) e imagen alterada
 
 
@@ -2934,11 +2919,11 @@ Hepatitis autoinmune (HAI) ANA+, AML+ (>1:80), ↑IgG x1,5 , ↑ALT
 Enfermedades colestásicas crónicas - Cirrosis biliar primaria - Colangitis esclerosante (1º, 2º) - Atresia de vías biliares
 
 
-Cirrosis biliar primaria: - Mujeres 50-60 años - Clínica: Fatiga (80%), prurito, osteopenia, otras enfermedades autoinmunes (tiroidea, esclerodermia, celiaquía, Sd.Sjojen) - ↑enzimas colestásicas (GGT, FA) - Anticuerpos AMA M2+ (>1:40). En un 5-10% de CBP los anticuerpos son negativos, siendo necesaria una biopsia.
+Cirrosis biliar primaria: - Mujeres 50-60 años - Clínica: Fatiga (80%), prurito, osteopenia, otras enfermedades autoinmunes (tiroidea, esclerodermia, celiaquía, Sd.Sjojen) - ↑enzimas colestásicas (GGT, FA) - Anticuerpos AMA M2+ (>1:40). En un 5-10% de CBP los anticuerpos son negativos, siendo necesaria una biopsia. 
 - Ecografía normal, vía biliar no dilatada - Otros hallazgos: ↑ANA+ (50%), ↑ALT, ↑IgM
 
 
-Colangitis esclerosante primaria: - Hombre 30-40 años - ↑enzimas colestásicas (GGT, FA) - ↑bilirrubina progresivo y con fluctuaciones - Anticuerpos AMA M2- - Ecografía normal, vía biliar no dilatada - Estenosis vía biliar en colangioRM o CPRE.
+Colangitis esclerosante primaria: - Hombre 30-40 años - ↑enzimas colestásicas (GGT, FA) - ↑bilirrubina progresivo y con fluctuaciones - Anticuerpos AMA M2- - Ecografía normal, vía biliar no dilatada - Estenosis vía biliar en colangioRM o CPRE. 
 - Colitis ulcerosa (80%)
 
 
@@ -2951,7 +2936,7 @@ Hemocromatosis: - Hombre, con cirrosis sin inflamación (↑ALT), hepatomegalia,
 Enfermedad de Wilson: - Sobre todo en <40 años, aunque es posible hasta los 80 años - Paciente con cirrosis, hepatitis crónica activa, problemas neuropsiquíatricos/ corneales - ↓ceruloplasmina (<20), ↑cobre libre, ↓cobre total, ↑cupruria (>50)
 
 
-![[image-52-x411-y283.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-52-x411-y283.png]]
 
 
 Obstrucción del drenaje venoso del hígado - Budd- Chiari - Enfermedad venoclusiva - Pericarditis constrictiva - Insuficiencia cardíaca derecha
@@ -2969,7 +2954,7 @@ Criptogénica (0,5- 10%)
 PRONÓSTICO CIRROSIS:
 
 
-![[image-52-x32-y59.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-52-x32-y59.png]]
 
 
 MELD Las variables que mide son la creatinina, la bilirrubina total y el INR.  Es un modelo de regresión lineal, no por intervalos, de tal manera que cada punto de MELD supone un incremento en el riesgo de muerte. Su principal utilidad es jerarquizar a los pacientes en lista de espera para trasplante por su riesgo de muerte. De este modo, con un MELD <15, la mortalidad post-trasplante es mayor que si está en la lista de espera, por lo que no se trasplantaría hasta MELD >15.  Las diferencias con el Child-Pug son que el MELD tiene un rango amplio y continuo de puntuaciones (vs 3 categorías del Child-Pug); que las variables son continuas (no tienen techo), cada variable tiene un mayor o menor peso (no son todas iguales); y las variables son más objetivas (no tan subjetivas como en el Child-Pug)
@@ -2981,20 +2966,20 @@ COMPLICACIONES CIRROSIS:
 VARICES ESOFÁGICAS O GÁSTRICA
 
 
-![[image-53-x188-y669.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-53-x188-y669.png]]
 
 
-En un paciente con cirrosis y hemorragias digestiva, el 70-90% de las veces el sangrado va a deberse a lesiones derivadas de HTP (80-90% varices esofágicas, 5% varices gástricas, <5% gastropatía por HTP) y un 10-20% a lesiones pépticas.
+En un paciente con cirrosis y hemorragias digestiva, el 70-90% de las veces el sangrado va a deberse a lesiones derivadas de HTP (80-90% varices esofágicas, 5% varices gástricas, <5% gastropatía por HTP) y un 10-20% a lesiones pépticas. 
 El riesgo de resangrado es alto. El riesgo de rotura aumenta si se trata de varices grandes con puntos rojos o si la función hepática está muy deteriorada (Child-Pugh C).
 
 
-![[image-53-x35-y397.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-53-x35-y397.png]]
 
 
 Tratamiento:
 
 
-Tras estándar tras haber sangrado (<5 días desde que tuvo lugar): Vasoconstrictores contra la hemorragia (SMS, octreótido, terlipresina)+ Antibióticos 5-7 días (norfloxacino VO, ceftriaxona IV) + endoscopia urgente en las primeras 12h para ver si la hemorragia es por varices esofágicas o gástricas + tto endoscópico de las varices (ligadura= varices esofágicas, pegamento= varices gástricas).  - Si funciona el tto= Seguir tomando vasoconstrictores otros 2-5 días - Si hay un alto riesgo de fracaso del tto (Child C, Child B con sangrado activo)= TIPS preventivo en las primeras 24-48h.
+Tras estándar tras haber sangrado (<5 días desde que tuvo lugar): Vasoconstrictores contra la hemorragia (SMS, octreótido, terlipresina)+ Antibióticos 5-7 días (norfloxacino VO, ceftriaxona IV) + endoscopia urgente en las primeras 12h para ver si la hemorragia es por varices esofágicas o gástricas + tto endoscópico de las varices (ligadura= varices esofágicas, pegamento= varices gástricas).  - Si funciona el tto= Seguir tomando vasoconstrictores otros 2-5 días - Si hay un alto riesgo de fracaso del tto (Child C, Child B con sangrado activo)= TIPS preventivo en las primeras 24-48h. 
 - Si fracasa el tto estádar (persiste el sangrado o resangrado)= TIPS de rescate.
 
 
@@ -3010,11 +2995,11 @@ Profilaxis de primera hemorragia o de la primera descompensación: Mediante endo
 ASCITIS
 
 
-La ascitis se produce porque al disminuir el Vc efectivo, se activan los sistemas neurohormonales (SRAA y liberación NA) que hacen que el riñón retenga agua y sodio. Esto no hace que aumente el Vc efectivo, solo hace que aumente aun mas el flujo esplácnico y haya más agua que se extravase al espacio intersticial, causando edema y ascitis.
+La ascitis se produce porque al disminuir el Vc efectivo, se activan los sistemas neurohormonales (SRAA y liberación NA) que hacen que el riñón retenga agua y sodio. Esto no hace que aumente el Vc efectivo, solo hace que aumente aun mas el flujo esplácnico y haya más agua que se extravase al espacio intersticial, causando edema y ascitis. 
 La NA causa además vasoconstricción renal, de modo que favorece una IR funcional (síndrome hepatorrenal, SHR).
 
 
-Tto ascitis no tensa: Dieta hiposódica + espironolactona (100-400mg) y cantidades variables de furosemida (40-160) si no conseguimos la diuresis que queremos o hay hiperpotasemia. Si solo hay ascitis, buscamos eliminar 500g/día, pero si hay ascitis+edema buscamos eliminar 1kg/día.  - Tras 5 días de tto valoramos la respuesta al tto. Si la respuesta a los diuréticos es inadecuada, hay que descartar que el paciente este tomando AINEs o AAS o que no esté cumpliendo con la dieta hiposódica.  - Evitar diuréticos si hay PEB (peritonitis espontánea bacteriana) o hemorragia variceal.
+Tto ascitis no tensa: Dieta hiposódica + espironolactona (100-400mg) y cantidades variables de furosemida (40-160) si no conseguimos la diuresis que queremos o hay hiperpotasemia. Si solo hay ascitis, buscamos eliminar 500g/día, pero si hay ascitis+edema buscamos eliminar 1kg/día.  - Tras 5 días de tto valoramos la respuesta al tto. Si la respuesta a los diuréticos es inadecuada, hay que descartar que el paciente este tomando AINEs o AAS o que no esté cumpliendo con la dieta hiposódica.  - Evitar diuréticos si hay PEB (peritonitis espontánea bacteriana) o hemorragia variceal. 
 - Si el tto funciona, lo mantenemos (dieta hiposódica y diuréticos al 50% de la dosis)
 
 
@@ -3036,7 +3021,7 @@ Tto: - Suspender los BB, diuréticos, fcos nefrotóxicos - Expandir volumen con 
 SÍNDROME HEPATORRENAL (SHR- AKI):
 
 
-Se da en cirrosis avanzadas con hipertensión portal. En verdad es una IR funcional que se da por la vasoconstricción renal causada por NA.  Clínica: ↓TFG, creatinina sérica >1,5. , oliguria (<500mL), Na urinario <10mEq, hiponatremia dilucional (<130), proteinuria <500, no hematuria, no uropatía obstructiva.
+Se da en cirrosis avanzadas con hipertensión portal. En verdad es una IR funcional que se da por la vasoconstricción renal causada por NA.  Clínica: ↓TFG, creatinina sérica >1,5. , oliguria (<500mL), Na urinario <10mEq, hiponatremia dilucional (<130), proteinuria <500, no hematuria, no uropatía obstructiva. 
 Tto: Albúmina infusión (20-40g/día) + terlipresina IV (0,5-1mg cada 4-6h, durante 10-15 días).
 
 
@@ -3046,15 +3031,15 @@ PERITONITIS ESPONTÁNEA BACTERIANA (PEB):
 Se da en cirróticos con acitis. Son personas que tienen dañada la barrera intestinal y el sistema inmune, pasando bacterias a los ganglios linfáticos y a la sangre, causando una bacteriemia transitoria. Por vía hematógena llegan hasta el líquido ascítico y lo colonizan, causando una peritonitis. La infección es más probable en personas con sangrado digestivo (por eso se les da ATB como profilaxis), y aumenta el riesgo de AKI.
 
 
-Clínica: Ascitis, dolor abdominal, diarrea, peritonismo, fiebre, e incluso IR y encefalopatía. Puede ser asintomática, detectándose al analizar el LA obtenido por paracentesis.
-Diagnóstico: Análisis LA (>250 PMN) y cultivo (sobre todo E.Coli).
+Clínica: Ascitis, dolor abdominal, diarrea, peritonismo, fiebre, e incluso IR y encefalopatía. Puede ser asintomática, detectándose al analizar el LA obtenido por paracentesis. 
+Diagnóstico: Análisis LA (>250 PMN) y cultivo (sobre todo E.Coli). 
 Tto: - Infección comunitaria: Cefalosporina 3º gen (norfloxacino VO, ceftriaxona IV) - Infección nosocomial o contacto con hospital reciente: Meropemen + glicopétido - Si bilirrubina >4 o creatinina >1 (elevado riesgo de IR y muerte): Dar albúmina IV Profilaxis PEB: - Si hay hemorragia digestiva: Norfloxacino VO (400mg cada 12h) 7 días - Si hay hemorragia digestiva y cirrosis avanzada: Ceftriaxona IV (1g/día) 7 días - Norfloxacino VO de forma indefinida hasta que desaparezca la ascitis o se haga el trasplante en pacientes con PEB previa, ascitis baja en proteínas, IR o Child >9.
 
 
-![[image-54-x97-y189.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-54-x97-y189.png]]
 
 
-# TEMA 15. TUMORES HEPÁTICOS. SEMINARIO 13. TRANSPLANTE HEPÁTICO
+TEMA 15. TUMORES HEPÁTICOS. SEMINARIO 13. TRANSPLANTE HEPÁTICO
 
 
 Tipos de tumores hepáticos: - Secundarios: Metástasis (los más frecuentes) - Primarios malignos: o Carcinoma hepatocelular/ hepatocarcinoma/ hepatoma (CHC) o Colangiocarcinoma o Hepatoblastoma o Hemangioendotelioma o Cistoadenocarcinoma o Angiosarcoma - Primarios benignos: o Hemangioma o Adenoma o Hiperplasia nodular focal
@@ -3063,23 +3048,23 @@ Tipos de tumores hepáticos: - Secundarios: Metástasis (los más frecuentes) - 
 1. CARCINOMA HEPATOCELULAR
 
 
-Es el tercer cáncer más mortal de todos. La mayoría de los casos (80-90%) se dan en pacientes cirróticos, y cuanto más grave es la cirrosis, mayor es el riesgo de CHC.
-- Afecta más a unas zonas que a otras, sobre todo a África y extremo oriente.
-- El pico de incidencia es a los 70 años en todas las poblaciones, aunque en China el pico es a los 50-60 años, y en el Subsahara a los 35 años.
-- Afecta más a hombres.
+Es el tercer cáncer más mortal de todos. La mayoría de los casos (80-90%) se dan en pacientes cirróticos, y cuanto más grave es la cirrosis, mayor es el riesgo de CHC. 
+- Afecta más a unas zonas que a otras, sobre todo a África y extremo oriente. 
+- El pico de incidencia es a los 70 años en todas las poblaciones, aunque en China el pico es a los 50-60 años, y en el Subsahara a los 35 años. 
+- Afecta más a hombres. 
 - La incidencia del CHC está aumentando por el crecimiento de la diabetes, obesidad y sobrepeso
 
 
-![[image-55-x393-y566.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-55-x393-y566.png]]
 
 
-Factores de riesgo: - Cirrosis: Sobre todo si está causada por VHB o VHC. El 30% de los pacientes con cirrosis desarrollará CHC (a ↑Child-Pugh ↑riesgo CHC).
-- VHB: Es el factor más importante, presente en el 50% de los casos de CHC. El riesgo de CHC aumenta x100 si hay VHB, y más aún si hay cirrosis, viremia, edad >60años, varón, antecedentes familiares de CHC.
-- VHC (30%) - Alcohol y MAFLD (20%) - Toxinas ambientales (aflatoxina): Es una micotoxina presente en los alimentos que se almacenan en lugares húmedos y secos, y que aumenta en zonas con elevada prevalencia de VHB.
+Factores de riesgo: - Cirrosis: Sobre todo si está causada por VHB o VHC. El 30% de los pacientes con cirrosis desarrollará CHC (a ↑Child-Pugh ↑riesgo CHC). 
+- VHB: Es el factor más importante, presente en el 50% de los casos de CHC. El riesgo de CHC aumenta x100 si hay VHB, y más aún si hay cirrosis, viremia, edad >60años, varón, antecedentes familiares de CHC. 
+- VHC (30%) - Alcohol y MAFLD (20%) - Toxinas ambientales (aflatoxina): Es una micotoxina presente en los alimentos que se almacenan en lugares húmedos y secos, y que aumenta en zonas con elevada prevalencia de VHB. 
 - Andrógenos - Sinergismo varios factores de riesgo
 
 
-Población de riesgo: Cirróticos, hepatitis crónica por VHB o VHC con fibrosis avanzada (F3), infectados por VHB que tienen antecedentes familiares de CHC.  La mayoría de los casos de CHC (60%) se suele diagnosticar en pacientes con cirrosis por ecografías periódicas de cribado. Aunque también se puede diagnosticar en una persona que estaba bien y de repente acude al médico con síntomas de una cirrosis descompensada, hemorragia intraperitoneal por rotura del tumor (5-10%), ictericia obstructiva, fiebre tumoral por necrosis o por síndrome paraneoplásico (hipoglucemia, eritrocitosis, hipercalcemia, diarrea acuosa, dermatomiositis).
+Población de riesgo: Cirróticos, hepatitis crónica por VHB o VHC con fibrosis avanzada (F3), infectados por VHB que tienen antecedentes familiares de CHC.  La mayoría de los casos de CHC (60%) se suele diagnosticar en pacientes con cirrosis por ecografías periódicas de cribado. Aunque también se puede diagnosticar en una persona que estaba bien y de repente acude al médico con síntomas de una cirrosis descompensada, hemorragia intraperitoneal por rotura del tumor (5-10%), ictericia obstructiva, fiebre tumoral por necrosis o por síndrome paraneoplásico (hipoglucemia, eritrocitosis, hipercalcemia, diarrea acuosa, dermatomiositis). 
 Es muy raro que un CHC debute con una ictericia obstructiva, eso es más típico del colangiocarcinoma.
 
 
@@ -3089,8 +3074,8 @@ Detección:
 Nuestro objetivo es detectar a la población de riesgo y realizarles ecografías de seguimiento cada 6 meses para detectar CHC en fase precoz (<2cm, hipoecogénico).  Para diferenciar un nódulo benigno de un nódulo con displasia de alto grado o un CHC, nos fijamos en su vascularización (benigno= irrigación vena porta, maligno=irrigación arteria porta).
 
 
-1) Detectar masa en la ecografía y sospechar de CHC 2) Hacer pruebas (TC multidetector/ RM de 4 fases con contraste IV): Estas pruebas de imagen solo son útiles y solo deben realizarse en nódulos >1cm. La imagen característica del CHC es una masa hipervascular en fase arterial y lavado en fase venosa/portal/tardía.
-o Imagen característica: Confirmamos CHC o Imagen no característica: Hacer biopsia o Si la masa <1cm: No hacer pruebas de imagen y hacer seguimiento con ecografía para ver la evolución.
+1) Detectar masa en la ecografía y sospechar de CHC 2) Hacer pruebas (TC multidetector/ RM de 4 fases con contraste IV): Estas pruebas de imagen solo son útiles y solo deben realizarse en nódulos >1cm. La imagen característica del CHC es una masa hipervascular en fase arterial y lavado en fase venosa/portal/tardía. 
+o Imagen característica: Confirmamos CHC o Imagen no característica: Hacer biopsia o Si la masa <1cm: No hacer pruebas de imagen y hacer seguimiento con ecografía para ver la evolución. 
 3) Biopsia: Solo está indicada si las pruebas de imagen no son “características” o si el paciente no es cirrótico pero parece tener un CHC. El 30% de las biopsias serán falsos negativos, sobre todo si la masa a biopsiar mide <1-2cm.
 
 
@@ -3103,10 +3088,10 @@ Pronóstico: Depende del estadiaje tumoral (tamaño, invasión vascular, nº de 
 Estadios BCLC:
 
 
-![[image-55-x36-y53.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-55-x36-y53.png]]
 
 
-![[image-56-x22-y517.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-56-x22-y517.png]]
 
 
 Terapia sistémica: - 1º línea: o Inmunoterapia= Atezolizumab (inhibidor PDL-1) + Bedolizumab (anti-VEGF-A) o Inhibidores tirosin- kinasa (TKI): Sorafenib o Lenvatinib, si hay contraindicaciones (enf autoinmunes, trasplante, Child B, hemorragia varices) - 2º línea: o Regorafenib: Si toleraba bien el sorafenib (pues ambos son TKI) o Ramuzirumab: Si AFP >400 o Cabozantinib: En no tolerantes
@@ -3115,7 +3100,7 @@ Terapia sistémica: - 1º línea: o Inmunoterapia= Atezolizumab (inhibidor PDL-1
 Trasplante hepático: Debe considerarse en aquellos niños y adultos que tienen enfermedad hepática grave e irreversible, sin opción a otros tratamientos y sin contraindicaciones al trasplante.
 
 
-![[image-56-x35-y276.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-56-x35-y276.png]]
 
 
 Para evitar el rechazo del trasplante se inmunosuprime al paciente hasta cierto punto: Inhibidores calcineurina (tacrolimus, ciclosporina)+ corticoesteroides (<6meses, se dan en bolus si se produce rechazo celular agudo)+ mofetil micofenolato.
@@ -3124,21 +3109,21 @@ Para evitar el rechazo del trasplante se inmunosuprime al paciente hasta cierto 
 2. HEMANGIOMA HEPÁTICO
 
 
-Es el tumor hepático benigno más frecuente. Se caracteriza porque presenta cavernas en su interior tapizadas por una sola capa de endotelio plano y rellenas de sangre.
-- Afecta más a mujeres (5:1) y se suele dar a los 50 años.
-- La mayoría son estables (90%), incluso los gigantes (>5cm) - La mayoría se diagnostican por hallazgo incidental en ecografía (son asintomáticos). Los síntomas (dolor, plenitud) aparecen cuando los hemangiomas miden >5cm.
-- Dg por ecografía y confirmación por RM en caso de que haya atipia en la ecografía (el 25% de los hemangiomas son atípicos), cirrosis o neoplasia extrahepática.
-- Si los tumores son pequeños (la mayoría <2-5 cm), hay que repetirla prueba de imagen a los 6-12 meses para ver que no haya crecido. Si no hay variación, no es necesario realizar un seguimiento en estos pacientes.
-- Las pruebas de función hepática son normales.
+Es el tumor hepático benigno más frecuente. Se caracteriza porque presenta cavernas en su interior tapizadas por una sola capa de endotelio plano y rellenas de sangre. 
+- Afecta más a mujeres (5:1) y se suele dar a los 50 años. 
+- La mayoría son estables (90%), incluso los gigantes (>5cm) - La mayoría se diagnostican por hallazgo incidental en ecografía (son asintomáticos). Los síntomas (dolor, plenitud) aparecen cuando los hemangiomas miden >5cm. 
+- Dg por ecografía y confirmación por RM en caso de que haya atipia en la ecografía (el 25% de los hemangiomas son atípicos), cirrosis o neoplasia extrahepática. 
+- Si los tumores son pequeños (la mayoría <2-5 cm), hay que repetirla prueba de imagen a los 6-12 meses para ver que no haya crecido. Si no hay variación, no es necesario realizar un seguimiento en estos pacientes. 
+- Las pruebas de función hepática son normales. 
 - Complicaciones: Rotura subcapsular
 
 
 3. ADENOMA HEPATOCELULAR
 
 
-Es un tumor raro que surge por la proliferación clonal de hepatocitos bien diferenciados en láminas y cordones, estando separados por sinusoides. No hay espacios porta, conductos biliares ni células de Kupffer en su interior.  - Afecta más a mujeres (10:1), y puede aparecer a cualquier edad (40 años sobre todo).  - Su aparición se relaciona con el consumo prolongado de anticonceptivos orales, niveles ↑andrógenos(ovario poliquístico, atletas, anemia de Fanconi), obesidad, diabetes y esteatosis.
-- El 50% de los adenomas son sintomáticos (molestia abdominal). Dentro de los sintomáticos, el 60% sufrirá una hemorragia intra/peritumoral.
-- Un 10% evolucionará a una neoplasia. El riesgo de malignización es mayor si mide >5cm (también aumenta el riesgo de hemorragia) o si el adenoma afecta a un varón (el 50% malignizará).
+Es un tumor raro que surge por la proliferación clonal de hepatocitos bien diferenciados en láminas y cordones, estando separados por sinusoides. No hay espacios porta, conductos biliares ni células de Kupffer en su interior.  - Afecta más a mujeres (10:1), y puede aparecer a cualquier edad (40 años sobre todo).  - Su aparición se relaciona con el consumo prolongado de anticonceptivos orales, niveles ↑andrógenos(ovario poliquístico, atletas, anemia de Fanconi), obesidad, diabetes y esteatosis. 
+- El 50% de los adenomas son sintomáticos (molestia abdominal). Dentro de los sintomáticos, el 60% sufrirá una hemorragia intra/peritumoral. 
+- Un 10% evolucionará a una neoplasia. El riesgo de malignización es mayor si mide >5cm (también aumenta el riesgo de hemorragia) o si el adenoma afecta a un varón (el 50% malignizará). 
 - La gestación no está contraindicada en presencia de <3 nódulos de <2-3 cm. En caso de que no sea así, hay que realizar una resección del tumor antes de embarazo. Si los adenomas sangran o se inestabiliza, se hace una embolización arterial y se quitan.
 
 
@@ -3154,11 +3139,11 @@ La hiperplasia nodular focal es en realidad una especie de hamartoma, pues es un
 5. METÁSTASIS HEPÁTICAS
 
 
-Son los tumores hepáticos más frecuentes, pues el 50% de los tumores extrahepáticos metastatatizan a esta localización. El hígado es un sitio ideal para metastatizar por sus sinusoides fenestrados y su doble circulación, de modo que casi siempre hay múltiples metástasis hipovasculares (por tumores digestivos) e hipervasculares (por tumores de tiroides, mama, páncreas y melanoma). El cáncer de mama y pulmón con frecuencia generan metástasis en el hígado.
+Son los tumores hepáticos más frecuentes, pues el 50% de los tumores extrahepáticos metastatatizan a esta localización. El hígado es un sitio ideal para metastatizar por sus sinusoides fenestrados y su doble circulación, de modo que casi siempre hay múltiples metástasis hipovasculares (por tumores digestivos) e hipervasculares (por tumores de tiroides, mama, páncreas y melanoma). El cáncer de mama y pulmón con frecuencia generan metástasis en el hígado. 
 Clínica: Hepatomegalia, patrón de colestasis y clínica del tumor primario.
 
 
-# TEMA 16. ENFERMEDADES METABÓLICAS DEL HÍGADO
+TEMA 16. ENFERMEDADES METABÓLICAS DEL HÍGADO
 
 
 Enfermedades causantes de sobrecarga de hierro: - Hemocromatosis hereditaria - Sobrecarga adquirida (secundaria) de hierro: o Enfermedades hematológicas: Talasemia mayor, anemia sideroblástica, anemia hemolítica crónica o Hemodiálisis o Enfermedad hepática crónica
@@ -3170,7 +3155,7 @@ Enfermedades causantes de sobrecarga de hierro: - Hemocromatosis hereditaria - S
 Enfermedad autosómica recesiva y con aumento de la absorción intestinal de hierro. Se puede producir por distintos tipos de mutaciones, siendo la más importante la del gen HFE. Estas mutaciones van a alterar una serie de proteínas implicadas en la regulación y síntesis de la hepcidina, una proteína que evita niveles excesivos de hierro en sangre (a ↑hepcidina ↓ferroportina en enterocitos=↓absorción intestinal de hierro, ↓ferroportina en SRE= ↓paso de hierro al interior del hígado). En función del tipo de proteína afectada (mayor o menor), la hemocromatosis aparecerá en la niñez o en adultos.
 
 
-Hemocromatosis 1 Gen HFE: Es la mutación más frecuente (presente en el 99% de los casos de hemocromatosis). Codifica la proteína HFE (proteína menor).  Hay diferentes tipos de mutaciones del gen HFE.
+Hemocromatosis 1 Gen HFE: Es la mutación más frecuente (presente en el 99% de los casos de hemocromatosis). Codifica la proteína HFE (proteína menor).  Hay diferentes tipos de mutaciones del gen HFE. 
 - 95% son homocigóticos C282Y/ C282Y (cisteína por tirosina) - 4% son herecigóticos compuestos C282Y/H63D (histidina por aspartato)
 
 
@@ -3201,17 +3186,17 @@ Clínica:
 La aparición de los síntomas dependerá de la velocidad de acumulación de hierro y de si hay otros factores que supongan daño hepático (alcohol, obesidad, etc). La mujer sufre constantes depleciones de hierro por la regla, embarazos y problemas de absorción; por lo que la enfermedad se expresa más tarde que en los hombres.
 
 
-La enfermedad hepática y la artritis son los síntomas más frecuentes.  - Enfermedad hepática crónica: El depósito de hierro estimula la célula estrellada por estrés oxidativo, estimulando la fibrosis y la cirrosis (cirrosis SIN INFLAMACIÓN).  o Clínica: Hepatomegalia, ↑ALT.  o Puede haber cirrosis y HTP. Que haya cirrosis indica niveles altos de ferritina (>1000), baja esperanza de vida y riesgo x200 de hepatocarcinoma o Hay mayor riesgo de daño hepático si se consume alcohol, hay artritis, diabetes o ferritina >1000ng/dl - Artropatía (20-50%): El depósito de pirofosfato cálcico causa condrocalcinosis, es decir, artropatía en los dedos y grandes articulaciones. Si no hay artropatía, seguramente no hay fibrosis hepática avanzada.
-- Diabetes: Por cirrosis y depósito de hierro en el páncreas.
-- Hiperpigmentación cutánea: El hierro estimula la producción de melanina.
-- Hipogonadismo: Por cirrosis y depósito de hierro en la hipófisis.
+La enfermedad hepática y la artritis son los síntomas más frecuentes.  - Enfermedad hepática crónica: El depósito de hierro estimula la célula estrellada por estrés oxidativo, estimulando la fibrosis y la cirrosis (cirrosis SIN INFLAMACIÓN).  o Clínica: Hepatomegalia, ↑ALT.  o Puede haber cirrosis y HTP. Que haya cirrosis indica niveles altos de ferritina (>1000), baja esperanza de vida y riesgo x200 de hepatocarcinoma o Hay mayor riesgo de daño hepático si se consume alcohol, hay artritis, diabetes o ferritina >1000ng/dl - Artropatía (20-50%): El depósito de pirofosfato cálcico causa condrocalcinosis, es decir, artropatía en los dedos y grandes articulaciones. Si no hay artropatía, seguramente no hay fibrosis hepática avanzada. 
+- Diabetes: Por cirrosis y depósito de hierro en el páncreas. 
+- Hiperpigmentación cutánea: El hierro estimula la producción de melanina. 
+- Hipogonadismo: Por cirrosis y depósito de hierro en la hipófisis. 
 - Cardiomiopatía (arritmias, insuficiencia cardíaca que puede causar problemas pulmonares): Por depósito de hierro de miocardio.
 
 
 Perfiles:
 
 
-![[image-58-x37-y243.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-58-x37-y243.png]]
 
 
 AP: Con la tinción de Perls se ve el depósito de hierro en los hepatocitos periportales y, en fases avanzadas, en los septos y células de Kupffer.
@@ -3220,42 +3205,41 @@ AP: Con la tinción de Perls se ve el depósito de hierro en los hepatocitos per
 Diagnóstico:
 
 
-1) Sospecha clínica, ver analítica e historial familiar 2) Ver que haya sobrecarga de hierro: IST>45% ↑ferritina (>200 mujeres, >300 hombres).
-o IST aumenta por ↑sideremia o ↓transferrina. Es el indicador más sensible y precoz de sobrecarga de hierro.
-o Ferritina aumenta con el depósito tisular de hierro. Es muy inespecífica, pues es un reactante en fase aguda que puede aumentar en otras situaciones que conlleven inflamación un síndrome metabólico (↓IST) , alcohol, inflamación, necrosis, cáncer.
-3) Hacer estudio genético para buscar la mutación HFE.
+1) Sospecha clínica, ver analítica e historial familiar 2) Ver que haya sobrecarga de hierro: IST>45% ↑ferritina (>200 mujeres, >300 hombres). 
+o IST aumenta por ↑sideremia o ↓transferrina. Es el indicador más sensible y precoz de sobrecarga de hierro. 
+o Ferritina aumenta con el depósito tisular de hierro. Es muy inespecífica, pues es un reactante en fase aguda que puede aumentar en otras situaciones que conlleven inflamación un síndrome metabólico (↓IST) , alcohol, inflamación, necrosis, cáncer.  3) Hacer estudio genético para buscar la mutación HFE. 
 4) Cuantificar la cantidad de hierro del hígado mediante RM 5) Valorar de forma no invasiva el daño hepático (la fibrosis)= índice FIB-4, APRI, Fibroscan.
 
 
-Tratamiento: - Flebotomías 500ml (250mg hierro) cada semana hasta que la ferritina sérica sea <50ng/ml. Una vez conseguido, se hacen flebotomías de mantenimiento cada 2-4 meses. Las flebotomías mejoran la enfermedad hepática y la diabetes, pero no la artropatía establecida.
+Tratamiento: - Flebotomías 500ml (250mg hierro) cada semana hasta que la ferritina sérica sea <50ng/ml. Una vez conseguido, se hacen flebotomías de mantenimiento cada 2-4 meses. Las flebotomías mejoran la enfermedad hepática y la diabetes, pero no la artropatía establecida. 
 - Si hay cirrosis, tratar las complicaciones y hacer ecografías cada 6 meses para la detección precoz de CHC.
 
 
 Pronóstico: Si no hay daño tisular, la supervivencia es igual que en el resto de la población. Si hay daño (cirrosis, diabetes…), la supervivencia es menor.
 
 
-EL **SÍNDROME METABÓLICO** ES LA CAUSA MÁS FRECUENTE DE HIPERFERRITINEMIA PERO NO EXISTE SOBRECARGA FÉRRICA (↑ferritina ↓IST).
+EL SÍNDROME METABÓLICO ES LA CAUSA MÁS FRECUENTE DE HIPERFERRITINEMIA PERO NO EXISTE SOBRECARGA FÉRRICA (↑ferritina ↓IST).
 
 
-## 2. ENFERMEDAD DE WILSON
+2. ENFERMEDAD DE WILSON
 
 
-Es una enfermedad autosómica recesiva del metabolismo del cobre, que se acumula en diferentes órganos. Se produce una mutación en el gen SW ATP7B (13q14.3) que codifica una proteína ATPasa fundamental para el transporte del cobre, de modo que si esta proteína falla, no se produce la excreción biliar de cobre ni se combina con la apoceruloplasmina (↓hierro circulante en forma de ceruloplasmina y ↑hierro circulante libre).  - Más de 300 mutaciones pueden causar la enfermedad de Wilson, por lo que el estudio genético no es muy eficaz.
+Es una enfermedad autosómica recesiva del metabolismo del cobre, que se acumula en diferentes órganos. Se produce una mutación en el gen SW ATP7B (13q14.3) que codifica una proteína ATPasa fundamental para el transporte del cobre, de modo que si esta proteína falla, no se produce la excreción biliar de cobre ni se combina con la apoceruloplasmina (↓hierro circulante en forma de ceruloplasmina y ↑hierro circulante libre).  - Más de 300 mutaciones pueden causar la enfermedad de Wilson, por lo que el estudio genético no es muy eficaz. 
 - Casi siempre se presenta antes de los 40 años, aunque también puede aparecer en la 8º década.
 
 
-La ceruloplasmina (20-40mg/dl) es una ⍺2	globulina que se une al cobre de forma irreversible, para transportarlo por la sangre. Sus niveles pueden estar bajos en: - Enfermedad de Wilson: 90% homocigóticos, 20% hererocigóticos.
+La ceruloplasmina (20-40mg/dl) es una ⍺2	globulina que se une al cobre de forma irreversible, para transportarlo por la sangre. Sus niveles pueden estar bajos en: - Enfermedad de Wilson: 90% homocigóticos, 20% hererocigóticos. 
 - Pérdida de proteínas - Fallo hepático - Síndrome de Menkes: enfermedad genética llegado al cromosoma X, donde hay problemas en la absorción intestinal de cobre. Al haber déficit de cobre, existe también un déficit de ceruloplasmina. Causa neurodegeneración progresiva + pelo quebradizo.
 
 
-Fases de la enfermedad: - Fase I (acumulación de cobre): Asintomático y alteración analítica.
-- Fase II (liberación y redistribución): Hay una redistribución del cobre dentro del propio hígado, causando inflamación (hepatitis crónica activa) y cirrosis. A veces el cobre se distribuye sale de manera muy brusca del hígado, y entonces la enfermedad se manifiesta como una hepatitis fulminante y hemólisis intravascular (Coombs -).
+Fases de la enfermedad: - Fase I (acumulación de cobre): Asintomático y alteración analítica. 
+- Fase II (liberación y redistribución): Hay una redistribución del cobre dentro del propio hígado, causando inflamación (hepatitis crónica activa) y cirrosis. A veces el cobre se distribuye sale de manera muy brusca del hígado, y entonces la enfermedad se manifiesta como una hepatitis fulminante y hemólisis intravascular (Coombs -). 
 - Fase III (acumulación hepática y extrahepática): Sobre todo depósito corneal y alteraciones neurológicas.
 
 
-Clínica: - Hepática (40%): Cirrosis macronodular, hepatitis crónica activa (10-20%), e incluso hepatitis fulminante + anemia hemolítica.  Biopsia: Esteatosis macrovesicular, cuerpos de Mallory, degeneración glucogénica de los núcleos, infiltrado linfocitos y células plasmáticas.
-- Neuropsiquíatrica (40%): Por depósito de cobre en ganglios basales y en otras zonas. Hay trastornos del movimiento (temblor, distonías, falta de coordinación) y problemas psiquiátricos (10-20%).
-- Anillo de Kayser- Fleicher: Por depósito de cobre en la membrana de Descemet de la córnea (no patognomónico). Se ve mediante una lámpara de hendidura.
+Clínica: - Hepática (40%): Cirrosis macronodular, hepatitis crónica activa (10-20%), e incluso hepatitis fulminante + anemia hemolítica.  Biopsia: Esteatosis macrovesicular, cuerpos de Mallory, degeneración glucogénica de los núcleos, infiltrado linfocitos y células plasmáticas. 
+- Neuropsiquíatrica (40%): Por depósito de cobre en ganglios basales y en otras zonas. Hay trastornos del movimiento (temblor, distonías, falta de coordinación) y problemas psiquiátricos (10-20%). 
+- Anillo de Kayser- Fleicher: Por depósito de cobre en la membrana de Descemet de la córnea (no patognomónico). Se ve mediante una lámpara de hendidura. 
 - Anemia hemolítica no inmunitaria: Por depósito de cobre en la membrana del eritrocito - Disfunción del túbulo proximal renal: Glucosuria, amiaciduria, hipouricemia - Síndrome de Fanconi con hipouricemia
 
 
@@ -3265,8 +3249,8 @@ CASI SIEMPRE QUE HAY PROBLEMAS NEUROLÓGICOS, HAY PROBLEMAS CORNEALES Y VICEVERS
 Diagnóstico:
 
 
-1) Sospechar en paciente de 40 años (hasta 80) con cirrosis, hígado graso, HCA, anemia hemolítica no inmunitaria y extrapiramidalismo.  2) Ver que hay problemas en el metabolismo del cobre: o ↓ceruloplasmina sérica (<20) en un 90% de los afectados. En un 20% de los heterocigotos (no Wilson), también está baja la ceruloplasmina.
-o ↑cupruria (siempre que sea >50, hacer biopsia hepática) o ↑cobre sérico libre o ↓cobre sérico total 3) Hacer biopsia hepática para cuantificar el depósito de cobre y evaluar el daño.
+1) Sospechar en paciente de 40 años (hasta 80) con cirrosis, hígado graso, HCA, anemia hemolítica no inmunitaria y extrapiramidalismo.  2) Ver que hay problemas en el metabolismo del cobre: o ↓ceruloplasmina sérica (<20) en un 90% de los afectados. En un 20% de los heterocigotos (no Wilson), también está baja la ceruloplasmina. 
+o ↑cupruria (siempre que sea >50, hacer biopsia hepática) o ↑cobre sérico libre o ↓cobre sérico total 3) Hacer biopsia hepática para cuantificar el depósito de cobre y evaluar el daño. 
 4) Estudio genético (poco útil). Que te has puesto diagnosticar Wilson, hay que estudiar a los familiares de primer grado del afectado (analítica, y biopsia si la analítica sale alterada)
 
 
@@ -3276,9 +3260,9 @@ DIAGNÓSTICO WILSON SI= Ceruloplasmina sérica <20 + anillo de Kayser-Fleischer 
 Tratamiento:
 
 
-- Dieta (insuficiente de forma aislada): Evitar comidas ricas en cobre al menos durante un año.
-- Fármacos: o Asintomáticos: Zinc (inhibe la absorción intestinal de cobre, no tóxico, pero causa dispepsia).
-o Sintomático con enfermedad hepática: Quelante de cobre + Zinc. No dar penicilamida si hay alteración neurológica.
+- Dieta (insuficiente de forma aislada): Evitar comidas ricas en cobre al menos durante un año. 
+- Fármacos: o Asintomáticos: Zinc (inhibe la absorción intestinal de cobre, no tóxico, pero causa dispepsia). 
+o Sintomático con enfermedad hepática: Quelante de cobre + Zinc. No dar penicilamida si hay alteración neurológica. 
 o Sintomático con hepatitis fulminante sin encefalopatía: Quelante de cobre + Zinc o Sintomático con hepatitis fulminante y encefalopatía: Trasplante hepático - Trasplante hepático: En caso de hepatitis fulminante o cirrosis avanzada sin respuesta a quelantes.
 
 
@@ -3297,30 +3281,30 @@ PORFIRIA AGUDA INTERMITENTE
 PORFIRIA HEPATOCUTÁNEA TARDA
 
 
-Se produce por el daño/déficit de la uro-sintetasa, la enzima responsable del paso del porfobilinógeno → uroporfirina. Si hay un déficit de una enzima, aumenta lo que está por encima de ella en la ruta metabólica, por lo tanto vamos a tener: ↑ porfobilinógeno (PBG) ↑ ácido delta aminolevulínico (ALA) Hay menos de 200 casos en España. Para que se exprese la enfermedad se necesita además del déficit enzimático, un desencadenante (fármaco, cirugía, infección).  Clínica: Se manifiesta en forma de crisis porfíricas, que son ataques neuroviscerales que afectan al SNC, SNP, SNA (alteraciones abdomen-neuro-psicológicas): - SNA: Dolor abdominal agudo (90 %), taquicardia, alteración tensión arterial - SNP: Parestesias, paresias, alteración de los reflejos.
-- SNC: Confusión, desorientación, convulsiones Prevención crisis: Glucosa IV y hemina IV (inhibe la ALA).
+Se produce por el daño/déficit de la uro-sintetasa, la enzima responsable del paso del porfobilinógeno → uroporfirina. Si hay un déficit de una enzima, aumenta lo que está por encima de ella en la ruta metabólica, por lo tanto vamos a tener: ↑ porfobilinógeno (PBG) ↑ ácido delta aminolevulínico (ALA) Hay menos de 200 casos en España. Para que se exprese la enfermedad se necesita además del déficit enzimático, un desencadenante (fármaco, cirugía, infección).  Clínica: Se manifiesta en forma de crisis porfíricas, que son ataques neuroviscerales que afectan al SNC, SNP, SNA (alteraciones abdomen-neuro-psicológicas): - SNA: Dolor abdominal agudo (90 %), taquicardia, alteración tensión arterial - SNP: Parestesias, paresias, alteración de los reflejos. 
+- SNC: Confusión, desorientación, convulsiones Prevención crisis: Glucosa IV y hemina IV (inhibe la ALA). 
 Sospechar si nos llega un paciente con dolor abdominal y problemas neuropsicológicos. Medir PBG en sangre.
 
 
-Se produce por el daño/déficit de la uro-descarboxilasa, lo cual causa un ↑uroporfirina y coproporfirina. Es la porfiria más frecuente y puede ser hereditaria (autosómica dominante) o esporádica (hereditaria pero con escaso déficit).  La uro-descarboxilasa puede ser inhibida por el alcohol, hierro, estrógenos, VHC.
-Clínica: Expresión tardía, a los 40 50 años con dermatosis ampollar (microtraumatismos que aparecen en zonas con porfirinas acumuladas que han sido expuestas al sol) y problemas hepáticos (hematomegalia e incluso cirrosis).  AP hígado: Hepatitis, cirrosis, cristales aciculares en los hepatocitos con luz UV, depósito de hierro.
+Se produce por el daño/déficit de la uro-descarboxilasa, lo cual causa un ↑uroporfirina y coproporfirina. Es la porfiria más frecuente y puede ser hereditaria (autosómica dominante) o esporádica (hereditaria pero con escaso déficit).  La uro-descarboxilasa puede ser inhibida por el alcohol, hierro, estrógenos, VHC. 
+Clínica: Expresión tardía, a los 40 50 años con dermatosis ampollar (microtraumatismos que aparecen en zonas con porfirinas acumuladas que han sido expuestas al sol) y problemas hepáticos (hematomegalia e incluso cirrosis).  AP hígado: Hepatitis, cirrosis, cristales aciculares en los hepatocitos con luz UV, depósito de hierro. 
 Tratamiento: Flebotomías. Si hay poca sobrecarga de hierro, el tratamiento de elección sería la cloroquina un quelante de porfirinas que facilita su eliminación
 
 
-Quelantes de cobre (se unen al cobre y lo eliminan por vía renal): - Penicilamida: Agrava los problemas neurológicos en el 50 % de los pacientes.
-- Trientina: Menos potente, pero con menos efectos adversos y solo agrava los problemas neurológicos en el 20 % de los pacientes.
+Quelantes de cobre (se unen al cobre y lo eliminan por vía renal): - Penicilamida: Agrava los problemas neurológicos en el 50 % de los pacientes. 
+- Trientina: Menos potente, pero con menos efectos adversos y solo agrava los problemas neurológicos en el 20 % de los pacientes. 
 Inhibidores de la absorción intestinal de cobre: Zinc (no es tóxico pero causa dispepsia).
 
 
-# SEMINARIO 9: LITIASIS BILIAR
+SEMINARIO 9: LITIASIS BILIAR
 
 
 Términos: - Colangitis: Inflamación vía biliar - Colecistitis: Inflamación vesícula biliar - Colestasis: Alteración del flujo biliar - Colelitiasis: Litiasis en la vesícula biliar - Coledocolitiasis: Litiasis en el colédoco.
 
 
-Tipos de litiasis: - De colesterol (80%): Formadas por >50% de colesterol y sales de calcio, pigmentos biliares, proteínas. Relacionados con la obesidad, grasas, hormonas, síndrome metabólico, pérdida rápida de peso, hipomotilidad biliar, embarazo, ayuno, octreótido, clofibrato, CBP, daño medular, nutrición parenteral total, dietas hipercalóricas.
-- Pigmentarios (<20%): Formados por bilirrubinato cálcico, <20% de colesterol. Relacionados con infecciones crónicas de la vía biliar, alcohol, hemólisis, FQ, anemia perniciosa, colangitis bacteriana, parásitos, edad, bypass íleon, Sd. De Gilbert (enfermedad genética con mutación de UGTA1 que hace que haya una mayor predisposición a cálculos). Se clasifican en negros o marrones.
-- Raros (<0,5%): Formados por carbonato cálcico.
+Tipos de litiasis: - De colesterol (80%): Formadas por >50% de colesterol y sales de calcio, pigmentos biliares, proteínas. Relacionados con la obesidad, grasas, hormonas, síndrome metabólico, pérdida rápida de peso, hipomotilidad biliar, embarazo, ayuno, octreótido, clofibrato, CBP, daño medular, nutrición parenteral total, dietas hipercalóricas. 
+- Pigmentarios (<20%): Formados por bilirrubinato cálcico, <20% de colesterol. Relacionados con infecciones crónicas de la vía biliar, alcohol, hemólisis, FQ, anemia perniciosa, colangitis bacteriana, parásitos, edad, bypass íleon, Sd. De Gilbert (enfermedad genética con mutación de UGTA1 que hace que haya una mayor predisposición a cálculos). Se clasifican en negros o marrones. 
+- Raros (<0,5%): Formados por carbonato cálcico. 
 Las litiasis afectan más a mujeres y, la mayoría suelen ser asintomáticas.
 
 
@@ -3336,13 +3320,13 @@ Clínica típica litiasis: Dolor continuo hipocondrio derecho/epigastrio, postpr
 Analítica: ↑↑↑GGT y FA, ↑ALT y AST (también hay citólisis), ↑enzimas pancreáticas (amilasa, lipasa).
 
 
-Pruebas: - Ecografía: Es la mejor prueba para detectar piedras en la vesícula biliar y colecistitis agudas (no hay ascitis pero sí líquido pericolecistico, engrosamiento pared vesicular >4mm, no hipoalbuminemia). No es muy buena para detectar coledocolitiasis (solo detecta las piedras en el 50%).  - Ecoendoscopia: Indicada en pacientes con probabilidad baja-moderada de coledocolitiasis. Sirve para excluir o confirmar la presencia de piedras en la vía biliar.  - CPRE: De elección en coledocolitiasis. Indicada en pacientes con probabilidad moderada- alta de coledocolitiasis. Como es elevado el riesgo de litiasis, esta prueba nos permite diagnosticar la litiasis y al mismo tiempo tratarla.
-- Colecistografía oral (Rx+ contraste oral): Si la vesícula está ópaca en la imagen, quiere decir que el conducto cístico no tiene obstrucción y permite el paso del contraste. Es muy útil en enfermedades vesiculares no litiásicas.
-- Gammagrafía con HIDA (ácido iminoacético hepatobiliar): Es similar a la colecistografía oral. Si no se ve la vesícula (no ópaca), la prueba es positiva y el conducto cístico no es permeable. Esta técnica se utiliza tras trasplantes hepáticos para comprobar que no haya fugas después de la operación. Si damos colecistoquinina, estimulamos la contracción y secreción vesicular, de modo que con la gammagrafía+ CCK podemos determinar la función vesicular.  - RM: Es útil para examinar los conductos que no están dilatados, para ver su morfología. La ecografía detecta litiasis y cambios de calibre de la vía biliar, pero no cambios en la morfología biliar.
+Pruebas: - Ecografía: Es la mejor prueba para detectar piedras en la vesícula biliar y colecistitis agudas (no hay ascitis pero sí líquido pericolecistico, engrosamiento pared vesicular >4mm, no hipoalbuminemia). No es muy buena para detectar coledocolitiasis (solo detecta las piedras en el 50%).  - Ecoendoscopia: Indicada en pacientes con probabilidad baja-moderada de coledocolitiasis. Sirve para excluir o confirmar la presencia de piedras en la vía biliar.  - CPRE: De elección en coledocolitiasis. Indicada en pacientes con probabilidad moderada- alta de coledocolitiasis. Como es elevado el riesgo de litiasis, esta prueba nos permite diagnosticar la litiasis y al mismo tiempo tratarla. 
+- Colecistografía oral (Rx+ contraste oral): Si la vesícula está ópaca en la imagen, quiere decir que el conducto cístico no tiene obstrucción y permite el paso del contraste. Es muy útil en enfermedades vesiculares no litiásicas. 
+- Gammagrafía con HIDA (ácido iminoacético hepatobiliar): Es similar a la colecistografía oral. Si no se ve la vesícula (no ópaca), la prueba es positiva y el conducto cístico no es permeable. Esta técnica se utiliza tras trasplantes hepáticos para comprobar que no haya fugas después de la operación. Si damos colecistoquinina, estimulamos la contracción y secreción vesicular, de modo que con la gammagrafía+ CCK podemos determinar la función vesicular.  - RM: Es útil para examinar los conductos que no están dilatados, para ver su morfología. La ecografía detecta litiasis y cambios de calibre de la vía biliar, pero no cambios en la morfología biliar. 
 - TC: Similar a la RM. Muy útil en hepatolitiasis.
 
 
-Complicaciones raras de las litiasis: - Colecistitis enfisematosa (más frecuente en diabetes) - Vesícula en porcelana (Riesgo de malignización): Calcificación de la pared vesicular. Presenta sombra.
+Complicaciones raras de las litiasis: - Colecistitis enfisematosa (más frecuente en diabetes) - Vesícula en porcelana (Riesgo de malignización): Calcificación de la pared vesicular. Presenta sombra. 
 - Fístula colecistoentérica (Sd de Bouveret): cálculo llega al duodeno por medio de una fístula). Puede desarrollarse una fistula a partir de un adenocarcinoma.  - Síndrome de Mirizzi (cálculo impactado en el cístico). Puede dar una pancreatitis.
 
 
@@ -3358,13 +3342,13 @@ Colecistectomía (quitar vesícula): No hacer como profilaxis de litiasis. Indic
 Esfinterectomía residual: En pacientes que siguen teniendo coledocolitiasis tras colecistectomía, pacientes con colecistectomía de alto riesgo o en ancianos
 
 
-![[image-60-x35-y37.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-60-x35-y37.png]]
 
 
-![[image-61-x35-y641.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-61-x35-y641.png]]
 
 
-# SEMINARIO 7. ENDOSCOPIA DIGESTIVA.
+SEMINARIO 7. ENDOSCOPIA DIGESTIVA.
 
 
 Endoscopia y colonoscopia tienen como ppal efectos adversos problemas pulmonares y cardiovasculares (hipoxia e hipotensión) relacionados con la sedación.
@@ -3373,7 +3357,7 @@ Endoscopia y colonoscopia tienen como ppal efectos adversos problemas pulmonares
 ENDOSCOPIA ORAL (esofagogastroscopia, esofagogastroduodenoscopia, gastroscopia, endoscopia digestiva alta):
 
 
-Indicaciones diagnósticas (9): - ERGE: Complicada (incluido Barret), síntomas de alarmas, recurrente o fracasa el tto empírico.
+Indicaciones diagnósticas (9): - ERGE: Complicada (incluido Barret), síntomas de alarmas, recurrente o fracasa el tto empírico. 
 - Dispepsia: Si >55 años o síntomas de alarma - Odinofagia y disfagia - Hemorragia digestiva aguda o crónica - Úlcera péptica: o En general, para diagnóstico (imagen) y ver si hay infección por H.pylori (biopsia) o Úlcera gástrica: Para diagnóstico (biopsia) y seguimiento hasta su erradicación - En cirróticos para ver si hay varices esofágicas o gástricas - Si sospechamos de enfermedad celíaca (biopsia mucosa duodeno) - Vómitos persistentes - Ingesta caústicos
 
 
@@ -3392,7 +3376,7 @@ ENDOSCOPIA ID mediante cápsula endoscópica: En hemorragia digestiva oculta con
 COLONOSCOPIA
 
 
-Indicaciones diagnósticas (5): - Diarrea crónica - Hemorragia digestiva aguda o crónica: Melenas con endoscopia oral normal, rectorragia, anemia ferropénica, SOH - EII: Diagnóstico, ver extensión, evaluar mucosa y cribado CCR - Pólipos y CCR: Diagnóstico, tto y seguimiento. Cribado CCR.
+Indicaciones diagnósticas (5): - Diarrea crónica - Hemorragia digestiva aguda o crónica: Melenas con endoscopia oral normal, rectorragia, anemia ferropénica, SOH - EII: Diagnóstico, ver extensión, evaluar mucosa y cribado CCR - Pólipos y CCR: Diagnóstico, tto y seguimiento. Cribado CCR. 
 - Cambio de ritmo intestinal: Si >50 años o síntomas de alarma
 
 
@@ -3408,11 +3392,11 @@ Contraindicaciones absolutas: - Inestabilidad cardiovascular y respiratoria sin 
 CPRE: Se mete un endoscopio con cabeza lateral (duodenoscopio) por la boca y luego se canaliza la vía biliar, metiéndose un contraste para rellenar la vía. Mediante Rx simultánea se puede ver el contraste y la vía biliar. Se obtienen así dos imágenes simultáneas: Una interna y otra externa del paso del contraste por la vía biliar.
 
 
-Procedimientos mediante CPRE (biliares y pancreáticos): Poner prótesis, stents, dilatar estenosis, esfinterectomía, quitar cálculos.
+Procedimientos mediante CPRE (biliares y pancreáticos): Poner prótesis, stents, dilatar estenosis, esfinterectomía, quitar cálculos. 
 Complicaciones: Pancreatitis, colangitis, hemorragia y perforación post-esfinterectomía.
 
 
-Indicaciones biliares: - Restaurar el flujo biliar: Quitar tumor biliar, cálculo en coledocolitiasis, dilatar estenosis.
+Indicaciones biliares: - Restaurar el flujo biliar: Quitar tumor biliar, cálculo en coledocolitiasis, dilatar estenosis. 
 - Cerrar fugas biliares
 
 
@@ -3446,7 +3430,7 @@ HIPERBILIRRUBINEMIAS NO CONJUGADAS HEREDITARIAS
 Enfermedad hereditaria de curso crónico que se caracteriza por un aumento moderado de BNC (<5). En esta enfermedad disminuye la actividad de la UDP- glucuronil transferasa (UGT1) un 15-35%, enzima que se encarga de conjugar la BNC en BC. Si falla esta enzima, se altera el aclaramiento hepático de la bilirrubina al no poder conjugarla. Esta enfermedad afecta al 5% de la población y no supone ninguna alteración estructural del hígado, no obstante, mediante microscopía electrónica se puede ver que en el interior de los hepatocitos hay depósitos de lipofuccina e hipertorfia del REL . La mayoría de los casos son hereditarios (agrupación familiar, asociación a Crigler Najjar II), aunque también hay casos esporádicos. Siempre hay que tranquilizar a los pacientes al diagnosticarlos.
 
 
-Clínica: suelen ser pacientes asintomáticos que presentan alteraciones en la analítica (ictericia fluctuante <4-5mg/dL, que aumenta con el ejercicio, ayuno, fiebre infecciones…). Estas alteraciones se suelen producir después de la pubertad.  - En estos pacientes es más fácil detectar enfermedades hemolítica crónicas (clínica más intensa). Si hay problemas hemolíticos, ↑LDH y hay anemia.
+Clínica: suelen ser pacientes asintomáticos que presentan alteraciones en la analítica (ictericia fluctuante <4-5mg/dL, que aumenta con el ejercicio, ayuno, fiebre infecciones…). Estas alteraciones se suelen producir después de la pubertad.  - En estos pacientes es más fácil detectar enfermedades hemolítica crónicas (clínica más intensa). Si hay problemas hemolíticos, ↑LDH y hay anemia. 
 - Metabolizan de forma anormal el irinotecán - Podemos “jugar” con los niveles de bilirrubina: Ayuno (↑BNC), dando ácido nicotínico (↑hemólisis, aumentando la BNC por sobrecarga de la UGP1), o fenobarbital (↑actividad de la UGT1, disminuyendo los niveles de BCN).
 
 
@@ -3468,18 +3452,18 @@ Presinusoidal intrahepática Colangitis biliar primaria Esquistosomiasis Sarcoid
 TROMBOSIS DE LA VENA PORTA
 
 
-Causas: - Cirrosis (no tumoral o tumoral= hepatocarcinoma) - Si no hay cirrosis, puede deberse a: o Si no hay factores que favorezcan la trombosis (trombofilia, sedentarismo, cirugía, estar sentado), puede deberse la trombosis a un tumor como el cáncer de páncreas.
-o Por factores que favorezcan la trombosis (causas más importantes): § Estado de trombofilia: Hereditario 30% (presencia del factor V de Leiden, mutación factor II, ↓antitrombina III/ proteína C/ proteína S) o adquirido (sobre todo por neoplasias mieloproliferativas, 25%).
+Causas: - Cirrosis (no tumoral o tumoral= hepatocarcinoma) - Si no hay cirrosis, puede deberse a: o Si no hay factores que favorezcan la trombosis (trombofilia, sedentarismo, cirugía, estar sentado), puede deberse la trombosis a un tumor como el cáncer de páncreas. 
+o Por factores que favorezcan la trombosis (causas más importantes): § Estado de trombofilia: Hereditario 30% (presencia del factor V de Leiden, mutación factor II, ↓antitrombina III/ proteína C/ proteína S) o adquirido (sobre todo por neoplasias mieloproliferativas, 25%). 
 § Presencia de factores locales desencadenantes (20-30%): Cirugía abdominal (sobre todo esplenectomía), inflamación abdominal, traumatismo abdominal extrahepático, cáncer extrahepático de órgano sólido.
 
 
 Hiperbilirrubinemia conjugada (directa)= Coluria (bilirrubinuria) • Procesos hereditarios (aumento aislado de BC) Síndrome de Dubin-Johnson Síndrome de Rotor • Procesos hepatocelulares (Ictericia hepatocelular): PFH alteradas Hepatitis viral Alcohol Hepatitis tóxica Cirrosis avanzada • Procesos colestásicos (Ictericia colestásica): PFH alteradas Intrahepáticos Extrahepáticos
 
 
-![[image-63-x293-y364.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-63-x293-y364.png]]
 
 
-![[image-63-x36-y365.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-63-x36-y365.png]]
 
 
 Otras hiperbilirrubinemias conjugadas hereditarias (colestásicas): BRIC, PFIC
@@ -3497,7 +3481,7 @@ SOLO LA HTP SINUSOIDAL Y POSTSINUSOIDAL SON CAPACES DE CAUSAR ASCITIS
 Clínica:
 
 
-- Aguda: Dolor abdominal agudo por la congestión isquemia, fiebre (20%) y ascitis variable (por la congestión superior al trombo, aunque sea presinusoidal).  Sospechar si se trata de un paciente con inflamación abdominal, cirugía abdominal reciente, trombofilia diagnosticada.
+- Aguda: Dolor abdominal agudo por la congestión isquemia, fiebre (20%) y ascitis variable (por la congestión superior al trombo, aunque sea presinusoidal).  Sospechar si se trata de un paciente con inflamación abdominal, cirugía abdominal reciente, trombofilia diagnosticada. 
 - Crónica: El trombo poco a poco causa HTP presinusoidal, formándose colaterales para drenar la sangre estancada (varices, esplenomegalia, trombopenia, cavernoma portal y biliopatía portal).
 
 
@@ -3513,8 +3497,8 @@ TROMBOSIS DE LAS VENAS HEPÁTICAS (SÍNDROME DE BUDD-CHIARI):
 Es una enfermedad rara que afecta a personas jóvenes menores de 45 años. En la mayoría de los casos (75 %) existe un factor protrombótico subyacente (neoplasias mieloproliferativas 50%, estado de trombofilia hereditario 30%, hemoglobinuria paroxística nocturna 20%, consumo de anticonceptivos o embarazo 20%, síndrome antifosfolípido 10%, síndrome de Behçet 5%). Siempre que tengamos una cirrosis criptogénica, hay que sospechar de este síndrome.
 
 
-Clínica (depende de la extensión y de la velocidad de instauración): - Asintomática (20%) - Aguda y subaguda (20% de los casos): La obstrucción se desarrolla en menos de dos meses. Hay ascitis, hepatomegalia, esplenomegalia, ictericia, varices esofágicas, ↑ALT x5, TP<40%.
-- Crónica (60%): La obstrucción se va desarrollando de forma progresiva durante más de dos meses. Hay ascitis, esplenomegalia, várices esofágicas,leve aumento de a LT, TP>50%.
+Clínica (depende de la extensión y de la velocidad de instauración): - Asintomática (20%) - Aguda y subaguda (20% de los casos): La obstrucción se desarrolla en menos de dos meses. Hay ascitis, hepatomegalia, esplenomegalia, ictericia, varices esofágicas, ↑ALT x5, TP<40%. 
+- Crónica (60%): La obstrucción se va desarrollando de forma progresiva durante más de dos meses. Hay ascitis, esplenomegalia, várices esofágicas,leve aumento de a LT, TP>50%. 
 - Fulminante (5%): Hay insuficiencia hepática aguda grave y ↑↑↑ALT (>1000)
 
 
@@ -3530,60 +3514,58 @@ ENFERMEDAD VASCULAR PORTO-SINUSOIDAL (HIPERTENSIÓN PORTAL NO CIRRÓTICA IDIOPÁ
 Enfermedad de causa desconocida en la que se produce una fibrosis de la vena porta, causando HTP sin necesidad de que haya ningún trombo o cirrosis. Aunque es una enfermedad idiopática, se conocen ciertos factores predisponentes:
 
 
-![[image-64-x37-y245.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-64-x37-y245.png]]
 
 
-Diagnóstico: Hay signos de HTP (varices, colaterales abdominales, esplenomegalia y plaquetopenia) + histología hepática característica (NO hay cirrosis. Hay hiperplasia nodular regenerativa, fibrosis septal incompleta, vena porta obliterada, tracto portal alterado y dilatación sinusoidal).
+Diagnóstico: Hay signos de HTP (varices, colaterales abdominales, esplenomegalia y plaquetopenia) + histología hepática característica (NO hay cirrosis. Hay hiperplasia nodular regenerativa, fibrosis septal incompleta, vena porta obliterada, tracto portal alterado y dilatación sinusoidal). 
 Otros hallazgos: Fibroscan <10, GPVH<10 (porque hay comunicaciones veno-venosas)
 
 
 SEMINARIO 6. HEMORRAGIA DIGESTIVA ALTA (ENDOSCOPIA ALTA) Y BAJA (COLONOSCOPIA Y OTRAS PRUEBAS)
 
 
-Formas de presentación: - Hematemesis (vómitos sangre roja). En HDA - Posos de café (vómitos sangre oscura).  - Melenas (heces negras malorientes). En HDA.
-- Hematoquecia (sangre oscura heces). En HDB, aunque también puede darse en HDA (sería una hemorragia muy grave, con ↓Hb, ↑FC e hipotensión).
+Formas de presentación: - Hematemesis (vómitos sangre roja). En HDA - Posos de café (vómitos sangre oscura).  - Melenas (heces negras malorientes). En HDA. 
+- Hematoquecia (sangre oscura heces). En HDB, aunque también puede darse en HDA (sería una hemorragia muy grave, con ↓Hb, ↑FC e hipotensión). 
 - Rectorragia (sangre roja heces) - Pérdidas ocultas de sangre (por SOH+ o déficit de hierro inexplicable= anemia ferropénica) - Síntomas de anemia por pérdida crónica de sangre: Astenia, mareo, síncope, disnea, angina.
 
 
 Causas de HD: Por alteraciones de la mucosa o por lesión de los vasos sanguíneos.
 
 
-Causas HDA (mortalidad 5-10% en >60 años y con otras comorbilidades):
-1) Úlceras (la más importante): Si está sangrado= Tto endoscópico pues el riesgo de resangrado es del 33% (inyección adrenalina+ etoxiesclerol). Las úlceras con fibrina no se tratan endoscópicamente, pues no hay riesgo de resangrado.
-2) Varices 3) Idiopática 4) Esofagitis erosiva (péptica, infecciosa, por píldoras) 5) Desgarros de Mallory Weiss= Sangra una erosión situada en la unión esofago-gástrica por vómitos repetitivos en alcohólicos. Si sangra tto con esclerosis/clip endoscópico.
+Causas HDA (mortalidad 5-10% en >60 años y con otras comorbilidades): 1) Úlceras (la más importante): Si está sangrado= Tto endoscópico pues el riesgo de resangrado es del 33% (inyección adrenalina+ etoxiesclerol). Las úlceras con fibrina no se tratan endoscópicamente, pues no hay riesgo de resangrado. 
+2) Varices 3) Idiopática 4) Esofagitis erosiva (péptica, infecciosa, por píldoras) 5) Desgarros de Mallory Weiss= Sangra una erosión situada en la unión esofago-gástrica por vómitos repetitivos en alcohólicos. Si sangra tto con esclerosis/clip endoscópico. 
 6) Otros: Por fcos (AINEs, AAS), infecciones (H.pylori, CMV, VHS), cáncer, ectasias vasculares, neoplasias.
 
 
-Causas HDB: 1) Diverticulosis: Si sangra el divertículo= esclerosis/clip endoscópico. Si no se localiza el divertículo sangrante= arteriografía. Si no deja de sangrar= Cirugía segmentaria. Riesgo de resangrado del 20-25%.
-2) Angiodisplasia de colon (causa más frecuente de HDB en >65años): Si sangra, tto endoscópico con Argón.
-3) Neoplasias de colon (pólipos, cáncer) 4) Colitis 5) Problemas anorrectales 6) Hemorragia post-polipectomía 7) Divertículo de Meckel (causa más frecuente de HDB en jóvenes): Si sangra, cirugía.
+Causas HDB: 1) Diverticulosis: Si sangra el divertículo= esclerosis/clip endoscópico. Si no se localiza el divertículo sangrante= arteriografía. Si no deja de sangrar= Cirugía segmentaria. Riesgo de resangrado del 20-25%. 
+2) Angiodisplasia de colon (causa más frecuente de HDB en >65años): Si sangra, tto endoscópico con Argón. 
+3) Neoplasias de colon (pólipos, cáncer) 4) Colitis 5) Problemas anorrectales 6) Hemorragia post-polipectomía 7) Divertículo de Meckel (causa más frecuente de HDB en jóvenes): Si sangra, cirugía. 
 8) Otras
 
 
-Causas de HD de origen oscuro o indeterminado (posible origen en ID): - Sobre todo, erosiones/úlceras en el ID por AINEs (observables por cápsula endoscópica) - En <40- años, buscar tumores en ID: Si sangran, cirugía - En >50-60 años, buscar angiomas en ID: Si sangran, tto endoscópico.
+Causas de HD de origen oscuro o indeterminado (posible origen en ID): - Sobre todo, erosiones/úlceras en el ID por AINEs (observables por cápsula endoscópica) - En <40- años, buscar tumores en ID: Si sangran, cirugía - En >50-60 años, buscar angiomas en ID: Si sangran, tto endoscópico. 
 ES MÁS FRECUENTE LA HDA QUE LA HDB. CAUSA MÁS FRECUENTE DE HDA= ÚLCERA, HDB EN JÓVENES= DIVERTÍCULO DE MECKEL, HDB EN >65= ANGIODISPLASIA
 
 
-¿Qué hacer con un paciente con HDA y HDB? - Historia clínica y exploración física: Si hay signos de hepatopatías, si ha consumido AINEs o alcohol, si esta inestable hemodinámicamente, tacto rectal.
-- Analítica: Hemograma, bioquímica, SOH solo en pérdidas crónicas ocultas.
+¿Qué hacer con un paciente con HDA y HDB? - Historia clínica y exploración física: Si hay signos de hepatopatías, si ha consumido AINEs o alcohol, si esta inestable hemodinámicamente, tacto rectal. 
+- Analítica: Hemograma, bioquímica, SOH solo en pérdidas crónicas ocultas. 
 - Pruebas: o Panendoscopia oral: En HDA o Colonoscopia e ileoscopia: En HDB o Cápsula endoscópica: Em sangrados ocultos o Arteriografia: Para detectar el sitio exacto de sangrado o Gammagrafía con hematíes marcados con Tc99m: Si sospecha de divertículo de Meckel
 
 
-En HDA aumentan los ruidos intestinales, BUN y urea. Se hacen lavados por SNG.
+En HDA aumentan los ruidos intestinales, BUN y urea. Se hacen lavados por SNG. 
 A los pacientes con HD aguda se les hospitaliza. A los que tienen HD subaguda/crónica se les trata ambulatoriamente, salvo a los cardiópatas.
 
 
 Prevención HD: Evitar factores desencadenantes y tratar la causa.
 
 
-Cambios hemodinámicos: - Si disminuye TA>10mmHg al ponernos de pie: Pérdida de >20% de sangre por HD.
+Cambios hemodinámicos: - Si disminuye TA>10mmHg al ponernos de pie: Pérdida de >20% de sangre por HD. 
 - Si TAS <100mmHg: Pérdida de >30% sangre por HD.
 
 
-TA y FC en HD aguda: Si hay hipotensión y taquicardia, la hemorragia es grave. Hemoglobina poco útil.
-Hemoglobina en HD crónica: Estará disminuida. FC y TA normales.
+TA y FC en HD aguda: Si hay hipotensión y taquicardia, la hemorragia es grave. Hemoglobina poco útil. 
+Hemoglobina en HD crónica: Estará disminuida. FC y TA normales. 
 Si sospechamos de HDA/HDB: Poner dos vías venosas, ver si estable hemodinámicamente (si no lo está, reponemos volemia, damos suero y expansores de plasma). Cuando ya esté estable, hacemos una endoscopia.
-
 
 
 # SEMINARIO 3. DIARREA AGUDA Y CRÓNICA
@@ -3595,8 +3577,8 @@ Si sospechamos de HDA/HDB: Poner dos vías venosas, ver si estable hemodinámica
 ## DIARREA AGUDA:
 
 
-Tipos: - Aguda no complicada (<3 días, sin disentería ni coleriforme). Tto con loperamida para disminuir la diarrea.
-- Invasiva, inflamatoria o síndrome disentérico: Con sangre, moco y pus. Hay fiebre o hipotermina, dolor y MEG.
+Tipos: - Aguda no complicada (<3 días, sin disentería ni coleriforme). Tto con loperamida para disminuir la diarrea. 
+- Invasiva, inflamatoria o síndrome disentérico: Con sangre, moco y pus. Hay fiebre o hipotermina, dolor y MEG. 
 - Secretora o síndrome coleriforme: Heces muy abundantes y líquidas, a veces sin caca. Menos dolor y fiebre, pero elevado riesgo de deshidratación.
 
 
@@ -3606,11 +3588,11 @@ Anamnesis: Ver viajes, ATB recientes/ quimioterapia/inmunosupresores, consumo IB
 CUIDADO CON ANCIANOS, INMUNODEPRIMIDOS, QUIMIOTERAPIA, ENFERMEDAD INFLAMATORIA INTESTINAL, VIAJEROS, O TRAS TRATAMIENTO ANTIBIÓTICO. HAY QUE TENER CUIDADO CON LAS FALSAS DIARREAS POR FECALOMAS, ESPECIALMENTE EN ANCIANOS.
 
 
-Causas: Virus (norovirus), bacterias, protozoos, alcohol, edulcorantes, venenos, medicamentos (IBP como omeprazol, metformina, magnesio), radiación.
+Causas: Virus (norovirus), bacterias, protozoos, alcohol, edulcorantes, venenos, medicamentos (IBP como omeprazol, metformina, magnesio), radiación. 
 No hace falta buscar la causa en la mayoría de los casos, solo en aquellas situaciones que requieran un manejo específico (3 muestras para búsqueda de parásitos, siendo procesadas en menos de 4h): - Diarrea aguda grave, invasiva o coleriforme - Fiebre - Diarrea en un paciente con enfermedad crónica grave u hospitalizado - Diarrea postantibiótica (C.difficile) - Diarrea de más de 2 semanas (Giardia, Cryptosporidium y E.histolytica) - Ancianos, inmunodeprimidos(parásitos y CMV) - Manipuladores de alimentos - Pacientes institucionalizados - Brotes epidémicos
 
 
-Diagnóstico: En la mayoría de los casos no hace falta hacer pruebas diagnósticas.  - Solo se hacen en personas mayores de 65 años, con deshidratación, diarrea invasiva, con comorbilidades que lo hagan empeorar, si diarrea significativa de más 3 días de evolución.
+Diagnóstico: En la mayoría de los casos no hace falta hacer pruebas diagnósticas.  - Solo se hacen en personas mayores de 65 años, con deshidratación, diarrea invasiva, con comorbilidades que lo hagan empeorar, si diarrea significativa de más 3 días de evolución. 
 - Pruebas: Hemograma, bioquímica (función renal, iones, glucosa, transaminasas).
 
 
@@ -3620,9 +3602,9 @@ Tto diarrea moderada-grave:
 - Antieméticos: Metoclopramida - Analgésicos: Paracetamol o metamizol - ATB (azitromicina* o fluoroquinolona) solo en: o Diarreas invasivas o Diarrea por Clostridium difficile (vancomicina, si recurrencias=fidaxomicina), Shigellosis, Amebiasis, cólera o giardiasis o Ancianos o Personas con comorbilidades También se pueden dar en diarrea del viajero (azitromicina), salmonelosis typhy no typhi (ciprofloxacino), campylobacter (azitromicina).
 
 
-![[image-66-x154-y139.png]]
+![[4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-66-x154-y139.png]]
 
 
 
 
-%% Import Date: 2023-07-18T09:38:39.079+02:00 %%
+%% Import Date: 2023-08-15T17:05:08.299+02:00 %%

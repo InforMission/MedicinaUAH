@@ -18,7 +18,6 @@ fecha: 2023-07-25
 	- [ ] IRA
 
 - [ ] T
-	- [ ] 
 ```dataview
 TASK
 WHERE file.name = "Documentación" AND !completed
