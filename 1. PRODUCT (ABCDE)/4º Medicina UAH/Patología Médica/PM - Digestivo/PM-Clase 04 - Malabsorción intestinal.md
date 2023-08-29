@@ -14,18 +14,14 @@ Tags:
 # Contenidos
 
 
-La malabsorción se puede dar por problemas en la digestión (a nivel luminal, o en la mucosa) o en el transporte de los nutrientes (sangre o linfa).
-Este trastorno, que puede afectar a uno o varios principios inmediatos, originará a veces diarrea (esteatorrea) por un mecanismo osmótico.
-
+La malabsorción se puede dar por problemas en la digestión (a nivel luminal, o en la mucosa) o en el transporte de los nutrientes (sangre o linfa). Este trastorno, que puede afectar a uno o varios principios inmediatos, originará a veces diarrea (esteatorrea) por un mecanismo osmótico.
 
 Causas de malabsorción:
-
 
 - Maldigestión: Pancreatitis crónica, obstrucción biliar, cirugía gástrica, síndrome de Zollinger Ellison.
 - Alteración del ciclo enterohepático (pérdida o inactivación de sales biliares): Enfermedad hepato-biliar, sobrecrecimiento bacteriano, enfermedad o resección ileal, colecistectomía.
 - Anomalías de la mucosa intestinal: Déficit de disacaridasas, alteración en el trasporte de monosacáridos, enfermedad celíaca, Whipple, amiloidosis, enf de Crohn, agammaglobulinemia, abetalipoproteinemia, Enf de Hartnup, cistinuria.
 - Disminución de la superficie intestinal: Síndrome de intestino corto, bypass yeyuno ileal - Obstrucción linfática: Linfoma, tuberculosis, linfangiectasias - Malabsorciones específicas: B12.
-
 
 La esteatorrea consiste la presencia de secreciones lipídicas en las heces, siendo estas blancas, pastosas, malolientes que, por su menor densidad con el agua, flotan. Se da en los trastornos de malabsorción, excepto en la malabsorción específica de la vitamina B12.
 
@@ -35,9 +31,10 @@ La esteatorrea consiste la presencia de secreciones lipídicas en las heces, sie
 
 1. Demostrar que hay esteatorrea:
 
-
 o Tinción de las heces con Sudan III: Prueba cualitativa donde puede haber falsos negativos.
+
 o Prueba del aliento con trioleína 14C: Si no hay 14CO2 en el aire espirado, hay malabsorción de grasas. Esta prueba no es útil en trastornos hepáticos, pulmonares, tiroideos y en diabéticos.
+
 o Prueba de van de Kamer (gold standard): Tomar 100g de grasa y recoger las heces durante 3 días. Kamer+ si >6g/grasa/24h.
 
 
@@ -48,7 +45,8 @@ o Prueba normal (hay D-xilosa en orina): Hay malabsorción (insuficiencia pancre
 o Prueba anormal: La mucosa está mal (enteropatía difusa) o hay sobrecrecimiento bacteriano. Para saber la causa hacemos la prueba de D- xilosa 14C o lactosa/H.
 
 
-§ Si hay sobrecrecimiento bacteriano: Hay 14CO2 en el aire espirado § Si hay enteropatía: No hay 14CO2 en el aire espirado
+§ Si hay sobrecrecimiento bacteriano: Hay 14CO2 en el aire espirado 
+§ Si hay enteropatía: No hay 14CO2 en el aire espirado
 
 
 ## 1. ENFERMEDAD CELÍACA, ESPRÚE NO TROPICAL O ENTEROPATÍA SENSIBLE AL GLUTEN
@@ -56,51 +54,37 @@ o Prueba anormal: La mucosa está mal (enteropatía difusa) o hay sobrecrecimien
 
 Es una enfermedad malabsortiva de mecanismo inmunológico que se presenta en individuos genéticamente predispuestos provocada por el gluten que induce una atrofia de la mucosa intestinal y que potencialmente revierte con la retirada del gluten.
 
-
-ntre las causas de la enfermedad celiaca se encuentran:
-
+Entre las causas de la enfermedad celiaca se encuentran:
 
 - Factores ambientales: Por la gliadina y las prolaminas presentes en el gluten (trigo, centeno, cebada, avena. NO en arroz, maíz o la soja).
 - Factores genéticos: Hay un 95% de personas celiacas portadoras del alelo de la clase II HLA-DQ-2 y HLA-DQ8 (agrupación familiar).
-
 
 La enfermedad tiene un origen inmunológico ya que ciertos péptidos de la gliadina se unen a moléculas HLA de la clase II presentes en la superficie de enterocitos “aberrantes” (por aberración genética presentan HLA-DQ2/8). Estas células actúan por tanto como presentadoras de antígenos, reclutado linfocitos T inmunocompetentes, responsables del proceso destructivo epitelial (destrucción de enterocitos). Este proceso destructivo conlleva finalmente la atrofia intestinal.  Además, en el proceso inmunitario, los linfocitos B producen anticuerpos séricos circulante como Ac.antigliadina, Ac.antiendomisio y Ac.antiglutaminasa. Este proceso consiste en un epifenómeno, es decir, son anticuerpos producidos durante la respuesta inmunitaria que NO son los responsables del daño enterocitario, sin embargo si son importantes ya que actúan como marcadores de la enfermedad
 
 
 Anatomía patológica:
 
-
 Se trata de una enfermedad que daña la mucosa intestinal, sobre todo en el duodeno y en el yeyuno proximal. En ella se produce:
-
 
 - Destrucción o reducción en altura de las vellosidades - Hiperplasia de las células de las criptas - Metaplasia de las células vellositarias a cuboides - Infiltración de linfocitos/eosinófilos en la lámina propia, siendo linfocitos intraepiteliales.
 
-
 Fases del espectro lesional de la enfermedad:
-
 
 ![[Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-15-x37-y85.png]]
 
-
 Clasificación Marsh de las lesiones de la mucosa intestinal:
-
 
 ![[Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-15-x371-y82.png]]
 
-
 Clínica: La celiaquía es la enfermedad crónica intestinal más frecuente (1 de cada 80-100 recién nacidos vivos nacen con la predisposición de acabar manifestando la enfermedad). Existen tres formas de presentación de la celiaquía:
 
-
 Clínica:
-
 
 - En niños, al incorporar el gluten a la dieta.
 - Adultos en la 3º y 4º década de la vida.
 - En familiares de celiacos y en pacientes con dermatitis herpetiforme.
 
-
-Clínicamente se caracteriza por
-
+Clínicamente se caracteriza por:
 
 - Manifestaciones digestivas: Malabsorción (origina diarrea por esteatorrea, a lo que se suma déficit de lactasa y malabsorción de ácidos biliares si se afecta el íleon). En otras ocasiones cursa con estreñimiento. Al existir malabsorción, los principios inmediatos no absorbidos sufren la fermentación colónica, originando distensión abdominal, gases y eructos. También, por la malabsorción, tienen pérdida de peso.
 - Manifestaciones extradigestivas secundarias a déficits nutricionales y de vitaminas.
@@ -205,7 +189,7 @@ Se trata de una alteración del ciclo enterohepático tras diversas situaciones 
 Diagnóstico:
 
 
-- Prueba de la colicina14C, no válido en sobrecrecimiento bacteriano.
+- Prueba de la colicina 14C, no válido en sobrecrecimiento bacteriano.
 - Prueba del 75SeHCAT (ácido tauroselcólico)
 
 

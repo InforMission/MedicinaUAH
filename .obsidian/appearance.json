@@ -4,6 +4,6 @@
     "publish"
   ],
   "theme": "obsidian",
-  "textFontFamily": "Times New Roman,Comic Code Ligatures",
+  "textFontFamily": "Comic Code Ligatures,Times New Roman",
   "baseFontSize": 19
 }

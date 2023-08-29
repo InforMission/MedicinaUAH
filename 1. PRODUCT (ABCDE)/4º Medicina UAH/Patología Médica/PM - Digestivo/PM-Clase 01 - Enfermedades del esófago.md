@@ -36,8 +36,12 @@ Viene de : [[fernandezTEMAENFERMEDADESESOFAGO]]
 
 # Contenido
 
+
 ## 1. ==[[ERGE]]==
 
+- - -
+![[ERGE 1|800]]
+- - -
 El reflujo gastroesofágico es **fisiológico**, no obstante, si ese reflujo da lugar a síntomas y/o lesión macroscópica de la mucosa del esófago visible por endoscopia (esofagitis endoscópica), ya entonces es patológico.
 
 Hay 2 tipos de [[ERGE]]:
@@ -48,8 +52,10 @@ Hay 2 tipos de [[ERGE]]:
 
 > SIEMPRE QUE HAY [[ERGE]], HAY LESIÓN MICROSCÓPICA. DE FORMA ADICIONAL PUEDE HABER O NO ADEMÁS LESIÓN MACROSCÓPICA (ESOFAGITIS ENDOSCÓPICA)
 
+- - -
 
 ### Fisiopatología
+
 
 La [[ERGE]] no se produce por exceso de ácido (salvo en los casos de ==gastrinoma==), sino por alteraciones en la ==barrera antirreflujo==. Dicha barrera consta del ==EEI==, el ==ángulo de His== y el esófago intraabdominal. El EEI consta de 2 partes que deben estar ALINEADAS y se contraen en situaciones distintas, pero ambas se relajan con el ==reflejo deglutorio== y transitoriamente por distensión del ==fundus==)
 
@@ -63,7 +69,6 @@ Si esta barrera falla, hay reflujo que pasa al esófago y daña su mucosa, ocasi
 
 
 ![[Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-1-x37-y481.png]]
-
 
 ==Hernia de hiato==: Una parte del estómago asciende por encima del diafragma (desplazándose el EEI, perdiéndose el alineamiento de los esfínteres y la barrera antirreflujo), formando un saco herniario que acumula ácido y pepsina. Al verse alterada la barrera antirreflujo, al inspirar aparece reflujo gastroesofágico. Es una de las causas de pirosis postprandial y nocturna. No tiene por qué haber [[ERGE]] si hay hernia de hiato.
 

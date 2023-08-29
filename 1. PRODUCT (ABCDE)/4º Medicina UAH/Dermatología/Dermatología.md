@@ -10,3 +10,9 @@ fecha: 2023-07-25
 LIST
 WHERE contains(file.folder, this.file.folder)
 ```
+- [ ] Ficha docente
+- [ ] Apuntes VM
+- [ ] Bibliografía
+- [ ] MIR
+- [ ] Exámenes
+- [ ] Diapositivas

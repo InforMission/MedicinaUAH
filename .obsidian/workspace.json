@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bf5a40e6908fa476",
+        "id": "9d635a3905424b1f",
         "type": "tabs",
         "children": [
           {
-            "id": "986020064e502761",
+            "id": "430ba2e0d9133e02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 01 - Enfermedades del esófago.md",
+                "file": "Diario/2023-08-29.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#4",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.51103591918945
+    "width": 356.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "c04f731de5485e96",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 01 - Enfermedades del esófago.md",
+                "file": "Diario/2023-08-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 01 - Enfermedades del esófago.md",
+                "file": "Diario/2023-08-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 01 - Enfermedades del esófago.md"
+                "file": "Diario/2023-08-29.md"
               }
             }
           },
@@ -143,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,35 +161,38 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "986020064e502761",
+  "active": "430ba2e0d9133e02",
   "lastOpenFiles": [
-    "Diario/2023-08-15.md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 01 - Enfermedades del esófago.md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Digestivo.md",
-    "3. PEOPLE (IRA)/Index 0 (IRA).md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/Conceptos",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/Concepto.md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 09. Tumores del páncreas, de la vesícula y de la vía biliar.md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 08. Pancreatitis aguda y crónica.md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 07. Pólipos y cáncer de colon.md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 06. Síndrome del intestino irritable.md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 05 - Enfermedad inflamatoria intestinal.md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 04 - Malabsorción intestinal.md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 03 - Tumores del esófago, estómago e ID.md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 02 - Enfermedades del estómago.md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Seminario 09. Litiasis biliar.md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 16. Enfermedades hepáticas metabólicas.md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Seminario 07. Endoscopia digestiva y otras técnicas diagnósticas.md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Seminario 03 - Diarrea aguda y crónica.md",
-    "2. PLAN (OMLTE)/Index 0 (OMLTE).md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 15. Tumores del hígado.md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 14. Cirrosis hepática.md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 13. Enfermedad hepática por alcohol y síndrome metabólico.md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 12. Enfermedades colestásicas crónicas.md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 11. Hepatotoxicidad.md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo/PM-Clase 10. Hepatitis aguda y crónica.md",
+    "1. PRODUCT (ABCDE)/4º Medicina UAH/Patología Médica/PM - Digestivo/PM-Clase 01 - Enfermedades del esófago.md",
+    "Diario/2023-08-29.md",
+    "Excalidraw/ERGE 1.md",
+    "Excalidraw/ERGE 1.png",
+    "Excalidraw/Drawing 2023-08-29 10.59.57.excalidraw.md",
+    "1. PRODUCT (ABCDE)/4º Medicina UAH/Patología Médica/Patología Médica.md",
+    "1. PRODUCT (ABCDE)/4º Medicina UAH/Patología Médica/PM - Digestivo/PM-Clase 02 - Enfermedades del estómago.md",
+    "1. PRODUCT (ABCDE)/4º Medicina UAH/Patología Médica/PME - Tareas.md",
+    "0. Índices/Index 0.md",
+    "0. Índices/Enfermedades.md",
+    "1. PRODUCT (ABCDE)/3º Medicina UAH/Patología General/Patología general.md",
+    "1. PRODUCT (ABCDE)/4º Medicina UAH/Patología Médica/PM - Digestivo/PM-Clase 03 - Tumores del esófago, estómago e ID.md",
+    "1. PRODUCT (ABCDE)/4º Medicina UAH/Patología Médica/PM - Digestivo/PM-Clase 04 - Malabsorción intestinal.md",
+    "1. PRODUCT (ABCDE)/1º Medicina UAH/Primero.md",
+    "Personal/Libros/Rang y Dale farmacología/5-hidroxitriptamina y farmacología de la migraña - Rang y Dale. Farmacología/5-hidroxitriptamina y farmacología de la migraña - Rang y Dale. Farmacología.md",
+    "Personal/Libros/Rang y Dale farmacología/¿Qué es la farmacología - Rang y Dale. Farmacología/¿Qué es la farmacología - Rang y Dale. Farmacología.md",
+    "Personal/Libros/Haines principios de neurociencia/Base electroquímica de la función nerviosa - Principios de neurociencia/Base electroquímica de la función nerviosa - Principios de neurociencia.md",
+    "1. PRODUCT (ABCDE)/3º Medicina UAH/Farmacología/Farmacología.md",
+    "1. PRODUCT (ABCDE)/3º Medicina UAH/Tercero.md",
+    "1. PRODUCT (ABCDE)/4º Medicina UAH/Patología Médica/PM - Digestivo/PM-Digestivo.md",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/Untitled",
     "4. LOGÍSTICA/Apuntes/PM - Digestivo/Conceptos/Zenker.md",
-    "4. LOGÍSTICA/Apuntes/PM - Digestivo",
+    "1. PRODUCT (ABCDE)/4º Medicina UAH/Anatomía Patológica Especial/Anatomía Patológica Especial.md",
+    "1. PRODUCT (ABCDE)/4º Medicina UAH/Anatomía Patológica Especial/APE - Tareas.md",
+    "1. PRODUCT (ABCDE)/4º Medicina UAH/Cuarto.md",
+    "1. PRODUCT (ABCDE)/Index 0 (ABCDE).md",
+    "1. PRODUCT (ABCDE)/4º Medicina UAH/Obstetricia/OBS - Tareas.md",
+    "Logística/Zotero",
+    "4. LOGÍSTICA/Apuntes/PM - Digestivo/Conceptos",
+    "1. PRODUCT (ABCDE)/4º Medicina UAH/Patología Médica/PM - Digestivo",
     "4. LOGÍSTICA/Bibliografía/Imágenes",
     "Personal/Zotero",
     "Logística",
@@ -200,11 +205,8 @@
     "4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-7-x31-y667.png",
     "4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-66-x154-y139.png",
     "4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-64-x37-y245.png",
-    "4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO/image-63-x36-y365.png",
     "4. LOGÍSTICA/Bibliografía/Imágenes/fernandezTEMAENFERMEDADESESOFAGO",
     "4. LOGÍSTICA/Bibliografía",
-    "4. LOGÍSTICA/Diapositivas",
-    "4. LOGÍSTICA/Apuntes",
-    "Personal/Libros/Sisinio de Castro patología general/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general/Images/Recuerdo anatómico y fisiológico del hígado. Manifestaciones de la patología hepática. Exploración del hígado - Sisinio de Castro. Manual de Patología general - Figura e40-6 - 11.jpg.crdownload"
+    "4. LOGÍSTICA/Diapositivas"
   ]
 }

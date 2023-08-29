@@ -9,14 +9,11 @@ Tags:
 
 # Abstract
 
-
-
 # Keywords
 
 # Contenidos
 
 1. ENFERMEDAD ULCEROSA PÉPTICA (EUP)
-
 
 La erosión se convierte en úlcera cuando el ácido/pepsina gástricos traspasan la lámina propia hasta alcanzar la submucosa. Normalmente, las úlceras suelen estar en el bulbo duodenal (90%), pero también pueden ubicarse en el antro del estómago, esófago y divertículo de Meckel (conducto entre intestino-ombligo).
 Afecta a un 5-10% de la población, siendo cada vez menor la incidencia y hospitalización por úlceras debido al consumo de IBP, menos casos de H.pylori, y uso responsable de AINEs.
@@ -24,13 +21,10 @@ Afecta a un 5-10% de la población, siendo cada vez menor la incidencia y hospit
 
 Clínica:
 
-
 - Dolor abdominal o péptico: Dispepsia (ulcerosa/no ulcerosa) que se manifiesta como malestar o sensación de hambre en el epigastrio, sobre todo por la noche. Menos del 30% de los pacientes con dispepsia presentan úlceras en la endoscopia.
 - Hemorragia sin síntomas previos (20-50%) - Náuseas y pérdida de peso, sobre todo en úlcera gástrica - Los síntomas son recurrentes si persiste el agente causal (H.pylori o AINEs)
 
-
 Complicaciones:
-
 
 Hemorragia (15%, mayor riesgo en >60años), perforación (7%, mayor riesgo en >60años, puede evolucionar a penetración o fístula gastrocólica), obstrucción de salida de estómago (2%, por EUP pilórica, inflamación o fibrosis).
 
@@ -43,24 +37,17 @@ H.pylori, AINEs (AAS a bajas dosis también), otros causas en aumento (20%).
 
 Helicobacter pylori
 
-
 Es un bacilo gram- microaerófilo
-
 
 Transmisión: Persona-personal (oral-oral, fecal-oral). Afecta más a la gente pobre de países poco desarrollados (la raza no influye) menor de 20 años.
 
-
 Localización (zonas con poco ácido): Capa profunda del moco del estómago, entre el moco-epitelio, antro.
-
 
 Virulencia: Posee ureasa (transformar el ácido en amonio y así alcalinizar el estómago), y hay cepas que producen citotoxinas virulentas (vacA, cag- PAI). Si hay úlcera grave e infección por H.pylori cag-PAI+, hay un gran riesgo de adenocarcinoma gástrico.
 
-
 Lesión: SIEMPRE CAUSA INFLAMACIÓN (GASTRITIS CRÓNICA ACTIVA), pero no todas las gastritis están causadas por H.pylori. Solo un 15% de esas gastritis evolucionan a una úlcera péptica.
 
-
 Otras lesiones: Linfoma gástrico MALT, cáncer, úlcera y gastritis.
-
 
 ¿Por qué en unos pacientes se forman úlceras, y otras personas tienen la infección sin lesiones? Por factores de la bacteria (cepa y grado de virulencia) y factores del huésped (polimorfismos en la producción de IL-1b. Si ↑IL-1b, ↓producción de ácido y hay hipoclorhidria, propagándose la infección de H.pylori por el cuerpo esofágico, favoreciendo así la úlcera gástrica y cáncer gástrico).
 

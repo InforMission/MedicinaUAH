@@ -1,4 +1,0 @@
----
-alias: Esfínger esofágico interno
----
-
